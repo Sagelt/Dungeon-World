@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<ClassName>Fighter</ClassName>
+<Body><div id="intro"><p aid:pstyle="NoIndent">It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.</p>
+<p>Forget them.</p>
+<p>You do this for the guts and the glory. The scream of battle and the hot hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, Fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
+<p>You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.</p></div>
+<h2>Names</h2>
+<div id="names"><p><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p>  
+<p><em>Elf</em>: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian</p>    
+<p><em>Halfling</em>: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca</p> 
+<p><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
+<h2>Look</h2>
+<div id="Look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Hard, Dead, or Eager Eyes</p>
+<p aid:pstyle="NoIndent">Wild, Shorn, or Battered Helm</p>
+<p aid:pstyle="NoIndent">Calloused, Tanned, or Scarred Skin</p>
+<p aid:pstyle="NoIndent">Built, Body, or Ravaged Body</p></div>
+<h2>Stats</h2>
+<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
+<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
+<p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p></div>
+<p>Your base damage is <span id="Damage">d10</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
+<p aid:pstyle="NoIndent">When you share a drink with someone, you may Parley with them with Con instead of Cha.</p>
+<h3 aid:pstyle="MoveName">Elf</h3>
+<p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the Precise tag.</p>
+<h3 aid:pstyle="MoveName">Halfling</h3>
+<p aid:pstyle="NoIndent">When you Defy Danger from someone larger than you, take +1.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">When using a Close range weapon you are also able to attack at Hand range.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates (Str)</h3>
+<p aid:pstyle="NoIndent">When you use pure strength to destroy an inanimate obstacle, roll+Str. On a 10+, choose 3. On a 7-9, choose 2.</p>
+<ul><li>It doesn’t take a very long time</li>
+<li>Nothing of value is damaged</li>
+<li>It doesn’t make an inordinate amount of noise</li>
+<li>You can fix the thing again without a lot of effort</li></ul>
+<h3 aid:pstyle="BasicMoveName">Armored</h3>
+<p aid:pstyle="NoIndent">You ignore the Clumsy tag on armor you wear.</p>
+<h3 aid:pstyle="BasicMoveName">Signature Weapon</h3>
+<p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
+<p>Choose a base description, all are 2 weight:</p>
+<ul><li aid:pstyle="Option">Sword</li>
+<li aid:pstyle="Option">Axe</li>
+<li aid:pstyle="Option">Hammer</li>
+<li aid:pstyle="Option">Spear</li>
+<li aid:pstyle="Option">Flail</li>
+<li aid:pstyle="Option">Fists</li></ul>
+<p aid:pstyle="NoIndent">Choose the range that best fits your weapon:</p>
+<ul><li aid:pstyle="Option">Hand</li>
+<li aid:pstyle="Option">Close</li>
+<li aid:pstyle="Option">Reach</li></ul>
+<p aid:pstyle="NoIndent">Choose two enhancements:</p>
+<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 weight.</li>
+<li aid:pstyle="Option">Sharp. +2 piercing.</li>
+<li aid:pstyle="Option">Perfectly weighted. +precise.</li>
+<li aid:pstyle="Option">Serrated edges. +1 damage.</li>
+<li aid:pstyle="Option">Glows in the presence of one type of creature, your choice.</li>
+<li aid:pstyle="Option">Huge. +messy, +forceful.</li>
+<li aid:pstyle="Option">Versatile. Choose another range.</li>
+<li aid:pstyle="Option">Well crafted. -1 weight.</li></ul>
+<p aid:pstyle="NoIndent">Choose a look:</p>
+<ul><li aid:pstyle="Option">Ancient</li>
+<li aid:pstyle="Option">Unblemished</li>
+<li aid:pstyle="Option">Ornate</li>
+<li aid:pstyle="Option">Blood-stained</li>
+<li aid:pstyle="Option">Sinister</li></ul></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Defend those weaker than you</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Defeat a worthy opponent</p>
+<h3 aid:pstyle="MoveName">Evil</h3>
+<p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 7+Str. In addition to your Signature Weapon you start with one from each list:</p>
+<ul><li>Chainmail (1 armor, 1 weight) and Adventuring gear (1 weight) <em>or</em> Scale armor (2 armor, 3 weight)</li>
+<li>2 Healing potions (2 weight) <em>or</em> a shield (+1 armor, 2 weight)</li>
+<li>Antitoxin, dungeon rations (1 weight), and poultices and herbs (1 weight) <em>or</em> 22 Gold</li>
+<li>Dungeon rations (1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ owes me their life, whether they admit it or not.</p>
+<p>I have sworn to protect _______________.</p>
+<p>I worry about  the ability of _______________ to survive in the dungeon.</p>
+<p>_______________ is soft, but I will make them hard like me.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Merciless</h3>
+<p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Heirloom</h3>
+<p aid:pstyle="NoIndent">When you consult the spirits of that reside within your signature weapon, roll+Cha. The spirits will give you an insight relating to the current situation, and might ask you some questions in return. On a 10+, the GM will give you good detail. On a 7-9, the GM will give you an impression.</p>
+<h3 aid:pstyle="MoveName">Armor Mastery</h3>
+<p aid:pstyle="NoIndent">When you take damage you can choose to let your armor take the brunt of it. The damage is negated but your armor or shield (your choice) is -1 armor until you get it repaired at a smithy or workshop.</p>
+<h3 aid:pstyle="MoveName">Improved Weapon</h3>
+<p aid:pstyle="NoIndent">Choose one extra enhancement for your signature weapon.</p>
+<h3 aid:pstyle="MoveName">Seeing Red</h3>
+<p aid:pstyle="NoIndent">When you Discern Realities during combat, you take +1.</p>
+<h3 aid:pstyle="MoveName">Interrogator</h3>
+<p aid:pstyle="NoIndent">When you Parley using threats of impending violence as leverage you may use Str instead of Cha.</p>
+<h3 aid:pstyle="MoveName">Scent of Blood</h3>
+<p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d4 damage forward against that enemy.</p>
+<h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
+<p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast A Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
+<h3 aid:pstyle="MoveName">Iron Hide</h3>
+<p aid:pstyle="NoIndent">You gain +1 armor.</p>
+<h3 aid:pstyle="MoveName">Blacksmith</h3>
+<p aid:pstyle="NoIndent">When you have access to a forge you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Bloodthirsty</h3>
+<p aid:pstyle="Requirement">Replaces: Merciless</p>
+<p aid:pstyle="NoIndent">When you deal damage, deal +1d8 damage.</p>
+<h3 aid:pstyle="MoveName">Armored Perfection</h3>
+<p aid:pstyle="Requirement">Replaces: Armor Mastery</p>
+<p aid:pstyle="NoIndent">When you take damage you can choose to let your armor take the brunt of it. The damage is negated and you take +1 forward against the attacker but your armor or shield (your choice) is -1 armor until you get it repaired at a smithy or workshop.</p>
+<h3 aid:pstyle="MoveName">Evil Eye</h3>
+<p aid:pstyle="Requirement">Requires: Seeing Red</p>
+<p aid:pstyle="NoIndent">When you go into a dangerous situation, roll+Cha. On a 10+, hold 2. On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. On a miss, your enemies immediately identify you as their biggest threat.</p>
+<h3 aid:pstyle="MoveName">Taste of Blood</h3>
+<p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
+<p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d8 damage forward against that enemy.</p>
+<h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
+<p aid:pstyle="Requirement">Required: Multiclass Dabbler</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Steel Hide</h3>
+<p aid:pstyle="Requirement">Replaces: Iron Hide</p>
+<p aid:pstyle="NoIndent">You gain +2 armor.</p>
+<h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
+<p aid:pstyle="NoIndent">When you go into battle, roll+Wis. On a 10+, name someone who will live and someone who will die. On a 7-9, name someone who will live or someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
+<h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
+<p aid:pstyle="NoIndent">When you look over an enemy's weaponry, ask the GM how much damage they do.</p>
+<h3 aid:pstyle="MoveName">Superior Warrior</h3>
+<p aid:pstyle="NoIndent">When you Hack and Slash on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.</p></div></Body></Root>

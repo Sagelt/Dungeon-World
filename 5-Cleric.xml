@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Cleric</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">The lands of Dungeon World are a gods-forsaken mess. They’re lousy with the walking dead, beasts of all sorts, and the vast unnatural spaces between safe and temple-blessed civilizations. It is a godless world out there. That’s why it needs you.</p>
+<p>Bringing the glory of your god to the heathens isn’t just in your nature—it’s your calling. It falls to you to proselytize with sword and mace and spell. To cleave deep into the witless heart of the wilds and plant the seed of divinity there. Some say that it is best to keep god close to your heart. You know that’s rubbish. God lives at the edge of a blade.
+Show the world who is lord.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Dwarf</em>: Durga, Aelfar, Gerda, Rurgosh, Bjorn, Drummond, Helga, Siggrun, Freya</p>
+<p aid:pstyle="NoIndent"><em>Human</em>: Wesley, Brinton, Jon, Sara, Hawthorn, Elise, Clarke, Lenore, Piotr, Dahlia, Carmine</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Kind, Sharp, or Sad Eyes</p>
+<p aid:pstyle="NoIndent">Tonsure, Strange Hair, or Bald</p>
+<p aid:pstyle="NoIndent">Flowing Robes, Habit, or Common Garb</p>
+<p aid:pstyle="NoIndent">Thin, Knobby, or Flabby Body</p></div>
+<h2>Stats</h2>
+<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
+<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
+<p aid:pstyle="NoIndent">You start with 8+Constitution HP.</p></div>
+<p>Your base damage is <span id="Damage">d6</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
+<p aid:pstyle="NoIndent">You are one with stone. When you Commune you are also granted a special version of Words of the Unspeaking which only works on stone as a Rote.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">Your faith is diverse. Choose one Wizard spell. You can cast and be granted that spell as if it was a Cleric spell.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<div id="Deity"><h3 aid:pstyle="BasicMoveName">Deity</h3>
+<p aid:pstyle="NoIndent">You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, or Zorica) and choose your deity’s domain:</p>
+<ul><li aid:pstyle="Option">Healing and Restoration</li>
+<li aid:pstyle="Option">Bloody Conquest</li>
+<li aid:pstyle="Option">Civilization</li>
+<li aid:pstyle="Option">Knowledge and Hidden Things</li>
+<li aid:pstyle="Option">The Downtrodden and Forgotten</li>
+<li aid:pstyle="Option">What Lies Beneath</li></ul>
+<p aid:pstyle="NoIndent">Choose two precepts of your religion:</p>
+<ul><li aid:pstyle="Option">Your religion preaches the sanctity of suffering, add Petition: Suffering</li>
+<li aid:pstyle="Option">Your religion is cultish and insular, add Petition: Gaining Secrets</li>
+<li aid:pstyle="Option">Your religion has important sacrificial rights, add Petition: Offering</li>
+<li aid:pstyle="Option">Your religion believes in trial by combat, add Petition: Personal Victory</li></ul></div>
+<div id="DivineGuidance"><h3 aid:pstyle="BasicMoveName">Divine Guidance</h3>
+<p aid:pstyle="NoIndent">When you fulfill one of your religion’s petitions your deity grants you some useful knowledge or boon related to their domain. The GM will tell you what.</p></div>
+<div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
+<p aid:pstyle="NoIndent">When you hold you holy symbol aloft and pray aloud for protection, roll+Wis. On a hit so long as you continue to pray and brandish your holy symbol no undead may come within reach of you. On a 10+ intelligent undead are momentarily dazed by the radiance of your god and mindless undead flee. If you move aggressively towards an undead creature while Turning them it break the effects and they are able to act as normal. Intelligent undead, vampires and so on, may still find ways to harry you from afar. They're clever like that.</p></div>
+<div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
+<p aid:pstyle="NoIndent">When you spend uninterrupted time (an hour or so) in quiet communion with your deity, you lose any spells already granted to you and are granted new spells of your choice whose total levels don't exceed your own+1. You also prepare your rotes; they don't count against your limit. You cannot be granted spells with tags such as Death or Damaging unless you have a move which allows it. You can't prepare spells that are higher level than you.</p></div>
+<div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast A Spell</h3>
+<p aid:pstyle="NoIndent">When you unleash a spell granted to you by your deity, roll+Wis. On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. On a 7-9, the spell is cast, but choose one:</p>
+<ul><li>You draw unwelcome attention or put yourself in a spot (the GM will describe it).</li>
+<li>Your casting distances you from your deity—take -1 ongoing to Cast a Spell until you Commune.</li>
+<li>After you cast it, the spell is revoked by your deity. You cannot cast the spell again until you Commune and have it granted to you.</li></ul></div></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Endanger yourself to heal another</p>
+<h3 aid:pstyle="MoveName">Lawful</h3>
+<p aid:pstyle="NoIndent">Endanger yourself following the precepts of your church or god</p>
+<h3 aid:pstyle="MoveName">Evil</h3>
+<p aid:pstyle="NoIndent">Harm another to prove the superiority of your church or god</p></div>
+<h2>Gear</h2>
+<div id="gear"><p>Your Load is 7+Str. You carry some symbol of the divine, describe it (Weight 0). In addition you start with one item from each list:</p>
+<ul><li>Chainmail (1 armor, 1 weight) <em>or</em> a shield (+1 armor, 2 weight)</li>
+<li>Warhammer (Close, 1 weight) <em>or</em> mace (Close, 1 weight) <em>or</em> staff (Close, Two-handed, 1 weight) and bandages</li>
+<li>Adventuring gear (1 weight) and dungeon rations (1 weight) <em>or</em> healing potion (1 weight)</li>
+<li>Dungeon rations (1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ has insulted my deity; I do not trust them.</p>
+<p>_______________ is a good and faithful person; I trust them implicitly.</p>
+<p>I worry about the ability of _______________ to survive.</p>
+<p>I am working on converting _______________ to my faith.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Chosen One</h3>
+<p aid:pstyle="NoIndent">Choose one spell. You are granted that spell as if it was one level lower.</p>
+<h3 aid:pstyle="MoveName">Inquisitor</h3>
+<p aid:pstyle="NoIndent">Your deity gives you domain over pain and suffering. You can cast spells with the Damaging tag.</p>
+<h3 aid:pstyle="MoveName">The Scales of Life and Death</h3>
+<p aid:pstyle="NoIndent">Your deity gives you domain over the dead and undead. You can cast spells with the Death tag.</p>
+<h3 aid:pstyle="MoveName">Serenity</h3>
+<p aid:pstyle="NoIndent">You are able to divide your power effectively. When you cast a spell you ignore the first -1 penalty from ongoing spells.</p>
+<h3 aid:pstyle="MoveName">First Aid</h3>
+<p aid:pstyle="NoIndent">Cure Light Wounds does not count against your limit of granted spells.</p>
+<h3 aid:pstyle="MoveName">Divine Intervention</h3>
+<p aid:pstyle="NoIndent">When you Commune you get 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene in an appropriate idiom (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.</p>
+<h3 aid:pstyle="MoveName">Penitent</h3>
+<p aid:pstyle="NoIndent">When you take damage and embrace the pain, you may take +your level damage. If you do, take +1 forward to Cast a Spell.</p>
+<h3 aid:pstyle="MoveName">Empower</h3>
+<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well:</p>
+<ul><li>The spell’s effects are doubled</li>
+<li>The spell’s targets are doubled</li></ul>
+<h3 aid:pstyle="MoveName">Orison for Guidance</h3>
+<p aid:pstyle="NoIndent">When you sacrifice something of value to your deity and pray for guidance your deity tells you what it would have you do. If you do it, mark experience.</p>
+<h3 aid:pstyle="MoveName">Divine Protection</h3>
+<p aid:pstyle="NoIndent">When you wear no armor or shield you get 2 armor.</p>
+<h3 aid:pstyle="MoveName">Devoted Healer</h3>
+<p aid:pstyle="NoIndent">When you heal someone else of damage, heal +twice your level damage.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Anointed</h3>
+<p aid:pstyle="Requirement">Requires: Chosen One</p>
+<p aid:pstyle="NoIndent">Choose one spell. You are granted that spell as if it was one level lower.</p>
+<h3 aid:pstyle="MoveName">Vicious</h3>
+<p aid:pstyle="Requirement">Requires: Inquisitor</p>
+<p aid:pstyle="NoIndent">When you do damage with a spell, you deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Reaper</h3>
+<p aid:pstyle="Requirement">Requires: The Scales of Life and Death</p>
+<p aid:pstyle="NoIndent">When you take time after a conflict to dedicate your victory to your deity and deal with the dead, take +1 forward.</p>
+<h3 aid:pstyle="MoveName">Providence</h3>
+<p aid:pstyle="Requirement">Replaces: Serenity</p>
+<p aid:pstyle="NoIndent">You ignore the -1 penalty from two spells you maintain.</p>
+<h3 aid:pstyle="MoveName">Greater First Aid</h3>
+<p aid:pstyle="Requirement">Requires: First Aid</p>
+<p aid:pstyle="NoIndent">Cure Moderate Wounds does not count against your limit of granted spells.</p>
+<h3 aid:pstyle="MoveName">Divine Invincibility</h3>
+<p aid:pstyle="Requirement">Replaces: Divine Intervention</p>
+<p aid:pstyle="NoIndent">When you Commune you get 4 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene in an appropriate idiom (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.</p>
+<h3 aid:pstyle="MoveName">Martyr</h3>
+<p aid:pstyle="Requirement">Replaces: Penitent</p>
+<p aid:pstyle="NoIndent">When you take damage and embrace the pain, you may take +your level damage. If you do, take +1 forward to Cast a Spell and add your level to any damage done or healed by the spell.</p>
+<h3 aid:pstyle="MoveName">Divine Armor</h3>
+<p aid:pstyle="Requirement">Replaces: Divine Protection</p>
+<p aid:pstyle="NoIndent">When you wear no armor or shield you get 3 armor.</p>
+<h3 aid:pstyle="MoveName">Greater Empower</h3>
+<p aid:pstyle="Requirement">Replaces: Empower</p>
+<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
+<ul><li>The spell’s effects are doubled</li>
+<li>The spell’s targets are doubled</li></ul>
+<h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p></div></Body></Root>

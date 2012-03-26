@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cavern Dwellers</h1>
+<Body><p aid:pstyle="MonsterName">Bakunawa	<span aid:cstyle="Tags">Solitary, Large, Intelligent, Messy, Forceful</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10+3 damage 1 piercing)	16 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
+<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is drawn in by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. <em>Instinct</em>: To devour</p>
+<ul><li>Lure prey with lies and illusions</li>
+<li>Lash out at light</li>
+<li>Devour</li></ul>
+<p aid:pstyle="MonsterName">Basilisk	<span aid:cstyle="Tags">Solitary, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10 damage)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterDescription">Few have seen a basilisk and lived to tell the tale. Get it? Seen a basilisk? Little bit of basilisk humor there. Sorry, I know you’re looking for something helpful, sirs. Serious stuff, I understand. The basilisk, even without its ability to turn your flesh to stone with a gaze, is a dangerous creature. A bit like a frog, bulbous eyes and six eaping-muscle legs. A bit like an alligator, with snapping jaws and sawing teeth. Covered in stoney scales and very hard to kill. Best avoided, if possible. <em>Instinct</em>: To collect stone</p>
+<ul><li>Turn flesh to stone with a gaze</li>
+<li>Retreat into a maze of stone</li></ul>
+<p aid:pstyle="MonsterName">Black Pudding	<span aid:cstyle="Tags">Solitary, Gibbous</span></p>
+<p aid:pstyle="MonsterStats">Corrode (d10 damage ignores armor)	15 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amorphous</p>
+<p aid:pstyle="MonsterDescription">How do you kill a pile of goo? A great squishy, pile of goo that happens also to want to dissolve you and slurp you up? That is a good question to which I have no answer. Do let us know when you find out. <em>Instinct</em>: To dissolve</p>
+<ul><li>Eat away metal, flesh, or wood</li>
+<li>Ooze into a troubling place: food, armor, stomach</li></ul>
+<p aid:pstyle="MonsterName">Coutal	<span aid:cstyle="Tags">Solitary, Intelligent Devious</span></p>
+<p aid:pstyle="MonsterStats">Light ray (d8 damage ignores armor)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Halo</p>
+<p aid:pstyle="MonsterDescription">As if in direct affront to the decay and filth of the world, the gods granted us the Coutal. As if to say “there is beauty, even in this grim place” have we been gifted the Coutal. A serpent in flight on jeweled wings, these beautiful creatures glow with a soft light, as the sun does through stained glass. Bright, wise and calm, a Coutal often knows many things and sees many more. You might be able to make a trade with it in exchange for some favor. They seek to cleanse and to purge and to make of this dark world a better one. Shame we have so few. The gods are cruel. <em>Instinct</em>: To cleanse</p>
+<ul><li>Pass judgement on a person or place</li>
+<li>Summon divine forces to cleanse</li>
+<li>Offer information in exchange for service</li></ul>
+<p aid:pstyle="MonsterName">Crocodillian	<span aid:cstyle="Tags">Group, Large</span></p>
+<p aid:pstyle="MonsterStats">Bite (d8+3 damage)	10 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious, Camouflage</p>
+<p aid:pstyle="MonsterDescription">It’s a really, really big crocodile. Seriously. So big.  <em>Instinct</em>: To eat</p>
+<ul><li>Attack an unsuspecting victim</li>
+<li>Escape into the water</li>
+<li>Hold something tight in its jaws</li></ul>
+<p aid:pstyle="MonsterName">Doppelganger	<span aid:cstyle="Tags">Solitary, Devious, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Dagger (d6 damage)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shapeshifting</p>
+<p aid:pstyle="MonsterDescription">Their natural form, if you ever see it, is a hideous thing. Like a creature who stopped growing part-way, before it decided it was elf or man or dwarf. Then again, maybe that’s how you get to be the way a doppleganger is—without form, without shape to call their own, they seek little more than a place to fit in. If you go out into the world, when you come back home, make sure your friends are who you think they are. They might, instead, be a doppleganger and your friend might be dead at the bottom of a well somewhere. Then again, depending on your friends, that might be an improvement. <em>Instinct</em>: To infiltrate</p>
+<ul><li>Assume the shape of a person who's flesh it's tasted</li>
+<li>Use another's identity to advantage</li>
+<li>Leave someone's reputation shattered</li></ul>
+<p aid:pstyle="MonsterName">Dragon Turtle	<span aid:cstyle="Tags">Solitary, Huge, Cautious</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10+3 damage)	20 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shell, Amphibious</p>
+<p aid:pstyle="MonsterDescription">Bakunawa has a brother. Where she is quick to anger and hungry for gold, he is slow and sturdy. She is a knife and he is a shield. A great turtle that lies in the muck and mire for ages as they pass, mud piled upon his back—sometimes trees and shrubs. Sometimes a whole misguided clan of goblins will build their huts and cook their ratty meals on the shell of the dragon turtle. His snapping jaws, glacier-slow they may be, can rend a castle wall. Careful where you tread. <em>Instinct</em>: To resist change</p>
+<ul><li>Move forward implacably</li>
+<li>Bring its full bulk to bear</li>
+<li>Destroy structures and buildings</li></ul>
+<p aid:pstyle="MonsterName">Dragon Whelp	<span aid:cstyle="Tags">Solitary, Small, Intelligent, Cautious, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Elemental breath (d10+2 damage)	16 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Elemental Blood</p>
+<p aid:pstyle="MonsterDescription">What? Did you think they were all a mile long? Did you think they didn’t come smaller than that? Sure, they may be no bigger than a dog and no smarter than an ape, but a Dragon Whelp can still belch up a hellish ball of fire that’ll melt your armor shut and drop you screaming into the mud. Their scales, too, are softer than their bigger kin but still turn aside an arrow or sword not perfectly aimed. Size is not the only measure of might. <em>Instinct</em>: To grow in power</p>
+<ul><li>Start a lair, form a base of power</li>
+<li>Call on family ties</li>
+<li>Demand oaths of servitude</li></ul>
+<p aid:pstyle="MonsterName">Ekek	<span aid:cstyle="Tags">Horde</span></p>
+<p aid:pstyle="MonsterStats">Talons (d6 damage)	3 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wing-arms</p>
+<p aid:pstyle="MonsterDescription">Ugly, wrinkled bird-folk, these. Once, maybe, in some ancient past, they were a race of angelic men from on high but now they eat rats they fish from the murk with talon-feet and devour with needle-teeth. They understand the tongues of men and dwarves but speak in little more than gibbering tongues, mimicking the words they hear with mocking laughter. It’s a chilling thing to see a beast so close to man or bird but not quite either one. <em>Instinct</em>: To lash out</p>
+<ul><li>Attack from the air</li>
+<li>Carry out the bidding of a more powerful creature</li></ul>
+<p aid:pstyle="MonsterName">Fire Eels	<span aid:cstyle="Tags">Horde, Tiny</span></p>
+<p aid:pstyle="MonsterStats">Burning touch (d6-2 damage ignores armor)	3 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Flammable oil, aquatic</p>
+<p aid:pstyle="MonsterDescription">These strange creatures are no bigger or smarter then their mundane kin. They have the same vicious nature. Over their relations they have one advantage—an oily secretion that drips from their skin. It makes them hard to catch. On top of that, with a twist of their body they ignite the stuff, leaving pools of burning oil atop the surface of the water and roasting prey and predator alike. I hear the slimy things make good ingredients for fire-resistant gear, but you have to get your hands on one, first. <em>Instinct</em>: To ignite</p>
+<ul><li>Catch someone or something on fire (even underwater)</li>
+<li>Consume burning prey</li></ul>
+<p aid:pstyle="MonsterName">Frogman	<span aid:cstyle="Tags">Horde, Small, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Spear (d6 damage)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
+<p aid:pstyle="MonsterDescription">Croak croak croak. Little warty munchkins. Some wizard or godling’s idea of a bad joke, these creatures are. They stand as men, dress in scavenged cloth and hold court in their froggy villages. They speak a rumbling pidgin form of the tongue of man and war constantly with their neighbors. They’re greedy and stupid but clever enough when they need to defend themselves. Some say, too, their priests have a remarkable skill at healing. Or maybe they’re just really, really hard to kill. <em>Instinct</em>: To war</p>
+<ul><li>Launch an amphibious assault</li>
+<li>Heal at a prodigious rate</li></ul>
+<p aid:pstyle="MonsterName">Hydra	<span aid:cstyle="Tags">Solitary, Large</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10+3 damage)	16 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Many heads, Only killed by a blow to the heart</p>
+<p aid:pstyle="MonsterDescription">A bit like a dragon, wingless though it may be. Heads, nine in number at birth, spring from a muscled trunk and weave a sinuous pattern in the air. A hydra is to be feared—a scaled terror of the marsh. The older ones, though, they have more heads for every failed attempt to murder it just makes it stronger. Cut off a head and two more grow in its place. Only a strike, true and strong, to the heart can end a Hydra’s life. Not time or tide or any other thing but this. <em>Instinct</em>: To grow</p>
+<ul><li>Attack many enemies at once</li>
+<li>Regenerate a body part (especially a head)</li></ul>
+<p aid:pstyle="MonsterName">Kobold	<span aid:cstyle="Tags">Horde, Small, Stealthy, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterStats">Short spear (d6 damage)	3 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Dragon connection</p>
+<p aid:pstyle="MonsterDescription">Some are wont to lump these ratlike little dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The Kobolds, beholden slaves to dragons and—in ancient times—their lorekeepers and sorceror-servants. Their clans, named in fashion like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a Kobold means more are near—if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
+<ul><li>Lay a trap</li>
+<li>Call on dragons or draconic allies</li>
+<li>Retreat and regroup</li></ul>
+<p aid:pstyle="MonsterName">Lizardman	<span aid:cstyle="Tags">Group, Stealthy, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterStats">Spear (d8 damage)	6 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
+<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that Lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshipped their own scaly gods. Maybe that’s true and maybe it ain’t—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
+<ul><li>Ambush the unsuspecting</li>
+<li>Launch an amphibious assault</li></ul>
+<p aid:pstyle="MonsterName">Medusa	<span aid:cstyle="Tags">Solitary, Devious, Intelligent, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Claws (d6 damage)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Look turns you to stone</p>
+<p aid:pstyle="MonsterDescription">The Medusa are children of a serpent-haired mother, birthing them in ancient times to bear her name across the ages. They dwell near places of civilization—luring folks to their caves with promises of beauty untold or riches. Fine appreciators of art, the medusa curate strange collections of their victims, terror or ecstasy frozen forever in stone. It satisfies their vanity to know they were the last thing seen in so many lives. Arrogant, proud, and spiteful, in their way, they seek what so many do—endless company. <em>Instinct</em>: To collect</p>
+<ul><li>Turn a body part to stone with a look</li>
+<li>Draw someone's gaze</li>
+<li>Show hidden terrible beauty</li></ul>
+<p aid:pstyle="MonsterName">Sahuagin	<span aid:cstyle="Tags">Horde, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Endless teeth (d6+4 damage 1 piercing)	3 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
+<p aid:pstyle="MonsterDescription">The shape and craft of men wedded to the hunger and the endless teeth of a shark. Voracious and filled only with hate, these creatures will not stop until all life has been consumed. They cannot be reasoned with, they cannot be controlled or sated. They are hunger and bloodlust, driven up from the depths of the sea to ravage coastal towns and swallow island villages. <em>Instinct</em>: To spill blood</p>
+<ul><li>Turn a body part to stone with a look</li>
+<li>Draw someone's gaze</li>
+<li>Show hidden terrible beauty</li></ul>
+<p aid:pstyle="MonsterName">Sauropod	<span aid:cstyle="Tags">Group, Huge, Cautious</span></p>
+<p aid:pstyle="MonsterStats">Trample (d8+5 damage)	18 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Armor plated body</p>
+<p aid:pstyle="MonsterDescription">Great lumbering beasts, they live in places long since forgotten by the thinking races of the world. Gentle if unprovoked but mighty if their ire is raised, they trample smaller creatures with the care we might give to crushing an any beneath our boots. If you see one, drift by and gaze in awe, but do not wake the giant. <em>Instinct</em>: To endure</p>
+<ul><li>Stampede</li>
+<li>Panic</li></ul>
+<p aid:pstyle="MonsterName">Swamp Shambler	<span aid:cstyle="Tags">Solitary, Large, Magical</span></p>
+<p aid:pstyle="MonsterStats">Lash (d10+3 damage)	23 HP	5 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Swamp form</p>
+<p aid:pstyle="MonsterDescription">Some elementals are conjured up in sacred circles etched in chalk. Most, in fact. There’s a sort of science to it. Others, though, aren’t so orderly—they don’t fall under the carefully controlled assignments of fire or air or earth. Some are a natural confluence of vine and mire and fungus. They do not think the way a man might think. They cannot be understood as an elf might be. They simply are. Spirits of the swamp. Shamblers in the mud. <em>Instinct</em>: To preserve and create swamps</p>
+<ul><li>Call on the swamp itself for aid</li>
+<li>Meld into the swamp</li>
+<li>Reassemble into a new form</li></ul>
+<p aid:pstyle="MonsterName">Troll	<span aid:cstyle="Tags">Solitary, Large</span></p>
+<p aid:pstyle="MonsterStats">Club (d10+3 damage)	20 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Regeneration</p>
+<p aid:pstyle="MonsterDescription">Tall. Real tall. Eight or nine feet when they’re young or weak. Covered all over in warty, tough skin, too. Big teeth, stringy hair like swamp moss and long, dirty nails. Some are green, some grey, some black. They’re clannish and hateful of each other, not to mention all the rest of us. Near impossible to kill, too, unless you’ve fire or acid to spare—cut a limb off and watch. In a few days, you’ve got two trolls where you once had one. A real serious problem, as you can imagine. <em>Instinct</em>: To smash</p>
+<ul><li>Undo the effects of an attack (unless caused by a weakness, your call)</li>
+<li>Hurl something or someone</li></ul>
+<p aid:pstyle="MonsterName">Wll-o-wisp	<span aid:cstyle="Tags">Solitary, Large</span></p>
+<p aid:pstyle="MonsterStats">Club (d10+3 damage)	20 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Body of light</p>
+<p aid:pstyle="MonsterDescription">Spot a lantern floating in the darkness, lost traveller in the swamp. Hope—a beacon of shimmering light. You call out to it, but there’s no answer. It begins to fade and so you follow, sloshing through the muck, tiring at the chase, hoping you’re being led to safety. Such a sad tale that always ends in doom. These creatures are a mystery—some say they’re ghosts, others beacons of faerie light. Nobody knows the truth. They are cruel, however. All can agree on that. <em>Instinct</em>: To misguide</p>
+<ul><li>Lead someone astray</li>
+<li>Clear a path to the worst place possible</li></ul>
+</Body></Root>

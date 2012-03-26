@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>Basic Moves</h1>
+<Story><h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
+<p aid:pstyle="NoIndent">When you <strong>attack an enemy in melee</strong>, roll+Str. On a 10+ you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
+<h2 aid:pstyle="BasicMoveName">Volley</h2>
+<p aid:pstyle="NoIndent">When you <strong>take aim and shoot at an enemy at range</strong>, roll+Dex. On a 10+ you have a clear shot—deal your damage. On a 7–9, choose one (whichever you choose you deal your damage):</p>
+<ul><li>You have to move to get the shot placing you in danger of the GM's choice</li>
+<li>You have to take what you can get: -1d6 damage</li>
+<li>You have to take several shots, reducing your ammo by one.</li></ul>
+<h2 aid:pstyle="BasicMoveName">Defy Danger</h2>
+<p aid:pstyle="NoIndent">When you <strong>act despite an imminent threat</strong> or <strong>suffer a calamity</strong>, say how you deal with it and roll. If you do it…</p>
+<ul><li>…by powering through, +Str</li>
+<li>…by getting out of the way or acting fast, +Dex</li>
+<li>…by enduring, +Con</li>
+<li>…with quick thinking, +Int</li>
+<li>…through mental fortitude, +Wis</li>
+<li>…using charm and social grace, +Cha</li></ul>
+<p aid:pstyle="NoIndent">On a 10+, you do what you set out to, the threat doesn't come to bare. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.</p>
+<h2 aid:pstyle="BasicMoveName">Defend</h2>
+<p aid:pstyle="NoIndent">When you <strong>stand in defense of a person, item, or location</strong> under attack, roll+Con. On a 10+, Hold 3. On a 7–9, Hold 1. So long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:</p>
+<ul><li>Redirect an attack from the thing you defend to yourself</li> 
+<li>Halve the attack's effect or damage</li>
+<li>Open up the attacker to an ally giving that ally +1 forward against the attacker</li>
+<li>Deal damage to the attacker equal to your level</li></ul>
+<h2 aid:pstyle="BasicMoveName">Spout Lore</h2>
+<p aid:pstyle="NoIndent">When you <strong>consult your accumulated knowledge about something</strong>, roll+Int. On a 10+ the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7–9 the GM will only tell you something interesting—it's on you to make it useful. The GM might ask you "How do you know this?" Tell them the truth, now.</p>
+<h2 aid:pstyle="BasicMoveName">Discern Realities</h2>
+<p aid:pstyle="NoIndent">When you <strong>closely study a situation or person</strong>, roll+Wis. On a 10+ ask the GM 3 questions from the list below. On a 7–9 ask 1. Take +1 forward when acting on the answers.</p>
+<ul><li>What happened here recently?</li>
+<li>What is about to happen?</li>
+<li>What should I be on the lookout for?</li>
+<li>What here is useful or valuable to me?</li>
+<li>Who’s really in control here?</li>
+<li>What here is not what it appears to be?</li></ul>
+<h2 aid:pstyle="BasicMoveName">Parley</h2>
+<p aid:pstyle="NoIndent">When you <strong>manipulate a GM character you have leverage on</strong> (something they need or want), roll+Cha. On a hit they ask you for something and do it if you make them a promise first. On a 7–9, they need some concrete assurance of your promise, right now.</p>
+<h2 aid:pstyle="BasicMoveName">Aid or Interfere</h2>
+<p aid:pstyle="NoIndent">When you <strong>help or hinder someone you have a Bond with</strong>, roll+Bond with them. On a 10+ they take +1 or -2, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p></Story>
+<h1>Special Moves</h1>
+<Story><h2 aid:pstyle="BasicMoveName">Last Breath</h2>
+<p aid:pstyle="NoIndent">When <strong>you're dying</strong> you catch a glimpse of what lies beyond the Black Gates of Death's Kingdom (the GM will describe it), then roll (just roll, +nothing—yeah, Death doesn't care how tough or cool you are). On a 10+ you're stable. On a 7–9 Death will offer you a bargain—take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. On a miss, you are dead.</p>
+<h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
+<p aid:pstyle="NoIndent">When you <strong>make a move while carrying weight</strong> up to or equal to Load, you're fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.</p>
+<h2 aid:pstyle="BasicMoveName">Make Camp</h2>
+<p aid:pstyle="NoIndent">When you <strong>settle in to rest</strong> consume a ration. If you're somewhere dangerous decide the watch order as well. If you have enough XP you may Level Up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
+<h2 aid:pstyle="BasicMoveName">Take Watch</h2>
+<p aid:pstyle="NoIndent">When you <strong>you're on watch and something approaches the camp</strong> roll+Wis. On a 10+ you're able to wake the camp and prepare a response, the camp takes +1 forward. On a 7–9 you react just a moment too late; the camp is awake but hasn't had time to prepare. You have weapons and armor but little else. On a miss whatever lurks outside the campfire's light has the drop on you.</p>
+<h2 aid:pstyle="BasicMoveName">Undertake a Perilous Journey</h2>
+<p aid:pstyle="NoIndent">When you <strong>travel through hostile territory</strong>, roll+Con-the distance (in rations). Each player in the party must make this move separately, unless someone has a move that allows her to shoulder the burden for the whole group. On a 10+, you avoid hardship in the wild and reach your destination. On a 7–9, you reach your destination but the GM chooses one:</p>
+<ul><li>You run out of food</li>
+<li>You run out of adventuring supplies</li>
+<li>You're fatigued and need rest (take -1 forward until you do)</li>
+<li>You've been followed to your destination</li></ul>
+<h2 aid:pstyle="BasicMoveName">Level Up</h2>
+<p aid:pstyle="NoIndent">When you <strong>have a safe moment and XP equal to (or greater than) your current level + 7</strong>, reset your XP to 0 and choose a new advanced move from your class. If you are the Wizard, you also get to add a new spell to your spellbook.</p>
+<p>If your new level is 3, 6, or 9, you also get to increase a stat by 2. Increase the base score of the stat of your choice by 2, adjust the modifier to reflect the new score. Changing your Constitution increases your maximum and current HP. Ability scores can't go higher than 18.</p>
+<h2 aid:pstyle="BasicMoveName">End of Session</h2>
+<p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</p>
+<p>Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:</p>
+<ul><li>Did we learn something new and important about the world?</li>
+<li>Did we defeat a notable monster or enemy?</li>
+<li>Did we loot a memorable treasure?</li></ul>
+<p>For each "yes" answer everyone marks XP.</p></Story>
+<Story><h2 aid:pstyle="BasicMoveName">Carouse</h2>
+<p aid:pstyle="NoIndent">When you <strong>return triumphant and throw a big party</strong>, spend 100 gold and roll + extra 100s of gold spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss, you still choose one, but things get really out of hand.</p>
+<ul><li>You befriend a useful NPC</li>
+<li>You hear rumors of an opportunity</li>
+<li>You gain useful information</li>
+<li>You are not entangled, ensorcelled, or tricked</li></ul>
+<h2 aid:pstyle="BasicMoveName">Supply</h2>
+<p aid:pstyle="NoIndent">When you <strong>go to buy something with gold on hand</strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha. On a 10+ you find what you're looking for at a fair price. On a 7–9 you'll have to pay more or settle for something similar.</p>
+<h2 aid:pstyle="BasicMoveName">Recover</h2>
+<p aid:pstyle="NoIndent">When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you're under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.</p>
+<h2 aid:pstyle="BasicMoveName">Recruit</h2>
+<p aid:pstyle="NoIndent">When you <strong>put out word that you're looking to hire help</strong>, roll. If you make it known…</p>
+<ul><li>…that your pay is generous, take +1</li>
+<li>…what you're setting out to do, take +1</li>
+<li>…that they'll get a share of whatever you find, take +1</li></ul>
+<p aid:pstyle="NoIndent">If you have a useful reputation around these parts take an additional +1. On a 10+ you've got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along. On a 7–9 you'll have to settle for someone close or turn them away. On a miss someone influential and ill-suited declares they'd like to come along (a foolhardy youth, a loose-cannon, or a veiled enemy, for example), bring them and take the consequences or turn them away. If you turn away applicants you take -1 forward to Recruit.</p>
+<h2 aid:pstyle="BasicMoveName">Outstanding Warrants</h2>
+<p aid:pstyle="NoIndent">When you <strong>return to a civilized place in which you've caused trouble before</strong>, roll+Cha. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:</p>
+<ul><li>The local constabulary has a warrant out for your arrest</li>
+<li>Someone has put a price on your head</li>
+<li>Someone important to you has been put in a bad spot as a result of your actions</li></ul>
+<h2 aid:pstyle="BasicMoveName">Bolster</h2>
+<p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain hold. If you prepare for a week or two, 1 hold. If you prepare for a month or longer, 3 hold. Spend your hold whenever you like to gain +1 on a roll (before or after you roll the dice). You can only spend one hold per roll.</p></Story></Root>

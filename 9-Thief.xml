@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<ClassName>Thief</ClassName>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their Gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p> 
+<p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle-trap? So, let them complain. When you’re done all this delving you’ll toast their hero’s graves.</p>
+<p>From your castle. Full of gold. You rogue.</p></div>
+<h2>Names</h2>
+<div id="names"><p><em>Halfling</em>: Felix, Rook, Mouse, Sketch, Trixie, Robin, Omar, Brynn, Bug</p>
+<p><em>Human</em>: Sparrow, Shank, Jack, Marlow, Dodge, Rat, Pox, Humble, Farley</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p>Shifty, Eyes, or Criminal Eyes</p>
+<p>Hooded Head, Messy, or Cropped Hair</p>
+<p>Dark, Fancy, or Common Clothes</p>
+<p>Lithe Body, Knobby Body, Flabby Body</p></div>
+<h2>Stats</h2>
+<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
+<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
+<p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p></div>
+<p>Your base damage is <span id="Damage">d8</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Halfling</h3>
+<p aid:pstyle="NoIndent">When you attack with a ranged weapon, deal +1 damage.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves</p>
+<h3 aid:pstyle="BasicMoveName">Trap Expert (Dex)</h3>
+<p aid:pstyle="NoIndent">When spend a moment to survey a dangerous area, roll+Dex. On a 10+ hold 3. On a 7-9 hold 1. Spend your hold as you walk through the area to ask these questions:</p>
+<ul><li>Is there a trap here and if so, what activates it?</li>
+<li>What does the trap do when activated?</li>
+<li>What else is hidden here?</li></ul>
+<h3 aid:pstyle="BasicMoveName">Tricks of the Trade (Dex)</h3>
+<p aid:pstyle="NoIndent">When you pick locks or pockets or disable traps, roll+Dex. On a 10+, you do it, no problem. On a 7-9, the GM will offer you two options between suspicion, danger, or cost.</p>
+<h3 aid:pstyle="BasicMoveName">Backstab (Str)</h3>
+<p aid:pstyle="NoIndent">When you attack a surprised or defenseless enemy with a melee weapon, you can choose to deal your damage or roll+Str. If you roll, on a 10+ choose two, on a 7-9 choose one.</p>
+<ul><li>You don't get into melee with them</li>
+<li>You deal your damage+1d6</li>
+<li>You create an advantage, +1 forward to you or an ally acting on it</li>
+<li>Reduce their armor by 1 until they repair it</li></ul>
+<h3 aid:pstyle="BasicMoveName">Flexible Morals</h3>
+<p aid:pstyle="NoIndent">When someone tries to detect your alignment you can tell them any alignment you like.</p>
+<h3 aid:pstyle="BasicMoveName">Poisoner</h3>
+<p aid:pstyle="NoIndent">You've mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer Dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are Applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.</p>
+<ul><li>Oil of Tagit (Applied): The target falls into a light sleep</li>
+<li>Bloodweed (Touch): The target deals -5 damage ongoing until cured</li>
+<li>Goldenroot (Applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
+<li>Serpent's Tears (Touch): The target takes 5 damage now and 3 damage a few moments later. These cannot be healed until the poison is cured.</li></ul></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
+<p aid:pstyle="NoIndent">Leap into danger without a plan</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Avoid detection or infiltrate a location</p>
+<h3 aid:pstyle="MoveName">Evil</h3>
+<p aid:pstyle="NoIndent">Shift danger or blame from yourself to someone else</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You start with one from each list:</p>
+<ul><li>Dagger (Hand, 1 weight) and short sword (Close, 1 weight) <em>or</em> Rapier (close, precise, 1 weight)</li>
+<li>Leather (1 armor, 1 weight)</li>
+<li>3 uses of the poison you chose for Poisoner</li>
+<li>Adventuring gear (1 weight) and dungeon rations (1 weight) <em>or</em> dungeon rations (1 weight) and healing potion</li>
+<p>10 gold</p></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>I stole something from _______________.</p>
+<p>_______________ has my back when things go wrong.</p>
+<p>_______________ knows incriminating details about me.</p>
+<p>_______________ and I have a con running.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Cheap Shot</h3>
+<p aid:pstyle="NoIndent">When using a Precise or Hand weapon, your Backstab deals an extra +1d6 damage.</p>
+<h3 aid:pstyle="MoveName">Cautious</h3>
+<p aid:pstyle="NoIndent">When you use Trap Expert you always get +1 hold (even on a failure you get 1 hold).</p>
+<h3 aid:pstyle="MoveName">Wealth and Taste</h3>
+<p aid:pstyle="NoIndent">When you make a show of flashing around your most valuable possession, choose someone present. They will do anything they can to obtain your item or one like it.</p>
+<h3 aid:pstyle="MoveName">Shoot First</h3>
+<p aid:pstyle="NoIndent">You're never caught by surprise. When an enemy would get the drop on you, you get to act first instead.</p>
+<h3 aid:pstyle="MoveName">Poison Master</h3>
+<p aid:pstyle="NoIndent">After you've used a poison once it's no longer Dangerous for you to use.</p>
+<h3 aid:pstyle="MoveName">Envenom</h3>
+<p aid:pstyle="NoIndent">You can apply even complex poisons with a pinprick. When you apply a poison that's not Dangerous for you to use to your weapon it's Touch instead of Applied.</p>
+<h3 aid:pstyle="MoveName">Brewer</h3>
+<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any one poison you've used before.</p>
+<h3 aid:pstyle="MoveName">Underdog</h3>
+<p aid:pstyle="NoIndent">When you're outnumbered, you have +2 armor.</p>
+<h3 aid:pstyle="MoveName">Connections</h3>
+<p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+Cha. On a 10+ someone has it, just for you. On a 7–9 you'll have to settle for something close or it comes with strings attached, your call.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Dirty Fighter</h3>
+<p aid:pstyle="Requirement">Replaces: Cheap Shot</p>
+<p aid:pstyle="NoIndent">When using a Precise weapon, your Backstab deals an extra +1d10 damage and all other attacks deal +1d6 damage.</p>
+<h3 aid:pstyle="MoveName">Extremely Cautious</h3>
+<p aid:pstyle="Requirement">Replaces: Cautious</p>
+<p aid:pstyle="NoIndent">When you use Trap Expert you always get +1 hold (even on a failure you get 1 hold). On a 12+ you get 3 hold and the next time you discover a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</p>
+<h3 aid:pstyle="MoveName">Alchemist</h3>
+<p aid:pstyle="Requirement">Replaces: Brewer</p>
+<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you've used before. Alternately you can describe the effects of a poison you'd like to create. The GM will tell you can create it, but with one or more caveats:</p>
+<ul><li>It will only work under specific circumstances</li>
+<li>The best you can manage is a weaker version</li>
+<li>It'll take a while to take effect</li>
+<li>It'll have obvious side effects</li></ul>
+<h3 aid:pstyle="MoveName">Serious Underdog</h3>
+<p aid:pstyle="Requirement">Replaces: Underdog</p>
+<p aid:pstyle="NoIndent">You have +2 armor. When you're outnumbered, you have +4 armor instead.</p>
+<h3 aid:pstyle="MoveName">Evasion</h3>
+<p aid:pstyle="NoIndent">When you Defy Danger on a 12+ you transcend the danger. You not only do what you set out to but you the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
+<h3 aid:pstyle="MoveName">Strong Arm, True Aim</h3>
+<p aid:pstyle="NoIndent">You can throw any melee weapon, using it to Volley. A thrown melee weapon is gone, you can never choose to reduce ammo on a 7-9.</p>
+<h3 aid:pstyle="MoveName">Escape Route</h3>
+<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+Dex. On a 10+ you're gone. On a 7-9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
+<h3 aid:pstyle="MoveName">Disguise</h3>
+<p aid:pstyle="NoIndent">When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.</p>
+<h3 aid:pstyle="MoveName">Heist</h3>
+<p aid:pstyle="NoIndent">When you take time to make a plan to steal something, name the thing you want to steal and ask the GM these questions. When acting on the answers you and your allies take +1 forward.</p>
+<ul><li>Who will notice it's missing?</li>
+<li>What's its most powerful defense?</li>
+<li>Who will come after it?</li>
+<li>Who else wants it?</li></ul></div></Body></Root>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Equipment</h1>
+<Body><p aid:pstyle="NoIndent">The musty tombs and forgotten treasure troves of the world are filled with useful items. The Fighters can find a sharp new sword or the Thief might stumble across a deadly poison. Most items are mundane; not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The Fighter's signature weapon is never mundane.</p>
+<p>Weapons don't kill monsters, people do. That's why weapons don't have damage listed. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It's useful because its small and easy to strike with at close distance. A dagger in the hands of a Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
+<p>The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for a typical weapon of that type—a specific weapon could have different tags to represent its features.</p>
+<h2>Tag Glossary</h2>
+<p><em>n Ammo</em>: It counts as n ammo for appropriate ranged weapons.</p>
+<p><em>Applied</em>: It's only useful when carefully applied to a person or something they eat or drink.</p>
+<p><em>n Armor</em>: It protects you from harm and absorbs damage. When you take damage, subtract your armor from the total. If you have more than one item with n-armor, only the highest value counts. </p>
+<p><em>+n Armor</em>: It protects you and stacks with other armor. Add its value to your total armor.</p>
+<p><em>Awkward</em>: It's unwieldy and tough to use. </p>
+<p><em>+Bonus</em>: It modifies your effectiveness in some particular situation. It might be "+1 forward to Spout Lore" or "-1 ongoing to Hack and Slash."</p>
+<p><em>Clumsy</em>: It's tough to move around with. -1 ongoing while using it.</p>
+<p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add n to it.</p>
+<p><em>Dangerous</em>: It's easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
+<p><em>Forceful</em>: It can knock someone back a pace, maybe even off their feet. </p>
+<p><em>n Gold</em>: How much it costs to buy, normally. If the cost includes "-Charisma" a little negotiation subtracts the haggler's Charisma score (not modifier) from the price.</p>
+<p><em>Ignores Armor</em>: Don't subtract armor from the damage taken.</p>
+<p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
+<p><em>n Piercing</em>: It goes right through armor. When you deal damage with n piercing, you subtract n from the enemy's armor for that attack. </p>
+<p><em>Precise</em>: It rewards careful strikes. You use Dex to Hack and Slash with this weapon, not Str.</p>
+<p><em>Ration</em>: It's edible, more or less.</p>
+<p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
+<p><em>Requires</em>: It's only useful to certain people. If you don't meet the requirements it works weakly, if at all.</p>
+<p><em>Slow</em>: It takes minutes or more to use.</p>
+<p><em>Touch</em>: It's used by touching it to the target's skin.</p>
+<p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
+<p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
+<p><em>n Uses</em>: It can only be used n times. </p>
+<p><em>n Weight</em>: Count the listed amount against your Load. Something with no listed weight isn't designed to be carried. 100 gold in miscellaneous coins is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
+<p><em>Worn</em>: To use it, you have to be wearing it.</p>
+<h3>Range Tags (From Closest to Furthest)</h3>
+<p><em>Hand</em>: It's useful for attacking something within your reach, no further.</p>
+<p><em>Close</em>: It's useful for attacking something at arm's reach plus a foot or two.</p>
+<p><em>Reach</em>: It's useful for attacking something that's several feet away—maybe as far as ten. </p>
+<p><em>Near</em>: It's useful for attacking if you can see the whites of their eyes. </p>
+<p><em>Far</em>: It's useful for attacking something in shouting distance.</p>
+<h2>Weapons</h2>
+<p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 3 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 7 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">Near, Far, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 Ammo, 2 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Elven Arrows	<span aid:cstyle="Tags">4 Ammo, 20 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 1 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 5 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, 5 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Sword, Battle Axe, Flail	<span aid:cstyle="Tags">Close, +1 damage, 7 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Halberd	<span aid:cstyle="Tags">Reach, +1 damage, Two-handed, 7 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Rapier	<span aid:cstyle="Tags">Close, Precise, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Dueling Rapier	<span aid:cstyle="Tags">Close, 1 piercing, Precise, 15 Gold, 2 Weight</span></p>
+<h2>Armor</h2>
+<p aid:pstyle="Item">Leather, Chainmail	<span aid:cstyle="Tags">1 Armor, Worn, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Scale Mail	<span aid:cstyle="Tags">2 Armor, Worn, Clumsy, 50 Gold, 3 Weight</span></p>
+<p aid:pstyle="Item">Plate	<span aid:cstyle="Tags">3 Armor, Worn, Clumsy, 200 Gold, 4 Weight</span></p>
+<p aid:pstyle="Item">Shield	<span aid:cstyle="Tags">+1 Armor, 5 Gold, 2 Weight</span></p>
+<h2>Dungeon Gear</h2>
+<p aid:pstyle="Item">Adventuring Gear	<span aid:cstyle="Tags">5 Uses, 5 Gold, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a Use.</p>
+<p aid:pstyle="Item">Bandages	<span aid:cstyle="Tags">3 Uses, Slow, 5 Gold, 0 Weight</span></p>
+<p aid:pstyle="ItemDescription">When you have a few minutes to bandage someone else's wounds, heal them of 4 damage and expend a use.</p>
+<p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 Uses, Slow, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">When you carefully treat someone's wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
+<p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">12 Gold</span></p>
+<p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 10 damage.</p>
+<p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 Gold, Weight 4</span></p>
+<p aid:pstyle="ItemDescription">When you open a keg of dwarven stout and let everyone drink freely, take +1 to your Carouse roll. If you drink a whole keg yourself, you are very very drunk.</p>
+<p aid:pstyle="Item">Cart and Donkey	<span aid:cstyle="Tags">4 Gold, Load 10</span></p>
+<p aid:pstyle="ItemDescription">This donkey is sworn to carry your burdens.</p>
+<p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 Uses, 10 Gold, 2 Weight</span></p>
+<p aid:pstyle="ItemDescription">When your bag of books contains just the right book for the subject you're Spouting Lore on, consult the book, mark off a use, and take +1 to your roll.</p>
+<p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">10 Gold</span></p>
+<p aid:pstyle="ItemDescription">When you drink antitoxin, you're cured of one poison affecting you.</p>
+<p aid:pstyle="Item">Dungeon Rations	<span aid:cstyle="Tags">Ration, 5 Uses, 2 Gold, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">Not tasty, but not bad either.</p>
+<p aid:pstyle="Item">Personal Feast	<span aid:cstyle="Tags">Ration, 2 Gold, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">Ostentatious to say the least.</p>
+<p aid:pstyle="Item">Dwarven Hardtack	<span aid:cstyle="Tags">Ration, 7 Uses, 2 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item"><span aid:cstyle="Tags">Requires dwarf</span></p>
+<p aid:pstyle="ItemDescription">Dwarves say it tastes like home. Everyone else says it tastes like home, on fire, in a hog farm.</p>
+<p aid:pstyle="Item">Elven Bread	<span aid:cstyle="Tags">Ration, Delicious, 7 Uses, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">Only the greatest of elf-friends are treated to this rare delicacy.</p>
+<p aid:pstyle="Item">Halfling Pipeleaf	<span aid:cstyle="Tags">5 Uses, 5 Gold, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">When you share halfling pipeleaf with someone, expend two uses and take +1 Forward to Parley with them.</p>
+<h2>Poisons</h2>
+<p aid:pstyle="Item">Oil of Tagit	<span aid:cstyle="Tags">Dangerous, Applied, 3 Gold, 0 Weight</span></p>
+<p aid:pstyle="ItemDescription">The target falls into a light sleep</p>
+<p aid:pstyle="Item">Bloodweed	<span aid:cstyle="Tags">Dangerous, Touch, 2 Gold, 0 Weight</span></p>
+<p aid:pstyle="ItemDescription">The target deals -5 damage ongoing until cured</p>
+<p aid:pstyle="Item">Goldenroot	<span aid:cstyle="Tags">Dangerous, Applied, 4 Gold, 0 Weight</span></p>
+<p aid:pstyle="ItemDescription">The target treats the next creature they see as a trusted ally, until proved otherwise</p>
+<p aid:pstyle="Item">Serpent's Tears	<span aid:cstyle="Tags">Dangerous, Touch, 2 Gold, 0 Weight</span></p>
+<p aid:pstyle="ItemDescription">The target takes 5 damage now and 3 damage a few moments later. These cannot be healed until the poison is cured.</p>
+<h2>Services</h2>
+<p aid:pstyle="Item">A week's stay at a peasant inn	<span aid:cstyle="Tags">14-Charisma Gold</span></p>
+<p aid:pstyle="Item">A week's stay at a civilized inn	<span aid:cstyle="Tags">35-Charisma Gold</span></p>
+<p aid:pstyle="Item">A week's stay at the fanciest inn in town	<span aid:cstyle="Tags">105-Charisma Gold</span></p>
+<p aid:pstyle="Item">A week's unskilled mundane labor	<span aid:cstyle="Tags">6 Gold</span></p>
+<p aid:pstyle="Item">A month's pay for enlistment in an army	<span aid:cstyle="Tags">30 Gold</span></p>
+<p aid:pstyle="Item">A custom item from a blacksmith	<span aid:cstyle="Tags">Base Item + 50 Gold</span></p>
+<p aid:pstyle="Item">A night's "companionship"	<span aid:cstyle="Tags">15-Charisma Gold</span></p>
+<p aid:pstyle="Item">An evening of song and dance	<span aid:cstyle="Tags">12-Charisma Gold</span></p>
+<p aid:pstyle="Item">Escort for a day along a bandit-infested road	<span aid:cstyle="Tags">17 Gold</span></p>
+<p aid:pstyle="Item">Escort for a day along a monster-infested road	<span aid:cstyle="Tags">35 Gold</span></p>
+<p aid:pstyle="Item">A run-of-the-mill killing	<span aid:cstyle="Tags">5 Gold</span></p>
+<p aid:pstyle="Item">An assassination	<span aid:cstyle="Tags">120 Gold</span></p>
+<p aid:pstyle="Item">Healing from a Churgeon	<span aid:cstyle="Tags">5 Gold</span></p>
+<p aid:pstyle="Item">A month's prayers for the departed	<span aid:cstyle="Tags">1 Gold</span></p>
+<p aid:pstyle="Item">Repairs to a mundane item	<span aid:cstyle="Tags">5 Gold</span></p>
+<h2>Meals</h2>
+<p aid:pstyle="Item">A hearty meal for one	<span aid:cstyle="Tags">1 Gold</span></p>
+<p aid:pstyle="Item">A poor meal for a family	<span aid:cstyle="Tags">1 Gold</span></p>
+<p aid:pstyle="Item">A feast	<span aid:cstyle="Tags">15 Gold per person</span></p>
+<h2>Land and Buildings</h2>
+<p aid:pstyle="Item">A hovel	<span aid:cstyle="Tags">20 Gold</span></p>
+<p aid:pstyle="Item">A cottage	<span aid:cstyle="Tags">100 Gold</span></p>
+<p aid:pstyle="Item">A house in the city	<span aid:cstyle="Tags">200 Gold</span></p>
+<p aid:pstyle="Item">A city mansion	<span aid:cstyle="Tags">1000 Gold</span></p>
+<p aid:pstyle="Item">A country mansion	<span aid:cstyle="Tags">3000 Gold</span></p>
+<p aid:pstyle="Item">A castle	<span aid:cstyle="Tags">10000+ Gold</span></p>
+<p aid:pstyle="Item">A month's upkeep for a household	<span aid:cstyle="Tags">100 Gold</span></p>
+<p aid:pstyle="Item">A month's upkeep for a mansion	<span aid:cstyle="Tags">300 Gold</span></p>
+<p aid:pstyle="Item">A month's upkeep for a castle	<span aid:cstyle="Tags">1000 Gold</span></p>
+<h2>Bribes</h2>
+<p aid:pstyle="Item">A peasant dowery	<span aid:cstyle="Tags">20-Charisma Gold</span></p>
+<p aid:pstyle="Item">"Protection" for a small business	<span aid:cstyle="Tags">100-Charisma Gold</span></p>
+<p aid:pstyle="Item">A government bribe	<span aid:cstyle="Tags">50-Charisma Gold</span></p>
+<p aid:pstyle="Item">A compelling bribe	<span aid:cstyle="Tags">80-Charisma Gold</span></p>
+<p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">200-Charisma Gold</span></p>
+<h2>Gifts and Finery</h2>
+<p aid:pstyle="Item">A nice gift	<span aid:cstyle="Tags">3 Gold</span></p>
+<p aid:pstyle="Item">A generous gift	<span aid:cstyle="Tags">10 Gold</span></p>
+<p aid:pstyle="Item">A noble gift	<span aid:cstyle="Tags">75 Gold</span></p>
+<p aid:pstyle="Item">A ring or cameo	<span aid:cstyle="Tags">10 Gold</span></p>
+<p aid:pstyle="Item">Finery	<span aid:cstyle="Tags">30 Gold</span></p>
+<p aid:pstyle="Item">Art	<span aid:cstyle="Tags">70+ Gold</span></p>
+<p aid:pstyle="Item">A crown fit for a king	<span aid:cstyle="Tags">300 Gold</span></p>
+<h2>Hordes</h2>
+<p aid:pstyle="Item">A goblin family's stash	<span aid:cstyle="Tags">2 Gold</span></p>
+<p aid:pstyle="Item">A lizardman nest's trinkets	<span aid:cstyle="Tags">5 Gold</span></p>
+<p aid:pstyle="Item">A priceless sword	<span aid:cstyle="Tags">80 Gold</span></p>
+<p aid:pstyle="Item">An orc warchief's tribute	<span aid:cstyle="Tags">20 Gold</span></p>
+<p aid:pstyle="Item">A dragon's mound of coins and gems	<span aid:cstyle="Tags">20000 Gold</span></p>
+<h1>Magic Items</h1>
+<p aid:pstyle="NoIndent">There are stranger things in the world than swords and leather. Magic items are the non-mundane, items that have intrinsic power.</p>
+<p>Magic items are for you to make, for your game. Players can make magic items through the Wizard's ritual and similar moves, the GM can introduce magic items in the spoils of battle or the bounty of reward. This list provides some ideas, but magic items are ultimately for you to decide.</p>
+<p>When making your own magic items keep in mind that magic items are magical. +1 damage is the realm of the mundane, magic items should provide more interesting bonuses.</p>
+<p aid:pstyle="MagicItem">Bag of Holding	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and it's weight never increases. When you try to retrieve an item from a bag of holding, roll+Wis. On a 10+, it's right there. On a 7-9, choose one:</p>
+<ul><li>You get the exact item, but it takes a while</li>
+<li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
+<p aid:pstyle="NoIndent">No matter how many items it contains, a bag of holding is always 0 weight.</p>
+<p aid:pstyle="MagicItem">The Burning Wheel	<span aid:cstyle="Tags">Weight 2</span></p>
+<p aid:pstyle="NoIndent">This wagon wheel with several shattered spokes is constantly wreathed in flames. A gift from the gods, it takes a strong soul to carry the wheel. It does not provide any bonus to swimming.</p>
+<p>When you pick up The Burning Wheel and speak a god's name, roll+Con. On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7-9, the GM chooses which stat to reduce.</p>
+<p aid:pstyle="MagicItem">Candle of Truth	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">So long as this candle burns, no one can willingly lie within its light.</p>
+<p aid:pstyle="MagicItem">Common Scroll	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
+<p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class's spell list for you to be able to cast it. When you cast a spell from a scroll, the spell has effect, simple as that.</p>
+<p aid:pstyle="MagicItem">Cornucopia	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">This horn of plenty converts magic into sustenance. When you cast a spell into a cornucopia, it produces food enough for a number of people equal to the spell's level.</p>
+<p aid:pstyle="MagicItem">Crystal Ball	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">When you look into a crystal ball, name a location and roll+Wis. On a hit, you get a clear vision of the location so long as you stare into the crystal ball. On a 7-9, someone or something else also observes you through the crystal ball.</p>
+<p aid:pstyle="MagicItem">Demonsbane	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
+<p aid:pstyle="NoIndent">When you bath your blade in demonsbane, take +2 damage ongoing against creatures from the lower planes until the demonsbane is wiped from the blade.</p>
+<p aid:pstyle="MagicItem">Flask of Breath	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">This flask contains an everlasting supply of air. It is useful for breathing underwater or on the far planes.</p>
+<p aid:pstyle="MagicItem">Holy Avenger	<span aid:cstyle="Tags">Close, 2 Weight</span></p>
+<p aid:pstyle="NoIndent">This sword is revered among paladins. It is considered a sign of divine favor to wield one. When wielded by a paladin, the paladin's damage becomes 1d12 and the wielder takes +1 to Lay on Hands. For anyone else, it’s just a sword.</p>
+<p aid:pstyle="MagicItem">Immovable Rod	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">When you press the small button on the end of the immovable rod, it freezes in place and cannot be moved. When you press the button again, it becomes movable again.</p>
+<p aid:pstyle="MagicItem">Infinite Book	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">This book contains an infinite number of pages in a finite space. With no limit to the pages, everything that ever was, is, or will be is contained somewhere in the book. Luckily the index is great.</p>
+<p>When you Spout Lore while consulting the book you gain an extra clause. On a 12+ the GM will give a solution to a problem or situation you're in.</p>
+<p aid:pstyle="MagicItem">Inspectacles	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">A pair of rough-hewn glass lenses in shabby frames, they somehow allow the wearer to see much more than is actually present. When you Discern Realities while wearing the glasses, you have an extra clause. On a roll of 12+ you may ask any three questions about the person, situation or area you are observing, not just those on the list.</p>
+<p aid:pstyle="MagicItem">Living Arrows	<span aid:cstyle="Tags">1 Ammo, 1 Weight</span></p>
+<p aid:pstyle="NoIndent">These arrows know how to find their target. When you Volley, you may choose to deplete your smart arrow ammo to automatically succeed before you roll.</p>
+<p aid:pstyle="MagicItem">Lodestone Shield	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">Emblazoned with a roaring lion, this shield has the power to attract blades and arrows to it. When you Defend with a Lodestone Shield, when you spend hold against an enemy wielding a metallic weapon you may spend one more hold to also disarm them.</p>
+<p aid:pstyle="MagicItem">Mental Wax	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
+<p aid:pstyle="NoIndent">When you drip mental wax into someone's ear, you get 3 Hold. You may spend hold to ask the player of the target one question which they must answer truthfully.</p>
+<p aid:pstyle="MagicItem">Rope of Tricks	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">This rope responds to its wielder’s every wish, tying itself into knots, grabbing on to items (or enemies), coiling tightly. It acts as if it was an intelligent creature, like a smart snake of rope. Every rogue wants one.</p>
+<p aid:pstyle="MagicItem">Teleportation Room	<span aid:cstyle="Tags">Slow</span></p>
+<p aid:pstyle="NoIndent">It requires an entire stone room to contain these powerful teleportation magics. When you enter the teleportation room and name a location, roll. On a 10+, you arrive exactly where you intended. On a 7-9, the GM chooses a safe location nearby. On a 6-, you end up someplace nearby, but it surely isn't safe.</p>
+<p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">Armor 2, 1 Weight</span></p>
+<p aid:pstyle="NoIndent">This suit of armor appears as many things to many people. Its wearer always looks impeccably dressed to everyone who sees them. The aura of the armor makes everyone more likely to see it the wearer's way.</p>
+<p>When you Parley with someone they see you as who they want you to be, you have a new clause for this move. On a roll of 12+ the target becomes hopelessly devoted to you. Tell the GM to stop making moves with this character, from now on they will only act in your best interest. (GM, don’t mess with this. Really, best interests.)</p>
+<p aid:pstyle="MagicItem">Vellius’s Gauntlets	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">Bearing the insignia of Saint Vellius, these gloves shine with the power of their wearer. When you hold something with the gloves, you cannot be forced to drop what you hold through force.</p>
+<p aid:pstyle="MagicItem">Vorpal Sword	<span aid:cstyle="Tags">3 Piercing, 2 Weight</span></p>
+<p aid:pstyle="NoIndent">When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.</p>
+<p aid:pstyle="MagicItem">Wax Wings	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">Crafted to resemble great eagle wings, this contraption is worn via a complex harness. When you take to the air with wax wings, roll+Dex. On a 10+ your flight is controlled and you may stay aloft as long as you like. On a 7-9, you make it aloft but your flight is short or erratic and unpredictable, your choice. On a 6- you make it aloft, but the rest is up to the GM.</p></Body>
+</Root>

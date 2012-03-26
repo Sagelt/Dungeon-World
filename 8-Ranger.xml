@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>Ranger</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">These city-born folk you travel with. Have they heard the call of the wolf? Felt the winds howl in the bleak deserts of the East? Have they hunted their prey with the bow and the knife like you? Hell no. That’s why they need you.</p>
+<p>Guide. Hunter. Creature of the wilds. You are these things and more. Your time in the wilderness may have been solitary until now, the call of some greater thing – call it fate if you like, has cast your lot with these folk. Brave, they may be. Powerful and strong, too. You know the secrets of the spaces-between, though.</p>
+<p>Without you, they’d be lost. Blaze a trail through the blood and dark, strider.</p></div>
+<h2>Names</h2>
+<div id="names"><p><em>Elf</em>: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe</p> 
+<p><em>Human</em>: Jonah, Halek, Brandon, Emory, Shrike, Nora, Diana</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p>Wild Eyes, Sharp Eyes, Animal Eyes</p>
+<p>Hooded Head, Wild Hair, Bald</p>
+<p>Cape, Camouflage, Traveling Clothes</p>
+<p>Lithe Body, Wild Body, Sharp Body</p></div>
+<h2>Stats</h2>
+<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
+<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
+<p aid:pstyle="NoIndent">You start with 8+Constitution HP.</p></div>
+<p>Your base damage is <span id="Damage">d8</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
+<p aid:pstyle="NoIndent">When you lead your companions on a Perilous Journey through wilderness the journey is one ration shorter.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">When you Make Camp in a dungeon or city, you don't need to consume a ration.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Hunt and Track (Wis)</h3>
+<p aid:pstyle="NoIndent">When you follow a trail of clues left behind by passing creatures, roll+Wis. On a hit, you follow the creature's trail until there's a significant change in its direction or mode of travel. On a 10+, you also choose 1:</p>
+<ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
+<li>Determine what caused the trail to end</li></ul>
+<h3 aid:pstyle="BasicMoveName">Called Shot</h3>
+<p aid:pstyle="NoIndent">When you attack a defenseless or surprised enemy at range, you can choose to deal your damage or name your target and roll+Dex.</p>
+<ul><li>Head – 10+: As 7–9, plus your damage; 7-9: They do nothing but stand and drool for a few moments.</li>
+<li>Arms – 10+: As 7-9, plus your damage; 7-9: They drop anything they're holding.</li>
+<li>Legs – 10+: As 7-9, plus your damage; 7-9: They're hobbled and slow moving.</li></ul>
+<h3 aid:pstyle="BasicMoveName">Animal Companion</h3>
+<p aid:pstyle="NoIndent">You have a supernatural connection with a loyal animal. You can't talk to it per se but it always acts as you wish it to. Name your animal companion and choose a species:</p>
+<p aid:pstyle="Example">Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pidgeon, rat, mule</p>
+<p aid:pstyle="NoIndent">Choose a base:</p>
+<ul><li>Ferocity 2d4, Cunning +1, Armor 1, Instinct +1</li>
+<li>Ferocity 2d4, Cunning +2, Armor 0, Instinct +1</li>
+<li>Ferocity 1d4, Cunning +2, Armor 1, Instinct +1</li>
+<li>Ferocity 2d4, Cunning +1, Armor 2, Instinct +2</li></ul>
+<p aid:pstyle="NoIndent">Choose as many strengths as its ferocity:</p>
+<p aid:pstyle="Example">Fast, burly, huge, calm, adaptable, quick reflexes, tireless, camouflage, ferocious, intimidating, keen senses, stealthy</p>
+<p aid:pstyle="NoIndent">Your animal companion is trained to fight humanoids. Choose as many additional trainings as its cunning:</p>
+<p aid:pstyle="Example">Hunt, search, scout, guard, fight monsters, perform, labor, travel</p>
+<p aid:pstyle="NoIndent">Choose as many weaknesses as its instinct:</p>
+<p aid:pstyle="Example">Flighty, savage, slow, broken, frightening, forgetful, stubborn, lame</p>
+<h3 aid:pstyle="BasicMoveName">Command</h3>
+<p aid:pstyle="NoIndent">When you work with your animal companion on something it's trained in…</p>
+<ul><li>…and you attack the same target, add its ferocity to your damage</li>
+<li>…and you track, add its cunning to your roll</li>
+<li>…and you take damage, add its armor to your armor</li>
+<li>…and you discern realities, add its cunning to your roll</li>
+<li>…and you parley, add its cunning to your roll</li>
+<li>…and someone interferes with you, add its instinct to your roll</li></ul></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
+<p aid:pstyle="NoIndent">Free someone from literal or figurative bonds</p>
+<h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Endanger yourself to combat an unnatural threat</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Help an animal or spirit of the wild</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Str. You start with one from each list:</p>
+<ul><li>Hunter's bow (Near, Far, 1 weight) and short sword (Close, 1 weight) <em>or</em> Hunter's bow (Near, Far, 1 weight) and spear (Reach, 1 weight)</li>
+<li>Bundle of arrows (3 ammo, 2 weight)</li>
+<li>Leather armor (1 armor, 1 weight)</li>
+<li>Adventuring gear (1 weight) and dungeon rations (1 weight) <em>or</em> adventuring gear (1 weight) and bundle of arrows (3 ammo, 2 weight)</li>
+<li>Dungeon rations (1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>I have guided _______________ before and they owe me for it.</p>
+<p>_______________ is a friend of nature, so I will be their friend as well.</p>
+<p>_______________ has no respect for nature, so I have no respect for them.</p>
+<p>_______________ does not understand life in the wild, so I will teach them.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">Take this move only if it is your first advancement</p>
+<h3 aid:pstyle="MoveName">Half-Elven</h3>
+<p aid:pstyle="NoIndent">Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the Elf starting move if you took the Human one at character creation or vice versa.</p>
+<p aid:pstyle="Instructions">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Wild Empathy</h3>
+<p aid:pstyle="NoIndent">You can speak with and understand animals.</p>
+<h3 aid:pstyle="MoveName">Familiar Prey</h3>
+<p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int.</p>
+<h3 aid:pstyle="MoveName">Dual Wield</h3>
+<p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
+<h3 aid:pstyle="MoveName">Camouflage</h3>
+<p aid:pstyle="NoIndent">When you're still in natural surroundings, enemies never spot you until you make a movement.</p>
+<h3 aid:pstyle="MoveName">Man's Best Friend'</h3>
+<p aid:pstyle="NoIndent">When you take damage and you allow your animal companion to take the blow the damage is negated and your animal companion's Ferocity becomes 0. If its Ferocity was already 0 you can't use this ability. When you have a few hours of rest with your animal companion its Ferocity returns to normal.</p>
+<h3 aid:pstyle="MoveName">Quarry</h3>
+<p aid:pstyle="NoIndent">You take +1 forward against someone whose trail you follow.</p>
+<h3 aid:pstyle="MoveName">Well Trained</h3>
+<p aid:pstyle="NoIndent">Choose another training for your animal companion.</p>
+<h3 aid:pstyle="MoveName">God Amidst the Wastes</h3>
+<p aid:pstyle="NoIndent">You gain the Commune and Cast a Spell Cleric move. Your level for the purposes of that move is 1 + the levels you've gained since you took God Amidst the Wastes.</p>
+<h3 aid:pstyle="MoveName">Follow Me</h3>
+<p aid:pstyle="NoIndent">When you Undertake a Perilous journey with others, you can roll for your companions. Make your move once, you and your companions all take the results you choose.</p>
+<h3 aid:pstyle="MoveName">A Safe Place</h3>
+<p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to Take Watch.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Wild Speech</h3>
+<p aid:pstyle="Requirement">Replaces: Wild Empathy</p>
+<p aid:pstyle="NoIndent">You can speak with and understand any non-magical non-planar creature.</p>
+<h3 aid:pstyle="MoveName">Hunter's Prey</h3>
+<p aid:pstyle="Requirement">Replaces: Familiar Prey</p>
+<p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int. On a 12+ you get to ask the GM any one question about the subject.</p>
+<h3 aid:pstyle="MoveName">Dual Wield</h3>
+<p aid:pstyle="Requirement">Replaces: Dual Strike</p>
+<p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
+<h3 aid:pstyle="MoveName">Unescapable Quarry</h3>
+<p aid:pstyle="Requirement">Replaces: Quarry</p>
+<p aid:pstyle="NoIndent">You take +1 forward against someone whose trail you follow. You cannot be surprised, ambushed, or otherwise at a disadvantage against someone whose trail you follow.</p>
+<h3 aid:pstyle="MoveName">Strider</h3>
+<p aid:pstyle="Requirement">Replaces: Follow Me</p>
+<p aid:pstyle="NoIndent">When you Undertake a Perilous journey with others, you can roll for your companions. Make your move once, you and your companions all take the results you choose. On a 12+ your route is faster than seemed possible. The GM will give you an advantage upon arriving at your destination (maybe the drop on your quarry or a fortuitous meeting).</p>
+<h3 aid:pstyle="MoveName">A Safer Place</h3>
+<p aid:pstyle="Requirement">Replaces: A Safe Place</p>
+<p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to Take Watch. After a night in camp when you set the watch everyone takes +1 forward.</p>
+<h3 aid:pstyle="MoveName">Observant</h3>
+<p aid:pstyle="NoIndent">When you Hunt and Track, on a hit you may also ask one question about the creature you are tracking from the Discern Realities list for free.</p>
+<h3 aid:pstyle="MoveName">Special Trick</h3>
+<p aid:pstyle="NoIndent">Choose a move from another class. So long as you are working with your animal companion you have access to that move.</p>
+<h3 aid:pstyle="MoveName">Unnatural Ally</h3>
+<p aid:pstyle="NoIndent">Your animal companion is a monster, not an animal. Describe it. Give it +1d4 Ferocity and +1 Instinct, plus a new training.</p></div></Body></Root>

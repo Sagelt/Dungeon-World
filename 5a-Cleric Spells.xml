@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cleric Spells</h1>
+<div><h2>Rotes</h2>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
+<p aid:pstyle="NoIndent">An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel but is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctify</span>	Rote</p>
+<p aid:pstyle="NoIndent">Food or water you hold in your hands while you cast this spell is consecrated by your deity. In addition to now being holy or unholy the affected substance is purified of any mundane spoilage.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Guidance</span>	Rote</p>
+<p aid:pstyle="NoIndent">The symbol of your deity appears before you and gestures towards the direction or course of action your deity would have you take then disappears. The message is through gesture only; your communication through this spell is severely limited.</p></div>
+<div><h2>1st Level Spells</h2>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Bless</span>	Level 1</p>
+<p aid:pstyle="NoIndent">You deity smiles on the target in combat. They take +1 ongoing for the duration of the fight.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Light Wounds</span>	Level 1</p>
+<p aid:pstyle="NoIndent">At your touch wounds scab and bones cease to ache. Heal an ally of 1d8 damage.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Detect Alignment</span>	Level 1</p>
+<p aid:pstyle="NoIndent">When you cast this spell choose an alignment: Good, Evil, or Neutral. One of your senses is briefly able to detect that alignment. The GM will tell you what here is of that alignment.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Light Wounds</span>	Level 1	<em>Damaging</em></p>
+<p aid:pstyle="NoIndent">You open wounds, channeling the wrath of your god. Deal 1d8 damage to the target.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Magic Weapon</span>	Level 1	 <em>Ongoing</em></p>
+<p aid:pstyle="NoIndent">The weapon you hold while casting does +1d4 damage until you dismiss this spell. Until you dismiss this spell you take -1 to Cast a Spell.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctuary</span>	Level 1</p>
+<p aid:pstyle="NoIndent">You make an area holy to your deity. Walk the perimeter of the area. So long as you stay within that area you are alerted whenever someone acts with malice within the sanctuary (including entering with harmful intent). Anyone who receives healing within a Sanctuary heals +1d4 HP.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Speak With Dead</span>	Level 1	<em>Death</em></p>
+<p aid:pstyle="NoIndent">A corpse converses with you briefly. It will answer any three questions you pose to it to the best of the knowledge it had in life and the knowledge it gained in death.</p></div>
+<div><h2>3rd Level Spells</h2>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	Death</p>
+<p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and act for you. This forms a zombie that follows your orders to the best of its limited abilities. Treat the zombie as your character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. You can only have one zombie at a time. You get 1d4 of these effects:</p>
+<ul><li>The zombie is talented. Give one stat a +2 modifier.</li>
+<li>The zombie is durable. It has +2 HP for each level you have.</li>
+<li>The zombie has a functioning brain and can complete complex tasks.</li>
+<li>The zombie is restored by magic—it does not appear obviously dead, at least for a day or two.</li></ul>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Moderate Wounds</span>	Level 3</p>
+<p aid:pstyle="NoIndent">You staunch bleeding and set bones through magic. Heal an ally of 2d8 damage.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Moderate Wounds</span>	Level 3	<em>Damaging</em></p>
+<p aid:pstyle="NoIndent">You break bones and leave gushing wounds. Deal 1d10 damage.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Resurrection</span>	Level 3</p>
+<p aid:pstyle="NoIndent">Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. The GM will tell you "yes, you can resurrect them, but first…" or "yes, you can resurrect them now, but it won't be permanent until…" and then one to all of the things from this list:</p>
+<ul><li>It's going to take days/weeks/months</li>
+<li>You must ____</li>
+<li>You must get help from ____</li>
+<li>It will require a lot of money</li>
+<li>You must sacrifice ____ to do it</li></ul>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Hold Person</span>	Level 3</p>
+<p aid:pstyle="NoIndent">This spell affects a number of targets whose levels add up to less than or equal to your level. These targets are paralyzed by magical force. They can speak but cannot act unless you leave their presence or they are harmed in some way.</p></div>
+<div><h2>5th Level Spells</h2>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Revelation</span>	Level 5</p>
+<p aid:pstyle="NoIndent">Your deity answers your prayers with a moment of perfect understanding. The GM will explain the root cause of the current situation. When acting on the information, you take +1 Forward.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Critical Wounds</span>	Level 5</p>
+<p aid:pstyle="NoIndent">Heal an ally of 3d8 damage.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divination</span>	Level 5</p>
+<p aid:pstyle="NoIndent">Name a person, place or thing you want to learn about. Your deity grants you visions of the target, as clear as if you were there.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Critical Wounds</span>	Level 5	Damaging</p>
+<p aid:pstyle="NoIndent">You cause horrific harm. Deal 1d8+1d4 damage.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Words of the Unspeaking</span>	Level 5</p>
+<p aid:pstyle="NoIndent">With a touch you speak to the spirits within things. The non-living object you touch responds to three questions you pose, answering them as best it can.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">True Seeing</span>	Level 5</p>
+<p aid:pstyle="NoIndent">For a brief moment your vision is opened to the true nature of everything you lay your eyes on. You pierce illusions and see things that have been hidden. The GM will describe the area before you ignoring any illusions and falsehoods, magical or otherwise.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Trap Soul</span>	Level 5	Death</p>
+<p aid:pstyle="NoIndent">When cast in the presence of a ghost or recently dead body this spell traps the soul in a gem you provide. While trapped the soul answers every question posed to it and can not resist your requests. Once released the soul is likely to hold a grudge against its captor.</p>
+</div><div><h2>7th Level Spells</h2>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Word of Recall</span>	Level 7</p>
+<p aid:pstyle="NoIndent">Choose a word. The first time after casting this spell that you speak the chosen word, you and any allies touching you when you cast the spell are immediately returned to the exact spot you cast the spell at. Casting Word of Recall again before speaking the word replaces the earlier recall.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Heal</span>	Level 7</p>
+<p aid:pstyle="NoIndent">Touch an ally and you may restore up to your maximum HP to them.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Harm</span>	Level 7</p>
+<p aid:pstyle="NoIndent">Touch an enemy and strike them with divine wrath - deal 2d8 damage to them and 1d6 damage to yourself (ignores armor).</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sever</span>	Level 7	Damaging</p>
+<p aid:pstyle="NoIndent">Choose an appendage on the target such as an arm, tentacle, or wing. The appendage is magically severed from their body, causing no damage but considerable pain. Missing an appendage may, for example, keep a winged creature from flying, or a bull from goring you on its horns. While you maintain the spell you take -1 to Cast a Spell.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mark of Death</span>	Level 7	Death</p>
+<p aid:pstyle="NoIndent">Choose a type of creature. You inscribe runes matching that type of creature. The next mortal creature of that type to look on the runes is immediately slain.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Control Weather</span>	Level 7</p>
+<p aid:pstyle="NoIndent">Pray for rain—or sun, wind or snow. Within a day or so, your god will answer. The weather will change according to your will and last a handful of days.</p></div>
+<div><h2>9th Level Spells</h2>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Dictum</span>	Level 9</p>
+<p aid:pstyle="NoIndent">All non-Lawful creatures that can hear you stand paralyzed so long as you continue speaking.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Gibber</span>	Level 9</p>
+<p aid:pstyle="NoIndent">All non-Chaotic creatures that can hear you stand paralyzed so long as you continue speaking.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Repair</span>	Level 9</p>
+<p aid:pstyle="NoIndent">Choose one event in the target's past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divine Presence</span>	Level 9	Damaging</p>
+<p aid:pstyle="NoIndent">Every creature must ask your leave to enter your presence, and you must speak permission for them to enter. Any creature that you deny permission takes an extra 1d10 damage whenever they take damage in your presence.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Consume Unlife</span>	Level 9	Death</p>
+<p aid:pstyle="NoIndent">Choose undead creatures whose total level is less than or equal to your level. These creatures are destroyed. You steal the death energy that powers these creatures and can use it to heal an amount of damage equal to the destroyed creatures' current HP.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Peace</span>	Level 9</p>
+<p aid:pstyle="NoIndent">Choose one traumatic memory in the target's past. The target's memory of that event is calmly erased. If the target is a PC, they must be willing.</p></div></Root>
