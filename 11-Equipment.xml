@@ -14,7 +14,7 @@
 <p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add n to it.</p>
 <p><em>Dangerous</em>: It's easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
 <p><em>Forceful</em>: It can knock someone back a pace, maybe even off their feet. </p>
-<p><em>n Gold</em>: How much it costs to buy, normally. If the cost includes "-Charisma" a little negotiation subtracts the haggler's Charisma score (not modifier) from the price.</p>
+<p><em>n coins</em>: How much it costs to buy, normally. If the cost includes "-Charisma" a little negotiation subtracts the haggler's Charisma score (not modifier) from the price.</p>
 <p><em>Ignores Armor</em>: Don't subtract armor from the damage taken.</p>
 <p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
 <p><em>n Piercing</em>: It goes right through armor. When you deal damage with n piercing, you subtract n from the enemy's armor for that attack. </p>
@@ -27,7 +27,7 @@
 <p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
 <p><em>n Uses</em>: It can only be used n times. </p>
-<p><em>n Weight</em>: Count the listed amount against your Load. Something with no listed weight isn't designed to be carried. 100 gold in miscellaneous coins is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
+<p><em>n Weight</em>: Count the listed amount against your Load. Something with no listed weight isn't designed to be carried. 100 coins in standard denominations is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
 <p><em>Worn</em>: To use it, you have to be wearing it.</p>
 <h3>Range Tags (From Closest to Furthest)</h3>
 <p><em>Hand</em>: It's useful for attacking something within your reach, no further.</p>
@@ -36,112 +36,122 @@
 <p><em>Near</em>: It's useful for attacking if you can see the whites of their eyes. </p>
 <p><em>Far</em>: It's useful for attacking something in shouting distance.</p>
 <h2>Weapons</h2>
-<p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 3 Gold, 2 Weight</span></p>
-<p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 7 Gold, 2 Weight</span></p>
-<p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">Near, Far, 10 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 Ammo, 2 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Elven Arrows	<span aid:cstyle="Tags">4 Ammo, 20 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 Gold, 2 Weight</span></p>
-<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 1 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 5 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, 5 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Sword, Battle Axe, Flail	<span aid:cstyle="Tags">Close, +1 damage, 7 Gold, 2 Weight</span></p>
-<p aid:pstyle="Item">Halberd	<span aid:cstyle="Tags">Reach, +1 damage, Two-handed, 7 Gold, 2 Weight</span></p>
-<p aid:pstyle="Item">Rapier	<span aid:cstyle="Tags">Close, Precise, 10 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Dueling Rapier	<span aid:cstyle="Tags">Close, 1 piercing, Precise, 15 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 15 coins, 2 Weight</span></p>
+<p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 60 coins, 2 Weight</span></p>
+<p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">Near, Far, 100 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Crossbow	<span aid:cstyle="Tags">Near, +1 damage, Reload, 35 coins, 3 Weight</span></p>
+<p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 Ammo, 1 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Elven Arrows	<span aid:cstyle="Tags">4 Ammo, 20 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 coins, 2 Weight</span></p>
+<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 2 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 8 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, 5 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Long Sword, Battle Axe, Flail	<span aid:cstyle="Tags">Close, +1 damage, 15 coins, 2 Weight</span></p>
+<p aid:pstyle="Item">Halberd	<span aid:cstyle="Tags">Reach, +1 damage, Two-handed, 9 coins, 2 Weight</span></p>
+<p aid:pstyle="Item">Rapier	<span aid:cstyle="Tags">Close, Precise, 25 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Dueling Rapier	<span aid:cstyle="Tags">Close, 1 piercing, Precise, 50 coins, 2 Weight</span></p>
 <h2>Armor</h2>
-<p aid:pstyle="Item">Leather, Chainmail	<span aid:cstyle="Tags">1 Armor, Worn, 10 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item">Scale Mail	<span aid:cstyle="Tags">2 Armor, Worn, Clumsy, 50 Gold, 3 Weight</span></p>
-<p aid:pstyle="Item">Plate	<span aid:cstyle="Tags">3 Armor, Worn, Clumsy, 200 Gold, 4 Weight</span></p>
-<p aid:pstyle="Item">Shield	<span aid:cstyle="Tags">+1 Armor, 5 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Leather, Chainmail	<span aid:cstyle="Tags">1 Armor, Worn, 10 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Scale Mail	<span aid:cstyle="Tags">2 Armor, Worn, Clumsy, 50 coins, 3 Weight</span></p>
+<p aid:pstyle="Item">Plate	<span aid:cstyle="Tags">3 Armor, Worn, Clumsy, 350 coins, 4 Weight</span></p>
+<p aid:pstyle="Item">Shield	<span aid:cstyle="Tags">+1 Armor, 15 coins, 2 Weight</span></p>
 <h2>Dungeon Gear</h2>
-<p aid:pstyle="Item">Adventuring Gear	<span aid:cstyle="Tags">5 Uses, 5 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Adventuring Gear	<span aid:cstyle="Tags">5 Uses, 20 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a Use.</p>
-<p aid:pstyle="Item">Bandages	<span aid:cstyle="Tags">3 Uses, Slow, 5 Gold, 0 Weight</span></p>
+<p aid:pstyle="Item">Bandages	<span aid:cstyle="Tags">3 Uses, Slow, 5 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">When you have a few minutes to bandage someone else's wounds, heal them of 4 damage and expend a use.</p>
-<p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 Uses, Slow, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 Uses, Slow, 10 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">When you carefully treat someone's wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
-<p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">12 Gold</span></p>
+<p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">50 coins</span></p>
 <p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 10 damage.</p>
-<p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 Gold, Weight 4</span></p>
+<p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 coins, Weight 4</span></p>
 <p aid:pstyle="ItemDescription">When you open a keg of dwarven stout and let everyone drink freely, take +1 to your Carouse roll. If you drink a whole keg yourself, you are very very drunk.</p>
-<p aid:pstyle="Item">Cart and Donkey	<span aid:cstyle="Tags">4 Gold, Load 10</span></p>
-<p aid:pstyle="ItemDescription">This donkey is sworn to carry your burdens.</p>
-<p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 Uses, 10 Gold, 2 Weight</span></p>
+<p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 Uses, 10 coins, 2 Weight</span></p>
 <p aid:pstyle="ItemDescription">When your bag of books contains just the right book for the subject you're Spouting Lore on, consult the book, mark off a use, and take +1 to your roll.</p>
-<p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">10 Gold</span></p>
+<p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">10 coins</span></p>
 <p aid:pstyle="ItemDescription">When you drink antitoxin, you're cured of one poison affecting you.</p>
-<p aid:pstyle="Item">Dungeon Rations	<span aid:cstyle="Tags">Ration, 5 Uses, 2 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Dungeon Rations	<span aid:cstyle="Tags">Ration, 5 Uses, 3 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">Not tasty, but not bad either.</p>
-<p aid:pstyle="Item">Personal Feast	<span aid:cstyle="Tags">Ration, 2 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Personal Feast	<span aid:cstyle="Tags">Ration, 1 Use, 10 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">Ostentatious to say the least.</p>
-<p aid:pstyle="Item">Dwarven Hardtack	<span aid:cstyle="Tags">Ration, 7 Uses, 2 Gold, 1 Weight</span></p>
-<p aid:pstyle="Item"><span aid:cstyle="Tags">Requires dwarf</span></p>
+<p aid:pstyle="Item">Dwarven Hardtack	<span aid:cstyle="Tags">Requires Dwarf, Ration, 7 Uses, 3 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">Dwarves say it tastes like home. Everyone else says it tastes like home, on fire, in a hog farm.</p>
-<p aid:pstyle="Item">Elven Bread	<span aid:cstyle="Tags">Ration, Delicious, 7 Uses, 10 Gold, 1 Weight</span></p>
+<p aid:pstyle="Item">Elven Bread	<span aid:cstyle="Tags">Ration, 7 Uses, 10 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">Only the greatest of elf-friends are treated to this rare delicacy.</p>
-<p aid:pstyle="Item">Halfling Pipeleaf	<span aid:cstyle="Tags">5 Uses, 5 Gold, 1 Weight</span></p>
-<p aid:pstyle="ItemDescription">When you share halfling pipeleaf with someone, expend two uses and take +1 Forward to Parley with them.</p>
+<p aid:pstyle="Item">Halfling Pipeleaf	<span aid:cstyle="Tags">5 Uses, 5 coins, 1 Weight</span></p>
+<p aid:pstyle="ItemDescription">When you share halfling pipeleaf with someone, expend two uses and take +1 forward to Parley with them.</p>
 <h2>Poisons</h2>
-<p aid:pstyle="Item">Oil of Tagit	<span aid:cstyle="Tags">Dangerous, Applied, 3 Gold, 0 Weight</span></p>
+<p aid:pstyle="Item">Oil of Tagit	<span aid:cstyle="Tags">Dangerous, Applied, 15 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target falls into a light sleep</p>
-<p aid:pstyle="Item">Bloodweed	<span aid:cstyle="Tags">Dangerous, Touch, 2 Gold, 0 Weight</span></p>
+<p aid:pstyle="Item">Bloodweed	<span aid:cstyle="Tags">Dangerous, Touch, 12 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target deals -5 damage ongoing until cured</p>
-<p aid:pstyle="Item">Goldenroot	<span aid:cstyle="Tags">Dangerous, Applied, 4 Gold, 0 Weight</span></p>
+<p aid:pstyle="Item">Goldenroot	<span aid:cstyle="Tags">Dangerous, Applied, 20 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target treats the next creature they see as a trusted ally, until proved otherwise</p>
-<p aid:pstyle="Item">Serpent's Tears	<span aid:cstyle="Tags">Dangerous, Touch, 2 Gold, 0 Weight</span></p>
+<p aid:pstyle="Item">Serpent's Tears	<span aid:cstyle="Tags">Dangerous, Touch, 10 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target takes 5 damage now and 3 damage a few moments later. These cannot be healed until the poison is cured.</p>
 <h2>Services</h2>
-<p aid:pstyle="Item">A week's stay at a peasant inn	<span aid:cstyle="Tags">14-Charisma Gold</span></p>
-<p aid:pstyle="Item">A week's stay at a civilized inn	<span aid:cstyle="Tags">35-Charisma Gold</span></p>
-<p aid:pstyle="Item">A week's stay at the fanciest inn in town	<span aid:cstyle="Tags">105-Charisma Gold</span></p>
-<p aid:pstyle="Item">A week's unskilled mundane labor	<span aid:cstyle="Tags">6 Gold</span></p>
-<p aid:pstyle="Item">A month's pay for enlistment in an army	<span aid:cstyle="Tags">30 Gold</span></p>
-<p aid:pstyle="Item">A custom item from a blacksmith	<span aid:cstyle="Tags">Base Item + 50 Gold</span></p>
-<p aid:pstyle="Item">A night's "companionship"	<span aid:cstyle="Tags">15-Charisma Gold</span></p>
-<p aid:pstyle="Item">An evening of song and dance	<span aid:cstyle="Tags">12-Charisma Gold</span></p>
-<p aid:pstyle="Item">Escort for a day along a bandit-infested road	<span aid:cstyle="Tags">17 Gold</span></p>
-<p aid:pstyle="Item">Escort for a day along a monster-infested road	<span aid:cstyle="Tags">35 Gold</span></p>
-<p aid:pstyle="Item">A run-of-the-mill killing	<span aid:cstyle="Tags">5 Gold</span></p>
-<p aid:pstyle="Item">An assassination	<span aid:cstyle="Tags">120 Gold</span></p>
-<p aid:pstyle="Item">Healing from a Churgeon	<span aid:cstyle="Tags">5 Gold</span></p>
-<p aid:pstyle="Item">A month's prayers for the departed	<span aid:cstyle="Tags">1 Gold</span></p>
-<p aid:pstyle="Item">Repairs to a mundane item	<span aid:cstyle="Tags">5 Gold</span></p>
+<p aid:pstyle="Item">A week's stay at a peasant inn	<span aid:cstyle="Tags">14-Charisma coins</span></p>
+<p aid:pstyle="Item">A week's stay at a civilized inn	<span aid:cstyle="Tags">30-Charisma coins</span></p>
+<p aid:pstyle="Item">A week's stay at the fanciest inn in town	<span aid:cstyle="Tags">43-Charisma coins</span></p>
+<p aid:pstyle="Item">A week's unskilled mundane labor	<span aid:cstyle="Tags">10 coins</span></p>
+<p aid:pstyle="Item">A month's pay for enlistment in an army	<span aid:cstyle="Tags">30 coins</span></p>
+<p aid:pstyle="Item">A custom item from a blacksmith	<span aid:cstyle="Tags">Base Item + 50 coins</span></p>
+<p aid:pstyle="Item">A night's "companionship"	<span aid:cstyle="Tags">20-Charisma coins</span></p>
+<p aid:pstyle="Item">An evening of song and dance	<span aid:cstyle="Tags">18-Charisma coins</span></p>
+<p aid:pstyle="Item">Escort for a day along a bandit-infested road	<span aid:cstyle="Tags">20 coins</span></p>
+<p aid:pstyle="Item">Escort for a day along a monster-infested road	<span aid:cstyle="Tags">54 coins</span></p>
+<p aid:pstyle="Item">A run-of-the-mill killing	<span aid:cstyle="Tags">5 coins</span></p>
+<p aid:pstyle="Item">An assassination	<span aid:cstyle="Tags">120 coins</span></p>
+<p aid:pstyle="Item">Healing from a Churgeon	<span aid:cstyle="Tags">5 coins</span></p>
+<p aid:pstyle="Item">A month's prayers for the departed	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">Repairs to a mundane item	<span aid:cstyle="Tags">25% of the item's cost</span></p>
 <h2>Meals</h2>
-<p aid:pstyle="Item">A hearty meal for one	<span aid:cstyle="Tags">1 Gold</span></p>
-<p aid:pstyle="Item">A poor meal for a family	<span aid:cstyle="Tags">1 Gold</span></p>
-<p aid:pstyle="Item">A feast	<span aid:cstyle="Tags">15 Gold per person</span></p>
+<p aid:pstyle="Item">A hearty meal for one	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">A poor meal for a family	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">A feast	<span aid:cstyle="Tags">15 coins per person</span></p>
+<h2>Transport</h2>
+<p aid:pstyle="Item">Cart and Donkey	<span aid:cstyle="Tags">50 coins, Load 20</span></p>
+<p aid:pstyle="ItemDescription">This donkey is sworn to carry your burdens.</p>
+<p aid:pstyle="Item">Horse	<span aid:cstyle="Tags">75 coins, Load 10</span></p>
+<p aid:pstyle="Item">Warhorse	<span aid:cstyle="Tags">400 coins, Load 12</span></p>
+<p aid:pstyle="Item">Wagon	<span aid:cstyle="Tags">150 coins, Load 40</span></p>
+<p aid:pstyle="Item">Barge	<span aid:cstyle="Tags">50 coins, Load 15</span></p>
+<p aid:pstyle="Item">River boat	<span aid:cstyle="Tags">150 coins, Load 20</span></p>
+<p aid:pstyle="Item">Merchant Ship	<span aid:cstyle="Tags">5,000 coins, Load 200</span></p>
+<p aid:pstyle="Item">War Ship	<span aid:cstyle="Tags">20,000 coins, Load 100</span></p>
+<p aid:pstyle="Item">Passage on a safe route	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">Passage on a tough route	<span aid:cstyle="Tags">10 coins</span></p>
+<p aid:pstyle="Item">Passage on a dangerous route	<span aid:cstyle="Tags">100 coins</span></p>
 <h2>Land and Buildings</h2>
-<p aid:pstyle="Item">A hovel	<span aid:cstyle="Tags">20 Gold</span></p>
-<p aid:pstyle="Item">A cottage	<span aid:cstyle="Tags">100 Gold</span></p>
-<p aid:pstyle="Item">A house in the city	<span aid:cstyle="Tags">200 Gold</span></p>
-<p aid:pstyle="Item">A city mansion	<span aid:cstyle="Tags">1000 Gold</span></p>
-<p aid:pstyle="Item">A country mansion	<span aid:cstyle="Tags">3000 Gold</span></p>
-<p aid:pstyle="Item">A castle	<span aid:cstyle="Tags">10000+ Gold</span></p>
-<p aid:pstyle="Item">A month's upkeep for a household	<span aid:cstyle="Tags">100 Gold</span></p>
-<p aid:pstyle="Item">A month's upkeep for a mansion	<span aid:cstyle="Tags">300 Gold</span></p>
-<p aid:pstyle="Item">A month's upkeep for a castle	<span aid:cstyle="Tags">1000 Gold</span></p>
+<p aid:pstyle="Item">A hovel	<span aid:cstyle="Tags">20 coins</span></p>
+<p aid:pstyle="Item">A cottage	<span aid:cstyle="Tags">500 coins</span></p>
+<p aid:pstyle="Item">A house	<span aid:cstyle="Tags">2,500 coins</span></p>
+<p aid:pstyle="Item">A mansion	<span aid:cstyle="Tags">50,000 coins</span></p>
+<p aid:pstyle="Item">A keep	<span aid:cstyle="Tags">75,000 coins</span></p>
+<p aid:pstyle="Item">A castle	<span aid:cstyle="Tags">250,000 coins</span></p>
+<p aid:pstyle="Item">A grand castle	<span aid:cstyle="Tags">1,000,000 coins</span></p>
+<p aid:pstyle="Item">A month's upkeep	<span aid:cstyle="Tags">1% of the cost</span></p>
 <h2>Bribes</h2>
-<p aid:pstyle="Item">A peasant dowery	<span aid:cstyle="Tags">20-Charisma Gold</span></p>
-<p aid:pstyle="Item">"Protection" for a small business	<span aid:cstyle="Tags">100-Charisma Gold</span></p>
-<p aid:pstyle="Item">A government bribe	<span aid:cstyle="Tags">50-Charisma Gold</span></p>
-<p aid:pstyle="Item">A compelling bribe	<span aid:cstyle="Tags">80-Charisma Gold</span></p>
-<p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">200-Charisma Gold</span></p>
+<p aid:pstyle="Item">A peasant dowery	<span aid:cstyle="Tags">20-Charisma coins</span></p>
+<p aid:pstyle="Item">"Protection" for a small business	<span aid:cstyle="Tags">100-Charisma coins</span></p>
+<p aid:pstyle="Item">A government bribe	<span aid:cstyle="Tags">50-Charisma coins</span></p>
+<p aid:pstyle="Item">A compelling bribe	<span aid:cstyle="Tags">80-Charisma coins</span></p>
+<p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">500-Charisma coins</span></p>
 <h2>Gifts and Finery</h2>
-<p aid:pstyle="Item">A nice gift	<span aid:cstyle="Tags">3 Gold</span></p>
-<p aid:pstyle="Item">A generous gift	<span aid:cstyle="Tags">10 Gold</span></p>
-<p aid:pstyle="Item">A noble gift	<span aid:cstyle="Tags">75 Gold</span></p>
-<p aid:pstyle="Item">A ring or cameo	<span aid:cstyle="Tags">10 Gold</span></p>
-<p aid:pstyle="Item">Finery	<span aid:cstyle="Tags">30 Gold</span></p>
-<p aid:pstyle="Item">Art	<span aid:cstyle="Tags">70+ Gold</span></p>
-<p aid:pstyle="Item">A crown fit for a king	<span aid:cstyle="Tags">300 Gold</span></p>
-<h2>Hordes</h2>
-<p aid:pstyle="Item">A goblin family's stash	<span aid:cstyle="Tags">2 Gold</span></p>
-<p aid:pstyle="Item">A lizardman nest's trinkets	<span aid:cstyle="Tags">5 Gold</span></p>
-<p aid:pstyle="Item">A priceless sword	<span aid:cstyle="Tags">80 Gold</span></p>
-<p aid:pstyle="Item">An orc warchief's tribute	<span aid:cstyle="Tags">20 Gold</span></p>
-<p aid:pstyle="Item">A dragon's mound of coins and gems	<span aid:cstyle="Tags">20000 Gold</span></p>
+<p aid:pstyle="Item">A peasant gift	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">A fine gift	<span aid:cstyle="Tags">55 coins</span></p>
+<p aid:pstyle="Item">A noble gift	<span aid:cstyle="Tags">200 coins</span></p>
+<p aid:pstyle="Item">A ring or cameo	<span aid:cstyle="Tags">75 coins</span></p>
+<p aid:pstyle="Item">Finery	<span aid:cstyle="Tags">105 coins</span></p>
+<p aid:pstyle="Item">A fine tapestry	<span aid:cstyle="Tags">350+ coins</span></p>
+<p aid:pstyle="Item">A crown fit for a king	<span aid:cstyle="Tags">5,000 coins</span></p>
+<h2>Hoards</h2>
+<p aid:pstyle="Item">A goblin's stash	<span aid:cstyle="Tags">2 coins</span></p>
+<p aid:pstyle="Item">A lizardman's trinkets	<span aid:cstyle="Tags">5 coins</span></p>
+<p aid:pstyle="Item">A priceless sword	<span aid:cstyle="Tags">80 coins</span></p>
+<p aid:pstyle="Item">An orc warchief's tribute	<span aid:cstyle="Tags">250 coins</span></p>
+<p aid:pstyle="Item">A dragon's mound of coins and gems	<span aid:cstyle="Tags">130,000 coins</span></p>
 <h1>Magic Items</h1>
 <p aid:pstyle="NoIndent">There are stranger things in the world than swords and leather. Magic items are the non-mundane, items that have intrinsic power.</p>
 <p>Magic items are for you to make, for your game. Players can make magic items through the Wizard's ritual and similar moves, the GM can introduce magic items in the spoils of battle or the bounty of reward. This list provides some ideas, but magic items are ultimately for you to decide.</p>
