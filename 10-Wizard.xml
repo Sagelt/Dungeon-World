@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<ClassName>Wizard</ClassName>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Dungeon World has rules. Not the laws of men or the rule of some petty tyrant. Bigger, better rules. You drop something—it falls. You can’t make something out of nothing. The dead stay dead, right?</p>
+<p>Oh, the things we tell ourselves to feel better about the long, dark nights.</p>
+<p>You’ve spent so very long poring over those tomes of yours. The experiments that nearly drove you mad and all the botched summonings that endangered your very soul. For what? For power. What else is there? Not just the power of King or Country but the power to boil a man's blood in his veins. To call on the thunder of the sky and the churn of the roiling earth. To shrug off the rules the world holds so dear.</p>
+<p>Let them cast their sidelong glances. Let them call you “warlock” or “diabolist.” Who among them can hurl fireballs from their eyes?</p>
+<p>Yeah. We didn’t think so.</p></div>
+<h2>Names</h2>
+<div id="names"><p><em>Elf</em>: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr</p> 
+<p><em>Human</em>: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p>Haunted, Sharp, or Crazy Eyes</p>
+<p>Styled Hair, Wild Hair, or Pointed Hat</p>
+<p>Worn, Stylish, or Strange Robes</p>
+<p>Pudgy, Creepy, or Thin Body</p></div>
+<h2>Stats</h2>
+<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
+<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
+<p aid:pstyle="NoIndent">You start with 4+Constitution HP.</p></div>
+<p>Your base damage is <span id="Damage">d4</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
+<p aid:pstyle="NoIndent">Choose one cleric spell, you can cast it as if it was a wizard spell.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">When you cast a Summoning spell take +1.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves</p>
+<h3 aid:pstyle="BasicMoveName">Spellbook</h3>
+<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 weight.</p>
+<h3 aid:pstyle="BasicMoveName">Prepare Spells</h3>
+<p aid:pstyle="NoIndent">When you spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook, you lose any spells you already have prepared and prepare new spells of your choice from your spellbook whose total levels don't exceed your own+1. You also prepare your cantrips; they don't count against your limit.</p>
+<h3 aid:pstyle="BasicMoveName">Cast A Spell (Int)</h3>
+<p aid:pstyle="NoIndent">When you release a spell you've prepared, roll+Int. On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. On a 7-9, the spell is cast, but choose one:</p>
+<ul><li>You draw unwelcome attention or put yourself in a spot (the GM will describe it)</li>
+<li>The spell disturbs the fabric of reality as it is cast—take -1 ongoing to Cast a Spell until you Prepare Spells again.</li>
+<li>After it is cast, the spell is forgotten. You cannot cast the spell again until you Prepare Spells.</li></ul>
+<h3 aid:pstyle="BasicMoveName">Spell Defense</h3>
+<p aid:pstyle="NoIndent">When you craft an ongoing spell into a makeshift shield of arcane energy to deflect an attack, the spell is ended and you subtract the spell's level from the damage done to you.</p>
+<h3 aid:pstyle="BasicMoveName">Ritual</h3>
+<p aid:pstyle="NoIndent">When you draw on a place of power to create a magical effect, tell the GM what you're trying to achieve. The GM will tell you "yes, you can do that, but..." and then 1 to 4 of the following:</p>
+<ul><li>It's going to take days/weeks/months</li>
+<li>First you must ____</li>
+<li>You'll need help from ____</li>
+<li>It will require a lot of money</li>
+<li>The best you can do is a lesser version, unreliable and limited</li>
+<li>You and your allies will risk danger from ____</li>
+<li>You'll have to disenchant ____ to do it</li></ul></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Use magic to directly aid another</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Discover something about a magical mystery</p>
+<h3 aid:pstyle="MoveName">Evil</h3>
+<p aid:pstyle="NoIndent">Use magic to cause terror and fear</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str, and your spellbook is 1 weight. In addition to your spellbook you start with one from each list:</p>
+<ul><li>Leather armor (1 armor, 1 weight) <em>or</em> bag of books (5 uses, 2 weight) and 3 healing potions</li>
+<li>Dagger (Hand, 1 weight) <em>or</em> staff (Close, two-handed, 1 weight)</li>
+<li>Dungeon rations (5 uses, 1 weight) and healing potion <em>or</em> dungeon rations (5 uses, 1 weight) and three antitoxin </li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ will play an important role in the events to come. I have foreseen it!</p>
+<p>_______________ is keeping an important secret from me.</p>
+<p>_______________ is woefully misinformed about the world; I will teach them all that I can.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves. You also add a new spell to your spellbook at each level.</p>
+<h3 aid:pstyle="MoveName">Prodigy</h3>
+<p aid:pstyle="NoIndent">Choose a spell. You prepare that spell as if it were one level lower.</p>
+<h3 aid:pstyle="MoveName">Empowered Magic</h3>
+<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may choose one of these as well:</p>
+<ul><li>The spell's effects are maximized</li>
+<li>The spell's targets are doubled</li></ul>
+<h3 aid:pstyle="MoveName">Fount of Knowledge</h3>
+<p aid:pstyle="NoIndent">When you Spout Lore about something no one else has any clue about, take +1.</p>
+<h3 aid:pstyle="MoveName">Know-It-All</h3>
+<p aid:pstyle="NoIndent">When another player's character comes to you for advice and you tell them what you think is best, they get +1 forward when following your advice and you mark experience if they do.</p>
+<h3 aid:pstyle="MoveName">Expanded Spellbook</h3>
+<p aid:pstyle="NoIndent">Add a new spell from any class to your spellbook.</p>
+<h3 aid:pstyle="MoveName">Eldritch Touch</h3>
+<p aid:pstyle="NoIndent">When you touch a living creature, skin to skin, you can ask the GM what the last spell to affect that creature was.</p>
+<h3 aid:pstyle="MoveName">Logical</h3>
+<p aid:pstyle="NoIndent">When you use strict deduction to analyze your surroundings, you can Discern Realities with Int instead of Wis.</p>
+<h3 aid:pstyle="MoveName">Arcane Ward</h3>
+<p aid:pstyle="NoIndent">As long as you have at least one prepared spell, you have +2 armor.</p>
+<h3 aid:pstyle="MoveName">Counterspell</h3>
+<p aid:pstyle="NoIndent">When you are affected by arcane magic you may attempt to counter the spell. Stake one of your prepared spells of equal or higher level on the defense and roll+Int. On a 10+, the spell is countered and has no effect on you. On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are effected as usual.</p>
+<h3 aid:pstyle="MoveName">Quick Study</h3>
+<p aid:pstyle="NoIndent">When you see the effects of an arcane spell, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Master</h3>
+<p aid:pstyle="Requirement">Requires: Prodigy</p>
+<p aid:pstyle="NoIndent">Choose a spell. You prepare that spell as if it were one level lower.</p>
+<h3 aid:pstyle="MoveName">Greater Empowered Magic</h3>
+<p aid:pstyle="Requirement">Replaces: Empowered Magic</p>
+<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
+<ul><li>The spell’s effects are doubled</li>
+<li>The spell’s targets are doubled</li></ul>
+<h3 aid:pstyle="MoveName">Eldritch Connection</h3>
+<p aid:pstyle="Requirement">Replaces: Eldritch Touch</p>
+<p aid:pstyle="NoIndent">When you touch a living creature, skin to skin, you can ask the GM what the last spell to affect that creature was and one other question about their past of your choice.</p>
+<h3 aid:pstyle="MoveName">Highly Logical</h3>
+<p aid:pstyle="Requirement">Replaces: Logical</p>
+<p aid:pstyle="NoIndent">When you use strict deduction to analyze your surroundings, you can Discern Realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.</p>
+<h3 aid:pstyle="MoveName">Arcane Armor</h3>
+<p aid:pstyle="Requirement">Replaces: Arcane Ward</p>
+<p aid:pstyle="NoIndent">As long as you have at least one prepared spell, you have +4 armor.</p>
+<h3 aid:pstyle="MoveName">Protective Counter</h3>
+<p aid:pstyle="Requirement">Requires: Counterspell</p>
+<p aid:pstyle="NoIndent">When an ally within sight of you is affected by an arcane spell, you can counter it as if it effected you. If the spell affects multiple allies you must counter for each ally separately.</p>
+<h3 aid:pstyle="MoveName">Ethereal Tether</h3>
+<p aid:pstyle="NoIndent">When you have time with a willing or helpless subject you can craft an ethereal tether with them. You perceive what they perceive and can Discern Realities about someone tethered to you or their surroundings no matter the distance. Someone willingly tethered to you can communicate with you over the tether as if you were in the room with them.</p>
+<h3 aid:pstyle="MoveName">Mystical Puppet Strings</h3>
+<p aid:pstyle="NoIndent">When you use magic to control a person's actions they have no memory of what you had them do and bear you no ill will.</p>
+<h3 aid:pstyle="MoveName">Spell Augmentation</h3>
+<p aid:pstyle="NoIndent">When you deal damage to a creature you can shunt a spell's energy into them—end one of your ongoing spells and add the spell's level to the damage dealt.</p>
+<h3 aid:pstyle="MoveName">Self-Powered</h3>
+<p aid:pstyle="NoIndent">When you have time, arcane materials, and a safe space, you can create your own place of power. Describe to the GM what kind of power it is and how you're binding it to this place, the GM will tell you one kind of creature that will have an interested in your workings.</p></div></Body></Root>
