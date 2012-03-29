@@ -16,7 +16,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Detect Alignment</span>	Level 1</p>
 <p aid:pstyle="NoIndent">When you cast this spell choose an alignment: Good, Evil, or Neutral. One of your senses is briefly able to detect that alignment. The GM will tell you what here is of that alignment.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Light Wounds</span>	Level 1	<em>Damaging</em></p>
-<p aid:pstyle="NoIndent">You open wounds, channeling the wrath of your god. Deal 1d8 damage to the target.</p>
+<p aid:pstyle="NoIndent">You open wounds, channeling the wrath of your god. Deal 1d8 damage to the target ignoring armor.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Magic Weapon</span>	Level 1	 <em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">The weapon you hold while casting does +1d4 damage until you dismiss this spell. Until you dismiss this spell you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctuary</span>	Level 1</p>
@@ -33,7 +33,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Moderate Wounds</span>	Level 3</p>
 <p aid:pstyle="NoIndent">You staunch bleeding and set bones through magic. Heal an ally of 2d8 damage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Moderate Wounds</span>	Level 3	<em>Damaging</em></p>
-<p aid:pstyle="NoIndent">You break bones and leave gushing wounds. Deal 1d10 damage.</p>
+<p aid:pstyle="NoIndent">You break bones and leave gushing wounds. Deal 1d10 damage ignoring armor.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Resurrection</span>	Level 3</p>
 <p aid:pstyle="NoIndent">Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. The GM will tell you "yes, you can resurrect them, but first…" or "yes, you can resurrect them now, but it won't be permanent until…" and then one to all of the things from this list:</p>
 <ul><li>It's going to take days/weeks/months</li>
@@ -51,7 +51,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divination</span>	Level 5</p>
 <p aid:pstyle="NoIndent">Name a person, place or thing you want to learn about. Your deity grants you visions of the target, as clear as if you were there.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Critical Wounds</span>	Level 5	Damaging</p>
-<p aid:pstyle="NoIndent">You cause horrific harm. Deal 1d8+1d4 damage.</p>
+<p aid:pstyle="NoIndent">You cause horrific harm. Deal 1d8+1d4 damage ignoring armor.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Words of the Unspeaking</span>	Level 5</p>
 <p aid:pstyle="NoIndent">With a touch you speak to the spirits within things. The non-living object you touch responds to three questions you pose, answering them as best it can.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">True Seeing</span>	Level 5</p>

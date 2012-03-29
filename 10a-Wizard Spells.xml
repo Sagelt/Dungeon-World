@@ -28,7 +28,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Visions Through Time</span>	Level 3	Divination</p>
 <p aid:pstyle="NoIndent">Cast this spell and gaze into a reflective surface to see into the depths of time. The GM will reveal the details of a Grim Portent to you—a bleak event that will come to pass if not directly stopped. They'll tell you something useful about how you can interfere with the Grim Portent's dark outcomes. Rare is the Portent that claims "You'll live happily ever after." Sorry.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Fireball</span>	Level 3	Evocation</p>
-<p aid:pstyle="NoIndent">You evoke a mighty ball of flame that envelops your target and everyone nearby, inflicting 2d6 damage.</p>
+<p aid:pstyle="NoIndent">You evoke a mighty ball of flame that envelops your target and everyone nearby, inflicting 2d6 damage which ignores armor.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mimic</span>	Level 3</p>
 <p aid:pstyle="NoIndent">You take the form of someone you touch while casting this spell. Your physical characteristics match theirs exactly but your behavior may not. This change persists until you take damage or choose to return to your own form. While this spell is ongoing, you lose access to all your wizard moves.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mirror Image</span>	Level 3	Illusion</p>
@@ -68,7 +68,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Contingency</span>	Level 7	Evocation</p>
 <p aid:pstyle="NoIndent">Choose a 5th level or lower spell you know. Describe a trigger condition using a number of words equal to your level. The chosen spell is held until you choose to unleash it or the trigger condition is met, whichever happens first. You don't have to roll for the held spell, it just takes effect. While you have a contingent spell, you can't gain another one.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cloudkill</span>	Level 7	Summoning</p>
-<p aid:pstyle="NoIndent">A cloud of fog drifts into this realm from beyond the Black Gates of Death, filling the immediate area. Whenever a creature in the area takes damage it takes an extra 1d6 damage. This spell persists so long as you can see the affected area, or until you dismiss it.</p></div>
+<p aid:pstyle="NoIndent">A cloud of fog drifts into this realm from beyond the Black Gates of Death, filling the immediate area. Whenever a creature in the area takes damage it takes an extra 1d6 damage which ignores armor. This spell persists so long as you can see the affected area, or until you dismiss it.</p></div>
 <div><h2>9th Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Antipathy</span>	Level 9	Enchantment</p>
 <p aid:pstyle="NoIndent">Choose a target and describe a type of creature or an alignment. Creatures of the specified type or alignment cannot come within sight of the target. If a creature of the specified type does find itself within site of the target, it immediately flees. This effect continues until you leave the target's presence or you dismiss the spell. While the spell is ongoing, you take -1 to Cast a Spell.</p>
