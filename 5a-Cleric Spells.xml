@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="dungeon-world.xsl"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cleric Spells</h1>
 <div><h2>Rotes</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
-<p aid:pstyle="NoIndent">An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel but is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.</p>
+<div class="spell" name="Light" level="Rote"><p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
+<p aid:pstyle="NoIndent">An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel but is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.</p></div>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctify</span>	Rote</p>
 <p aid:pstyle="NoIndent">Food or water you hold in your hands while you cast this spell is consecrated by your deity. In addition to now being holy or unholy the affected substance is purified of any mundane spoilage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Guidance</span>	Rote</p>
 <p aid:pstyle="NoIndent">The symbol of your deity appears before you and gestures towards the direction or course of action your deity would have you take then disappears. The message is through gesture only; your communication through this spell is severely limited.</p></div>
 <div><h2>1st Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Bless</span>	Level 1</p>
+<p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Bless</span>	Level 1</p>
 <p aid:pstyle="NoIndent">You deity smiles on the target in combat. They take +1 ongoing for the duration of the fight.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Light Wounds</span>	Level 1</p>
 <p aid:pstyle="NoIndent">At your touch wounds scab and bones cease to ache. Heal an ally of 1d8 damage.</p>
@@ -41,7 +42,7 @@
 <li>It will require a lot of money</li>
 <li>You must sacrifice ____ to do it</li></ul>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Hold Person</span>	Level 3</p>
-<p aid:pstyle="NoIndent">This spell affects a number of targets whose levels add up to less than or equal to your level. These targets are paralyzed by magical force. They can speak but cannot act unless you leave their presence or they are harmed in some way.</p></div>
+<p aid:pstyle="NoIndent">Choose a creature you can see. Until you Cast a Spell or leave their presence they cannot act except to speak. If they're harmed this effect ends.</p></div>
 <div><h2>5th Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Revelation</span>	Level 5</p>
 <p aid:pstyle="NoIndent">Your deity answers your prayers with a moment of perfect understanding. The GM will explain the root cause of the current situation. When acting on the information, you take +1 Forward.</p>
@@ -80,6 +81,6 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divine Presence</span>	Level 9	Damaging</p>
 <p aid:pstyle="NoIndent">Every creature must ask your leave to enter your presence, and you must speak permission for them to enter. Any creature that you deny permission takes an extra 1d10 damage whenever they take damage in your presence.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Consume Unlife</span>	Level 9	Death</p>
-<p aid:pstyle="NoIndent">Choose undead creatures whose total level is less than or equal to your level. These creatures are destroyed. You steal the death energy that powers these creatures and can use it to heal an amount of damage equal to the destroyed creatures' current HP.</p>
+<p aid:pstyle="NoIndent">The mindless undead creature you touch is destroyed and you steal its death energy to heal yourself or the next ally you touch of damage equal to its current HP.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Peace</span>	Level 9</p>
 <p aid:pstyle="NoIndent">Choose one traumatic memory in the target's past. The target's memory of that event is calmly erased. If the target is a PC, they must be willing.</p></div></Root>
