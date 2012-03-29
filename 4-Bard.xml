@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="dungeon-world-class.xsl"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Bard</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">Sure, an adventurer’s life is all open roads and the glory of coin and combat. Those tales that are told in every farmhand-filled inn have to have some ring of truth to them, don’t they? The songs to inspire peasantry and royals alike – to sooth the savage beast or drive men to a frenzy have to come from somewhere.</p>
@@ -77,9 +78,9 @@
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Healing Song</h3>
-<p aid:pstyle="NoIndent">When you heal with Arcane Music, you heal +1d8 damage.</p>
+<p aid:pstyle="NoIndent">When you heal with Arcane Art, you heal +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Vicious Cacophony</h3>
-<p aid:pstyle="NoIndent">When you grant bonus damage with Arcane Music, you grant an extra +1d4 damage.</p>
+<p aid:pstyle="NoIndent">When you grant bonus damage with Arcane Art, you grant an extra +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">It Goes To Eleven</h3>
 <p aid:pstyle="NoIndent">When you unleash a crazed performance (a righteous lute solo, might brass blast, confusing interpretive dance) choose a target who can hear you and roll+Cha. On a 10+ the target flails in confusion dealing its damage to a creature of your choosing. On a 7–9 it deals its damage, but then takes +1 damage forward as the music invigorates it.</p>
 <h3 aid:pstyle="MoveName">Metal Hurlant</h3>
@@ -87,7 +88,7 @@
 <h3 aid:pstyle="MoveName">A Little Help From My Friends</h3>
 <p aid:pstyle="NoIndent">When you successfully Aid someone you take +1 forward as well.</p>
 <h3 aid:pstyle="MoveName">Eldritch Tones</h3>
-<p aid:pstyle="NoIndent">When you use Arcane Music, you choose two effects instead of one.</p>
+<p aid:pstyle="NoIndent">When you use Arcane Art, you choose two effects instead of one.</p>
 <h3 aid:pstyle="MoveName">Duelist's Parry</h3>
 <p aid:pstyle="NoIndent">When you Hack and Slash, you take +1 armor forward.</p>
 <h3 aid:pstyle="MoveName">Bamboozle</h3>
@@ -99,10 +100,10 @@
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Healing Chorus</h3>
 <p aid:pstyle="Requirement">Replaces: Healing Song</p>
-<p aid:pstyle="NoIndent">When you heal with Arcane Music, you heal +2d8 damage.</p>
+<p aid:pstyle="NoIndent">When you heal with Arcane Art, you heal +2d8 damage.</p>
 <h3 aid:pstyle="MoveName">Vicious Blast</h3>
 <p aid:pstyle="Requirement">Replaces: Vicious Cacophony</p>
-<p aid:pstyle="NoIndent">When you grant bonus damage with Arcane Music, you grant an extra +1d4 damage.</p>
+<p aid:pstyle="NoIndent">When you grant bonus damage with Arcane Art, you grant an extra +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Unforgettable Face</h3>
 <p aid:pstyle="Requirement">Replaces: A Friendly Face</p>
 <p aid:pstyle="NoIndent">When you meet someone you've met before (your call) after some time apart you take +1 forward against them.</p>
@@ -110,7 +111,7 @@
 <p aid:pstyle="NoIndent">When you first meet someone who's heard songs about you, roll+Cha. On a 10+, tell the GM two things they've heard about you. On a 7-9, tell the GM one thing they've heard, and the GM tells you one thing.</p>
 <h3 aid:pstyle="MoveName">Eldritch Chord</h3>
 <p aid:pstyle="Requirement">Replaces: Eldritch Tones</p>
-<p aid:pstyle="NoIndent">When you use Arcane Music, you choose three effects instead of one.</p>
+<p aid:pstyle="NoIndent">When you use Arcane Art, you choose three effects instead of one.</p>
 <h3 aid:pstyle="MoveName">An Ear For Magic</h3>
 <p aid:pstyle="NoIndent">When you hear an enemy cast a spell the GM will tell you the name of the spell and its effects. Take +1 forward when acting on the answers.</p>
 <h3 aid:pstyle="MoveName">Devious</h3>
