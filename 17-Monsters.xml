@@ -97,6 +97,35 @@
 <li>It was made by someone: Construct, give it a special quality or two about its materials and construction</li>
 <li>Its appearance is disturbing, terrible, or horrible: Terrifying, write a special quality about why it's so horrendous</li>
 <li>It doesn't have organs or discernible anatomy: Gibbous, +1 Armor, +3 HP</li></ul>
+<h2>Treasure</h2>
+<p aid:pstyle="NoIndent">Monsters, much like adventurers, collect shiny useful things. When the players search the belongings of a monster (be they on their person or tucked away somewhere) describe them honestly.</p>
+<p>If the monster has accumulated some wealth you can roll that randomly. Start with the monster's damage die, modified if the monster is:</p>
+<ul><li>Hoarder: roll damage die twice, take higher result</li>
+<li>Far from home: +at least one ration (usable by anyone with similar taste)</li>
+<li>Magical: some strange item, possibly magical</li>
+<li>Divine: a sign of a deity (or deities)</li>
+<li>Planar: something not of this earth</li>
+<li>Lord over others: +1d4 to the roll</li>
+<li>Ancient and noteworthy: +1d4 to the roll</li></ul>
+<p aid:pstyle="NoIndent">Roll the monster's damage die plus any added dice to fine the monster's treasure:</p>
+<ol><li aid:pstyle="NumberedList">A few coins, 2d8 or so</li>
+<li aid:pstyle="NumberedList">An item useful to the current situation</li>
+<li aid:pstyle="NumberedList">Several coins, about 4d10</li>
+<li aid:pstyle="NumberedList">A small item (gem, art) of considerable value, worth as much as 2d10×10 coins, 0 weight</li>
+<li aid:pstyle="NumberedList">Some minor magical trinket</li>
+<li aid:pstyle="NumberedList">Useful information (in the form of clues, notes, etc.)</li>
+<li aid:pstyle="NumberedList">A bag of coins, 1d4×100 or thereabouts. 1 weight per 100.</li>
+<li aid:pstyle="NumberedList">A very valuable small item (gem, art) worth 2d6×100, 0 weight</li>
+<li aid:pstyle="NumberedList">A chest of coins and other small valuables. 1 weight but worth 3d6×100 coins</li>
+<li aid:pstyle="NumberedList">A magical item or magical effect</li>
+<li aid:pstyle="NumberedList">Many bags of coins for a total of 2d4×100 or so</li>
+<li aid:pstyle="NumberedList">A sign of office (crown, banner) worth at least 3d4×100 coins</li>
+<li aid:pstyle="NumberedList">A large art item worth 4d4×100 coins, 1 weight</li>
+<li aid:pstyle="NumberedList">A unique item worth at least 5d4×100 coins</li>
+<li aid:pstyle="NumberedList">All the information needed to learn a new spell and roll again</li>
+<li aid:pstyle="NumberedList">A portal or secret path (or directions to one) and roll again</li>
+<li aid:pstyle="NumberedList">Something relating to one of the characters and roll again</li>
+<li aid:pstyle="NumberedList">A hoard: 1d10×1000 coins and 1d10×10 gems worth 2d6×100 each</li></ol>
 <h2>Monster Settings</h2>
 <p aid:pstyle="NoIndent">The monsters in this book are presented in <strong>monster settings</strong>. A monster setting is a location (or type of location) and the monsters that inhabit it. It's a way of grouping monsters by where they fit in the world. A monster setting tells you what kind of monsters might inhabit an area while your Fronts tell you what monsters are working together or have ongoing plots.</p>
 <p>When creating your own monster settings, they can be more specific. You could create a monster setting for the Great Western Steppes or the Domains of the Horse Lords.</p>
