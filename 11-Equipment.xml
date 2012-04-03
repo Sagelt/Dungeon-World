@@ -23,6 +23,7 @@
 <p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
 <p><em>Requires</em>: It's only useful to certain people. If you don't meet the requirements it works weakly, if at all.</p>
 <p><em>Slow</em>: It takes minutes or more to use.</p>
+<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can't choose to mark off ammo on a 7–9. Once you throw it, it's lost until you can recover it.  </p>
 <p><em>Touch</em>: It's used by touching it to the target's skin.</p>
 <p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
@@ -45,8 +46,9 @@
 <p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 2 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Throwing Daggers	<span aid:cstyle="Tags">Thrown, Near, 1 coin, 0 Weight</span></p>
 <p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 8 coins, 1 Weight</span></p>
-<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, 5 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, Thrown, Near, 5 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Long Sword, Battle Axe, Flail	<span aid:cstyle="Tags">Close, +1 damage, 15 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Halberd	<span aid:cstyle="Tags">Reach, +1 damage, Two-handed, 9 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Rapier	<span aid:cstyle="Tags">Close, Precise, 25 coins, 1 Weight</span></p>
