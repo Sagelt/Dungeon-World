@@ -9,7 +9,7 @@
 <p aid:pstyle="NoIndent">You perform minor tricks of true magic. If you touch an item as part of the casting you can make cosmetic changes to it: clean it, soil it, cool it, warm it, flavor it, or change its color. If you cast the spell without touching an item you can instead create minor illusions no bigger than yourself. Prestidigitation illusions are crude and clearly illusions; they won't fool anyone, but they might entertain them.</p></div>
 <div><h2>1st Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Contact Spirits</span>	Level 1	Summoning</p>
-<p aid:pstyle="NoIndent">You draw a creature from another plane just close enough for you to hear its voice. You gain 1d6 hold. You may spend one point of hold at any time to have the spirit give you useful information of its own choosing. The spell ends when you run out of hold or you dismiss the creature. While the spell is ongoing, the creature's presence unnerves those nearby: everyone in your presence takes -1 to Parley.</p>
+<p aid:pstyle="NoIndent">Name the spirit you wish to contact (or leave it to the GM). You pull that creature through the planes, just close enough to speak to you. It is bound to answer any one question you ask to the best of its ability.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Detect Magic</span>	Level 1	Divination</p>
 <p aid:pstyle="NoIndent">One of your senses is briefly attuned to magic. The GM will tell you what here is magical.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Telepathy</span>	Level 1	Divination</p>
@@ -24,7 +24,7 @@
 <p aid:pstyle="NoIndent">Walk a wide circle. Until you prepare spells again your magic will alert you if a creature crosses that circle. Even if you are asleep, the spell will shake you from your slumber.</p></div>
 <div><h2>3rd Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Dispel Magic</span>	Level 3</p>
-<p aid:pstyle="NoIndent">Casting this spell ends any one ongoing magical effect in your presence if the caster was of your level or lower. If not, the effect is reduced or dampened so long as you are nearby.</p>
+<p aid:pstyle="NoIndent">Choose a spell or magic effect in your presence: this spell rips it apart. Lesser spells are ended, powerful magic is just reduced or dampened so long as you are nearby.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Visions Through Time</span>	Level 3	Divination</p>
 <p aid:pstyle="NoIndent">Cast this spell and gaze into a reflective surface to see into the depths of time. The GM will reveal the details of a Grim Portent to you—a bleak event that will come to pass if not directly stopped. They'll tell you something useful about how you can interfere with the Grim Portent's dark outcomes. Rare is the Portent that claims "You'll live happily ever after." Sorry.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Fireball</span>	Level 3	Evocation</p>
@@ -40,11 +40,11 @@
 <p aid:pstyle="NoIndent">The target is held in a cage of magical force. Nothing can get in or out of the cage. The cage remains until you cast another spell or dismiss it. While the spell is ongoing, the caged creature can hear your thoughts and you cannot leave sight of the cage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Contact Other Plane</span>	Level 5	Divination</p>
 <p aid:pstyle="NoIndent">You send a request to another plane. Specify what you'd like to contact by location, type of creature, name, or title. You open a two-way communication with that creature. Your communication can be cut off at any time by you or the creature you contacted.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cause Mutation</span>	Level 5	Enchantment</p>
-<p aid:pstyle="NoIndent">You modify the target's body, shaping it through magic. They remain in the shape you craft until you dismiss this spell. While the spell is ongoing you take -1 to Cast a Spell. You gain 1d4 hold to modify the target; spend your hold, 1 for 1, on these effects:</p>
-<ul><li>Cause the target to grow an appendage</li>
-<li>Attach an item to the target as if it was a limb</li>
-<li>Wither one of the target's limbs to be nearly useless</li></ul>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Polymorph</span>	Level 5	Enchantment</p>
+<p aid:pstyle="NoIndent">Your touch reshapes a creature entirely, they stay in the form you craft until you Cast a Spell. Describe to the GM the new shape you craft, including any stat changes, significant adaptations, or major weaknesses. The GM will then tell you one or more of these:</p>
+<ul><li>The form will be unstable and temporary</li>
+<li>The creature's mind will be altered as well</li>
+<li>The form has an unintended benefit or weakness</li></ul>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Summon Monster</span>	Level 5	Summoning</p>
 <p aid:pstyle="NoIndent">A monster appears and aids you as best it can. Treat it as your character, but with access to only the basic moves. It has +1 modifier for all stats and 1 HP. Choose the type of monster by choosing 1d6 statements from the list below. The GM will tell you the type of monster you get based on your choices:</p>
 <ul><li>The monster has +2 instead of +1 to one stat</li>
@@ -55,14 +55,14 @@
 <p aid:pstyle="NoIndent">The creature remains on this plane until it dies or you dismiss it. While the spell is ongoing, you take -1 to Cast a Spell.</p></div>
 <div><h2>7th Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Dominate</span>	Level 7	Enchantment</p>
-<p aid:pstyle="NoIndent">You push yourself into the target's mind. If the target is a lower level NPC, you gain 1d4 Hold over them. You may spend Hold at any time to make the target take one of these actions:</p>
+<p aid:pstyle="NoIndent">Your touch pushes your mind into someone else's. You gain 1d4 hold. Spend one hold to make the target take one of these actions:</p>
 <ul><li>Speak a few words of your choice</li>
 <li>Give you something they hold</li>
 <li>Make a concerted attack on a target of your choice</li>
 <li>Truthfully answer one question</li></ul>
-<p aid:pstyle="NoIndent">If used on a PC, tell the PC what you want. They mark experience if they do what you want. If they don't do it, they are Defying Danger and you can, if you wish, inflict your level in damage to them.</p>
+<p aid:pstyle="NoIndent">If you run out of hold the spell ends. If the target takes damage you lose 1 hold. While the spell is ongoing you cannot Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">True Seeing</span>	Level 7	Divination</p>
-<p aid:pstyle="NoIndent">You see all things as they truly are. When you first lay eyes on something, you may ask one question from the Discern Realities list for free. This effect persists until you tell a lie or dismiss the spell. While this spell is ongoing, you take -1 to Cast a Spell.</p>
+<p aid:pstyle="NoIndent">You see all things as they truly are. This effect persists until you tell a lie or dismiss the spell. While this spell is ongoing, you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Shadow Walk</span>	Level 7	Illusion</p>
 <p aid:pstyle="NoIndent">The shadows you target with this spell become a portal for you and your allies. Name a location, describing it with a number of words up to your level. Stepping through the portal deposits you and any allies present when you cast the spell at the location you described. The portal may only be used once by each ally.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Contingency</span>	Level 7	Evocation</p>
