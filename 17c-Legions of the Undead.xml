@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cavern Dwellers</h1>
+<Body><p aid:pstyle="MonsterName">Abomination	<span aid:cstyle="Tags">Solitary, Large, Construct, Terrifying</span></p>
+<p aid:pstyle="MonsterStats">Slam (d10+3 damage)	20 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Many limbs, heads, and so on</p>
+<p aid:pstyle="MonsterDescription">Corpses sewn unto corpses make up the bulk of these shambling masses of dark magic.  Most undead are crafted to be controlled—made to serve some purpose like building a tower or serving as guardians.  Not so the abomination.  The last aspect of the ritual used to grant fire to their hellish limbs invokes a hatred so severe that the abomination knows but one task: to tear and rend at the very thing it cannot have—life.  Many students of the black arts learn to their mortal dismay the most important fact about these hulks. An abomination knows no master. <em>Instinct</em>: To end life</p>
+<ul><li>Tear flesh apart</li>
+<li>Spill forth putrid guts</li></ul>
+<p aid:pstyle="MonsterName">Banshee	<span aid:cstyle="Tags">Solitary, Magical, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Scream (d10 damage)	16 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
+<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days.  Often mistaken on first glance for a ghost or wandering spirit, the Banshee reveals a far more deadly talent for sonic assault when angered.  And angered they are. To a one the victims of betrayal (often by a loved one) the Banshee makes known their displeasure with a roar or scream that can putrefy flesh and rend the senses.  If you can, help them get their vengeance and they’ve been known to grant rewards.  Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To avenge</p>
+<ul><li>Drown out all other sound with a ceaseless scream</li>
+<li>Unleash a skull-splitting noise</li>
+<li>Disappear into the mists</li></ul>
+<p aid:pstyle="MonsterName">Devourer	<span aid:cstyle="Tags">Solitary, Large, Intelligent, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Smash (d10+3 damage)	16 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterDescription">Most folk know that the undead feed on flesh.  The warmth, blood and living tissue continue their unholy existence.  This is true for most of the mindless dead, animated by black sorcery.  Not so the Devourer.  When a particularly wicked person (often a manipulator of men, an apostate priest or the like) dies in a gruesome way, the dark powers of Dungeon World might bring them back to a kind of life.  The Devourer, however, does not feed on the flesh of men or elves.  The Devourer eats souls.  It kills with a pleasure only the sentient can enjoy and in the moments of its victims’ expiry, draws breath like a drowning man and swallows a soul.  What does it mean to have your soul eaten by such a creature?  None dare ask for fear of finding out. <em>Instinct</em>: To eat souls</p>
+<ul><li>Devour or trap dying soul</li>
+<li>Bargain for a soul</li></ul>
+<p aid:pstyle="MonsterName">Dragonbone	<span aid:cstyle="Tags">Solitary, Huge</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10+3 damage 3 piercing)	20 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Messy</span></p>
+<p aid:pstyle="MonsterDescription">Mystical sorcerors debate: is this creature truly undead or is it a golem made of a particularly rare and blasphemous material?  The bones, sinews and scales of a dead dragon make up this bleak automaton.  Winged but flightless, dragon-shaped but without the mighty fire of such a noble thing, the Dragonbone serves its master with a twisted devotion and is often set to assault the keeps and towers of rival necromancers.  It would take a being of some considerable evil to twist the remains of a dragon thus. <em>Instinct</em>: To serve</p>
+<ul><li>Attack unrelentingly</li></ul>
+<p aid:pstyle="MonsterName">Draugr	<span aid:cstyle="Tags">Horde, Organized</span></p>
+<p aid:pstyle="MonsterStats">Rusty sword (d6+1 damage)	7 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Icy touch</p>
+<p aid:pstyle="MonsterDescription">In the Nordemark, the men and women tell tales in their wooden halls of a place where the noble dead go.  A mead hall atop their heavenly mountain where men of valor go to await the final battle for the world.  It is a goodly place.  It is a place where one hopes to go when they die.  And the inglorious dead?  Those who fall to poison or in an act of cowardice, warriors though they may be?  Well, those mead halls aren’t open to all and sundry. Some come back, frozen and twisted and empowered by jealous rage and wage their eternal war not on the forces of giants or trolls but on the towns of the men they once knew. <em>Instinct</em>: To take from the living</p>
+<ul><li>Freeze flesh</li>
+<li>Call on the unworthy dead</li></ul>
+<p aid:pstyle="MonsterName">Ghost	<span aid:cstyle="Tags">Solitary, Devious, Terrifying</span></p>
+<p aid:pstyle="MonsterStats">Phantom touch (d6 damage)	16 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
+<p aid:pstyle="MonsterDescription">Every culture tells the story the same way.  You live, you love or hate, you win or you lose, you die somehow you’re not too fond of and here you are, ghostly and full of disappointment and what have you.  Some people take it upon themselves, brave and kindly folks, to seek out the dead and help them pass to their rightful rest.  You can find them, most times, down at the tavern drinking away the terrors they’ve seen or babbling to themselves in the madhouse.  Death takes a toll on the living, no matter how you come by it. <em>Instinct</em>: To haunt</p>
+<ul><li>Reveal the terrifying nature of death</li>
+<li>Offer information from the other side, at a price</li></ul>
+<p aid:pstyle="MonsterName">Ghoul	<span aid:cstyle="Tags">Group</span></p>
+<p aid:pstyle="MonsterStats">Talons (d8 damage 1 piercing)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
+<p aid:pstyle="MonsterDescription">Hunger.  Hunger hunger hunger.  Desperate clinging void-stomach-emptiness hunger.  Sharp talons to rend flesh and teeth to tear and crack bones and suck out the soft marrow inside.  Vomit up hate and screaming jealous anger and charge on twisted legs—scare the living flesh and sweeten it ever more with the stink of fear.  Feast.  Peasant or knight, wizard, sage, prince, or priest all make for such delicious meat. <em>Instinct</em>: To eat</p>
+<ul><li>Gnaw off a body part</li>
+<li>Gain the memories of their meal</li></ul>
+<p aid:pstyle="MonsterName">Lich	<span aid:cstyle="Tags">Solitary, Magical, Intelligent, Cautious, Hoarder, Construct</span></p>
+<p aid:pstyle="MonsterStats">Enervate (d10+3 damage ignores armor)	16 HP	5 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterDescription">“At the end, they give you a scroll and a jeweled medallion to commemorate your achievements.  Grand Master of Abjuration, I was called, then.  Old man.  Weak and wizened and just a bit too senile for them—hose jealous halfwits.  Barely apprentices, and they called themselves The New Council.  It makes me sick, or would, if I still could be.  They told me it was an honor and I would be remembered forever.  It was like listening to my own eulogy.  Fitting, in a way, don’t you think?  It took me another ten years to learn the rituals and another four to collect the material and you see before you the fruits of my labour.  I endure.  I live.  I will see the death of this age and the dawn of the next.  It pains me to have to do this, but, you see, you cannot be permitted to endanger my research.  When you meet Death, say hello for me, would you?” <em>Instinct</em>: To un-live</p>
+<ul><li>Cast a perfected spell of death or destruction</li>
+<li>Set a ritual or great working into motion</li>
+<li>Reveal a preparation or plan already completed</li></ul>
+<p aid:pstyle="MonsterName">Mohrg	<span aid:cstyle="Tags">Group</span></p>
+<p aid:pstyle="MonsterStats">Bite (d8 damage)	10 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterDescription">You never get away with murder.  Not really.  You might evade the law, might escape your own conscience in the end and die, fat and happy in a mansion somewhere.  When the gods themselves notice your misdeeds, though, that’s where your luck runs out and a Mohrg is born.  The Mohrg is a skeleton—flesh and skin and hair all rotted away.  All but their guts—their twisted, knotted guts still spill from their bellies, magically preserved and often wrapped, noose-like, about their necks.  They do not think, exactly, but they suffer.  They kill and wreak havoc and their souls do not rest.  Such is the punishment, both on them for the crime and on all mankind for daring to murder one another.  The gods are just and they are harsh. <em>Instinct</em>: To wreak havoc</p>
+<ul><li>Rage</li>
+<li>Add to their collection of guts</li></ul>
+<p aid:pstyle="MonsterName">Mummy	<span aid:cstyle="Tags">Solitary, Divine, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Smash (d10+2 damage)	16 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterDescription">There are cultures who revere the dead.  They do not bury them in the cold earth and mourn their passing. These people spend weeks preparing the sacred corpse for its eternal rest.  Temples, pyramids, and great vaults of stone are built to house them and are populated with slaves, pets and gold.  The better to live in luxury beyond the Black Gates, no?  Do not be tempted by these vaults—oh, I know that greedy look!  Heed my warnings or risk a terrible fate, for the honored dead do not wish to be disturbed.  Thievery will only raise their ire—do not say I did not warn you! <em>Instinct</em>: To enjoy eternal rest</p>
+<ul><li>Curse them</li>
+<li>Wrap them up</li>
+<li>Rise again</li></ul>
+<p aid:pstyle="MonsterName">Nightwing	<span aid:cstyle="Tags">Horde, Stealthy</span></p>
+<p aid:pstyle="MonsterStats">Rend (d6 damage)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
+<p aid:pstyle="MonsterDescription">Scholars of the necromantic arts will tell you that the appellation “undead” applies not only to those who have lived, died, and been returned to a sort of partway living state.  It is the proper name of any creature whose energy originates beyond the Black Gates.  The creature men call the nightwing is one such creature—empowered by the negative light of Death’s domain.  Taking the shape of massive, shadowy, winged creatures (some more batlike, some like vultures, others like some ancient, leathery things) nightwings travel in predatory flocks, swooping down to strip the flesh from cattle, horses and unlucky peasants out past curfew.  Watch the night sky for their red eyes and listen for their screeching call and hope to the gods you have something to hide under until they pass. <em>Instinct</em>: To hunt</p>
+<ul><li>Attack from the night sky</li>
+<li>Fly away with prey</li></ul>
+<p aid:pstyle="MonsterName">Shadow	<span aid:cstyle="Tags">Horde, Large, Magical, Construct</span></p>
+<p aid:pstyle="MonsterStats">Shadow Touch (d6+1 damage)	11 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shadow Form</p>
+<p aid:pstyle="MonsterDescription">We call to the elements.  We call on fire, ever-burning.  We summon water, life-giving.  We beseech the earth, stable-standing.  We cry to the air, forever-changing.  These elements we recognize and give our thanks but ask to pass.  The elemental we call upon this night knows another name.  We call upon the element of Night.  Shadow, we name you.  Death’s messenger and black assassin, we claim for our own.  Accept our sacrifice and do our bidding ‘til the morning come. <em>Instinct</em>: To darken</p>
+<ul><li>Snuff out light</li>
+<li>Spawn another shadow from the dead</li></ul>
+<p aid:pstyle="MonsterName">Sigben	<span aid:cstyle="Tags">Horde, Large, Construct</span></p>
+<p aid:pstyle="MonsterStats">Tail whip (d6+1 damage)	11 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Vampire spawn</p>
+<p aid:pstyle="MonsterDescription">Aswang-hound and hopping whip-tail!  Sent by vampires on their two, twisted legs, these ugly things look like the head of a rat or a crocodile, maybe, furry though and sharp of tooth.  They have withered wings, but cannot use them and long, whipping tails, spurred with poison tips.  Stupid, vengeful and mischievous they cause all kinds of chaos when let out of the strange clay jars in which they’re born.  Only a vampire could love such a wretched thing. <em>Instinct</em>: To disturb</p>
+<ul><li>Poison them</li>
+<li>Do a vampire's bidding</li></ul>
+<p aid:pstyle="MonsterName">Skeleton	<span aid:cstyle="Tags">Horde</span></p>
+<p aid:pstyle="MonsterStats">Slam (d6 damage)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterDescription">Dem bones, dem bones, dem dry bones. <em>Instinct</em>: To take the semblance of life</p>
+<ul><li>Act out what it did in life</li>
+<li>Reveal a fact from its life</li></ul>
+<p aid:pstyle="MonsterName">Spectre	<span aid:cstyle="Tags">Solitary, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Withering touch (d10 damage)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
+<p aid:pstyle="MonsterDescription">For some folk, when they pass, Death himself cannot release their grip on the places they love most.  A priest whose devotion to the temple is greater than that of his god.  A banking guild official who cannot bear to part with his vault.  A drunk and his favourite tavern.  All make excellent spectres.  They act not out of the usual hunger that drive the undead, but jealousy.  Jealousy that anyone else might come to love their home as much as them and drive them out.  These places belong to them and these invisible spirits will kill before they’ll let anyone send them to their rest. <em>Instinct</em>: To drive life from a place</p>
+<ul><li>Turn their haunt against a creature</li>
+<li>Bring the environment to life</li></ul>
+<p aid:pstyle="MonsterName">Vampire	<span aid:cstyle="Tags">Group, Stealthy, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Supernatural force (d8+5 damage 1 piercing)	10 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Changing form, ancient mind</p>
+<p aid:pstyle="MonsterDescription">We fear them, because they call to us.  So much like us, or how we hope to be: beautiful, passionate, and powerful.  They are drawn to us for what they cannot be: warm, kind, and alive.  These tormented souls can only hope, at most, to pass their dreadful curse along.  Every time they feed they run the risk of passing along their torture to another and in each one lives the twisted seed of creator.  Vampires beget vampires.  Suffering begets suffering.  Do not be drawn in by their seduction or you may be given their gift—a crown of shadows and the chains eternal undying grief. <em>Instinct</em>: To manipulate</p>
+<ul><li>Charm someone</li>
+<li>Feed on their blood</li>
+<li>Retreat to plan again</li></ul>
+<p aid:pstyle="MonsterName">Wight-Wolf	<span aid:cstyle="Tags">Horde, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Pounce (d6+1 damage 1 piercing)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shadow form</p>
+<p aid:pstyle="MonsterDescription">Like the nightwing, the wight-wolf is a creature not spawned in our world.  Somehow slipping the seals of the Black Gates of Death, these spirits take the shape of massive hounds or shadowy wolves and hunt the living for sport.  They travel in packs, led by a mighty alpha, but bear a kind of intelligence unknown to true canines.  Their wild hunts draw the attention of intelligent undead—liches, vampires and the like—who will sometimes make pacts with the alpha and serve a grim purpose together.  Listen for the baying of the hounds of Death and pray that they do not howl for you. <em>Instinct</em>: To hunt</p>
+<ul><li>Encircle prey</li>
+<li>Summon the pack</li></ul>
+<p aid:pstyle="MonsterName">Zombie	<span aid:cstyle="Tags">Horde</span></p>
+<p aid:pstyle="MonsterStats">Bite (d6 damage)	11 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
+<p aid:pstyle="MonsterDescription">When there’s no more room in Hell… <em>Instinct</em>: Braaaaaains</p>
+<ul><li>Attack with overwhelming numbers</li>
+<li>Corner them</li>
+<li>Gain strength from the dead, spawn more zombies</li></ul>
+</Body></Root>
