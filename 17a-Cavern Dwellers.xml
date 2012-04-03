@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cavern Dwellers</h1>
+<Body><p aid:pstyle="MonsterName">Ankheg	<span aid:cstyle="Tags">Group, Large</span></p>
+<p aid:pstyle="MonsterStats">Bite (d8+1 damage)	10 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
+<p aid:pstyle="MonsterDescription">A hide like plate armor and great crushing mandibles are problematic.  A stomach full of acid that can burn a hole through a stone wall makes them all the worse.  They’d be bad enough if they were proper insect-sized but these things have the gall to be as long as any given horse.  It’s just not natural!  Good thing they tend to stick to one place?  Easy for you to say—you don’t have an Ankheg living under your corn field. <em>Instinct</em>: To undermine</p>
+<ul><li>Undermine the ground</li>
+<li>Burst from the earth</li>
+<li>Spray forth acid, eating away at metal and flesh</li></ul>
+<p aid:pstyle="MonsterName">Cave Rat	<span aid:cstyle="Tags">Horde, Small</span></p>
+<p aid:pstyle="MonsterStats">Gnaw (d6 damage 1 piercing)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
+<p aid:pstyle="MonsterDescription">Who hasn’t seen a rat before?  It’s like that, but nasty and big and not afraid of you anymore.  Maybe this one was a cousin to that one you caught in a trap or the one you killed with a knife in that filthy tavern in Darrow.  Maybe he’s looking for a little ratty revenge. <em>Instinct</em>: To devour</p>
+<ul><li>Swarm</li>
+<li>Rip apart something (or someone)</li></ul>
+<p aid:pstyle="MonsterName">Choker	<span aid:cstyle="Tags">Solitary, Stealthy, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Choke (d10 damage)	15 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Flexible</p>
+<p aid:pstyle="MonsterDescription">Some say these things descended from the family of a cruel wizard who forced them to live out their lives underground.  Say his experiments led him to fear the sun and ages passed while he descended into unlife, dragging his folk along with him.  These things resemble men, in a way.  Head, four limbs and all that.  Only their skin is wet and rubbery and their arms long and fingers grasping.  They hate all life that bears the stink of the sun’s touch, as one might expect.  Jealousy, long instilled, is hard to shake. <em>Instinct</em>: To deny light</p>
+<ul><li>Hold someone, wringing the breath from them</li>
+<li>Fling a held creature</li></ul>
+<p aid:pstyle="MonsterName">Cloaker	<span aid:cstyle="Tags">Solitary, Stealthy</span></p>
+<p aid:pstyle="MonsterStats">Constrict (d10 damage ignores armor)	12 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Looks like a cloak</p>
+<p aid:pstyle="MonsterDescription">Don’t put on that cloak, Gareth.  Don’t.  You don’t know where it’s been.  I tell you, it’s no good.  See!  It moved!  I’m not mad, Gareth, it moved!  Don’t do it!  No!  GARETH! <em>Instinct</em>: To engulf</p>
+<ul><li>Engulf the unsuspecting</li></ul>
+<p aid:pstyle="MonsterName">Dwarven Warrior	<span aid:cstyle="Tags">Horde, Organized</span></p>
+<p aid:pstyle="MonsterStats">Axe (d6 damage)	7 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were men and all were of this ilk—stoic and proud warriors.  Axe-wielding and plate-wearing.  Stout bearded battle-hungry men who would push them, time and time again, back up out of their mines and tunnels with ferocity.  It just goes to show how little men know about the elder races.  These folk are merely a vanguard, and they bravely do their duty to protect the riches of the Dwarven realm.  Earn their trust and you’ve an ally for life.  Earn their ire and you’re not like to regret it very long. <em>Instinct</em>: To defend</p>
+<ul><li>Drive them back</li>
+<li>Call up reinforcements</li></ul>
+<p aid:pstyle="MonsterName">Earth Elemental	<span aid:cstyle="Tags">Solitary, Huge</span></p>
+<p aid:pstyle="MonsterStats">Smash (d10+5 damage)	27 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Made of stone</p>
+<p aid:pstyle="MonsterDescription">Our shaman says that all the things of the world have a spirit.  Stones, trees, a stream.  Now that I’ve seen the earth roil under my feet and fists of stone beat my friends half to death I’m like to believe that crazy old man.  The one I saw was huge—big as a house!  It came boiling up from a rockslide out of nowhere and had a voice like an avalanche.  I pay my respects, now.  Rightly so. <em>Instinct</em>: To show the strength of earth</p>
+<ul><li>Turn the ground into a weapon</li>
+<li>Meld into stone</li></ul>
+<p aid:pstyle="MonsterName">Goliath	<span aid:cstyle="Tags">Group, Huge, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Mace (d8+7 damage)	14 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
+<p aid:pstyle="MonsterDescription">They dwell beneath the earth because they do not belong above it any longer.  An undying race of mighty titans fled the plains and mountains in ages past—driven out by men and their heroes.  Left to bide their time in the dark, hate and anger warmed by the pools of lava deep below.  It’s said that an earthquake is a goliath’s birthing cry.  Some day they’ll take back what’s theirs. <em>Instinct</em>: To retake</p>
+<ul><li>Shake the earth</li>
+<li>Retreat, only to come back stronger</li></ul>
+<p aid:pstyle="MonsterName">Fire Beetle	<span aid:cstyle="Tags">Horde, Small</span></p>
+<p aid:pstyle="MonsterStats">Flames (d6 damage ignores armor)	3 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Full of flames</p>
+<p aid:pstyle="MonsterDescription">Scarabaeus Pyractomena!  What a delightful creature—see how its carapace glitters in the light of our torches?  Not too close now, they’re temperamental, you see.  The fire in their belly isn’t just metaphorical, no.  Watch as I goad the beast.  Aha!  A spout of flame!  Unexpected, isn’t it?  One of these creatures alone, if it comes up from below, can be a hellish nuisance to a farmstead or village.  A whole swarm?  There’s a reason they call it a conflagration of fire beetles.  I’ll say that much. <em>Instinct</em>: To enflame</p>
+<ul><li>Undermine the ground</li>
+<li>Burst from the earth</li>
+<li>Spray forth acid, eating away at metal and flesh</li></ul>
+<p aid:pstyle="MonsterName">Gargoyle	<span aid:cstyle="Tags">Horde, Stealthy, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Claw (d6 damage)	3 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
+<p aid:pstyle="MonsterDescription">It’s a sad thing, really.  Guardians bred by Magi of the past with no more castles to guard.  Their ancestors’ sacred task bred into their blood leads them to find a place—ruins, mostly but sometimes a cave or hill or mountain cliff—and guard it as though their masters yet lived below.  They’re notoriously good at finding valuables buried below the earth, though.  Find one of these winged reptiles and you’ll find yourself a treasure nearby.  Just be careful, they’re hard to spot and tend to move in packs. <em>Instinct</em>: To guard</p>
+<ul><li>Attack with the element of surprise</li>
+<li>Take to the air</li>
+<li>Blend into stonework</li></ul>
+<p aid:pstyle="MonsterName">Gelatinous Cube	<span aid:cstyle="Tags">Solitary, Large, Stealthy, Gibbous</span></p>
+<p aid:pstyle="MonsterStats">Engulf (d10+1 damage ignores armor)	20 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Transparent</p>
+<p aid:pstyle="MonsterDescription">How many adventurers’ last thought was "strange, this tunnel seems cleaner than most?"  Too many and all because of this transparent menace.  A great acidic blob that expands to fill a small chamber or corridor and then slides, ever so slowly along, eating everything in its path.  It cannot eat stone or metal and will often have them floating in its jelly mass.  Blech. <em>Instinct</em>: To clean</p>
+<ul><li>Fill an apparently empty space</li>
+<li>Dissolve</li></ul>
+<p aid:pstyle="MonsterName">Goblin	<span aid:cstyle="Tags">Horde, Small, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterStats">Spear (d6 damage)	3 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterDescription">Nobody seems to know where these things came from.  Elves say they’re the Dwarves’ fault—dredged up from a hidden place beneath the earth.  Dwarves say they’re bad Elvish children, taken away at birth and raised in the dark.  The truth of the matter is that goblins have always been here and they’ll be here once all the civilized races have fallen and gone away.  Goblins never die out.  There’s just too damn many of them. <em>Instinct</em>: To multiply</p>
+<ul><li>Charge!</li>
+<li>Call more goblins</li>
+<li>Retreat and return with (many) more</li></ul>
+<p aid:pstyle="MonsterName">Goblin Orkaster	<span aid:cstyle="Tags">Solitary, Small, Magical, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterStats">Acid orb (d10+1 damage ignores armor)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterDescription">Oh lord, who taught them magic? <em>Instinct</em>: To tap power beyond their stature</p>
+<ul><li>Unleash a poorly understood spell</li>
+<li>Pour forth magical chaos</li>
+<li>Use other goblins for shields</li></ul>
+<p aid:pstyle="MonsterName">Otyugh	<span aid:cstyle="Tags">Solitary, Large</span></p>
+<p aid:pstyle="MonsterStats">Tentacles (d10+3 damage)	20 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Filth Fever</p>
+<p aid:pstyle="MonsterDescription">The mating call of the otyugh is a horrible, blaring cry that sounds like a cross between an elephant dying and an over-eager vulture.  The otyugh spends much of its time partly submerged in filthy water and prefers eating garbage over any other food.  As a result, it often grows fat and strong on the offal of orcs, goblins and other cave-dwelling sub-humans.  Get too close, however, and you’ll have one of its barbed tentacles dragging you into that soggy, razor-toothed maw.  If you get away with your life, best get to a doctor, or your victory may be short lived. <em>Instinct</em>: To foul</p>
+<ul><li>Infect someone with filth fever</li>
+<li>Fling someone or something</li></ul>
+<p aid:pstyle="MonsterName">Maggot-Squid	<span aid:cstyle="Tags">Horde, Small</span></p>
+<p aid:pstyle="MonsterStats">Chew (d6 damage)	3 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious, Paralyzing Tentacles</p>
+<p aid:pstyle="MonsterDescription">The gods that made this thing were playing some sick joke on the civilized folk of the world.  The maggot-squid wields a face full of horrible squirming tentacles that, if they touch you, feel like being struck by lightning.  They’ll paralyze you and chew you up slowly while you’re helpless.  Best to not let it get to that. <em>Instinct</em>: To eat</p>
+<ul><li>Paralyze with a touch</li></ul>
+<p aid:pstyle="MonsterName">Purple Worm	<span aid:cstyle="Tags">Solitary, Huge</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10+5 damage)	20 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
+<p aid:pstyle="MonsterDescription">Iä! Iä!  The Purple Worm!  Blessed is its holy slime!  We walk, unworthy, in its miles of massive tunnels.  We are but shadows under its violet and all-consuming glory.  Mere acolytes, we who hope someday to return to the great embrace of its tooth-ringed maw.  Let it consume us!  Let it eat our homes and villages so that we might be taken!  Iä! Iä!  The Purple Worm!  <em>Instinct</em>: To consume</p>
+<ul><li>Swallow whole</li>
+<li>Tunnel through stone and earth</li></ul>
+<p aid:pstyle="MonsterName">Roper	<span aid:cstyle="Tags">Solitary, Large, Stealthy, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Bite (d10+1 damage)	16 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Rock-like Flesh</p>
+<p aid:pstyle="MonsterDescription">Evolutionary happenstance has created a clever underground predator.  Disguised as a rocky formation—most often a stalactite or stalagmite—the roper waits for its prey to wander by.  When it does, whether it’s a rat, a goblin or a foolhardy adventurer, a mass of thin, whipping tentacles erupts from the thing’s hide.  A hundred lashes in the blink of an eye and the stunned prey is being dragged into the roper’s mouth.  Surprisingly effective for a thing that looks like a rock. <em>Instinct</em>: To ambush</p>
+<ul><li>Ensnare the unsuspecting</li>
+<li>Burst from the earth</li>
+<li>Spray forth acid, eating away at metal and flesh</li></ul>
+<p aid:pstyle="MonsterName">Rot Grub	<span aid:cstyle="Tags">Horde, Tiny</span></p>
+<p aid:pstyle="MonsterStats">Burrow (d6-2 damage)	3 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrow into flesh</p>
+<p aid:pstyle="MonsterDescription">They live in your skin.  Or your organ meat.  Or your eyeballs.  They grow there and then, in a bloody and horrific display, burrow their way out.  Disgusting. <em>Instinct</em>: To infect</p>
+<ul><li>Burrow under flesh</li>
+<li>Lay eggs</li>
+<li>Burst forth from an infected creature</li></ul>
+<p aid:pstyle="MonsterName">Spiderlord	<span aid:cstyle="Tags">Solitary, Large, Devious, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Mandibles (d8+4 damage)	16 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
+<p aid:pstyle="MonsterDescription">Even spiders have their gods, whispered to in webs with little praying arms. <em>Instinct</em>: To weave webs (literal and metaphorical)</p>
+<ul><li>Enmesh in webbing</li>
+<li>Put a plot into motion</li></ul>
+<p aid:pstyle="MonsterName">Troglodyte	<span aid:cstyle="Tags">Group, Organized</span></p>
+<p aid:pstyle="MonsterStats">Club (d8 damage)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterDescription">Long-forgotten, our last remaining ancestors dwell in caves in the wild parts of the world.  Driven away by our cities and villages, our iron swords and our fire, these ape-men eat their meat raw with sharp-nailed hands and jagged teeth.  They strike out at frontier villages wielding clubs and in overwhelming numbers to seize cattle, tools, and poor prisoners to drag into the hills.  Known for their viciousness and their stink, they’re an old and dying race we’d all sooner forget existed. <em>Instinct</em>: To prey on civilization</p>
+<ul><li>Raid and retreat</li>
+<li>Use scavenged weapons or magic</li></ul>
+</Body>
+</Root>
