@@ -16,6 +16,7 @@
 <li>It might break some bones: d8 damage</li>
 <li>It could kill a common person: d10 damage</li></ul>
 <p>Add the Ignores Armor tag if the source of the damage is particularly large or if the damage comes from magic or poison.</p>
+<p>Temporary or circumstantial armor works the same way: 1 armor for partial cover, 2 armor for major cover.</p>
 <p>Remember that damage is both prescriptive and descriptive: if a move says someone takes damage—they have been struck by the weapon or ability causing the damage. If a character is struck by a weapon, they take damage. This means that you can deal damage without making a move. Think of it like an implied move: if you hurt someone and no other move applies, you just deal your damage.</p>
 <p>Damage only applies when the injury is general. Falling into a pit trap is general, it could cause any sort of injury, so it's represented by HP loss. When the harm is specific, like an orc pulling your arm from its socket, HP should be part of the effect but not the entirety of it. The bigger issue is dealing with the newly disjointed arm: how do you swing a sword or cast a spell? Likewise having your head chopped off is not HP damage, it's just death.</p>
 <h4>Damage From Multiple Creatures</h4>
