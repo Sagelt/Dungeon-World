@@ -118,7 +118,6 @@
 <p aid:pstyle="MonsterName">Zombie	<span aid:cstyle="Tags">Horde</span></p>
 <p aid:pstyle="MonsterStats">Bite (d6 damage)	11 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
 <p aid:pstyle="MonsterDescription">When there’s no more room in Hell… <em>Instinct</em>: Braaaaaains</p>
 <ul><li>Attack with overwhelming numbers</li>
 <li>Corner them</li>
