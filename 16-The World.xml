@@ -20,7 +20,7 @@
 <li>You gain useful information</li>
 <li>You are not entangled, ensorcelled, or tricked</li></ul>
 <h2 aid:pstyle="BasicMoveName">Supply</h2>
-<p aid:pstyle="NoIndent">When you <strong>go to buy something with coin on hand</strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha. On a 10+ you find what you're looking for at a fair price. On a 7–9 you'll have to pay more or settle for something similar.</p>
+<p aid:pstyle="NoIndent">When you <strong>go to buy something with coin on hand</strong>, if it's something readily available in the steading you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha. On a 10+ you find what you're looking for at a fair price. On a 7–9 you'll have to pay more or settle for something similar.</p>
 <h2 aid:pstyle="BasicMoveName">Recover</h2>
 <p aid:pstyle="NoIndent">When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you're under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.</p>
 <h2 aid:pstyle="BasicMoveName">Recruit</h2>
@@ -45,7 +45,7 @@
 <p>From bustling trade center to sprawling metropolis the City represents the largest sort of Steading in Dungeon World. These are places where folk of many races and kinds can be found. They often exist at the confluence of a handful of trade routes or are built in a place of spiritual significance. They don't often generate their own materials for trade, relying on villages nearby for food and raw material but will always have crafted goods and some stranger things for sale to those willing to seek them.</p>
 <p>Steadings are created as needed. Discovered by players, added as part of the prep for a Front or spawned as the result of the GM asking questions of the players, whatever the reason each Steading is created using the rules below.</p>
 <p>Like weapons, Steadings are described by their tags. All Steadings have tags indicating prosperity, population and defenses and many will have tags to illustrate their more unusual properties.</p>
-<p>Prosperity indicates what kinds of items are usually available. Population indicates the number of inhabitants relative to the current size of the settlement. Defenses indicate the general scope of arms the settlement has. Tags in these categories can be adjusted. -category means to change the settlement to the next lower tag for that category (so Moderate would become Poor when tagged with -Prosperity). +category means to change the settlement to the next higher tag (so Shrinking becomes Steady with +Population). Tags in those categories can also be compared like numbers. Treat the lowest tag in that category as 1 and each successive tag as the next number (so Dirt is 1, Poor is 2, etc.).</p>
+<p>Prosperity indicates what kinds of items are usually available. Population indicates the number of inhabitants relative to the current size of the steading. Defenses indicate the general scope of arms the steading has. Tags in these categories can be adjusted. -category means to change the steading to the next lower tag for that category (so Moderate would become Poor when tagged with -Prosperity). +category means to change the steading to the next higher tag (so Shrinking becomes Steady with +Population). Tags in those categories can also be compared like numbers. Treat the lowest tag in that category as 1 and each successive tag as the next number (so Dirt is 1, Poor is 2, etc.).</p>
 <p>Tags will change of the course of play. Creating a Steading provides a snapshot of what that place looks like <em>right now</em>. As the players spend time in it and your Fronts progress the world will change and your Steadings with it.</p>
 <h3>Adding Steadings</h3>
 <p aid:pstyle="NoIndent">You add your first Steading when you create the Campaign Map; it's the place the players go to to rest and recover. When you first draw it on the map all you need is a name and a location.</p>
@@ -56,34 +56,34 @@
 <h3>Steading Tags</h3>
 <h4>Prosperity</h4>
 <p><em>Dirt</em>: Nothing for sale, nobody has more than they need (and they're lucky if they have that). Unskilled labor is cheap.</p>
-<p><em>Poor</em>: Only the bare necessities for sale. Weapons are scarce unless the settlement is heavily defended or militant. Unskilled labor is readily available.</p>
+<p><em>Poor</em>: Only the bare necessities for sale. Weapons are scarce unless the steading is heavily defended or militant. Unskilled labor is readily available.</p>
 <p><em>Moderate</em>: Most mundane items are available. Some types of skilled laborers.</p>
 <p><em>Wealthy</em>: Any mundane item can be found for sale. Most kinds of skilled laborers, too, but demand is high for their time.</p>
 <p><em>Rich</em>: Mundane items and more, if you know where to find them. Specialist labor available, but at high prices.</p>
 <h4>Population</h4>
 <p><em>Exodus</em>: The Steading has lost its population and is on the verge of collapse.</p>
 <p><em>Shrinking</em>: The population is less than it once was. Buildings stand empty.</p>
-<p><em>Steady</em>: The population is in line with the current size of the settlement. Some slow growth.</p>
+<p><em>Steady</em>: The population is in line with the current size of the steading. Some slow growth.</p>
 <p><em>Growing</em>: More people than there are buildings.</p>
 <p><em>Booming</em>: Resources are stretched thin trying to keep up with the number of people.</p>
 <h4>Defenses</h4>
 <p><em>None</em>: Clubs, torches, farming tools.</p>
 <p><em>Militia</em>: There are several dozen able-bodied men and women with worn weapons ready to be called, but no standing force.</p>
 <p><em>Watch</em>: There are a few watchers posted who look out for trouble and settle small problems, but their main role is to summon the militia.</p>
-<p><em>Guard</em>: There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the settlement.</p>
+<p><em>Guard</em>: There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the steading.</p>
 <p><em>Garrison</em>: There are armed defenders at all times with a total pool of 100–300 (or equivalent). There are multiple armed patrols at all times.</p>
-<p><em>Battalion</em>: As many as 1,000 armed defenders (or equivalent). The settlement has manned maintained defenses as well.</p>
+<p><em>Battalion</em>: As many as 1,000 armed defenders (or equivalent). The steading has manned maintained defenses as well.</p>
 <p><em>Legion</em>: The Steading is defended by thousands of armed defenders (or equivalent). The Steading's defenses are intimidating.</p>
 <h4>Other Tags</h4>
 <p><em>Safe</em>: Outside trouble doesn't come here unless the players bring it. Idyllic and often hidden. If the Steading would lose or degrade another beneficial tag get rid of Safe instead.</p>
 <p><em>Religion</em>: The listed deity is revered here.</p>
 <p><em>Exotic</em>: There are goods and services available here that aren't available anywhere else nearby. List them.</p>
-<p><em>Resource</em>: The settlement has easy access to the listed resource (eg. a spice, a type of ore, fish, grapes). That resource is significantly cheaper.</p>
+<p><em>Resource</em>: The steading has easy access to the listed resource (eg. a spice, a type of ore, fish, grapes). That resource is significantly cheaper.</p>
 <p><em>Need</em>: The Steading has an acute or ongoing need for the listed resource. That resource sells for considerably more.</p>
 <p><em>Oath</em>: The Steading has sworn oaths to the listed Steadings. These oaths are generally of fealty or support, but may be more specific.</p>
 <p><em>Trade</em>: The Steading regularly trades with the listed Steadings.</p>
 <p><em>Market</em>: Everyone comes here to trade. On any given day the available items may be far beyond their prosperity. +1 to Supply.</p>
-<p><em>Enmity</em>: The settlement holds a grudge against the listed settlements.</p>
+<p><em>Enmity</em>: The steading holds a grudge against the listed steadings.</p>
 <p><em>History</em>: Something important once happened here, choose one and detail or make up your own: Battle, Miracle, Myth, Romance, Tragedy.</p>
 <p><em>Arcane</em>: Someone in town can cast arcane spells for a price. This tends to draw more arcane casters, +1 to Recruit when you put out word you're looking for an adept.</p>
 <p><em>Divine</em>: There is a major religious presence, maybe a cathedral or monastery. They can heal and maybe even raise the dead for a donation or resolution of a quest. Take +1 to recruit priests here.</p>
@@ -98,10 +98,10 @@
 <h3>Steading Names</h3>
 <p aid:pstyle="NoIndent">Greybark, Nook’s Crossing, Tanner’s Ford, Goldenfield, Barrowbridge, Rum River, Brindenburg, Shambles, Covaner, Enfield, Crystal Falls, Castle Daunting, Nulty's Harbor, Castonshire, Cornwood, Irongate, Mayhill, Pigton, Crosses, Battlemoore, Torsea, Curland, Snowcalm, Seawall, Varlosh, Terminum, Avonia, Bucksburg, Settledown, Goblinjaw, Hammerford, Pit, The Grey Fast, Ennet Bend, Harrison’s Hold, Fortress Andwynne, Blackstone</p>
 <h2>Making a Village</h2>
-<p aid:pstyle="NoIndent">By default a village is Poor, Steady, Militia, Resource (your choice) and has an Oath to another settlement of your choice. If the village is part of a kingdom or empire choose one:</p>
+<p aid:pstyle="NoIndent">By default a village is Poor, Steady, Militia, Resource (your choice) and has an Oath to another steading of your choice. If the village is part of a kingdom or empire choose one:</p>
 <ul><li>The village is somewhere naturally defended: Safe, -Defenses</li>
 <li>The village abundant resources that sustain it: +Prosperity, Resource (your choice), Enmity (your choice)</li>
-<li>The village is under the protection of another settlement: Oath (that settlement), +Defenses</li>
+<li>The village is under the protection of another steading: Oath (that steading), +Defenses</li>
 <li>The village is on a major road: Trade (your choice), +Prosperity</li>
 <li>The village is built around a wizard's tower: Personage (the wizard), Blight (arcane creatures)</li>
 <li>The village was built on the site of religious significance: Divine, History (your choice)</li></ul>
@@ -113,10 +113,10 @@
 <li>The village has absorbed another village: +Population, Lawless</li>
 <li>The village is remote or unwelcoming: -Prosperity, Dwarven or Elven</li></ul>
 <h2>Making a Town</h2>
-<p aid:pstyle="NoIndent">By default a town is Moderate, Steady, Watch, and Trade (two of your choice). If the town is listed as Trade by another settlement choose one:</p>
+<p aid:pstyle="NoIndent">By default a town is Moderate, Steady, Watch, and Trade (two of your choice). If the town is listed as Trade by another steading choose one:</p>
 <ul><li>The town is booming: Booming, Lawless</li>
 <li>The town stands on a crossroads: Market, +Prosperity</li>
-<li>The town is defended by another settlement: Oath (that settlement), +Defenses</li>
+<li>The town is defended by another steading: Oath (that steading), +Defenses</li>
 <li>The town is built around a church: Power (Divine)</li>
 <li>The town is built around a craft: Craft (your choice), Resource (something required for that craft)</li>
 <li>The town is built around a military post: +Defenses</li></ul>
@@ -134,61 +134,61 @@
 <li>The keep stands watch over a trade road: +Prosperity, Guild (trade)</li>
 <li>The keep is used to train special troops: Arcane, -Population</li>
 <li>The keep is surrounded by fertile land: remove Need (Supplies)</li>
-<li>The keep stands on a border: +Defenses, Enmity (settlement on the other side of the border)</li></ul>
+<li>The keep stands on a border: +Defenses, Enmity (steading on the other side of the border)</li></ul>
 <p aid:pstyle="NoIndent">Choose one problem</p>
 <ul><li>The keep is built on a naturally defensible position: Safe, -Population</li>
-<li>The keep was a conquest from another power: Enmity (settlements of that power)</li>
+<li>The keep was a conquest from another power: Enmity (steadings of that power)</li>
 <li>The keep is a safe haven for brigands: Lawless</li>
 <li>The keep was built to defend from a specific threat: Blight (that threat)</li>
 <li>The keep has seen horrible bloody war: History (Battle), Blight (Restless Spirits)</li>
 <li>The keep is given the worst of the worst: Need (Skilled Recruits)</li></ul>
 <h2>Making a City</h2>
-<p aid:pstyle="NoIndent">By default a city is Moderate, Steady, Guard, Market, and Guild (one of your choice). It also has Oaths with at least two other settlements, usually a town and a keep. If the city has trade with at least one settlement and fealty from at least one settlement choose one:</p>
+<p aid:pstyle="NoIndent">By default a city is Moderate, Steady, Guard, Market, and Guild (one of your choice). It also has Oaths with at least two other steadings, usually a town and a keep. If the city has trade with at least one steading and fealty from at least one steading choose one:</p>
 <ul><li>The city has permanent defenses, like walls: +Defenses, Oath (your choice)</li>
 <li>The city is ruled by a single individual: Personage (the ruler), Power (Political)</li>
 <li>The city is diverse: Dwarven or Elven or both</li>
-<li>The city is a trade hub: Trade (every settlement nearby), +Prosperity</li>
+<li>The city is a trade hub: Trade (every steading nearby), +Prosperity</li>
 <li>The city is ancient, built on top of its own ruins: History (your choice), Divine</li>
 <li>The city is a center of learning: Arcane, Craft (your choice), Power (Arcane)</li></ul>
 <p aid:pstyle="NoIndent">Choose one problem:</p>
 <ul><li>The city has outgrown its resources: +Population, Need (food)</li>
-<li>The city has designs on nearby territory: Enmity (nearby settlements), +Defenses</li>
+<li>The city has designs on nearby territory: Enmity (nearby steadings), +Defenses</li>
 <li>The city is ruled by a theocracy: -Defenses, Power (Divine)</li>
 <li>The city is ruled by the people: -Defenses, +Population</li>
 <li>The city has supernatural defenses: +Defenses, Blight (related supernatural creatures)</li>
 <li>The city lies on a place of power: Arcane, Personage (whoever watches the place of power), Blight (arcane creatures)</li></ul>
 <h2>Fronts on the Campaign Map</h2>
-<p aid:pstyle="NoIndent">Of course your settlements are not the only thing on the campaign map. In addition to settlements and the areas around them your fronts will appear on the map, albeit indirectly.</p>
+<p aid:pstyle="NoIndent">Of course your steadings are not the only thing on the campaign map. In addition to steadings and the areas around them your fronts will appear on the map, albeit indirectly.</p>
 <p>Fronts are organizational tools, not something the characters think of, so don't put them on the map directly. The orcs of Olg'gothal may be a front but don't just draw them on the map. Instead for each front add some feature to the map that indicates the front's presence. You can label it if you like, but use the name that the characters would use, not the name you gave the front.</p>
 <p>For example, the orcs of Olg'gothal could be marked on the map with a burning village they left behind, fires in the distance at night, or a stream of refugees. Lord Xothal, a lich, might be marked by the tower where dead plants take root and grow.</p>
 <p>As your fronts change, change the map. If the players cleanse Xothal's tower redraw it. If the orcs are driven off, erase the crowds of refugees.</p>
 <h2>Updating the Campaign Map</h2>
 <p aid:pstyle="NoIndent">The Campaign Map is updated between sessions or whenever the players spend significant downtime in a safe place. Updates are both prescriptive and descriptive: if an event transpires that, say, gathers a larger fighting force to a village, update the tags to reflect that. Likewise if a change in tags mean that a village has a bigger fighting force you'll likely see more armored men in the street.</p>
-<p>Between each session check each of the conditions below. Go down the list and check each condition for all settlements before moving to the next. If a condition applies, apply its effects.</p>
+<p>Between each session check each of the conditions below. Go down the list and check each condition for all steadings before moving to the next. If a condition applies, apply its effects.</p>
 <h4>Growth</h4>
 <p aid:pstyle="NoIndent">When <strong>a village or town is Booming and its Prosperity is above Moderate</strong> you may reduce Prosperity and Defenses to move to the next largest type. New towns immediately gain Market and new cities immediately gain Guild (your choice).</p>
 <h4>Collapse</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement's Population is Exodus and its Prosperity is Poor or less</strong> it shrinks. A city becomes a town with a Steady Population and +Prosperity. A keep becomes a town with +Defenses and a Steady population. A town becomes a village with Steady population and +Prosperity. A village becomes a ghost town.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading's Population is Exodus and its Prosperity is Poor or less</strong> it shrinks. A city becomes a town with a Steady Population and +Prosperity. A keep becomes a town with +Defenses and a Steady population. A town becomes a village with Steady population and +Prosperity. A village becomes a ghost town.</p>
 <h4>Want</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement has a Need that is not fulfilled</strong> (through trade, capture, or otherwise) that settlement is in want. It gets either -Prosperity, -Population, or loses a tag based on that resource like Craft or Trade, your choice.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading has a Need that is not fulfilled</strong> (through trade, capture, or otherwise) that steading is in want. It gets either -Prosperity, -Population, or loses a tag based on that resource like Craft or Trade, your choice.</p>
 <h4>Trade</h4>
-<p aid:pstyle="NoIndent">When <strong>Trade is blocked</strong> because the source of that trade is gone, the route is endangered, or political reasons, the settlement has a choice: gain Need (a traded good) or take -Prosperity.</p>
+<p aid:pstyle="NoIndent">When <strong>Trade is blocked</strong> because the source of that trade is gone, the route is endangered, or political reasons, the steading has a choice: gain Need (a traded good) or take -Prosperity.</p>
 <h4>Capture</h4>
 <p aid:pstyle="NoIndent">When <strong>control of a resource changes</strong> remove that resource from the tags of the previous owner and add it to the tags of the new owner (if applicable). If the previous owner has a Craft or Trade based on that resource they now have Need (that resource). If the new owner had a Need for that resource, remove it.</p>
 <h4>Profit</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement has more Trade than its current Prosperity</strong> it gets +Prosperity.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading has more Trade than its current Prosperity</strong> it gets +Prosperity.</p>
 <h4>Surplus</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement has a Resource that another settlement Needs</strong> unless Enmity or other diplomatic reasons prevent it they set up Trade. The settlement with the Resource gets +Prosperity and their choice of Oaths, +Population, or +Defenses; the settlement with the Need erases that need and adds Trade.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading has a Resource that another steading Needs</strong> unless Enmity or other diplomatic reasons prevent it they set up Trade. The steading with the Resource gets +Prosperity and their choice of Oaths, +Population, or +Defenses; the steading with the Need erases that need and adds Trade.</p>
 <h4>Aid</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement has Oaths to a settlement under attack</strong> that settlement may take -Defenses to give the settlement under attack +Defenses.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading has Oaths to a steading under attack</strong> that steading may take -Defenses to give the steading under attack +Defenses.</p>
 <h4>Embattled</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement is surrounded by enemy forces</strong> it suffers loses. If it fights back with force it gets -Defenses. If its new Defenses are Watch or less it also gets -Prosperity. If it instead tries to wait out the attack it gets -Population. If its new Population is Shrinking or less it loses a tag of your choice. If the settlement's Defenses outclass the attacker's (your call if it's not clear, or make it part of an Adventure Front) the settlement is no longer surrounded.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading is surrounded by enemy forces</strong> it suffers loses. If it fights back with force it gets -Defenses. If its new Defenses are Watch or less it also gets -Prosperity. If it instead tries to wait out the attack it gets -Population. If its new Population is Shrinking or less it loses a tag of your choice. If the steading's Defenses outclass the attacker's (your call if it's not clear, or make it part of an Adventure Front) the steading is no longer surrounded.</p>
 <h4>Opportunity</h4>
-<p aid:pstyle="NoIndent">When <strong>a settlement has Enmity against a weaker settlement</strong> they may attack. Subtract the distance (in rations) between the settlements from the settlement with Enmity's Defenses. If the result is greater than the other settlement's Defenses +Defense for each step of size difference (village to town, town to keep, keep to city) they definitely attack. Otherwise it's your call: has anything happened recently to stoke their anger? The forces of the attacker embattle the defender, while they maintain the attack they're -Defenses.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading has Enmity against a weaker steading</strong> they may attack. Subtract the distance (in rations) between the steadings from the steading with Enmity's Defenses. If the result is greater than the other steading's Defenses +Defense for each step of size difference (village to town, town to keep, keep to city) they definitely attack. Otherwise it's your call: has anything happened recently to stoke their anger? The forces of the attacker embattle the defender, while they maintain the attack they're -Defenses.</p>
 <h4>Clash</h4>
-<p aid:pstyle="NoIndent">When <strong>two settlements both attack each other</strong> their forces meet somewhere between them and fight. If they're evenly matched they both get -Defenses and their troops return home. If one has the advantage they take -Defenses while the other takes -2 Defenses.</p>
+<p aid:pstyle="NoIndent">When <strong>two steadings both attack each other</strong> their forces meet somewhere between them and fight. If they're evenly matched they both get -Defenses and their troops return home. If one has the advantage they take -Defenses while the other takes -2 Defenses.</p>
 <h3>Other Updates</h3>
-<p aid:pstyle="NoIndent">The conditions above detail the most basic of interactions between settlements, of course the presence of your Fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players' actions and your fronts' effects on the world.</p>
+<p aid:pstyle="NoIndent">The conditions above detail the most basic of interactions between steadings, of course the presence of your Fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players' actions and your fronts' effects on the world.</p>
 <h1>Hirelings</h1>
 <p aid:pstyle="NoIndent">Hirelings are those sorry souls that—for money, glory, or stranger needs—venture along with adventurers into the gloom and danger. They are the foolhardy that seek to make their name on adventures.</p>
 <p>Hirelings serve a few purposes. To the characters, they're the help. They lend their strength to the player characters' efforts in return for their pay. To the players, they're a resource. They buy the characters some extra time against even the most frightening of threats. They're also replacement characters, waiting to step up into the hero's role when a player character falls. To the GM, they're a human face for the characters to turn to, even in the depths of the earth of the far reaches of the planes.</p>
