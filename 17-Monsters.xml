@@ -22,7 +22,6 @@
 <p><strong>Special qualities</strong> describe innate aspects of the monster that are important to play. These are a guide to the fiction, and therefore the moves. There is no master list of special qualities, they're just plain-english descriptions of the qualities of a monster that aren't part of an attack. A quality like "Intangible" means just what it says: mundane stuff just passes through it. That means swinging a mundane sword at it isn't Hack and Slash, for a start.</p>
 <h2>Monster Tags</h2>
 <p><em>Magical</em>: It is by nature magical through and through.</p>
-<p><em>Savage</em>: It fights with abandon.</p>
 <p><em>Devious</em>: Its main danger lies beyond the simple clash of battle.</p>
 <p><em>Gibbous</em>: Its anatomy and organs are bizarre and unnatural.</p>
 <p><em>Organized</em>: It has a group structure that aids it in survival. Defeating one may cause the wrath of others. One may sound an alarm.</p>
@@ -49,8 +48,8 @@
 <p>When you find you need stats for the monster you use this series of questions to establish them. Answer every question based on the facts established and imagined. Don't answer them aloud to anyone else, just note down the answers and the stats listed with each answer.</p>
 <p>If two questions would grant the same tag don't worry about it. If you like you can adjust damage or HP by 2 to reflect the tag that would be repeated, but it's not necessary. If a combination of answers would reduce HP or damage below 1 they stay at 1.</p>
 <p>When you're finished your monster may have only one move. If this is the case and you plan on using the monster often, give it another 2–3 moves of your choice. These moves often describe secondary modes of attack, other uses for a primary mode of attack, or connections to a certain place in the world.</p>
-<h4>What is the biggest threat it poses?</h4>
-<p aid:pstyle="NoIndent">Write a monster move describing what it does. This is the defining characteristic of the monster.</p>
+<h4>What is it known to do?</h4>
+<p aid:pstyle="NoIndent">Write a monster move describing what it does.</p>
 <h4>What does it want that causes problems for others?</h4>
 <p aid:pstyle="NoIndent">This is its instinct. Write it as an intended action.</p>
 <h4>How does it usually hunt or fight?</h4>
