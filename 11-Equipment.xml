@@ -66,7 +66,7 @@
 <p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 Uses, Slow, 10 coins, 1 Weight</span></p>
 <p aid:pstyle="ItemDescription">When you carefully treat someone's wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
 <p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">50 coins</span></p>
-<p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 10 damage.</p>
+<p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 15 damage or remove one debility, your choice.</p>
 <p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 coins, Weight 4</span></p>
 <p aid:pstyle="ItemDescription">When you open a keg of dwarven stout and let everyone drink freely, take +1 to your Carouse roll. If you drink a whole keg yourself, you are very very drunk.</p>
 <p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 Uses, 10 coins, 2 Weight</span></p>
