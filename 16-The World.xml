@@ -35,7 +35,7 @@
 <li>Someone who holds a grudge makes their move</li>
 <li>Someone important to you has been put in a bad spot as a result of your actions</li></ul>
 <h2 aid:pstyle="BasicMoveName">Bolster</h2>
-<p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain hold. If you prepare for a week or two, 1 hold. If you prepare for a month or longer, 3 hold. Spend your hold whenever you like to gain +1 on a roll (before or after you roll the dice). You can only spend one hold per roll.</p>
+<p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p>
 <h2>Elements of a Steading</h2>
 <p aid:pstyle="NoIndent">A Steading is any bit of civilization that offers some amount of safety to its inhabitants. Villages, towns, keeps, and cities are the most common Steadings.</p>
 <p>Steadings are differentiated based on size. The size indicates roughly how many people the Steading can support. The population tag tells you if the current population is more then or less than this amount.</p>
