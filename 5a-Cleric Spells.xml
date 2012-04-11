@@ -10,7 +10,7 @@
 <p aid:pstyle="NoIndent">The symbol of your deity appears before you and gestures towards the direction or course of action your deity would have you take then disappears. The message is through gesture only; your communication through this spell is severely limited.</p></div>
 <div><h2>1st Level Spells</h2>
 <p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Bless</span>	Level 1</p>
-<p aid:pstyle="NoIndent">You deity smiles on the target in combat. They take +1 ongoing for the duration of the fight.</p>
+<p aid:pstyle="NoIndent">You deity smiles on the target in combat. They take +1 ongoing so long as battle continues and they stand and fight.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Light Wounds</span>	Level 1</p>
 <p aid:pstyle="NoIndent">At your touch wounds scab and bones cease to ache. Heal an ally of 1d8 damage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Detect Alignment</span>	Level 1</p>
