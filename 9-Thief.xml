@@ -23,7 +23,7 @@
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Halfling</h3>
 <p aid:pstyle="NoIndent">When you attack with a ranged weapon, deal +1 damage.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1</p></div>
+<p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Trap Expert (Dex)</h3>
 <p aid:pstyle="NoIndent">When spend a moment to survey a dangerous area, roll+Dex. On a 10+ hold 3. On a 7-9 hold 1. Spend your hold as you walk through the area to ask these questions:</p>
