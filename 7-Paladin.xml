@@ -22,7 +22,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are human, so you get this move.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you Spout Lore you may also ask “Is it evil?” When you Discern Realities you may also ask “What here is evil?”</p></div>
-<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves</p>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Lay on Hands (Cha)</h3>
 <p aid:pstyle="NoIndent">When you touch someone, skin to skin, and pray for your deity to cure them, roll+Cha. On a 10+ you heal 1d8 damage or remove one disease. On a 7-9, they are healed, but the damage or disease is transferred to you.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
