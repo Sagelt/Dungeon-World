@@ -29,7 +29,7 @@
 <ul><li>Pass judgement on a person or place</li>
 <li>Summon divine forces to cleanse</li>
 <li>Offer information in exchange for service</li></ul>
-<p aid:pstyle="MonsterName">Crocodillian	<span aid:cstyle="Tags">Group, Large</span></p>
+<p aid:pstyle="MonsterName">crocodilian	<span aid:cstyle="Tags">Group, Large</span></p>
 <p aid:pstyle="MonsterStats">Bite (d8+3 damage)	10 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious, Camouflage</p>
@@ -93,7 +93,7 @@
 <p aid:pstyle="MonsterStats">Short spear (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Dragon connection</p>
-<p aid:pstyle="MonsterDescription">Some are wont to lump these ratlike little dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The Kobolds, beholden slaves to dragons and—in ancient times—their lorekeepers and sorcerer-servants. Their clans, named in fashion like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a Kobold means more are near—if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
+<p aid:pstyle="MonsterDescription">Some are wont to lump these rat-like little dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The Kobolds, beholden slaves to dragons and—in ancient times—their lorekeepers and sorcerer-servants. Their clans, named in fashion like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a Kobold means more are near—if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
 <ul><li>Lay a trap</li>
 <li>Call on dragons or draconic allies</li>
 <li>Retreat and regroup</li></ul>
