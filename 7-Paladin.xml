@@ -95,7 +95,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Evidence of Faith</h3>
 <p aid:pstyle="Requirement">Requires: Divine Favor</p>
-<p aid:pstyle="NoIndent">When you see divine magic as it happens, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers</p>
+<p aid:pstyle="NoIndent">When you see divine magic as it happens, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.</p>
 <h3 aid:pstyle="MoveName">Holy Smite</h3>
 <p aid:pstyle="Requirement">Replaces: Smite</p>
 <p aid:pstyle="NoIndent">While on a Quest you deal +1d8 damage.</p>
