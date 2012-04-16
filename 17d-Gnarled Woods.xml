@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterStats">Bite (d8 damage)	6 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Illusion</p>
-<p aid:pstyle="MonsterDescription">Now you see it, now you don’t. Hounds once owned by a sorcerer lord and imbued with a kind of illusory cloak, they escaped into the woods around his lair and began to breed with wolves and wild dogs of the forest. You can spot them, if you’re lucky, by the glittering silver of their coats and their strange, ululating howls. They have a remarkable talent for being not-quite where they appear to be and use it to take down prey much stronger than themselves. If you find yourself facing a pack of blink dogs you might well close your eyes and fight. You’ll have an easier time when not betrayed by your natural sight. By such sorceries are the natural places of the world polluted with unnatural things.  <em>Instinct</em>: To hunt</p>
+<p aid:pstyle="MonsterDescription">Now you see it, now you don’t. Hounds once owned by a sorcerer lord and imbued with a kind of illusory cloak, they escaped into the woods around his lair and began to breed with wolves and wild dogs of the forest. You can spot them, if you’re lucky, by the glittering silver of their coats and their strange, ululating howls. They have a remarkable talent for being not-quite where they appear to be and use it to take down prey much stronger than themselves. If you find yourself facing a pack of blink dogs you might well close your eyes and fight. You’ll have an easier time when not betrayed by your natural sight. By such sorceries are the natural places of the world polluted with unnatural things. <em>Instinct</em>: To hunt</p>
 <ul><li>Give the appearance of being somewhere they're not</li>
 <li>Summon the pack</li>
 <li>Move with amazing speed</li></ul>
@@ -19,7 +19,7 @@
 <p aid:pstyle="MonsterStats">Bow (d6+2 damage 1 piercing)	11 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Half-horse, Half-man</p>
-<p aid:pstyle="MonsterDescription">It will be a gathering of clans unseen in this age. Call Stormhoof and Brightspear. Summon Whitemane and Ironflanks. Sound the horn and we shall begin our meeting—we shall speak the words and bind our people together. Too long have the men cut the ancient trees for their ships. The elves are weak and cowardly, friend to these mannish slime. It will be a cleansing fire from the darkest woods. Raise the red banner of war! Today we strike back against these apes and retake what is ours!  <em>Instinct</em>: To rage</p>
+<p aid:pstyle="MonsterDescription">It will be a gathering of clans unseen in this age. Call Stormhoof and Brightspear. Summon Whitemane and Ironflanks. Sound the horn and we shall begin our meeting—we shall speak the words and bind our people together. Too long have the men cut the ancient trees for their ships. The elves are weak and cowardly, friend to these mannish slime. It will be a cleansing fire from the darkest woods. Raise the red banner of war! Today we strike back against these apes and retake what is ours! <em>Instinct</em>: To rage</p>
 <ul><li>Overrun them</li>
 <li>Move with unrelenting speed</li></ul>
 <p aid:pstyle="MonsterName">Chaos Ooze	<span aid:cstyle="Tags">Solitary, Planar, Terrifying, Gibbous</span></p>
