@@ -20,6 +20,9 @@
 <p>A monster's <strong>HP</strong> is a measure of how much damage it can take before it dies. Just like players, when a monster takes damage it subtracts that amount from it's HP. At 0 HP it's dead, no Last Breath.</p>
 <p>Some monsters are lucky enough to enjoy <strong>Armor</strong>. Just like player armor: when a monster with armor takes damage it subtracts its armor from the damage done.</p>
 <p><strong>Special qualities</strong> describe innate aspects of the monster that are important to play. These are a guide to the fiction, and therefore the moves. There is no master list of special qualities, they're just plain-english descriptions of the qualities of a monster that aren't part of an attack. A quality like "Intangible" means just what it says: mundane stuff just passes through it. That means swinging a mundane sword at it isn't Hack and Slash, for a start.</p>
+<h3>Monsters Without Stats</h3>
+<p aid:pstyle="NoIndent">Some creatures operate on a scale so far beyond the mortal that concepts like HP, Armor, and Damage just do not hold. These creatures may still cause problems for the players and may even be defeated with clever thinking and enough preparation, they just won't be trading blows.</p>
+<p>If a creature is of such a scale far beyond the players, or if it simply doesn't live or die like a mortal creature, don't assign it HP, Damage, or Armor. You can still use the monster creation rules to give it tags. The core of a stat-less monster is its instinct and moves; the GM can still make its moves and act according to its instinct.</p>
 <h2>Monster Tags</h2>
 <p><em>Magical</em>: It is by nature magical through and through.</p>
 <p><em>Devious</em>: Its main danger lies beyond the simple clash of battle.</p>
