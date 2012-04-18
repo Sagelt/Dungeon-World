@@ -43,9 +43,9 @@
 <h3 aid:pstyle="BasicMoveName">Poisoner</h3>
 <p aid:pstyle="NoIndent">You've mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer Dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are Applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.</p>
 <ul><li>Oil of Tagit (Applied): The target falls into a light sleep</li>
-<li>Bloodweed (Touch): The target deals -5 damage ongoing until cured</li>
+<li>Bloodweed (Touch): The target deals -1d4 damage ongoing until cured</li>
 <li>Goldenroot (Applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
-<li>Serpent's Tears (Touch): The target takes 5 damage now and 3 damage a few moments later. These cannot be healed until the poison is cured.</li></ul></div></div>
+<li>Serpent's Tears (Touch): Anyone dealing damage against the target rolls twice and takes the better result.</li></ul></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>

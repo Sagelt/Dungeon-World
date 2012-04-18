@@ -87,11 +87,11 @@
 <p aid:pstyle="Item">Oil of Tagit	<span aid:cstyle="Tags">Dangerous, Applied, 15 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target falls into a light sleep</p>
 <p aid:pstyle="Item">Bloodweed	<span aid:cstyle="Tags">Dangerous, Touch, 12 coins, 0 Weight</span></p>
-<p aid:pstyle="ItemDescription">The target deals -5 damage ongoing until cured</p>
+<p aid:pstyle="ItemDescription">The target deals -1d4 damage ongoing until cured</p>
 <p aid:pstyle="Item">Goldenroot	<span aid:cstyle="Tags">Dangerous, Applied, 20 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target treats the next creature they see as a trusted ally, until proved otherwise</p>
 <p aid:pstyle="Item">Serpent's Tears	<span aid:cstyle="Tags">Dangerous, Touch, 10 coins, 0 Weight</span></p>
-<p aid:pstyle="ItemDescription">The target takes 5 damage now and 3 damage a few moments later. These cannot be healed until the poison is cured.</p>
+<p aid:pstyle="ItemDescription">Anyone dealing damage against the target rolls twice and takes the better result.</p>
 <h2>Services</h2>
 <p aid:pstyle="Item">A week's stay at a peasant inn	<span aid:cstyle="Tags">14-Charisma coins</span></p>
 <p aid:pstyle="Item">A week's stay at a civilized inn	<span aid:cstyle="Tags">30-Charisma coins</span></p>
