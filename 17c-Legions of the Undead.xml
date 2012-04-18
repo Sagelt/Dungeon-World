@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterStats">Scream (d10 damage)	16 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
-<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days.  Often mistaken on first glance for a ghost or wandering spirit, the Banshee reveals a far more deadly talent for sonic assault when angered.  And angered they are. To a one the victims of betrayal (often by a loved one) the Banshee makes known their displeasure with a roar or scream that can putrefy flesh and rend the senses.  If you can, help them get their vengeance and they’ve been known to grant rewards.  Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To avenge</p>
+<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days.  Often mistaken at first glance for a ghost or wandering spirit, the Banshee reveals a far more deadly talent for sonic assault when angered.  And angered they are. A victim of betrayal (often by a loved one) the Banshee makes known their displeasure with a roar or scream that can putrefy flesh and rend the senses.  If you can, help them get their vengeance and they’ve been known to grant rewards.  Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To avenge</p>
 <ul><li>Drown out all other sound with a ceaseless scream</li>
 <li>Unleash a skull-splitting noise</li>
 <li>Disappear into the mists</li></ul>
@@ -24,7 +24,7 @@
 <p aid:pstyle="MonsterName">Dragonbone	<span aid:cstyle="Tags">Solitary, Huge</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage 3 piercing)	20 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Messy</span></p>
-<p aid:pstyle="MonsterDescription">Mystical sorcerors debate: is this creature truly undead or is it a golem made of a particularly rare and blasphemous material?  The bones, sinews and scales of a dead dragon make up this bleak automaton.  Winged but flightless, dragon-shaped but without the mighty fire of such a noble thing, the Dragonbone serves its master with a twisted devotion and is often set to assault the keeps and towers of rival necromancers.  It would take a being of some considerable evil to twist the remains of a dragon thus. <em>Instinct</em>: To serve</p>
+<p aid:pstyle="MonsterDescription">Mystical sorcerers debate: is this creature truly undead or is it a golem made of a particularly rare and blasphemous material?  The bones, sinews and scales of a dead dragon make up this bleak automaton.  Winged but flightless, dragon-shaped but without the mighty fire of such a noble thing, the Dragonbone serves its master with a twisted devotion and is often set to assault the keeps and towers of rival necromancers.  It would take a being of some considerable evil to twist the remains of a dragon thus. <em>Instinct</em>: To serve</p>
 <ul><li>Attack unrelentingly</li></ul>
 <p aid:pstyle="MonsterName">Draugr	<span aid:cstyle="Tags">Horde, Organized</span></p>
 <p aid:pstyle="MonsterStats">Rusty sword (d6+1 damage)	7 HP	2 Armor</p>

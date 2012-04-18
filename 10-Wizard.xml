@@ -26,7 +26,7 @@
 <p aid:pstyle="NoIndent">Choose one cleric spell, you can cast it as if it was a wizard spell.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you cast a Summoning spell take +1.</p></div>
-<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves</p>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Spellbook</h3>
 <p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 weight.</p>
 <h3 aid:pstyle="BasicMoveName">Prepare Spells</h3>
@@ -117,4 +117,4 @@
 <h3 aid:pstyle="MoveName">Spell Augmentation</h3>
 <p aid:pstyle="NoIndent">When you deal damage to a creature you can shunt a spell's energy into them—end one of your ongoing spells and add the spell's level to the damage dealt.</p>
 <h3 aid:pstyle="MoveName">Self-Powered</h3>
-<p aid:pstyle="NoIndent">When you have time, arcane materials, and a safe space, you can create your own place of power. Describe to the GM what kind of power it is and how you're binding it to this place, the GM will tell you one kind of creature that will have an interested in your workings.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you have time, arcane materials, and a safe space, you can create your own place of power. Describe to the GM what kind of power it is and how you're binding it to this place, the GM will tell you one kind of creature that will have an interest in your workings.</p></div></Body></Root>

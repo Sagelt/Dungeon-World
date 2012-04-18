@@ -22,7 +22,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are human, so you get this move.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you Spout Lore you may also ask “Is it evil?” When you Discern Realities you may also ask “What here is evil?”</p></div>
-<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves</p>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Lay on Hands (Cha)</h3>
 <p aid:pstyle="NoIndent">When you touch someone, skin to skin, and pray for your deity to cure them, roll+Cha. On a 10+ you heal 1d8 damage or remove one disease. On a 7-9, they are healed, but the damage or disease is transferred to you.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
@@ -90,12 +90,12 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">You get +1 armor while on a Quest.</p>
 <h3 aid:pstyle="MoveName">Voice of Authority</h3>
 <p aid:pstyle="NoIndent">Take +1 to Order Hirelings.</p>
-<h3 aid:pstyle="MoveName">Hospitaler</h3>
+<h3 aid:pstyle="MoveName">Hospitaller</h3>
 <p aid:pstyle="NoIndent">When you heal an ally, you heal +2d8 damage.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Evidence of Faith</h3>
 <p aid:pstyle="Requirement">Requires: Divine Favor</p>
-<p aid:pstyle="NoIndent">When you see divine magic as it happens, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers</p>
+<p aid:pstyle="NoIndent">When you see divine magic as it happens, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.</p>
 <h3 aid:pstyle="MoveName">Holy Smite</h3>
 <p aid:pstyle="Requirement">Replaces: Smite</p>
 <p aid:pstyle="NoIndent">While on a Quest you deal +1d8 damage.</p>
@@ -114,8 +114,8 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h3 aid:pstyle="MoveName">Divine Authority</h3>
 <p aid:pstyle="Requirement">Replaces: Voice of Authority</p>
 <p aid:pstyle="NoIndent">Take +1 to Order Hirelings. When you roll a 12+ to Order Hirelings the hireling transcends their moment of fear and doubt to perform at the peak of potential.</p>
-<h3 aid:pstyle="MoveName">Perfect Hospitaler</h3>
-<p aid:pstyle="Requirement">Replaces: Hospitaler</p>
+<h3 aid:pstyle="MoveName">Perfect Hospitaller</h3>
+<p aid:pstyle="Requirement">Replaces: Hospitaller</p>
 <p aid:pstyle="NoIndent">When you heal an ally, you heal +4d8 damage.</p>
 <h3 aid:pstyle="MoveName">Indomitable</h3>
 <p aid:pstyle="NoIndent">When you suffer a debility (even through Bloody Aegis) take +1 forward against whatever caused it.</p>
