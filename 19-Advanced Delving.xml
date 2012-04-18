@@ -18,7 +18,7 @@
 <p>Moves made by monsters against the players aren't player moves at all. They're monster moves, simple statements of what the monster does. Trying to make every monster move into a player move will seriously hamper your creativity.</p>
 <h2>World Moves</h2>
 <p aid:pstyle="NoIndent">Your Dungeon World is full of fantastic things, right? You're likely to find that some of those fantastic things deserve or demand custom moves to reflect exactly what they do. Consider this one from Chris Bennet:</p>
-<p aid:pstyle="Example">When you open a sewer hatch roll+Str. On a 10+, choose 3, on a 7-9, choose 1.</p>
+<p aid:pstyle="Example">When you open a sewer hatch roll+Str. On a 10+, choose 3. On a 7-9 choose 1.</p>
 <ul><li aid:pstyle="Exampleli">You avoid being covered in feces and rotting animal entrails from the sewers above.</li>
 <li aid:pstyle="Exampleli">You avoid having a gelatinous cube land on you.</li>
 <li aid:pstyle="Exampleli">You find a secret back entrance to where the merchant's daughter is being held.</li></ul>

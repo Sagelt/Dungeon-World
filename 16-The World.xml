@@ -78,7 +78,7 @@
 <p><em>Safe</em>: Outside trouble doesn't come here unless the players bring it. Idyllic and often hidden. If the Steading would lose or degrade another beneficial tag get rid of Safe instead.</p>
 <p><em>Religion</em>: The listed deity is revered here.</p>
 <p><em>Exotic</em>: There are goods and services available here that aren't available anywhere else nearby. List them.</p>
-<p><em>Resource</em>: The steading has easy access to the listed resource (eg. a spice, a type of ore, fish, grapes). That resource is significantly cheaper.</p>
+<p><em>Resource</em>: The steading has easy access to the listed resource (e.g. a spice, a type of ore, fish, grapes). That resource is significantly cheaper.</p>
 <p><em>Need</em>: The Steading has an acute or ongoing need for the listed resource. That resource sells for considerably more.</p>
 <p><em>Oath</em>: The Steading has sworn oaths to the listed Steadings. These oaths are generally of fealty or support, but may be more specific.</p>
 <p><em>Trade</em>: The Steading regularly trades with the listed Steadings.</p>
@@ -106,7 +106,7 @@
 <li>The village is built around a wizard's tower: Personage (the wizard), Blight (arcane creatures)</li>
 <li>The village was built on the site of religious significance: Divine, History (your choice)</li></ul>
 <p aid:pstyle="NoIndent">Choose one problem:</p>
-<ul><li>The village is in arid or uncultivateable land: Need (Food)</li>
+<ul><li>The village is in arid or uncultivable land: Need (Food)</li>
 <li>The village is dedicated to a deity: Religious (that deity), Enmity (a settlement of another deity)</li>
 <li>The village has recently fought a battle: -Population, -Prosperity if they fought to the end, -Defenses if they lost.</li>
 <li>The village has a monster problem: Blight (that monster), Need (adventurers)</li>
@@ -213,7 +213,7 @@
 <li>Good Accomplished</li></ul>
 <h3>Skills</h3>
 <h4>Adept</h4>
-<p aid:pstyle="NoIndent">An adept has at least apprenticed to a arcane expert, but is not powerful in their own right. They may have mastered a few simple spells, but they don't have anything like the wizard's spellbook</p>
+<p aid:pstyle="NoIndent">An adept has at least apprenticed to an arcane expert, but is not powerful in their own right. They may have mastered a few simple spells, but they don't have anything like the wizard's spellbook</p>
 <p><em>Arcane Assistance</em>—When an adept aids in the casting of a spell of lower level than their skill, the spell's effects have greater range, duration, or potency. The exact effects depend on the situation and the spell and are up to the GM. The GM will describe what effects the assist will add before the spell is cast. The most important feature of casting with an adept is that any negative effects of the casting are focused on the adept first.</p>
 <h4>Expert</h4>
 <p aid:pstyle="NoIndent">Experts are skilled in a variety of areas, most of them illicit or dangerous. They are good with devices and traps, but not too helpful in the field of battle.</p>

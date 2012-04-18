@@ -22,7 +22,7 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">When you enter a important location (your call) you can ask the GM for one fact from the history of that location.</p>
+<p aid:pstyle="NoIndent">When you enter an important location (your call) you can ask the GM for one fact from the history of that location.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you first enter a civilized settlement someone who respects the custom of hospitality to minstrels will take you in as their guest.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
@@ -42,7 +42,7 @@
 <li>The Planar Spheres</li>
 <li>Legends of Heroes Past</li>
 <li>Gods and Their Servants</li></ul>
-<p aid:pstyle="NoIndent">When you first encounter a important creature, location, or item (your call) covered by your Bardic Lore you can ask the GM any one question about it, the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.</p>
+<p aid:pstyle="NoIndent">When you first encounter an important creature, location, or item (your call) covered by your Bardic Lore you can ask the GM any one question about it, the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.</p>
 <h3 aid:pstyle="BasicMoveName">Charming and Open</h3>
 <p aid:pstyle="NoIndent">When you speak frankly with someone, you can ask their player a question from the list below. If they answer it truthfully they then get to ask you a question from the list below.</p>
 <ul><li>Whom do you serve?</li>
