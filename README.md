@@ -9,4 +9,6 @@ See the LICENSE file for the full details, but here's the basics: you're free to
 What we hope you do with it is make new stuff: make classes, adventures, moves, even whole new games.
 
 ## Contributing
-In the unlikely case you're a roleplaying game geek who also wants to contribute directly, we're open to pull requests. Typo fixes are most welcome
+In case you're a roleplaying game geek who also wants to contribute directly, we're open to pull requests. Typo fixes and editing would be wonderful.
+
+If you start a pull request please also modify a1-Thanks.xml and add your name to the Contributors section so we can thank you.
