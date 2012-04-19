@@ -21,7 +21,7 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">When you lead your companions on a Perilous Journey through wilderness the journey is one ration shorter.</p>
+<p aid:pstyle="NoIndent">When you undertake a Perilous Journey through wilderness whatever role you take you succeed as if you rolled a 10+.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you Make Camp in a dungeon or city, you don't need to consume a ration.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
@@ -99,7 +99,7 @@
 <h3 aid:pstyle="MoveName">God Amidst the Wastes</h3>
 <p aid:pstyle="NoIndent">You gain the Commune and Cast a Spell Cleric move. Your level for the purposes of that move is 1 + the levels you've gained since you took God Amidst the Wastes.</p>
 <h3 aid:pstyle="MoveName">Follow Me</h3>
-<p aid:pstyle="NoIndent">When you Undertake a Perilous journey with others, you can roll for your companions. Make your move once, you and your companions all take the results you choose.</p>
+<p aid:pstyle="NoIndent">When you Undertake a Perilous journey you can take two roles. You make a roll for each.</p>
 <h3 aid:pstyle="MoveName">A Safe Place</h3>
 <p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to Take Watch.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
@@ -117,7 +117,7 @@
 <p aid:pstyle="NoIndent">You take +1 forward against someone whose trail you follow. You cannot be surprised, ambushed, or otherwise at a disadvantage against someone whose trail you follow.</p>
 <h3 aid:pstyle="MoveName">Strider</h3>
 <p aid:pstyle="Requirement">Replaces: Follow Me</p>
-<p aid:pstyle="NoIndent">When you Undertake a Perilous journey with others, you can roll for your companions. Make your move once, you and your companions all take the results you choose. On a 12+ your route is faster than seemed possible. The GM will give you an advantage upon arriving at your destination (maybe the drop on your quarry or a fortuitous meeting).</p>
+<p aid:pstyle="NoIndent">When you Undertake a Perilous journey you can take two roles. Roll twice and use the better result for both roles.</p>
 <h3 aid:pstyle="MoveName">A Safer Place</h3>
 <p aid:pstyle="Requirement">Replaces: A Safe Place</p>
 <p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to Take Watch. After a night in camp when you set the watch everyone takes +1 forward.</p>
