@@ -93,7 +93,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Divine Protection</h3>
 <p aid:pstyle="NoIndent">When you wear no armor or shield you get 2 armor.</p>
 <h3 aid:pstyle="MoveName">Devoted Healer</h3>
-<p aid:pstyle="NoIndent">When you heal someone else of damage, heal +twice your level damage.</p>
+<p aid:pstyle="NoIndent">When you heal someone else of damage, heal +your level damage.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Anointed</h3>
 <p aid:pstyle="Requirement">Requires: Chosen One</p>
