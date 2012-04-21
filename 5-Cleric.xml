@@ -57,7 +57,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Harm another to prove the superiority of your church or god</p></div>
 <h2>Gear</h2>
-<div id="gear"><p>Your Load is 7+Str. You carry some symbol of the divine, describe it (Weight 0). In addition you start with one item from each list:</p>
+<div id="gear"><p>Your Load is 7+Str. You carry some symbol of the divine, describe it (0 Weight). In addition you start with one item from each list:</p>
 <ul><li>Chainmail (1 armor, 1 weight) <em>or</em> a shield (+1 armor, 2 weight)</li>
 <li>Warhammer (Close, 1 weight) <em>or</em> mace (Close, 1 weight) <em>or</em> staff (Close, Two-handed, 1 weight) and bandages</li>
 <li>Adventuring gear (1 weight) and dungeon rations (1 weight) <em>or</em> healing potion (1 weight)</li>

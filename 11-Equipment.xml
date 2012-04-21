@@ -67,7 +67,7 @@
 <p aid:pstyle="ItemDescription">When you carefully treat someone's wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
 <p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">50 coins</span></p>
 <p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 10 damage or remove one debility, your choice.</p>
-<p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 coins, Weight 4</span></p>
+<p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 coins, 4 Weight</span></p>
 <p aid:pstyle="ItemDescription">When you open a keg of dwarven stout and let everyone drink freely, take +1 to your Carouse roll. If you drink a whole keg yourself, you are very very drunk.</p>
 <p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 Uses, 10 coins, 2 Weight</span></p>
 <p aid:pstyle="ItemDescription">When your bag of books contains just the right book for the subject you're Spouting Lore on, consult the book, mark off a use, and take +1 to your roll.</p>
@@ -163,7 +163,7 @@
 <ul><li>You get the exact item, but it takes a while</li>
 <li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
 <p aid:pstyle="NoIndent">No matter how many items it contains, a bag of holding is always 0 weight.</p>
-<p aid:pstyle="MagicItem">The Burning Wheel	<span aid:cstyle="Tags">Weight 2</span></p>
+<p aid:pstyle="MagicItem">The Burning Wheel	<span aid:cstyle="Tags">2 Weight</span></p>
 <p aid:pstyle="NoIndent">This wagon wheel with several shattered spokes is constantly wreathed in flames. A gift from the gods, it takes a strong soul to carry the wheel. It does not provide any bonus to swimming.</p>
 <p>When you pick up The Burning Wheel and speak a god's name, roll+Con. On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7-9, the GM chooses which stat to reduce.</p>
 <p aid:pstyle="MagicItem">Candle of Truth	<span aid:cstyle="Tags">0 Weight</span></p>
