@@ -38,10 +38,10 @@
 <p aid:pstyle="NoIndent">You have a supernatural connection with a loyal animal. You can't talk to it per se but it always acts as you wish it to. Name your animal companion and choose a species:</p>
 <p aid:pstyle="Example">Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pigeon, rat, mule</p>
 <p aid:pstyle="NoIndent">Choose a base:</p>
-<ul><li>Ferocity 2d4, Cunning +1, Armor 1, Instinct +1</li>
-<li>Ferocity 2d4, Cunning +2, Armor 0, Instinct +1</li>
-<li>Ferocity 1d4, Cunning +2, Armor 1, Instinct +1</li>
-<li>Ferocity 2d4, Cunning +1, Armor 2, Instinct +2</li></ul>
+<ul><li>Ferocity 2d4, Cunning +1, 1 Armor, Instinct +1</li>
+<li>Ferocity 2d4, Cunning +2, 0 Armor, Instinct +1</li>
+<li>Ferocity 1d4, Cunning +2, 1 Armor, Instinct +1</li>
+<li>Ferocity 2d4, Cunning +1, 2 Armor, Instinct +2</li></ul>
 <p aid:pstyle="NoIndent">Choose as many strengths as its ferocity:</p>
 <p aid:pstyle="Example">Fast, burly, huge, calm, adaptable, quick reflexes, tireless, camouflage, ferocious, intimidating, keen senses, stealthy</p>
 <p aid:pstyle="NoIndent">Your animal companion is trained to fight humanoids. Choose as many additional trainings as its cunning:</p>
