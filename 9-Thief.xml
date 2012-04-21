@@ -84,7 +84,7 @@
 <h3 aid:pstyle="MoveName">Brewer</h3>
 <p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any one poison you've used before.</p>
 <h3 aid:pstyle="MoveName">Underdog</h3>
-<p aid:pstyle="NoIndent">When you're outnumbered, you have +2 armor.</p>
+<p aid:pstyle="NoIndent">When you're outnumbered, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
 <p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+Cha. On a 10+ someone has it, just for you. On a 7–9 you'll have to settle for something close or it comes with strings attached, your call.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
@@ -103,7 +103,7 @@
 <li>It'll have obvious side effects</li></ul>
 <h3 aid:pstyle="MoveName">Serious Underdog</h3>
 <p aid:pstyle="Requirement">Replaces: Underdog</p>
-<p aid:pstyle="NoIndent">You have +2 armor. When you're outnumbered, you have +4 armor instead.</p>
+<p aid:pstyle="NoIndent">You have +1 armor. When you're outnumbered, you have +2 armor instead.</p>
 <h3 aid:pstyle="MoveName">Evasion</h3>
 <p aid:pstyle="NoIndent">When you Defy Danger on a 12+ you transcend the danger. You not only do what you set out to but you the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
 <h3 aid:pstyle="MoveName">Strong Arm, True Aim</h3>
