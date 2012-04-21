@@ -91,7 +91,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h3 aid:pstyle="MoveName">Voice of Authority</h3>
 <p aid:pstyle="NoIndent">Take +1 to Order Hirelings.</p>
 <h3 aid:pstyle="MoveName">Hospitaller</h3>
-<p aid:pstyle="NoIndent">When you heal an ally, you heal +2d8 damage.</p>
+<p aid:pstyle="NoIndent">When you heal an ally, you heal +1d8 damage.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Evidence of Faith</h3>
 <p aid:pstyle="Requirement">Requires: Divine Favor</p>
@@ -116,7 +116,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">Take +1 to Order Hirelings. When you roll a 12+ to Order Hirelings the hireling transcends their moment of fear and doubt to perform at the peak of potential.</p>
 <h3 aid:pstyle="MoveName">Perfect Hospitaller</h3>
 <p aid:pstyle="Requirement">Replaces: Hospitaller</p>
-<p aid:pstyle="NoIndent">When you heal an ally, you heal +4d8 damage.</p>
+<p aid:pstyle="NoIndent">When you heal an ally, you heal +2d8 damage.</p>
 <h3 aid:pstyle="MoveName">Indomitable</h3>
 <p aid:pstyle="NoIndent">When you suffer a debility (even through Bloody Aegis) take +1 forward against whatever caused it.</p>
 <h3 aid:pstyle="MoveName">Perfect Knight</h3>
