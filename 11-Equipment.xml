@@ -175,7 +175,7 @@
 <p aid:pstyle="MagicItem">Crystal Ball	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">When you look into a crystal ball, name a location and roll+Wis. On a hit, you get a clear vision of the location so long as you stare into the crystal ball. On a 7-9, someone or something else also observes you through the crystal ball.</p>
 <p aid:pstyle="MagicItem">Demonsbane	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
-<p aid:pstyle="NoIndent">When you bath your blade in demonsbane, take +2 damage ongoing against creatures from the lower planes until the demonsbane is wiped from the blade.</p>
+<p aid:pstyle="NoIndent">A weapon bathed in Demonsbane causes great pain to demons. It's touch will drive them back.</p>
 <p aid:pstyle="MagicItem">Flask of Breath	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">This flask contains an everlasting supply of air. It is useful for breathing underwater or on the far planes.</p>
 <p aid:pstyle="MagicItem">Holy Avenger	<span aid:cstyle="Tags">Close, 2 Weight</span></p>
