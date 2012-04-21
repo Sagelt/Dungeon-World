@@ -179,7 +179,7 @@
 <p aid:pstyle="MagicItem">Flask of Breath	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">This flask contains an everlasting supply of air. It is useful for breathing underwater or on the far planes.</p>
 <p aid:pstyle="MagicItem">Holy Avenger	<span aid:cstyle="Tags">Close, 2 Weight</span></p>
-<p aid:pstyle="NoIndent">This sword is revered among paladins. It is considered a sign of divine favor to wield one. When wielded by a paladin, the paladin's damage becomes 1d12 and the wielder takes +1 to Lay on Hands. For anyone else, it’s just a sword.</p>
+<p aid:pstyle="NoIndent">This sword is revered among paladins. It is considered a sign of divine favor to wield one. When wielded by a paladin, the paladin is granted a mark of divinity and the eyes of the gods are always on them (for good or ill). For anyone else, it’s just a sword.</p>
 <p aid:pstyle="MagicItem">Immovable Rod	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">When you press the small button on the end of the immovable rod, it freezes in place and cannot be moved. When you press the button again, it becomes movable again.</p>
 <p aid:pstyle="MagicItem">Infinite Book	<span aid:cstyle="Tags">1 Weight</span></p>
