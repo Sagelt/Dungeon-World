@@ -159,7 +159,7 @@
 <p>Magic items are for you to make, for your game. Players can make magic items through the Wizard's ritual and similar moves, the GM can introduce magic items in the spoils of battle or the bounty of reward. This list provides some ideas, but magic items are ultimately for you to decide.</p>
 <p>When making your own magic items keep in mind that magic items are magical. +1 damage is the realm of the mundane, magic items should provide more interesting bonuses.</p>
 <p aid:pstyle="MagicItem">Bag of Holding	<span aid:cstyle="Tags">0 Weight</span></p>
-<p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and it's weight never increases. When you try to retrieve an item from a bag of holding, roll+Wis. On a 10+, it's right there. On a 7-9, choose one:</p>
+<p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and its weight never increases. When you try to retrieve an item from a bag of holding, roll+Wis. On a 10+, it's right there. On a 7-9, choose one:</p>
 <ul><li>You get the exact item, but it takes a while</li>
 <li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
 <p aid:pstyle="NoIndent">No matter how many items it contains, a bag of holding is always 0 weight.</p>
