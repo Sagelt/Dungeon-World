@@ -24,7 +24,7 @@
 <li>Open up the attacker to an ally giving that ally +1 forward against the attacker</li>
 <li>Deal damage to the attacker equal to your level</li></ul>
 <h2 aid:pstyle="BasicMoveName">Spout Lore</h2>
-<p aid:pstyle="NoIndent">When you <strong>consult your accumulated knowledge about something</strong>, roll+Int. On a 10+ the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7–9 the GM will only tell you something interesting—it's on you to make it useful. The GM might ask you "How do you know this?" Tell them the truth, now.</p>
+<p aid:pstyle="NoIndent">When you <strong>consult your accumulated knowledge about something</strong>, roll+Int. On a 10+ the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7–9 the GM will only tell you something interesting—its on you to make it useful. The GM might ask you "How do you know this?" Tell them the truth, now.</p>
 <h2 aid:pstyle="BasicMoveName">Discern Realities</h2>
 <p aid:pstyle="NoIndent">When you <strong>closely study a situation or person</strong>, roll+Wis. On a 10+ ask the GM 3 questions from the list below. On a 7–9 ask 1. Take +1 forward when acting on the answers.</p>
 <ul><li>What happened here recently?</li>
@@ -65,7 +65,7 @@
 <li>You gain useful information</li>
 <li>You are not entangled, ensorcelled, or tricked</li></ul>
 <h2 aid:pstyle="BasicMoveName">Supply</h2>
-<p aid:pstyle="NoIndent">When you <strong>go to buy something with gold on hand</strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha. On a 10+ you find what you're looking for at a fair price. On a 7–9 you'll have to pay more or settle for something similar.</p>
+<p aid:pstyle="NoIndent">When you <strong>go to buy something with gold on hand</strong>, if its something readily available in the settlement you're in, you can buy it at market price. If its something special, beyond what's usually available here, or non-mundane, roll+Cha. On a 10+ you find what you're looking for at a fair price. On a 7–9 you'll have to pay more or settle for something similar.</p>
 <h2 aid:pstyle="BasicMoveName">Recover</h2>
 <p aid:pstyle="NoIndent">When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you're under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.</p>
 <h2 aid:pstyle="BasicMoveName">Recruit</h2>
