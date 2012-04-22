@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="dungeon-world-class.xsl"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Bard</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">Sure, an adventurer’s life is all open roads and the glory of coin and combat. Those tales that are told in every farmhand-filled inn have to have some ring of truth to them, don’t they? The songs to inspire peasantry and royals alike – to sooth the savage beast or drive men to a frenzy have to come from somewhere.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Sure, an adventurer’s life is all open roads and the glory of coin and combat. Those tales that are told in every farmhand-filled inn have to have some ring of truth to them, don’t they? The songs to inspire peasantry and royals alike—to sooth the savage beast or drive men to a frenzy have to come from somewhere.</p>
 <p>Enter the Bard. You, with your smooth tongue and quick wit. You teller-of-tales and singer-of-songs. It takes a mere minstrel to retell a thing but a true Bard to live it. Strap on your boots, noble orator. Sharpen that hidden dagger and take up the call. Someone’s got to be there, fighting shoulder-to-shoulder with the goons and the thugs and the soon-to-be-heroes. Who better than you to write the tale of your own heroism?</p>
 <p>Nobody. Get going.</p></div>
 <h2>Names</h2>
@@ -110,15 +110,15 @@
 <p aid:pstyle="NoIndent">When you first meet someone who's heard songs about you, roll+Cha. On a 10+, tell the GM two things they've heard about you. On a 7-9, tell the GM one thing they've heard, and the GM tells you one thing.</p>
 <h3 aid:pstyle="MoveName">Eldritch Chord</h3>
 <p aid:pstyle="Requirement">Replaces: Eldritch Tones</p>
-<p aid:pstyle="NoIndent">When you use Arcane Art, you choose three effects instead of one.</p>
+<p aid:pstyle="NoIndent">When you use Arcane Art, you choose two effects. You also get to choose one of those effects to double.</p>
 <h3 aid:pstyle="MoveName">An Ear For Magic</h3>
 <p aid:pstyle="NoIndent">When you hear an enemy cast a spell the GM will tell you the name of the spell and its effects. Take +1 forward when acting on the answers.</p>
 <h3 aid:pstyle="MoveName">Devious</h3>
 <p aid:pstyle="NoIndent">When you use Charming and Open you may also ask "How are you vulnerable to me?" Your subject may not ask this question of you.</p>
 <h3 aid:pstyle="MoveName">Duelist's Block</h3>
 <p aid:pstyle="Requirement">Replaces: Duelist's Parry</p>
-<p aid:pstyle="NoIndent">When you Hack and Slash, you take +3 armor forward.</p>
-<h3 aid:pstyle="MoveName">Beguile</h3>
+<p aid:pstyle="NoIndent">When you Hack and Slash, you take +2 armor forward.</p>
+<h3 aid:pstyle="MoveName">Con</h3>
 <p aid:pstyle="Requirement">Replaces: Bamboozle</p>
 <p aid:pstyle="NoIndent">When you Parley with someone, on a hit you also take +1 forward with them and get to ask their player one question which they must answer truthfully.</p>
 <h3 aid:pstyle="MoveName">Multiclass Master</h3>

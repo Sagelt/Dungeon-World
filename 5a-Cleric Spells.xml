@@ -49,7 +49,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Critical Wounds</span>	Level 5</p>
 <p aid:pstyle="NoIndent">Heal an ally of 3d8 damage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divination</span>	Level 5</p>
-<p aid:pstyle="NoIndent">Name a person, place or thing you want to learn about. Your deity grants you visions of the target, as clear as if you were there.</p>
+<p aid:pstyle="NoIndent">Name a person, place, or thing you want to learn about. Your deity grants you visions of the target, as clear as if you were there.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Critical Wounds</span>	Level 5	Damaging</p>
 <p aid:pstyle="NoIndent">You cause horrific harm. Deal 1d8+1d4 damage ignoring armor.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Words of the Unspeaking</span>	Level 5</p>
@@ -64,7 +64,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Heal</span>	Level 7</p>
 <p aid:pstyle="NoIndent">Touch an ally and you may restore up to your maximum HP to them.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Harm</span>	Level 7</p>
-<p aid:pstyle="NoIndent">Touch an enemy and strike them with divine wrath - deal 2d8 damage to them and 1d6 damage to yourself (ignores armor).</p>
+<p aid:pstyle="NoIndent">Touch an enemy and strike them with divine wrath—deal 2d8 damage to them and 1d6 damage to yourself (ignores armor).</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sever</span>	Level 7	Damaging</p>
 <p aid:pstyle="NoIndent">Choose an appendage on the target such as an arm, tentacle, or wing. The appendage is magically severed from their body, causing no damage but considerable pain. Missing an appendage may, for example, keep a winged creature from flying, or a bull from goring you on its horns. While you maintain the spell you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mark of Death</span>	Level 7	Death</p>
