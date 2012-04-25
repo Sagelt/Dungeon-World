@@ -61,12 +61,24 @@
 <h3 aid:pstyle="MoveName">Chaotic</h3>
 <p aid:pstyle="NoIndent">Spur others to significant and unplanned decisive action</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. In addition to your instrument you get one from each list:</p>
-<ul><li>Your father's mandolin, repaired <em>or</em> A fine lute, a gift from a noble <em>or</em> The pipes with which you courted your first love <em>or</em> A stolen horn <em>or</em> A fiddle, never before played <em>or</em> a songbook in a forgotten tongue</li>
-<li>Leather armor  (1 armor, 1 weight) <em>or</em> ostentatious clothes</li>
-<li>Dueling rapier (Close, Precise, 2 weight) <em>or</em> a worn bow (Near, 2 weight), bundle of arrows (3 ammo, 1 weight) and short sword (Close, 1 weight)</li>
-<li>Adventuring Gear (1 weight) <em>or</em> Bandages (0 weight) <em>or</em> Halfling pipeleaf (1 weight) <em>or</em> 3 coin</li>
-<li>Dungeon rations (1 weight)</li></ul></div>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You have dungeon rations (5 uses, 1 weight). Choose one instrument:</p>
+<ul><li aid:pstyle="Option">Your father's mandolin, repaired</li>
+<li aid:pstyle="Option">A fine lute, a gift from a noble</li>
+<li aid:pstyle="Option">The pipes with which you courted your first love</li>
+<li aid:pstyle="Option">A stolen horn</li>
+<li aid:pstyle="Option">A fiddle, never before played</li>
+<li aid:pstyle="Option">A songbook in a forgotten tongue</li></ul>
+<p aid:pstyle="NoIndent">Choose your clothing:</p>
+<ul><li aid:pstyle="Option">Leather armor  (1 armor, 1 weight)</li>
+<li aid:pstyle="Option">Ostentatious clothes</li></ul>
+<p aid:pstyle="NoIndent">Choose your armament:</p>
+<ul><li aid:pstyle="Option">Dueling rapier (Close, Precise, 2 weight)</li>
+<li aid:pstyle="Option">Worn bow (Near, 2 weight), bundle of arrows (3 ammo, 1 weight), and short sword (Close, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li>Adventuring Gear (1 weight)</li>
+<li>Bandages (0 weight)</li>
+<li>Halfling pipeleaf (1 weight)</li>
+<li>3 coin</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>I have a long-standing bargain with _______________.</p>

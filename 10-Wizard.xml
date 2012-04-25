@@ -56,10 +56,15 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Use magic to cause terror and fear</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str, and your spellbook is 1 weight. In addition to your spellbook you start with one from each list:</p>
-<ul><li>Leather armor (1 armor, 1 weight) <em>or</em> bag of books (5 uses, 2 weight) and 3 healing potions</li>
-<li>Dagger (Hand, 1 weight) <em>or</em> staff (Close, two-handed, 1 weight)</li>
-<li>Dungeon rations (5 uses, 1 weight) and healing potion <em>or</em> dungeon rations (5 uses, 1 weight) and three antitoxin </li></ul></div>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You start with your spellbook (1 weight) and dungeon rations (1 weight, 5 uses). Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
+<li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
+<p aid:pstyle="NoIndent">Choose your weapon:</p>
+<ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
+<li aid:pstyle="Option">staff (Close, two-handed, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">healing potion</li>
+<li aid:pstyle="Option">three antitoxin</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>

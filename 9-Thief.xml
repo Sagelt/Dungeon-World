@@ -55,12 +55,12 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Shift danger or blame from yourself to someone else</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You start with one from each list:</p>
-<ul><li>Dagger (Hand, 1 weight) and short sword (Close, 1 weight) <em>or</em> Rapier (close, precise, 1 weight)</li>
-<li>Leather (1 armor, 1 weight)</li>
-<li>3 uses of the poison you chose for Poisoner</li>
-<li>Adventuring gear (1 weight) and dungeon rations (1 weight) <em>or</em> dungeon rations (1 weight) and healing potion</li>
-<p>10 coin</p></ul></div>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You start with one dungeon rations (1 weight, 5 uses), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coin. Chose your arms:</p>
+<ul><li aid:pstyle="Option">Dagger (Hand, 1 weight) and short sword (Close, 1 weight)</li>
+<li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">Healing potion</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>I stole something from _______________.</p>

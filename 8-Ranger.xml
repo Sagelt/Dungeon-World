@@ -65,12 +65,12 @@
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Help an animal or spirit of the wild</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Str. You start with one from each list:</p>
-<ul><li>Hunter's bow (Near, Far, 1 weight) and short sword (Close, 1 weight) <em>or</em> Hunter's bow (Near, Far, 1 weight) and spear (Reach, 1 weight)</li>
-<li>Bundle of arrows (3 ammo, 2 weight)</li>
-<li>Leather armor (1 armor, 1 weight)</li>
-<li>Adventuring gear (1 weight) and dungeon rations (1 weight) <em>or</em> adventuring gear (1 weight) and bundle of arrows (3 ammo, 2 weight)</li>
-<li>Dungeon rations (1 weight)</li></ul></div>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Str. You start with dungeon rations (1 weight, 5 uses), leather armor (1 armor, 1 weight), and a bundle or arrows (3 ammo, 2 weight). Choose your armament:</p>
+<ul><li aid:pstyle="Option">Hunter's bow (Near, Far, 1 weight) and short sword (Close, 1 weight)</li>
+<li aid:pstyle="Option">Hunter's bow (Near, Far, 1 weight) and spear (Reach, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight) and dungeon rations (1 weight)</li>
+<li aid:pstyle="Option">adventuring gear (1 weight) and bundle of arrows (3 ammo, 2 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>I have guided _______________ before and they owe me for it.</p>

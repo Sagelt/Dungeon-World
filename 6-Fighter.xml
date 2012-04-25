@@ -77,11 +77,14 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. In addition to your Signature Weapon you start with one from each list:</p>
-<ul><li>Chainmail (1 armor, 1 weight) and Adventuring gear (1 weight) <em>or</em> Scale armor (2 armor, 3 weight)</li>
-<li>2 Healing potions (2 weight) <em>or</em> a shield (+1 armor, 2 weight)</li>
-<li>Antitoxin, dungeon rations (1 weight), and poultices and herbs (1 weight) <em>or</em> 22 Gold</li>
-<li>Dungeon rations (1 weight)</li></ul></div>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You carry your signature weapon and dungeon rations (1 weight, 5 uses). Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and Adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">Scale armor (2 armor, 3 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose two:</p>
+<ul><li aid:pstyle="Option">2 Healing potions (2 weight)</li>
+<li aid:pstyle="Option">shield (+1 armor, 2 weight)</li>
+<li aid:pstyle="Option">Antitoxin, dungeon rations (1 weight), and poultices and herbs (1 weight)</li>
+<li aid:pstyle="Option">22 Gold</li></ul></div>
 <h2>Bonds</h2>
 <div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ owes me their life, whether they admit it or not.</p>
