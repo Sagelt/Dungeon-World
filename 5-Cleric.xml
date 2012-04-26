@@ -88,7 +88,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Divine Intervention</h3>
 <p aid:pstyle="NoIndent">When you Commune you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene in an appropriate idiom (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.</p>
 <h3 aid:pstyle="MoveName">Penitent</h3>
-<p aid:pstyle="NoIndent">When you take damage and embrace the pain, you may take +your level damage. If you do, take +1 forward to Cast a Spell.</p>
+<p aid:pstyle="NoIndent">When you take damage and embrace the pain, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to Cast a Spell.</p>
 <h3 aid:pstyle="MoveName">Empower</h3>
 <p aid:pstyle="NoIndent">When you Cast a Spell, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well:</p>
 <ul><li>The spell’s effects are doubled</li>
@@ -120,7 +120,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">When you Commune you get 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene in an appropriate idiom (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.</p>
 <h3 aid:pstyle="MoveName">Martyr</h3>
 <p aid:pstyle="Requirement">Replaces: Penitent</p>
-<p aid:pstyle="NoIndent">When you take damage and embrace the pain, you may take +your level damage. If you do, take +1 forward to Cast a Spell and add your level to any damage done or healed by the spell.</p>
+<p aid:pstyle="NoIndent">When you take damage and embrace the pain, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to Cast a Spell and add your level to any damage done or healed by the spell.</p>
 <h3 aid:pstyle="MoveName">Divine Armor</h3>
 <p aid:pstyle="Requirement">Replaces: Divine Protection</p>
 <p aid:pstyle="NoIndent">When you wear no armor or shield you get 3 armor.</p>
