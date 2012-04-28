@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Equipment</h1>
 <Body><p aid:pstyle="NoIndent">The musty tombs and forgotten treasure troves of the world are filled with useful items. The Fighters can find a sharp new sword or the Thief might stumble across a deadly poison. Most items are mundane; not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The Fighter's signature weapon is never mundane.</p>
-<p>Weapons don't kill monsters, people do. That's why weapons don't have damage listed. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. Its useful because its small and easy to strike with at close distance. A dagger in the hands of a Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
+<p>Weapons don't kill monsters, people do. That's why weapons don't have damage listed. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It's useful because its small and easy to strike with at close distance. A dagger in the hands of a Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
 <p>The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for a typical weapon of that type—a specific weapon could have different tags to represent its features.</p>
 <h2>Tag Glossary</h2>
 <p><em>n Ammo</em>: It counts as n ammo for appropriate ranged weapons.</p>
-<p><em>Applied</em>: Its only useful when carefully applied to a person or something they eat or drink.</p>
+<p><em>Applied</em>: It's only useful when carefully applied to a person or something they eat or drink.</p>
 <p><em>n Armor</em>: It protects you from harm and absorbs damage. When you take damage, subtract your armor from the total. If you have more than one item with n-armor, only the highest value counts. </p>
 <p><em>+n Armor</em>: It protects you and stacks with other armor. Add its value to your total armor.</p>
-<p><em>Awkward</em>: Its unwieldy and tough to use. </p>
+<p><em>Awkward</em>: It's unwieldy and tough to use. </p>
 <p><em>+Bonus</em>: It modifies your effectiveness in some particular situation. It might be "+1 forward to Spout Lore" or "-1 ongoing to Hack and Slash."</p>
-<p><em>Clumsy</em>: Its tough to move around with. -1 ongoing while using it.</p>
+<p><em>Clumsy</em>: It's tough to move around with. -1 ongoing while using it.</p>
 <p><em>n coins</em>: How much it costs to buy, normally. If the cost includes "-Charisma" a little negotiation subtracts the haggler's Charisma score (not modifier) from the price.</p>
 <p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add n to it.</p>
-<p><em>Dangerous</em>: Its easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
+<p><em>Dangerous</em>: It's easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
 <p><em>Forceful</em>: It can knock someone back a pace, maybe even off their feet. </p>
 <p><em>Ignores Armor</em>: Don't subtract armor from the damage taken.</p>
 <p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
 <p><em>n Piercing</em>: It goes right through armor. When you deal damage with n piercing, you subtract n from the enemy's armor for that attack. </p>
 <p><em>Precise</em>: It rewards careful strikes. You use Dex to Hack and Slash with this weapon, not Str.</p>
-<p><em>Ration</em>: Its edible, more or less.</p>
+<p><em>Ration</em>: It's edible, more or less.</p>
 <p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
-<p><em>Requires</em>: Its only useful to certain people. If you don't meet the requirements it works weakly, if at all.</p>
+<p><em>Requires</em>: It's only useful to certain people. If you don't meet the requirements it works weakly, if at all.</p>
 <p><em>Slow</em>: It takes minutes or more to use.</p>
-<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can't choose to mark off ammo on a 7–9. Once you throw it, its lost until you can recover it.  </p>
-<p><em>Touch</em>: Its used by touching it to the target's skin.</p>
+<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can't choose to mark off ammo on a 7–9. Once you throw it, it's lost until you can recover it.  </p>
+<p><em>Touch</em>: It's used by touching it to the target's skin.</p>
 <p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
 <p><em>n Uses</em>: It can only be used n times. </p>
 <p><em>n Weight</em>: Count the listed amount against your Load. Something with no listed weight isn't designed to be carried. 100 coins in standard denominations is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
 <p><em>Worn</em>: To use it, you have to be wearing it.</p>
 <h3>Range Tags (From Closest to Furthest)</h3>
-<p><em>Hand</em>: Its useful for attacking something within your reach, no further.</p>
-<p><em>Close</em>: Its useful for attacking something at arm's reach plus a foot or two.</p>
-<p><em>Reach</em>: Its useful for attacking something that's several feet away—maybe as far as ten. </p>
-<p><em>Near</em>: Its useful for attacking if you can see the whites of their eyes. </p>
-<p><em>Far</em>: Its useful for attacking something in shouting distance.</p>
+<p><em>Hand</em>: It's useful for attacking something within your reach, no further.</p>
+<p><em>Close</em>: It's useful for attacking something at arm's reach plus a foot or two.</p>
+<p><em>Reach</em>: It's useful for attacking something that's several feet away—maybe as far as ten. </p>
+<p><em>Near</em>: It's useful for attacking if you can see the whites of their eyes. </p>
+<p><em>Far</em>: It's useful for attacking something in shouting distance.</p>
 <h2>Weapons</h2>
 <p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 15 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 60 coins, 2 Weight</span></p>
@@ -159,7 +159,7 @@
 <p>Magic items are for you to make for your game. Players can make magic items through the Wizard's ritual and similar moves. The GM can introduce magic items in the spoils of battle or the bounty of reward. This list provides some ideas, but magic items are ultimately for you to decide.</p>
 <p>When making your own magic items keep in mind that magic items are magical. +1 damage is the realm of the mundane, magic items should provide more interesting bonuses.</p>
 <p aid:pstyle="MagicItem">Bag of Holding	<span aid:cstyle="Tags">0 Weight</span></p>
-<p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and it's weight never increases. When you try to retrieve an item from a bag of holding, roll+Wis. On a 10+, its right there. On a 7-9, choose one:</p>
+<p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and it's weight never increases. When you try to retrieve an item from a bag of holding, roll+Wis. On a 10+, it's right there. On a 7-9, choose one:</p>
 <ul><li>You get the exact item, but it takes a while</li>
 <li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
 <p aid:pstyle="NoIndent">No matter how many items it contains, a bag of holding is always 0 weight.</p>
