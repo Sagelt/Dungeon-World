@@ -59,11 +59,12 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h3 aid:pstyle="MoveName">Good</h3>
 <p aid:pstyle="NoIndent">Endanger yourself to protect someone weaker than you</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 8+Str. You start with some mark of faith, describe it (0 weight). In addition to your mark you get one from each list:</p>
-<ul><li>Scale armor(2 armor, 3 weight)</li>
-<li>Halberd (Reach, +1 damage, two-handed, 2 weight) <em>or</em> Long sword (Close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li>
-<li>Adventuring gear (1 weight) <em>or</em> dungeon rations (1 weight) and healing potion</li>
-<li>Dungeon rations (1 weight)</li></ul></div>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 8+Str. You start with dungeon rations (1 weight, 5 uses), scale armor (2 armor, 3 weight), and some mark of faith, describe it (0 Weight). Choose your weapon:</p>
+<ul><li aid:pstyle="Option">Halberd (Reach, +1 damage, two-handed, 2 weight)</li>
+<li aid:pstyle="Option">Long sword (Close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">dungeon rations (1 weight) and healing potion</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>I have worries about the soul of _______________.</p>
