@@ -67,7 +67,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <li aid:pstyle="Option">dungeon rations (1 weight) and healing potion</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>I have worries about the soul of _______________.</p>
+<p>_______________'s misguided behavior endangers their very soul!</p>
 <p>_______________ has stood by me in battle and can be trusted completely.</p>
 <p>I respect the beliefs of _______________ but hope they will someday see the true way.</p>
 <p>_______________ is a brave soul, I have much to learn from them.</p></div>
