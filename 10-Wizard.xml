@@ -84,8 +84,8 @@
 <p aid:pstyle="NoIndent">When another player's character comes to you for advice and you tell them what you think is best, they get +1 forward when following your advice and you mark experience if they do.</p>
 <h3 aid:pstyle="MoveName">Expanded Spellbook</h3>
 <p aid:pstyle="NoIndent">Add a new spell from any class to your spellbook.</p>
-<h3 aid:pstyle="MoveName">Eldritch Touch</h3>
-<p aid:pstyle="NoIndent">When you touch a living creature, skin to skin, you can ask the GM what the last spell to affect that creature was.</p>
+<h3 aid:pstyle="MoveName">Enchanter</h3>
+<p aid:pstyle="NoIndent">When you have time and safety with a magic item you may ask the GM what it does, the GM will answer you.</p>
 <h3 aid:pstyle="MoveName">Logical</h3>
 <p aid:pstyle="NoIndent">When you use strict deduction to analyze your surroundings, you can Discern Realities with Int instead of Wis.</p>
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
@@ -103,9 +103,9 @@
 <p aid:pstyle="NoIndent">When you Cast a Spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
-<h3 aid:pstyle="MoveName">Eldritch Connection</h3>
-<p aid:pstyle="Requirement">Replaces: Eldritch Touch</p>
-<p aid:pstyle="NoIndent">When you touch a living creature, skin to skin, you can ask the GM what the last spell to affect that creature was and one other question about their past of your choice.</p>
+<h3 aid:pstyle="MoveName">Enchanter's Soul</h3>
+<p aid:pstyle="Requirement">Requires: Enchanter</p>
+<p aid:pstyle="NoIndent">When you have time and safety with a magic item in a place of power you can empower that item so that the next time you use it its effects are amplified, the GM will tell you exactly how.</p>
 <h3 aid:pstyle="MoveName">Highly Logical</h3>
 <p aid:pstyle="Requirement">Replaces: Logical</p>
 <p aid:pstyle="NoIndent">When you use strict deduction to analyze your surroundings, you can Discern Realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.</p>
