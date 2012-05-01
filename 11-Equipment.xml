@@ -41,12 +41,12 @@
 <p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 60 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">Near, Far, 100 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Crossbow	<span aid:cstyle="Tags">Near, +1 damage, Reload, 35 coins, 3 Weight</span></p>
-<p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 Ammo, 1 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 Ammo, 1 coin, 1 Weight</span></p>
 <p aid:pstyle="Item">Elven Arrows	<span aid:cstyle="Tags">4 Ammo, 20 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 2 coins, 1 Weight</span></p>
-<p aid:pstyle="Item">Throwing Daggers	<span aid:cstyle="Tags">Thrown, Near, 1 coin, 0 Weight</span></p>
+<p aid:pstyle="Item">Throwing Dagger	<span aid:cstyle="Tags">Thrown, Near, 1 coin, 0 Weight</span></p>
 <p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 8 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, Thrown, Near, 5 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Long Sword, Battle Axe, Flail	<span aid:cstyle="Tags">Close, +1 damage, 15 coins, 2 Weight</span></p>
