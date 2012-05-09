@@ -30,7 +30,7 @@
 <h3 aid:pstyle="MoveName">Halfling</h3>
 <p aid:pstyle="NoIndent">When you Defy Danger and use your small size to your advantage, take +1.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">When using a Close range weapon you are also able to attack at Hand range.</p></div>
+<p aid:pstyle="NoIndent">Once per battle you may choose a damage roll (yours or someone else's) and reroll it.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates (Str)</h3>
 <p aid:pstyle="NoIndent">When you use pure strength to destroy an inanimate obstacle, roll+Str. On a 10+ choose 3. On a 7-9 choose 2.</p>
