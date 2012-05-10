@@ -100,12 +100,12 @@
 <p aid:pstyle="Example">When you wade into combat, attacking your enemies, deal damage to the enemy you’re attacking, take that enemy’s damage, and roll+Str. On a 10+, choose 2. On a 7-9 choose 1.</p>
 <ul><li aid:pstyle="Exampleli">Prevent one ally from taking damage this round</li>
 <li aid:pstyle="Exampleli">Kill one enemy of lower level than you or deal max damage to otherwise</li>
-<li aid:pstyle="Exampleli">Put an enemy right where you want them (drive them off, prevent them from fleeing, etc)</li>
+<li aid:pstyle="Exampleli">Put an enemy right where you want them (drive them off, prevent them from fleeing, etc.)</li>
 <li aid:pstyle="Exampleli">Divide your damage amongst any number of targets you can reach with your weapon</li></ul>
 <p>The first problem with this move is that one of the options, preventing damage, is far less useful than the others. Being able to outright kill an enemy is nearly always better than preventing that enemy from doing damage. The first major revision was to drop that option:</p>
 <p aid:pstyle="Example">When you wade into combat, attacking your enemies, deal damage to the enemy you’re attacking, take that enemy’s damage, and roll+Str. On a 10+ choose 2. On a 7-9 choose 1.</p>
 <ul><li aid:pstyle="Exampleli">Kill one enemy of lower level than you or deal max damage to otherwise</li>
-<li aid:pstyle="Exampleli">Put an enemy right where you want them (drive them off, prevent them from fleeing, etc)</li>
+<li aid:pstyle="Exampleli">Put an enemy right where you want them (drive them off, prevent them from fleeing, etc.)</li>
 <li aid:pstyle="Exampleli">Divide your damage amongst any number of targets you can reach with your weapon</li></ul>
 <p>This left only three options which is a great number of options to have when a 10+ lets you pick two. The player making the move always had to not choose one option. All of the options are also clearly useful. But there's still an issue, easily the biggest issue with this move: the fictional action doesn't tightly relate to the outcome.</p>
 <p>Consider this situation: Gregor attacks an eagle lord with his mighty axe. He describes his fictional action: "I swing my axe right down on his wing with a big overhead chop." Then he rolls the move, gets a 10, and makes his choices. Max damage is a clear choice and comes right from the fiction. The other options, however, don't make much sense. If he chooses to divide his damage, how does that flow from his one fictional attack? How did that one chop also hit the treant behind him?</p>
