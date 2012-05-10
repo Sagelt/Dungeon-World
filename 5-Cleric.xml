@@ -43,7 +43,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">When you hold your holy symbol aloft and pray aloud for protection, roll+Wis. On a hit so long as you continue to pray and brandish your holy symbol no undead may come within reach of you. On a 10+ intelligent undead are momentarily dazed by the radiance of your god and mindless undead flee. If you move aggressively towards an undead creature while Turning them it breaks the effects and they are able to act as normal. Intelligent undead, vampires and so on, may still find ways to harry you from afar. They're clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
 <p aid:pstyle="NoIndent">When you spend uninterrupted time (an hour or so) in quiet communion with your deity, you lose any spells already granted to you and are granted new spells of your choice whose total levels don't exceed your own+1. You also prepare your rotes; they don't count against your limit. You cannot be granted spells with tags such as Death or Damaging unless you have a move which allows it. You can't prepare spells that are higher level than you.</p></div>
-<div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast A Spell</h3>
+<div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast a Spell</h3>
 <p aid:pstyle="NoIndent">When you unleash a spell granted to you by your deity, roll+Wis. On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. On a 7-9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot (the GM will describe it).</li>
 <li>Your casting distances you from your deity—take -1 ongoing to Cast a Spell until you Commune.</li>

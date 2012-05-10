@@ -31,7 +31,7 @@
 <p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 weight.</p>
 <h3 aid:pstyle="BasicMoveName">Prepare Spells</h3>
 <p aid:pstyle="NoIndent">When you spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook, you lose any spells you already have prepared and prepare new spells of your choice from your spellbook whose total levels don't exceed your own+1. You also prepare your cantrips; they don't count against your limit.</p>
-<h3 aid:pstyle="BasicMoveName">Cast A Spell (Int)</h3>
+<h3 aid:pstyle="BasicMoveName">Cast a Spell (Int)</h3>
 <p aid:pstyle="NoIndent">When you release a spell you've prepared, roll+Int. On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. On a 7-9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot (the GM will describe it)</li>
 <li>The spell disturbs the fabric of reality as it is cast—take -1 ongoing to Cast a Spell until you Prepare Spells again.</li>
