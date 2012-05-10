@@ -14,8 +14,8 @@
 <p aid:pstyle="NoIndent">One of your senses is briefly attuned to magic. The GM will tell you what here is magical.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Telepathy</span>	Level 1	Divination</p>
 <p aid:pstyle="NoIndent">You form a telepathic bond, allowing you to speak to the person you touch with this spell through your thoughts. You can only have one telepathic bond at a time.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Identify</span>	Level 1	Divination</p>
-<p aid:pstyle="NoIndent">The history of the item you hold while casting this spell is made clear to you. The GM will tell you what it does, where it came from, and how it got here.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Charm Person</span>	Level 1	Enchantment</p>
+<p aid:pstyle="NoIndent">The person (not beast or monster) you touch while casting this spell counts you as a friend until they take damage or you prove otherwise.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Invisibility</span>	Level 1	Illusion</p>
 <p aid:pstyle="NoIndent">Touch an ally: nobody can see them. They're invisible! The spell persists until the target attacks or you dismiss the effect. While the spell is ongoing, you can't cast another spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Magic Missile</span>	Level 1	Evocation</p>
