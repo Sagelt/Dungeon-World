@@ -10,9 +10,9 @@
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p>Shifty Eyes or Criminal Eyes</p>
-<p>Hooded Head, Messy, or Cropped Hair</p>
-<p>Dark, Fancy, or Common Clothes</p>
-<p>Lithe Body, Knobby Body, Flabby Body</p></div>
+<p>Hooded Head, Messy Hair, or Cropped Hair</p>
+<p>Dark Clothes, Fancy Clothes, or Common Clothes</p>
+<p>Lithe Body, Knobby Body, or Flabby Body</p></div>
 <h2>Stats</h2>
 <div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
 <p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
