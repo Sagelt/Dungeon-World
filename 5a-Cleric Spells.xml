@@ -17,15 +17,15 @@
 <p aid:pstyle="NoIndent">When you cast this spell choose an alignment: Good, Evil, or Neutral. One of your senses is briefly able to detect that alignment. The GM will tell you what here is of that alignment.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Inflict Light Wounds</span>	Level 1	<em>Damaging</em></p>
 <p aid:pstyle="NoIndent">You open wounds, channeling the wrath of your god. Deal 1d8 damage to the target ignoring armor.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Magic Weapon</span>	Level 1	 <em>Ongoing</em></p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Magic Weapon</span>	Level 1	 Ongoing</p>
 <p aid:pstyle="NoIndent">The weapon you hold while casting does +1d4 damage until you dismiss this spell. Until you dismiss this spell you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctuary</span>	Level 1</p>
 <p aid:pstyle="NoIndent">You make an area holy to your deity. Walk the perimeter of the area. So long as you stay within that area you are alerted whenever someone acts with malice within the sanctuary (including entering with harmful intent). Anyone who receives healing within a Sanctuary heals +1d4 HP.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Speak With Dead</span>	Level 1	<em>Death</em></p>
 <p aid:pstyle="NoIndent">A corpse converses with you briefly. It will answer any three questions you pose to it to the best of the knowledge it had in life and the knowledge it gained in death.</p></div>
 <div><h2>3rd Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	Death</p>
-<p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and act for you. This forms a zombie that follows your orders to the best of its limited abilities. Treat the zombie as your character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. You can only have one zombie at a time. You get 1d4 of these effects:</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	Ongoing, Death</p>
+<p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and act for you. This forms a zombie that follows your orders to the best of its limited abilities. Treat the zombie as your character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. While this spell is ongoing you take -1 to Cast a Spell. You get 1d4 of these effects:</p>
 <ul><li>The zombie is talented. Give one stat a +2 modifier.</li>
 <li>The zombie is durable. It has +2 HP for each level you have.</li>
 <li>The zombie has a functioning brain and can complete complex tasks.</li>
@@ -72,10 +72,8 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Control Weather</span>	Level 7</p>
 <p aid:pstyle="NoIndent">Pray for rain—or sun, wind or snow. Within a day or so, your god will answer. The weather will change according to your will and last a handful of days.</p></div>
 <div><h2>9th Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Dictum</span>	Level 9</p>
-<p aid:pstyle="NoIndent">All non-Lawful creatures that can hear you stand paralyzed so long as you continue speaking.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Gibber</span>	Level 9</p>
-<p aid:pstyle="NoIndent">All non-Chaotic creatures that can hear you stand paralyzed so long as you continue speaking.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Command Elements</span>	Level 9</p>
+<p aid:pstyle="NoIndent">A mass of one element (earth, air, water, or fire) that you touch as you cast this spell takes on a form similar to yours and carries out one command you give it. Once the command is completed or a day passes the element retakes its old form.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Repair</span>	Level 9</p>
 <p aid:pstyle="NoIndent">Choose one event in the target's past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divine Presence</span>	Level 9	Damaging</p>
