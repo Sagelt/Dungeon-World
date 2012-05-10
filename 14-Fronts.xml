@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Fronts</h1>
-<Body><p aid:pstyle="NoIndent">Fronts are secret tomes of GM knowledge. With the exception of a few sneaky PC tricks Fronts are your purview and are a place where you’ll build the adversaries, organizations, and other misfortune that the characters will come in conflict with. A Front is a collection of linked Dangers—threats to the characters specifically and to the people, places and things the characters care about. It also includes one or more Impending Dooms, the horrible things that will happen without the players' intervention. “Fronts” comes, of course, from “fighting on two fronts” which is just where you want the characters to be—surrounded by threats, danger and adventure.</p>
+<Body><p aid:pstyle="NoIndent">Fronts are secret tomes of GM knowledge. With the exception of a few sneaky PC tricks Fronts are your purview and are a place where you’ll build the adversaries, organizations, and other misfortune that the characters will come in conflict with. A Front is a collection of linked Dangers—threats to the characters specifically and to the people, places, and things the characters care about. It also includes one or more Impending Dooms, the horrible things that will happen without the players' intervention. “Fronts” comes, of course, from “fighting on two fronts” which is just where you want the characters to be—surrounded by threats, danger and adventure.</p>
 <p>Fronts are built outside of active play. They’re the solo fun that you get to have between games—rubbing your hands and cackling evilly to yourself as you craft the foes with which to challenge your PCs. You may tweak or adjust the Fronts during play (who knows when inspiration will strike?) but the meat of them comes from preparation between sessions.</p>
 <p>Fronts are designed to help you organize your thoughts on PC opposition. They’re here to contain your notes, ideas, and plans for these opposing forces. When you’re in a bind your Fronts are where you’re going to turn and say “oh, so <em>that</em>’s what I should do”. Consider them an organizational tool, as inspiration for present and future mayhem.</p>
 <p>When you’re building Fronts, think about all the creepy dungeon denizens, the rampaging hordes and ancient cults that you’d like to see in your game. Think in broad strokes at first and then, as you build Dangers into your Fronts, you’ll be able to narrow those ideas down. When you write your Campaign Front, think about session—to—session trends. When you write your Adventure Fronts, think about what’s important right here and right now. When you’re done writing a few Fronts you’ll be equipped with all the tools you’ll need to challenge your players and ready to run Dungeon World.</p>
@@ -20,7 +20,7 @@
 <h2>Creating Dangers</h2>
 <p aid:pstyle="NoIndent">Not every single element of your game will warrant a Danger—traps, some roving monsters and other bits of ephemera may just be there to add flavour but aren't important enough to warrant inclusion. That’s okay. Fronts are here to keep you appraised of the bigger picture. Dangers are divided into a handful of categories, each with its own name and <strong>impulse</strong>.</p>
 <p>Every Danger has a crucial motivation that drives it called its "impulse." The impulse exists to help you understand that Danger. What pushes it to fulfill its Impending Doom? Impulse can help you translation the Danger into action.</p>
-<p>When creating Dangers for your Front, think about how each one interacts as a facet of the Front as a whole. Keep in mind the people, places and things that might be a part of the threat to the world that the Front represents. How does each Danger contribute to the Front?</p>
+<p>When creating Dangers for your Front, think about how each one interacts as a facet of the Front as a whole. Keep in mind the people, places, and things that might be a part of the threat to the world that the Front represents. How does each Danger contribute to the Front?</p>
 <p aid:pstyle="Example">Let's say we have an idea for a Front—an ancient portal has been discovered in the icy north. We'll call our Front "The Opening of the White Gate".</p>
 <p>The easiest place to start is with people and monsters. Cultists, ogre chieftains, demonic overlords and the like are all excellent Dangers. These are the creatures that have risen above mere monster status to become serious threats on their own. Groups of monsters, too, can be Dangers—goblin tribes or a rampaging centaur khanate, for example.</p>
 <p aid:pstyle="Example">For the Front we're creating, we can pick a few different groups or people who might be interested in the gate. The College of Arcanists, perhaps. There's a golem, too, we've decided, that protects the forgotten portal. The golem is just an obstacle, so we won't make him a Danger.</p>
@@ -102,7 +102,7 @@
 <li>Appoint a champion</li>
 <li>Declare war and act upon that declaration without hesitation or deliberation</li></ul>
 <h3>Cursed Places</h3>
-<ul><li>Abandoned Tower (<em>impulse: to draw in the weak willed</em>)</li>
+<ul><li>Abandoned Tower (<em>impulse: to draw in the weak-willed</em>)</li>
 <li>Unholy Ground (<em>impulse: to spawn evil</em>)</li>
 <li>Elemental Vortex (<em>impulse: to grow, to tear apart reality</em>)</li>
 <li>Dark Portal (<em>impulse: to disgorge demons</em>)</li>
@@ -146,13 +146,13 @@
 <li>Destruction (apocalypse, ruin and woe)</li>
 <li>Usurpation (the chain of order comes apart, someone rightful is displaced)</li>
 <li>Impoverishment (enslavement, the abandonment of goodness and right)</li>
-<li>Rampant Chaos (laws of reality, of society or any order is dissolved)</li></ul>
-<p>When all of the Grim Portents of a danger come to pass, the Impending Doom sets in. The Danger is then resolved but the setting has changed in some drastic way—even on a small level. This will almost certainly change the Front at large, as well. Making sure that these effects are felt and significant to the NPCs, places and life of the campaign world is a big part of making them feel real.</p>
+<li>Rampant Chaos (laws of reality, of society, or any order is dissolved)</li></ul>
+<p>When all of the Grim Portents of a danger come to pass, the Impending Doom sets in. The Danger is then resolved but the setting has changed in some drastic way—even on a small level. This will almost certainly change the Front at large, as well. Making sure that these effects are felt and significant to the NPCs, places, and life of the campaign world is a big part of making them feel real.</p>
 <h3>Stakes</h3>
 <p aid:pstyle="NoIndent">Your stakes questions are 1–3 questions about people, places, or groups that you're interested in. People include characters and NPCs, your choice. Remember that your agenda includes "Play to find out what happens?" Well this is a way of reminding yourself what you want to find out.</p>
 <p>Stakes are concrete and clear. Don't write stakes about vague feelings or incremental changes. Stakes are about important changes that affect the PCs and the world. A good stakes question is one that, when it's resolved, means that things will never be the same again.</p>
-<p>The most important thing about stakes is that you find them interesting. Your stakes should be things that you genuinely want to know, but that you're also willing to not decide. Once you've written it as a stakes its out of your hands, you don't get to just make it up anymore. Now you have to play to find out.</p>
-<p>Playing to find out is one of the biggest rewards of playing Dungeon World. You've written down something, tied to events happening in the world, that you want to find out about—now you get to do just that.</p>
+<p>The most important thing about stakes is that you find them interesting. Your stakes should be things that you genuinely want to know, but that you're also willing to not decide. Once you've written it as a stake, it's out of your hands, you don't get to just make it up anymore. Now you have to play to find out.</p>
+<p>Playing to find out is one of the biggest rewards of playing Dungeon World. You've written down something tied to events happening in the world that you want to find out about—now you get to do just that.</p>
 <p>Once you have your stakes your front is ready to play.</p>
 <p aid:pstyle="Example">My stakes questions include, as tailored to my group:
 <ul><li>Who will be the Champion?</li>
