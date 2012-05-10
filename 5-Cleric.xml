@@ -42,7 +42,7 @@ Show the world who is lord.</p></div>
 <div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
 <p aid:pstyle="NoIndent">When you hold your holy symbol aloft and pray aloud for protection, roll+Wis. On a hit so long as you continue to pray and brandish your holy symbol no undead may come within reach of you. On a 10+ intelligent undead are momentarily dazed by the radiance of your god and mindless undead flee. If you move aggressively towards an undead creature while Turning them it break the effects and they are able to act as normal. Intelligent undead, vampires and so on, may still find ways to harry you from afar. They're clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
-<p aid:pstyle="NoIndent">When you spend uninterrupted time (an hour or so) in quiet communion with your deity, you lose any spells already granted to you and are granted new spells of your choice whose total levels don't exceed your own+1. You also prepare your rotes; they don't count against your limit. You cannot be granted spells with tags such as Death or Damaging unless you have a move which allows it. You can't prepare spells that are higher level than you.</p></div>
+<p aid:pstyle="NoIndent">When you spend uninterrupted time (an hour or so) in quiet communion with your deity, you lose any spells already granted to you and are granted new spells of your choice whose total levels don't exceed your own+1. You also prepare your rotes; they don't count against your limit. You can't prepare spells that are higher level than you.</p></div>
 <div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast A Spell</h3>
 <p aid:pstyle="NoIndent">When you unleash a spell granted to you by your deity, roll+Wis. On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. On a 7-9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot (the GM will describe it).</li>
@@ -77,10 +77,10 @@ Show the world who is lord.</p></div>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Chosen One</h3>
 <p aid:pstyle="NoIndent">Choose one spell. You are granted that spell as if it was one level lower.</p>
-<h3 aid:pstyle="MoveName">Inquisitor</h3>
-<p aid:pstyle="NoIndent">Your deity gives you domain over pain and suffering. You can cast spells with the Damaging tag.</p>
+<h3 aid:pstyle="MoveName">Invigorate</h3>
+<p aid:pstyle="NoIndent">When you heal someone they take +2 damage forward.</p>
 <h3 aid:pstyle="MoveName">The Scales of Life and Death</h3>
-<p aid:pstyle="NoIndent">Your deity gives you domain over the dead and undead. You can cast spells with the Death tag.</p>
+<p aid:pstyle="NoIndent">When someone takes their Last Breath in your presence they take +1 to the roll.</p>
 <h3 aid:pstyle="MoveName">Serenity</h3>
 <p aid:pstyle="NoIndent">You are able to divide your power effectively. When you cast a spell you ignore the first -1 penalty from ongoing spells.</p>
 <h3 aid:pstyle="MoveName">First Aid</h3>
