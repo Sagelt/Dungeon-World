@@ -52,7 +52,7 @@
 <ul><li>Answer the call of sacrifice</li>
 <li>Drive them from the jungle</li>
 <li>Throw someone</li></ul>
-<p aid:pstyle="MonsterName">Iron Golem	<span aid:cstyle="Tags">Group, Large, Contstruct</span></p>
+<p aid:pstyle="MonsterName">Iron Golem	<span aid:cstyle="Tags">Group, Large, Construct</span></p>
 <p aid:pstyle="MonsterStats">Slam (d8+5 damage)	10 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Metal</p>
