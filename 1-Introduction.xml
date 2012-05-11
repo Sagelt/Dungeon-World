@@ -79,7 +79,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p><strong>Strength</strong> (Str). The character's physical force and muscle. Used for moves in melee combat and breaking things.</p>
 <p><strong>Dexterity</strong> (Dex). The character's precision and aim. Used for moves in ranged combat and avoiding things.</p>
 <p><strong>Constitution</strong> (Con). The character's health and ability to take a beating. Used for moves that endure things and surviving dangers.</p>
-<p><strong>Intelligence</strong> (Int). The character's accumulated knowledge and logical thinking. Used for moves that rely of remembered facts and casting some kinds of spells.</p>
+<p><strong>Intelligence</strong> (Int). The character's accumulated knowledge and logical thinking. Used for moves that rely on remembered facts and casting some kinds of spells.</p>
 <p><strong>Wisdom</strong> (Wis). The character's keen senses and mental defenses. Used for moves that rely on noticing things and casting some kinds of spells.</p>
 <p><strong>Charisma</strong> (Cha). The character's force of personality and charm. Used for social moves.</p>
 <p>Each basic stat has a <strong>score</strong> from 3 to 18 and a <strong>modifier</strong> from -3 to +3. When a stat is spelled out (like "Strength") that refers to the score, when the three letter abbreviation (like "Str") is used it refers to the modifier. The stat's modifier depends on the stat's score:</p>
