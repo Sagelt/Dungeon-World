@@ -12,10 +12,10 @@
 <p><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
 <h2>Look</h2>
 <div id="Look"><p aid:pstyle="NoIndent">Choose one for each:</p>
-<p aid:pstyle="NoIndent">Hard, Dead, or Eager Eyes</p>
-<p aid:pstyle="NoIndent">Wild, Shorn, or Battered Helm</p>
-<p aid:pstyle="NoIndent">Calloused, Tanned, or Scarred Skin</p>
-<p aid:pstyle="NoIndent">Built, Body, or Ravaged Body</p></div>
+<p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Eager Eyes</p>
+<p aid:pstyle="NoIndent">Wild Hair, Shorn Hair, or Battered Helm</p>
+<p aid:pstyle="NoIndent">Calloused Skin, Tanned Skin, or Scarred Skin</p>
+<p aid:pstyle="NoIndent">Built Body, Lithe Body, or Ravaged Body</p></div>
 <h2>Stats</h2>
 <div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
 <p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
@@ -61,7 +61,7 @@
 <li aid:pstyle="Option">Glows in the presence of one type of creature, your choice.</li>
 <li aid:pstyle="Option">Huge. +messy, +forceful.</li>
 <li aid:pstyle="Option">Versatile. Choose another range.</li>
-<li aid:pstyle="Option">Well crafted. -1 weight.</li></ul>
+<li aid:pstyle="Option">Well-crafted. -1 weight.</li></ul>
 <p aid:pstyle="NoIndent">Choose a look:</p>
 <ul><li aid:pstyle="Option">Ancient</li>
 <li aid:pstyle="Option">Unblemished</li>
@@ -89,7 +89,7 @@
 <div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ owes me their life, whether they admit it or not.</p>
 <p>I have sworn to protect _______________.</p>
-<p>I worry about  the ability of _______________ to survive in the dungeon.</p>
+<p>I worry about the ability of _______________ to survive in the dungeon.</p>
 <p>_______________ is soft, but I will make them hard like me.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
@@ -108,7 +108,7 @@
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d4 damage forward against that enemy.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast A Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
+<p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
 <p aid:pstyle="NoIndent">You gain +1 armor.</p>
 <h3 aid:pstyle="MoveName">Blacksmith</h3>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <ClassName>Thief</ClassName>
-<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their Gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p> 
+<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p> 
 <p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle-trap? So, let them complain. When you’re done all this delving you’ll toast their hero’s graves.</p>
 <p>From your castle. Full of gold. You rogue.</p></div>
 <h2>Names</h2>
@@ -10,9 +10,9 @@
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p>Shifty Eyes or Criminal Eyes</p>
-<p>Hooded Head, Messy, or Cropped Hair</p>
-<p>Dark, Fancy, or Common Clothes</p>
-<p>Lithe Body, Knobby Body, Flabby Body</p></div>
+<p>Hooded Head, Messy Hair, or Cropped Hair</p>
+<p>Dark Clothes, Fancy Clothes, or Common Clothes</p>
+<p>Lithe Body, Knobby Body, or Flabby Body</p></div>
 <h2>Stats</h2>
 <div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
 <p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
@@ -26,7 +26,7 @@
 <p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Trap Expert</h3>
-<p aid:pstyle="NoIndent">When spend a moment to survey a dangerous area, roll+Dex. On a 10+, hold 3. On a 7-9, hold 1. Spend your hold as you walk through the area to ask these questions:</p>
+<p aid:pstyle="NoIndent">When you spend a moment to survey a dangerous area, roll+Dex. On a 10+, hold 3. On a 7-9, hold 1. Spend your hold as you walk through the area to ask these questions:</p>
 <ul><li>Is there a trap here and if so, what activates it?</li>
 <li>What does the trap do when activated?</li>
 <li>What else is hidden here?</li></ul>
