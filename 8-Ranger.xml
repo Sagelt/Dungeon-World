@@ -86,7 +86,7 @@
 <p aid:pstyle="NoIndent">You can speak with and understand animals.</p>
 <h3 aid:pstyle="MoveName">Familiar Prey</h3>
 <p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int.</p>
-<h3 aid:pstyle="MoveName">Dual Wield</h3>
+<h3 aid:pstyle="MoveName">Viper's Strike</h3>
 <p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
 <p aid:pstyle="NoIndent">When you're still in natural surroundings, enemies never spot you until you make a movement.</p>
@@ -109,8 +109,8 @@
 <h3 aid:pstyle="MoveName">Hunter's Prey</h3>
 <p aid:pstyle="Requirement">Replaces: Familiar Prey</p>
 <p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int. On a 12+ you get to ask the GM any one question about the subject.</p>
-<h3 aid:pstyle="MoveName">Dual Wield</h3>
-<p aid:pstyle="Requirement">Replaces: Dual Strike</p>
+<h3 aid:pstyle="MoveName">Viper's Fangs</h3>
+<p aid:pstyle="Requirement">Replaces: Viper's Strike</p>
 <p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Smaug's Belly</h3>
 <p aid:pstyle="NoIndent">When you know your target's weakest point your arrows have 2 piercing.</p>
