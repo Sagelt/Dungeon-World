@@ -23,7 +23,7 @@
 <p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
 <p><em>Requires</em>: It's only useful to certain people. If you don't meet the requirements it works weakly, if at all.</p>
 <p><em>Slow</em>: It takes minutes or more to use.</p>
-<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can't choose to mark off ammo on a 7–9. Once you throw it, it's lost until you can recover it.  </p>
+<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can't choose to mark off ammo on a 7–9. Once you throw it, it's lost until you can recover it. </p>
 <p><em>Touch</em>: It's used by touching it to the target's skin.</p>
 <p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
@@ -158,6 +158,12 @@
 <p aid:pstyle="NoIndent">There are stranger things in the world than swords and leather. Magic items are the non-mundane, items that have intrinsic power.</p>
 <p>Magic items are for you to make for your game. Players can make magic items through the Wizard's ritual and similar moves. The GM can introduce magic items in the spoils of battle or the bounty of reward. This list provides some ideas, but magic items are ultimately for you to decide.</p>
 <p>When making your own magic items keep in mind that magic items are magical. +1 damage is the realm of the mundane, magic items should provide more interesting bonuses.</p>
+<p aid:pstyle="MagicItem">Arrows of Acheron	<span aid:cstyle="Tags">1 Ammo, 1 Weight</span></p>
+<p aid:pstyle="NoIndent">Crafted in darkness by a blind fletcher, these arrows can find their target in even the deepest darkness. An archer may fire them blind, in the dark, with his eyes bound by heavy cloth and still be assured of a clean shot. If the light of the sun ever touches the arrows, however, they come apart like shadows and dust.</p>
+<p aid:pstyle="MagicItem">Axe of the Conqueror-King	<span aid:cstyle="Tags">Close, 1 Weight</span></p>
+<p aid:pstyle="NoIndent">It is crafted of shining steel, glowing with a golden light and imbued with mythical powers of authority. The bearer of the Axe becomes a beacon of inspiration to all she leads. Any Henchmen in her employ have +1 Loyalty, no matter whether she is a benevolent Princess or wicked Queen.</p>
+<p aid:pstyle="MagicItem">Barb of the Black Gate	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">A nail or spike, twisted and forever cold, said to have been pried from the Gates of Death himself. When hammered into a corpse, it disappears and ensures that corpse will never be risen again—no magic short of that of Death himself can reignite the flame of life (natural or otherwise) in the body.</p>
 <p aid:pstyle="MagicItem">Bag of Holding	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and its weight never increases. When you try to retrieve an item from a bag of holding, roll+Wis. On a 10+, it's right there. On a 7-9, choose one:</p>
 <ul><li>You get the exact item, but it takes a while</li>
@@ -168,6 +174,12 @@
 <p>When you pick up The Burning Wheel and speak a god's name, roll+Con. On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7-9, the GM chooses which stat to reduce.</p>
 <p aid:pstyle="MagicItem">Candle of Truth	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">So long as this candle burns, no one can willingly lie within its light.</p>
+<p aid:pstyle="MagicItem">The Carcosan Spire	<span aid:cstyle="Tags">Reach, Thrown, 3 Weight</span></p>
+<p aid:pstyle="NoIndent">None know from whence this spear of twisted white coral comes. Those who bear it too long find their minds full of alien dreams and begin to hear the strange thoughts of the Others. None are impervious. Used against any “natural” target (men, goblins, owlbears and the like) the Spire acts as a mere mortal spear. Its true purpose is to do harm to those things whose strange natures protect them against mundane weapons. Used thus, the Spire can wound foes otherwise invulnerable to harm. The wielder will recognize these twisted foes on sight—the Spire knows its own.</p>
+<p aid:pstyle="MagicItem">Cloak of Silent Stars	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">A cape of rich black velvet outside and sparkling with tiny points of light within, the Cloak bends fate, time and reality around it to protect the wearer, who may Defy Danger with whatever stat he likes. To do this, the wearer invokes the cloak’s magic and his player describes how the cloak helps him "break the rules." He can deflect a fireball with his Cha by convincing it he deserves to live or elude a fall by applying the mighty logic of his Int to prove the fall won’t hurt him. The Cloak makes it so. It can be used once for each stat before losing its magic.</p>
+<p aid:pstyle="MagicItem">Coin of Remembering	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">What appears, at a glance, to be a simple copper coin is, in truth, an enchanted coin. Its bearer can, at any time, redeem it to know immediately one fact that has been forgotten. The coin vanishes thereafter. It does not have to be a thing forgotten by the bearer, but it cannot be “known”. Interpretation of this stipulation is left to the Gods. If the coin is unsuccessful, it will still paint an image in the minds eye of someone or something that does remember what was sought.</p>
 <p aid:pstyle="MagicItem">Common Scroll	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
 <p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class's spell list for you to be able to cast it. When you cast a spell from a scroll, the spell has effect, simple as that.</p>
 <p aid:pstyle="MagicItem">Cornucopia	<span aid:cstyle="Tags">1 Weight</span></p>
@@ -176,6 +188,16 @@
 <p aid:pstyle="NoIndent">When you look into a crystal ball, name a location and roll+Wis. On a hit, you get a clear vision of the location so long as you stare into the crystal ball. On a 7-9, someone or something else also observes you through the crystal ball.</p>
 <p aid:pstyle="MagicItem">Demonsbane	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
 <p aid:pstyle="NoIndent">A weapon bathed in Demonsbane causes great pain to demons. It's touch will drive them back.</p>
+<p aid:pstyle="MagicItem">The Echo	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">A seemingly empty bottle. Once unstoppered, the whispers of another plane resound once and fall silent. In the silence, the bearer learns in his soul the coming of one great danger and how he can avoid it. At any point after the Echo is used, the wielder can ignore the results of any single die roll—hers or another player—and roll again. Once opened, the Echo is released and gone forever.</p>
+<p aid:pstyle="MagicItem">The Epoch Lens	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">An archmage, old and too frail to leave his tower, crafted this intricate and fragile device of glass and gold to examine the histories and relics he so loved. Looking at an object through the lens reveals visions of how made it and where it came from.</p>
+<p aid:pstyle="MagicItem">The Fiasco Codex	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">A thick tome, said to be penned in the blood of poor fools and robber-barons by some demon prince possessed of dark humor, the Codex details tales and stories of those whose ambition overwhelmed their reason. Reading from this tome teaches one the value of clear-headedness but leaves a sense of dread behind. When you read from the Codex, Roll+Wis. On a 10+, ask two. On a 7–9, just one.</p>
+<ul><li>What is my greatest opportunity, right now?</li>
+<li>Who can I betray to gain an advantage?</li>
+<li>Who is an ally I should not trust?</li></ul>
+<p aid:pstyle="NoIndent">The Codex gives up its answers only once to each reader and takes 2 to 3 hours to read.</p>
 <p aid:pstyle="MagicItem">Flask of Breath	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">This flask contains an everlasting supply of air. It is useful for breathing underwater or on the far planes.</p>
 <p aid:pstyle="MagicItem">Holy Avenger	<span aid:cstyle="Tags">Close, 2 Weight</span></p>
@@ -187,22 +209,38 @@
 <p>When you Spout Lore while consulting the book you gain an extra clause. On a 12+ the GM will give a solution to a problem or situation you're in.</p>
 <p aid:pstyle="MagicItem">Inspectacles	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">A pair of rough-hewn glass lenses in shabby frames, they somehow allow the wearer to see much more than is actually present. When you Discern Realities while wearing the glasses, you have an extra clause. On a roll of 12+ you may ask any three questions about the person, situation, or area you are observing, not just those on the list.</p>
-<p aid:pstyle="MagicItem">Living Arrows	<span aid:cstyle="Tags">1 Ammo, 1 Weight</span></p>
-<p aid:pstyle="NoIndent">These arrows know how to find their target. When you Volley, you may choose to deplete your living arrow ammo to automatically succeed before you roll.</p>
+<p aid:pstyle="MagicItem">Lamented Memento	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">Taking the form of a single lock of bright red hair, bound in a black ribbon and immune to the ravages of time, the Lamented Memento bears a grim enchantment. In it are the memories and emotions of a girl who dealt with Death at the Black Gates so many times that, in the end, they fell in love and she left the world to be with him for a time. Her memory protects the wielder. If he finds himself at the Gates, the Memento can be traded for an automatic result of 10+ on the Last Breath move.</p>
 <p aid:pstyle="MagicItem">Lodestone Shield	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">Emblazoned with a roaring lion, this shield has the power to attract blades and arrows to it. When you Defend with a Lodestone Shield, when you spend hold against an enemy wielding a metallic weapon you may spend one more hold to also disarm them.</p>
+<p aid:pstyle="MagicItem">Map of the Last Patrol	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">An ancient order of brave rangers once patrolled the land, protecting villages and warning kings and queens of encroaching danger. They’re long gone, now, but their legacy remains. This map, when marked with the blood of a group of people, will always show their location—so long as they remain within the bounds of the map. </p>
 <p aid:pstyle="MagicItem">Mental Wax	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
 <p aid:pstyle="NoIndent">When you drip mental wax into someone's ear, you get 3 Hold. You may spend hold to ask the player of the target one question which they must answer truthfully.</p>
+<p aid:pstyle="MagicItem">Ned's Head	<span aid:cstyle="Tags">1 Weight</span></p>
+<p aid:pstyle="NoIndent">An old skull, missing its jaw and very much worse-for-wear. The skull remembers the folly of its former owner—a man with more honor than sense. Once per night, the owner of the skull can ask “Who has it in for me?” and the skull will give up one name in a sad, lonely voice. If the owner of the skull is ever killed, it disappears surreptitiously. No-one knows where it might turn up next.</p>
+<p aid:pstyle="MagicItem">Nightsider's Key	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">This key unlocks any door, provided the owner of the key does not belong where she intends to go. So long as the intruder does nothing that would alert another to her presence (remaining unheard, unseen and unnoticed) and takes nothing more than her memories out with her, the key’s magic will prevent her intrusion from ever being discovered. It’s like she was never there at all.</p>
 <p aid:pstyle="MagicItem">Rope of Tricks	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">This rope responds to its wielder’s every wish, tying itself into knots, grabbing on to items (or enemies), coiling tightly. It acts as if it was an intelligent creature, like a smart snake of rope. Every rogue wants one.</p>
+<p aid:pstyle="MagicItem">Sacred Herbs	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost wizard-monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant strange visions of far away places and distant times. If the imbiber focuses his will on a particular person, place or thing, the herbs will respond: roll+Wis. On a 10+ the vision is clear and useful—some valid information is gained. On a 7–9 the vision is of the focus, but unclear, fraught with metaphor or somehow difficult to understand. On a miss, the GM will ask you “What is it you fear most?” You must answer honestly, of course.</p>
+<p aid:pstyle="MagicItem">The Sartar Duck	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">An odd, hand-carved wooden duck. Who would make such a funny thing? Whoever bears it finds himself an exceptionally gifted storyteller—no matter the language, he can make himself and his story clear to any audience. They will understand his meaning, if not his words.</p>
+<p aid:pstyle="MagicItem">Tears of Annalise	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed, they bind the swallowers together—when either feels strong emotions (particularly sadness, loss, fear or desire) the other feels it, as well. The effects last until one spills the blood of the other.</p>
 <p aid:pstyle="MagicItem">Teleportation Room	<span aid:cstyle="Tags">Slow</span></p>
 <p aid:pstyle="NoIndent">It requires an entire stone room to contain these powerful teleportation magics. When you enter the teleportation room and name a location, roll. On a 10+, you arrive exactly where you intended. On a 7-9, the GM chooses a safe location nearby. On a 6-, you end up someplace nearby, but it surely isn't safe.</p>
 <p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">2 Armor, 1 Weight</span></p>
 <p aid:pstyle="NoIndent">This suit of armor appears as many things to many people. Its wearer always looks impeccably dressed to everyone who sees them. The aura of the armor makes everyone more likely to see it the wearer's way.</p>
 <p>When you Parley with someone they see you as who they want you to be, you have a new clause for this move. On a roll of 12+ the target becomes hopelessly devoted to you. Tell the GM to stop making moves with this character, from now on they will only act in your best interest. (GM, don’t mess with this. Really, best interests.)</p>
+<p aid:pstyle="MagicItem">The Sterling Hand	<span aid:cstyle="Tags">0 Weight</span></p>
+<p aid:pstyle="NoIndent">Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon (near range) and is made of pure enough silver to harm creatures affected by such.</p>
+<p aid:pstyle="MagicItem">Violation Glaive	<span aid:cstyle="Tags">Reach, 2 Weight</span></p>
+<p aid:pstyle="NoIndent">A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you Hack &amp; Slash on a 10+ you have an additional option: you can deal your normal damage, let them counter attack you, and instill the emotion of your choice (maybe fear, reverence, or trust)</p>
 <p aid:pstyle="MagicItem">Vellius’s Gauntlets	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">Bearing the insignia of Saint Vellius, these gloves shine with the power of their wearer. When you hold something with the gloves, you cannot be forced to drop what you hold through force.</p>
-<p aid:pstyle="MagicItem">Vorpal Sword	<span aid:cstyle="Tags">3 Piercing, 2 Weight</span></p>
+<p aid:pstyle="MagicItem">Vorpal Sword	<span aid:cstyle="Tags">Near, 3 Piercing, 2 Weight</span></p>
 <p aid:pstyle="NoIndent">When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.</p>
 <p aid:pstyle="MagicItem">Wax Wings	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">Crafted to resemble great eagle wings, this contraption is worn via a complex harness. When you take to the air with wax wings, roll+Dex. On a 10+ your flight is controlled and you may stay aloft as long as you like. On a 7-9, you make it aloft but your flight is short or erratic and unpredictable, your choice. On a 6- you make it aloft, but the rest is up to the GM.</p></Body>
