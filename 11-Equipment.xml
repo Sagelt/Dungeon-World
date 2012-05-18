@@ -171,7 +171,7 @@
 <p aid:pstyle="NoIndent">No matter how many items it contains, a bag of holding is always 0 weight.</p>
 <p aid:pstyle="MagicItem">The Burning Wheel	<span aid:cstyle="Tags">2 Weight</span></p>
 <p aid:pstyle="NoIndent">This wagon wheel with several shattered spokes is constantly wreathed in flames. A gift from the gods, it takes a strong soul to carry the wheel. It does not provide any bonus to swimming.</p>
-<p>When you pick up The Burning Wheel and speak a god's name, roll+Con. On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7-9, the GM chooses which stat to reduce.</p>
+<p>When you pick up The Burning Wheel and speak a god's name, roll+Con. On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7–9, the GM chooses which stat to reduce.</p>
 <p aid:pstyle="MagicItem">Candle of Truth	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">So long as this candle burns, no one can willingly lie within its light.</p>
 <p aid:pstyle="MagicItem">The Carcosan Spire	<span aid:cstyle="Tags">Reach, Thrown, 3 Weight</span></p>
@@ -185,7 +185,7 @@
 <p aid:pstyle="MagicItem">Cornucopia	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">This horn of plenty converts magic into sustenance. When you cast a spell into a cornucopia, it produces food enough for a number of people equal to the spell's level.</p>
 <p aid:pstyle="MagicItem">Crystal Ball	<span aid:cstyle="Tags">1 Weight</span></p>
-<p aid:pstyle="NoIndent">When you look into a crystal ball, name a location and roll+Wis. On a hit, you get a clear vision of the location so long as you stare into the crystal ball. On a 7-9, someone or something else also observes you through the crystal ball.</p>
+<p aid:pstyle="NoIndent">When you look into a crystal ball, name a location and roll+Wis. On a hit, you get a clear vision of the location so long as you stare into the crystal ball. On a 7–9, someone or something else also observes you through the crystal ball.</p>
 <p aid:pstyle="MagicItem">Demonsbane	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
 <p aid:pstyle="NoIndent">A weapon bathed in Demonsbane causes great pain to demons. It's touch will drive them back.</p>
 <p aid:pstyle="MagicItem">The Echo	<span aid:cstyle="Tags">0 Weight</span></p>
@@ -203,12 +203,12 @@
 <p aid:pstyle="MagicItem">Holy Avenger	<span aid:cstyle="Tags">Close, 2 Weight</span></p>
 <p aid:pstyle="NoIndent">This sword is revered among paladins. It is considered a sign of divine favor to wield one. When wielded by a paladin, the paladin is granted a mark of divinity and the eyes of the gods are always on them (for good or ill). For anyone else, it’s just a sword.</p>
 <p aid:pstyle="MagicItem">Immovable Rod	<span aid:cstyle="Tags">0 Weight</span></p>
-<p aid:pstyle="NoIndent">When you press the small button on the end of the immovable rod, it freezes in place and cannot be moved. When you press the button again, it becomes movable again.</p>
+<p aid:pstyle="NoIndent">When you press the small button on the end of the immovable rod, it freezes in place and cannot be moved. When you press the button again, it becomes movable again. Some immovable rods can only bet set in place a certain number of times: beware that each time you set it may be the last.</p>
 <p aid:pstyle="MagicItem">Infinite Book	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">This book contains an infinite number of pages in a finite space. With no limit to the pages, everything that ever was, is, or will be is contained somewhere in the book. Luckily the index is great.</p>
 <p>When you Spout Lore while consulting the book you gain an extra clause. On a 12+ the GM will give a solution to a problem or situation you're in.</p>
 <p aid:pstyle="MagicItem">Inspectacles	<span aid:cstyle="Tags">0 Weight</span></p>
-<p aid:pstyle="NoIndent">A pair of rough-hewn glass lenses in shabby frames, they somehow allow the wearer to see much more than is actually present. When you Discern Realities while wearing the glasses, you have an extra clause. On a roll of 12+ you may ask any three questions about the person, situation, or area you are observing, not just those on the list.</p>
+<p aid:pstyle="NoIndent">A pair of rough-hewn glass lenses in shabby frames, they somehow allow the wearer to see magic. Every spell, even those with no physical effect (like Charm Person) are visible through the Inspectacles.</p>
 <p aid:pstyle="MagicItem">Lamented Memento	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">Taking the form of a single lock of bright red hair, bound in a black ribbon and immune to the ravages of time, the Lamented Memento bears a grim enchantment. In it are the memories and emotions of a girl who dealt with Death at the Black Gates so many times that, in the end, they fell in love and she left the world to be with him for a time. Her memory protects the wielder. If he finds himself at the Gates, the Memento can be traded for an automatic result of 10+ on the Last Breath move.</p>
 <p aid:pstyle="MagicItem">Lodestone Shield	<span aid:cstyle="Tags">1 Weight</span></p>
@@ -231,15 +231,14 @@
 <p aid:pstyle="NoIndent">Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed, they bind the swallowers together—when either feels strong emotions (particularly sadness, loss, fear or desire) the other feels it, as well. The effects last until one spills the blood of the other.</p>
 <p aid:pstyle="MagicItem">Teleportation Room	<span aid:cstyle="Tags">Slow</span></p>
 <p aid:pstyle="NoIndent">It requires an entire stone room to contain these powerful teleportation magics. When you enter the teleportation room and name a location, roll. On a 10+, you arrive exactly where you intended. On a 7-9, the GM chooses a safe location nearby. On a 6-, you end up someplace nearby, but it surely isn't safe.</p>
-<p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">2 Armor, 1 Weight</span></p>
-<p aid:pstyle="NoIndent">This suit of armor appears as many things to many people. Its wearer always looks impeccably dressed to everyone who sees them. The aura of the armor makes everyone more likely to see it the wearer's way.</p>
-<p>When you Parley with someone they see you as who they want you to be, you have a new clause for this move. On a roll of 12+ the target becomes hopelessly devoted to you. Tell the GM to stop making moves with this character, from now on they will only act in your best interest. (GM, don’t mess with this. Really, best interests.)</p>
+<p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">1 Armor, 1 Weight</span></p>
+<p aid:pstyle="NoIndent">This suit of armor appears as many things to many people. Its wearer always looks impeccably dressed to everyone who sees them, some do not even see it as armor.</p>
 <p aid:pstyle="MagicItem">The Sterling Hand	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon (near range) and is made of pure enough silver to harm creatures affected by such.</p>
 <p aid:pstyle="MagicItem">Violation Glaive	<span aid:cstyle="Tags">Reach, 2 Weight</span></p>
 <p aid:pstyle="NoIndent">A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you Hack &amp; Slash on a 10+ you have an additional option: you can deal your normal damage, let them counter attack you, and instill the emotion of your choice (maybe fear, reverence, or trust)</p>
 <p aid:pstyle="MagicItem">Vellius’s Gauntlets	<span aid:cstyle="Tags">1 Weight</span></p>
-<p aid:pstyle="NoIndent">Bearing the insignia of Saint Vellius, these gloves shine with the power of their wearer. When you hold something with the gloves, you cannot be forced to drop what you hold through force.</p>
+<p aid:pstyle="NoIndent">Bearing the insignia of Saint Vellius, these gloves shine with the power of their wearer. When you hold something with the gloves you cannot be forced to drop what you hold through force.</p>
 <p aid:pstyle="MagicItem">Vorpal Sword	<span aid:cstyle="Tags">Near, 3 Piercing, 2 Weight</span></p>
 <p aid:pstyle="NoIndent">When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.</p>
 <p aid:pstyle="MagicItem">Wax Wings	<span aid:cstyle="Tags">1 Weight</span></p>
