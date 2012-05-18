@@ -107,7 +107,6 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="Requirement">Requires: Inquisitor</p>
 <p aid:pstyle="NoIndent">When you do damage with a spell, you deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Reaper</h3>
-<p aid:pstyle="Requirement">Requires: The Scales of Life and Death</p>
 <p aid:pstyle="NoIndent">When you take time after a conflict to dedicate your victory to your deity and deal with the dead, take +1 forward.</p>
 <h3 aid:pstyle="MoveName">Providence</h3>
 <p aid:pstyle="Requirement">Replaces: Serenity</p>
