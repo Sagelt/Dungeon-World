@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<Story><h1>Dungeon World</h1>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story><h1>Dungeon World</h1>
 <div id="Introduction"><p aid:pstyle="NoIndent">Dungeon World is a world of fantastic adventure. A world of magic, gods, demons, Good and Evil. Brave heroes venture into the most dangerous corners of the land in search of gold and glory.</p>
 <p>You are those heroes. You go where others can't or won't. You conquer the unbeatable and laugh in the face of Death. There are monstrous things lurking in the world. Are you ready to face them?</p>
 <h2>The Bard</h2>
@@ -123,5 +122,5 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h2>Why?</h2>
 <p aid:pstyle="NoIndent">Why play Dungeon World?</p>
 <p>First, to see the characters do <strong>amazing things</strong>. To see them explore the unexplored, slay the undying, and go from the deepest bowels of the world to the highest peaks of the heavens. To see them caught up in momentous events and grand tragedies.</p>
-<p>Second, to see them <strong>play off each other</strong>: to stand together as a united front against their foes or to bicker and argue over treasure. To unite and fall apart and reunite again.</p>
+<p>Second, to see them <strong>struggle together</strong>: to gather as a party despite their differences and stand as a united front against their foes, or to argue over treasure, debate battle plans, and join in righteous celebration over a victory hard-won.</p>
 <p>Third, because <strong>the world still has so many places to explore</strong>. There are unlooted tombs and dragon hordes dotting the countryside just waiting for quick-fingered and strong-armed adventurers to discover them. That unexplored world has plans of its own. We play to see what they are and how they'll change the lives of our characters.</p></Story></Root>
