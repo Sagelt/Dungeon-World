@@ -51,7 +51,7 @@
 <li>What are you really feeling right now?</li>
 <li>What do you most desire?</li></ul>
 <h3 aid:pstyle="BasicMoveName">A Port in the Storm</h3>
-<p aid:pstyle="NoIndent">When you return to a civilized settlement you've visited before, tell the GM when you were last here. They'll tell you how its changed since then.</p></div></div>
+<p aid:pstyle="NoIndent">When you return to a civilized settlement you've visited before, tell the GM when you were last here. They'll tell you how it's changed since then.</p></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
@@ -115,7 +115,7 @@
 <p aid:pstyle="NoIndent">When you heal with Arcane Art, you heal +2d8 damage.</p>
 <h3 aid:pstyle="MoveName">Vicious Blast</h3>
 <p aid:pstyle="Requirement">Replaces: Vicious Cacophony</p>
-<p aid:pstyle="NoIndent">When you grant bonus damage with Arcane Art, you grant an extra +1d4 damage.</p>
+<p aid:pstyle="NoIndent">When you grant bonus damage with Arcane Art, you grant an extra +2d4 damage.</p>
 <h3 aid:pstyle="MoveName">Unforgettable Face</h3>
 <p aid:pstyle="NoIndent">When you meet someone you've met before (your call) after some time apart you take +1 forward against them.</p>
 <h3 aid:pstyle="MoveName">Reputation (Cha)</h3>
