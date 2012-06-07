@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage, 1 piercing)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is attracted by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. Give the greedy snake your treasures and she might just leave you alone.<em>Instinct</em>: To devour</p>
+<p aid:pstyle="MonsterDescription">Dragon-Turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is attracted by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. Give the greedy snake your treasures and she might just leave you alone.<em>Instinct</em>: To devour</p>
 <ul><li>Lure prey with lies and illusions</li>
 <li>Lash out at light</li>
 <li>Devour</li></ul>
@@ -143,8 +143,8 @@
 <p aid:pstyle="MonsterDescription">Tall. Real tall. Eight or nine feet when they’re young or weak. Covered all over in warty, tough skin, too. Big teeth, stringy hair like swamp moss and long, dirty nails. Some are green, some grey, some black. They’re clannish and hateful of each other, not to mention all the rest of us. Near impossible to kill, too, unless you’ve fire or acid to spare—cut a limb off and watch. In a few days, you’ve got two trolls where you once had one. A real serious problem, as you can imagine. <em>Instinct</em>: To smash</p>
 <ul><li>Undo the effects of an attack (unless caused by a weakness, your call)</li>
 <li>Hurl something or someone</li></ul>
-<p aid:pstyle="MonsterName">Wll-o-wisp         <span aid:cstyle="Tags">Solitary, Tiny, Magical</span></p>
-<p aid:pstyle="MonsterStats">Ray (w[2d8-2] damage)      12 HP     0 Armor</p>
+<p aid:pstyle="MonsterName">Will-o-wisp	<span aid:cstyle="Tags">Solitary, Tiny, Magical</span></p>
+<p aid:pstyle="MonsterStats">Ray (2d8·w-1 damage)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Body of light</p>
 <p aid:pstyle="MonsterDescription">Spot a lantern floating in the darkness, lost traveler in the swamp. Hope—a beacon of shimmering light. You call out to it, but there’s no answer. It begins to fade and so you follow, sloshing through the muck, tiring at the chase, hoping you’re being led to safety. Such a sad tale that always ends in doom. These creatures are a mystery—some say they’re ghosts, others beacons of faerie light. Nobody knows the truth. They are cruel, however. All can agree on that. <em>Instinct</em>: To misguide</p>

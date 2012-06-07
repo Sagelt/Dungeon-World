@@ -19,7 +19,7 @@
 <li>List the general cast of the Front</li></ul>
 <h2>Creating Dangers</h2>
 <p aid:pstyle="NoIndent">Not every element of your game will warrant a Danger—traps, some roving monsters and other bits of ephemera may just be there to add flavor but aren't important enough to warrant inclusion. That’s okay. Fronts are here to keep you apprised of the bigger picture. Dangers are divided into a handful of categories, each with its own name and <strong>impulse</strong>.</p>
-<p>Every Danger has a crucial motivation that drives it called its "impulse." The impulse exists to help you understand that Danger. What pushes it to fulfill its Impending Doom? Impulse can help you translation the Danger into action.</p>
+<p>Every Danger has a crucial motivation that drives it called its impulse. The impulse exists to help you understand that Danger. What pushes it to fulfill its Impending Doom? Impulse can help you translation the Danger into action.</p>
 <p>When creating Dangers for your Front, think about how each one interacts as a facet of the Front as a whole. Keep in mind the people, places, and things that might be a part of the threat to the world that the Front represents. How does each Danger contribute to the Front?</p>
 <p aid:pstyle="Example">Let's say we have an idea for a Front—an ancient portal has been discovered in the icy north. We'll call our Front "The Opening of the White Gate".</p>
 <p>The easiest place to start is with people and monsters. Cultists, ogre chieftains, demonic overlords and the like are all excellent Dangers. These are the creatures that have risen above mere monster status to become serious threats on their own. Groups of monsters can be Dangers too—goblin tribes or a rampaging centaur khanate, for example.</p>
@@ -28,8 +28,8 @@
 <p aid:pstyle="Example">For our Front, we'll add the Gate itself as a Danger.</p>
 <p>Lastly, if we think ahead, we can include some overarching Dangers. The sorts of things that are in play outside the realm of the obvious—godly patrons, hidden conspiracies and cursed prophecies waiting to be fulfilled.</p>
 <p aid:pstyle="Example">Perhaps the White Gate was carved in the ancient past, hidden by a race of Angels until the Day of Judgement. We'll add the "Argent Seraphim" to our Front as a new Danger.</p>
-<p>Of course, there's so much more I could add to my Front, but there's two reasons not to go overboard: firstly, I want to leave room for discovery. Like a map, blank spaces can always be filled in later. Leaving room for player contribution and future inspiration means I'll have freedom to alter the Front and make it fit the game as the story emerges. Secondly, not every bad thing that could happen deserves to be made into a Danger. If you're uncertain, think about it this way: Dangers can always get worse.</p> 
-<p aid:pstyle="Example">A barbarian tribe near the Gate, the frozen tundra itself, a band of rival adventurers; all these things could be dangerous elements of the game but they're not important enough just yet to deserve to be Dangers.</p>
+<p>Of course, there's so much more I could add to my Front, but there's two reasons not to go overboard. First, I want to leave room for discovery. Like a map, blank spaces can always be filled in later. Leaving room for player contribution and future inspiration means I'll have freedom to alter the Front and make it fit the game as the story emerges. Second, not every bad thing that could happen deserves to be made into a Danger. If you're uncertain, think about it this way: Dangers can always get worse.</p> 
+<p aid:pstyle="Example">A barbarian tribe near the Gate, the frozen tundra itself, a band of rival adventurers—all these things could be dangerous elements of the game but they're not important enough just yet to deserve to be Dangers.</p>
 <p>Creating Dangers is a way to slice up your overall Front concept into smaller, easier to manage pieces. Dangers are tools for adding detail to the right parts of the Front and for making the Front easier to manage in the long run.</p>
 <p>Once you've named and added a Danger to the Front you need to choose a type for that Danger from the list below. Alternately, you can use the list of types to inspire Dangers: with your Front in mind, peruse the list and pick one or two that fit.</p>
 <p aid:pstyle="Example">For our three Dangers (The College of Arcanists, The White Gate and the Argent Seraphim) we've selected Cabal, Dark Portal and Choir of Angels, respectively.</p>
@@ -40,7 +40,7 @@
 <li>Hordes</li>
 <li>Cursed Places</li></ul>
 <h3>Ambitious Organizations</h3>
-<ul><li>Misguided Good (<em>impulse: to do “what is right” no matter the cost</em>)</li>
+<ul><li>Misguided Good (<em>impulse: to do what is “right” no matter the cost</em>)</li>
 <li>Thieves Guild (<em>impulse: to take by subterfuge</em>)</li>
 <li>Cult (<em>impulse: to infest from within</em>)</li>
 <li>Religious Organization (<em>impulse: to establish and follow doctrine</em>)</li>
@@ -88,7 +88,7 @@
 <li>Demand a sacrifice</li></ul>
 <h3>Hordes</h3>
 <ul><li>Wandering Barbarians (<em>impulse: to grow strong, to drive their enemies before them</em>)</li>
-<li>Humanoid Vermin (<em>impulse: to breed – to multiply and consume</em>)</li>
+<li>Humanoid Vermin (<em>impulse: to breed, to multiply and consume</em>)</li>
 <li>Underground Dwellers (<em>impulse: to defend the complex from outsiders</em>)</li>
 <li>Plague of the Undead (<em>impulse: to spread</em>)</li></ul>
 <h4>GM Moves for Hordes</h4>
@@ -120,7 +120,7 @@
 <li>Confuse or obfuscate truth or direction</li>
 <li>Corrupt a natural law</li></ul>
 <h3>Description and Cast</h3>
-<p aid:pstyle="NoIndent">Write up something short to remind you just what this Danger is about, something to describe it in a nutshell. Don’t worry about where it’s going or what could happen—Grim Portents and the Impending Doom will handle that for you, you'll get to those in a bit. If there are multiple people involved in the Danger (an orc warlord and his clansmen, a hateful God and his servants) go ahead and give them names and a detail or two now. Leave yourself some space as you'll be adding to this section as you play.</p>
+<p aid:pstyle="NoIndent">Write up something short to remind you just what this Danger is about, something to describe it in a nutshell. Don’t worry about where it’s going or what could happen—Grim Portents and the Impending Doom will handle that for you, you'll get to those in a bit. If there are multiple people involved in the Danger (an orc warlord and his clansmen, a hateful god and his servants) go ahead and give them names and a detail or two now. Leave yourself some space as you'll be adding to this section as you play.</p>
 <h3>Custom Moves</h3>
 <p aid:pstyle="NoIndent">Sometimes, a Danger will suggest a move that isn’t covered by any existing ones. You can write custom moves to fill the gaps, or to add the right effects for the Danger. They can be player moves or GM moves, as you see fit. Of course, if you're writing a player move, keep your hands off the dice and keep in mind the basic structure of a move. A 10+ is a complete success, while a 7–9 is a partial success. On a miss, maybe the custom move does something specific, or maybe not—maybe you just get to make a move or work towards fulfilling a Grim Portent. The formatting of these moves varies from move to move. See the Advanced Delving chapter for details on how to create your own. </p>
 <p aid:pstyle="Example">For the Opening of the White Gate, I just know some fool PC is going to end up in the light that spills from the gate, so I'm writing a move to show what might occur.</p>
@@ -141,7 +141,7 @@
 <li>The Herald appears</li>
 <li>The Gate is Opened</li></ul></p>
 <p>When a Grim Portent comes to pass, check it off—the prophecy has come true! A Grim Portent that has come to pass might have ramifications for your other Fronts, too. Have a quick look when your players aren’t demanding your attention and feel free to make changes. One small Grim Portent may resound across the whole campaign in subtle ways.</p>
-<p>You can advance a Grim Portent descriptively or prescriptively. Descriptively means that you've seen the change happen during play, so you mark it off. Maybe the players sided with the goblin tribes against their lizardman enemies—now the goblins control the tunnels. Lo and behold, this was the next step in a Grim Portent. Prescriptive is when, due to a failed player move or a golden opportunity, you advance the Grim Portent as your hard move. That step comes to pass, show its effects and keep on asking, "what do you do, now?"</p>
+<p>You can advance a Grim Portent descriptively or prescriptively. Descriptively means that you've seen the change happen during play, so you mark it off. Maybe the players sided with the goblin tribes against their lizardman enemies—now the goblins control the tunnels. Lo and behold, this was the next step in a Grim Portent. Prescriptive is when, due to a failed player move or a golden opportunity, you advance the Grim Portent as your hard move. That step comes to pass, show its effects and keep on asking, "What do you do, now?"</p>
 <h3>Impending Doom</h3>
 <p aid:pstyle="NoIndent">At the end of every Danger's path is an Impending Doom. This is the final toll of the bell that signals the Danger’s triumphant resolution. When a Grim Portent comes to pass the Impending Doom grows stronger, more apparent and present in the world. These are the very bad things that every Danger, in some way, seeks to bring into effect. Choose one of the types of Impending Dooms and give it a concrete form in your Front. These often change in play, as the characters meddle in the affairs of the world. Don't fret, you can change them later.</p>
 <ul><li>Tyranny (of the strong over the weak or the few over the many)</li>
@@ -162,12 +162,12 @@
 <li>How will Lux respond to the Light from Beyond?</li>
 <li>Will the College be able to recruit Avon?</li></ul></p>
 <h2>Resolving a Front</h2>
-<p aid:pstyle="NoIndent">Often a Front will be resolved in a simple and straightforward manner. A Front representing a single dungeon may have its Dangers killed, turned to good, or overcome by some act of heroism. In this case the Front is dissolved and set aside. Maybe there are elements of the Front—Dangers that go unresolved or leftover members of a Danger that’s been cleared—that lives on. Maybe they move to the Campaign Front as brand new Dangers?</p>
+<p aid:pstyle="NoIndent">Often a Front will be resolved in a simple and straightforward manner. A Front representing a single dungeon may have its Dangers killed, turned to good, or overcome by some act of heroism. In this case the Front is dissolved and set aside. Maybe there are elements of the Front—Dangers that go unresolved or leftover members of a Danger that’s been cleared—that live on. Maybe they move to the Campaign Front as brand new Dangers?</p>
 <p>The Campaign Front will need a bit more effort to resolve. It’ll be working slowly and subtly as the course of the campaign rolls along. You won’t introduce or resolve it all at once, but in pieces. The characters work towards defeating the various minions of the Big Bad that lives in your Campaign Front. In the end, though, you’ll know that the Campaign Front is resolved when the Dark God is confronted, the Undead Plague is wiped clear, and the heroes emerge bloodied but victorious. Campaign Fronts take longer to deal with, but in the end they’re the most satisfying to resolve.</p>
 <p>When a Front is resolved, take some extra time to sit down and look at the aftermath. Did any Grim Portents come to pass? Even if a Danger is stopped, if any Grim Portents are fulfilled, the world is changed, if only in subtle ways. Keep this in mind when you write your future Fronts. Is there anyone who could be moved from the now-defeated Front to somewhere else? Anyone get promoted or reduced in stature? The resolution of a Front is an important event!</p>
 <p>When you resolve an Adventure Front, usually that means the adventure itself has been resolved. This is a great time to take a break and look at The Campaign Front you have. Let it inspire your next Adventure Front. Write up a new Adventure Front or polish off one you’ve been working on, draw a few maps to go with it and get ready for the next big thing.</p>
 <h2>Multiple Adventure Fronts</h2>
-<p aid:pstyle="NoIndent">As you start your campaign you're likely to have a lightly-detailed Campaign Front and a single, detailed Adventure Front. Characters may choose, part-way through an Adventure, to pursue some other course. You might end up with a handful of partly-resolved Adventure Fronts. Not only is this okay, it's a great way to explore a world that feels alive and organic. Always remember, Fronts continue along apace no matter whether the characters are there to see it or not. Think offscreen, especially where Fronts are concerned.</p>
+<p aid:pstyle="NoIndent">As you start your campaign you're likely to have a lightly detailed Campaign Front and a single, detailed Adventure Front. Characters may choose, part-way through an Adventure, to pursue some other course. You might end up with a handful of partly-resolved Adventure Fronts. Not only is this okay, it's a great way to explore a world that feels alive and organic. Always remember, Fronts continue along apace no matter whether the characters are there to see it or not. Think offscreen, especially where Fronts are concerned.</p>
 <p>When running two Adventure Fronts at the same time they can be intertwined or independent. The Anarchists corrupting the city from the inside are a different Front from the orcs massing outside the walls, but they'd both be in play at once. On the other hand one dungeon could have multiple Fronts at play within its walls: the powers and effects of the cursed place itself and the warring humanoid tribes that inhabit it.</p>
 <p>A situation warrants multiple Adventure Fronts when there are multiple Impending Dooms, all equally potent but not necessarily related. The Impending Doom of the Anarchists is chaos in the city, the Impending Doom of the orcs is its utter ruination. They are two separate Fronts with their own Dangers. They'll deal with each other, as well, so there's some room for the players choosing sides or attempting to turn the Dangers of one Front against the other.</p>
 <p>When dealing with multiple Adventure Fronts the players are likely to prioritize. The cult needs attention now, the orcs can wait, or vice versa. These decisions lead to the slow advancement of the neglected Front, eventually causing more problems for the players and leading to new adventures. This can get complex once you've got three or four Fronts in play. Take care not to get overwhelmed.</p>
@@ -204,7 +204,7 @@
 <h2>Custom Moves</h2>
 <p aid:pstyle="NoIndent">When you stand in the presence of the Light From Beyond, roll+WIS: </p>
 <p aid:pstyle="NoIndent">On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon.</p>
-<p aid:pstyle="NoIndent"> On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways.</p>
+<p aid:pstyle="NoIndent">On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways.</p>
 <p aid:pstyle="NoIndent">On a miss, thou art weighed in the balance and art found wanting.</p>
 <h2>Stakes</h2>
 <ul><li>Who will be the Champion?</li>
