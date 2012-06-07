@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d6 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid</p>
-<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows their place in the great hive. The Formian is some strange intersection of men and ants (though there are winged tribes that look like ants out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east). Tall, with a hard shell and a harder mind, these particular Formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
+<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows their place in the great hive. The Formian is some strange intersection of men and ants. (Though there are winged tribes that look like ants out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular Formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
 <ul><li>Raise the alarm</li>
 <li>Create value for the hive</li>
 <li>Assimilate</li></ul>
@@ -46,7 +46,7 @@
 <ul><li>Pass on demonic influence</li>
 <li>Drive the pack into a fervor</li></ul>
 <p aid:pstyle="MonsterName">Gnoll Alpha	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Sword (d10·b damage 1 piercing)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Sword (2d10·b damage 1 piercing)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Scent</p>
 <p aid:pstyle="MonsterDescription">Every pack has its top dog. Bigger, maybe—that’d be the simplest way. Often, though, with these lank and filthy mutts, it’s not about size or sharp teeth but about cruelty. About a willingness to kill your brothers and eat them while the pack watches. Willingness to desecrate the pack in a way that cows them to you. If they’re that awful to each other—to their living kin—think about how they must view us. It’s hard to be mere meat in a land of these kinds of predators. <em>Instinct</em>: To drive the pack</p>

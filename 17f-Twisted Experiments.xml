@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterName">Chimera	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
-<p aid:pstyle="MonsterDescription">Well known and categorized, the chimera is a perfected creature. From the codices of the Mage’s Guild to the famous pages of Cullaina’s Creature Compendium, there’s no confusion about what Chimera means. Two parts lioness, one part serpent, head of a she-goat, and all the vicious magic one can muster. The actual ritual might vary, as might a detail or two—more creative sorcerers switch the flame breath for acid, perhaps. Used as a guardian, an assassin or merely an instrument of chaos unchained, it matters little. The chimera is the worst sort of abomination: an intentional affront to all natural life. <em>Instinct</em>: To do as commanded</p>
+<p aid:pstyle="MonsterDescription">Well-known and categorized, the chimera is a perfected creature. From the codices of the Mage’s Guild to the famous pages of Cullaina’s Creature Compendium, there’s no confusion about what Chimera means. Two parts lioness, one part serpent, head of a she-goat, and all the vicious magic one can muster. The actual ritual might vary, as might a detail or two—more creative sorcerers switch the flame breath for acid, perhaps. Used as a guardian, an assassin or merely an instrument of chaos unchained, it matters little. The chimera is the worst sort of abomination: an intentional affront to all natural life. <em>Instinct</em>: To do as commanded</p>
 <ul><li>Belch forth flame</li>
 <li>Run them over</li>
 <li>Poison them</li></ul>
@@ -19,7 +19,7 @@
 <p aid:pstyle="MonsterStats">Pickaxe (2d6·w damage)	3 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
-<p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the Derro, are the mistakes of a long-forgotten dwarven alchemist. The derro don’t forget, though. Twisted and hateful, the Derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
+<p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the Derro, are the mistakes of a long-forgotten dwarven alchemist. The Derro don’t forget, though. Twisted and hateful, the Derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
 <ul><li>Fill a mind with foreign thoughts</li>
 <li>Take control of a beast's mind</li></ul>
 <p aid:pstyle="MonsterName">Digester	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
@@ -34,7 +34,7 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
 <p aid:pstyle="MonsterDescription">Things go missing. A sock, a silver spoon, your dead mother’s bones. We blame the maid, or bad luck, or just a moment of stupid forgetfulness and we move on. We never get to see the real cause of these problems. The spidery thing with human hands and eyes as blue as the deep ethereal from whence the creature comes. We never see the nest it makes of astral silver webbing and stolen objects arranged in some madness pattern. We never watch it assemble its collection of halfling finger-bones, stolen from the hands of the sleeping. We’re lucky, that way. <em>Instinct</em>: To steal</p>
-<ul><li>Take something important to it's planar lair</li>
+<ul><li>Take something important to its planar lair</li>
 <li>Retreat to the Ethereal plane</li>
 <li>Use an item from its lair</li></ul>
 <p aid:pstyle="MonsterName">Ettin	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
@@ -48,7 +48,7 @@
 <p aid:pstyle="MonsterStats">Rend (d10+5 damage)	20 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Many arms</p>
-<p aid:pstyle="MonsterDescription">The pounding of the jungle drums calls to it. The slab of meat on the sacrificial stone to lure in the Great Ape. Girallon, they call it—a name from the long-forgotten tongue of the kings who bred the beast. Taller than a building, some say. Cloaked in ivory fur with tusks as long as scimitars. Four arms? Six? The rumors are hard to verify. Every year it is the same: some explorer visits the jungle villages seeking the Ape and return, never quite the same, never with a trophy. The pounding of the drums goes on. <em>Instinct</em>: To rule</p>
+<p aid:pstyle="MonsterDescription">The pounding of the jungle drums calls to it. The slab of meat on the sacrificial stone to lure in the Great Ape. Girallon, they call it—a name from the long-forgotten tongue of the kings who bred the beast. Taller than a building, some say. Cloaked in ivory fur with tusks as long as scimitars. Four arms? Six? The rumors are hard to verify. Every year it is the same: some explorer visits the jungle villages seeking the Ape and returns, never quite the same, never with a trophy. The pounding of the drums goes on. <em>Instinct</em>: To rule</p>
 <ul><li>Answer the call of sacrifice</li>
 <li>Drive them from the jungle</li>
 <li>Throw someone</li></ul>
@@ -56,7 +56,7 @@
 <p aid:pstyle="MonsterStats">Slam (d8+5 damage)	10 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Metal</p>
-<p aid:pstyle="MonsterDescription">A staple of the enchanters art. Every golemist and mechano-thaumaturge in the Kingdoms knows this. Iron is a misnomer, though. These guardians are crafted of any metal, really. Steel, copper, or even gold, in some small cases. As much an art as a science, the crafting of a fine golem is as respected in the Kingdoms as a bridge newly built or a castle erected in the mountains. Unceasing watchdogs, stalwart defenders, the iron golem lives to serve, following its orders eternally. Any enchanter worth his salt can craft one, if he can afford the materials. If not… <em>Instinct</em>: To serve</p>
+<p aid:pstyle="MonsterDescription">A staple of the enchanters' art. Every golemist and mechano-thaumaturge in the Kingdoms knows this. Iron is a misnomer, though. These guardians are crafted of any metal, really. Steel, copper, or even gold, in some small cases. As much an art as a science, the crafting of a fine golem is as respected in the Kingdoms as a bridge newly built or a castle erected in the mountains. Unceasing watchdogs, stalwart defenders, the iron golem lives to serve, following its orders eternally. Any enchanter worth his salt can craft one, if he can afford the materials. If not… <em>Instinct</em>: To serve</p>
 <ul><li>Follow orders implacably</li>
 <li>Use a special tool or adaptation built-in</li></ul>
 <p aid:pstyle="MonsterName">Flesh Golem	<span aid:cstyle="Tags">Horde</span></p>
@@ -77,7 +77,7 @@
 <p aid:pstyle="MonsterStats">Sting (d10+1 damage 1 piercing)	16 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
-<p aid:pstyle="MonsterDescription">If the chimera is the first step down a dark path, the manticore is a door that can’t be closed once its been opened. A lion, a scorpion, the wings of a drake. All difficult to obtain but not impossible and just animals, anyway. The last component, the hissing hateful face of the beast, is the ingredient that makes a manticore so cruel. Young or old, man or woman, it matters not but that they are human, living and breathing, married to the creature with twisted magic. All sense of who they are is lost, and maybe that’s a blessing, but the beast is born from human suffering. No wonder, then, that they’re all so eager to kill. <em>Instinct</em>: To kill</p>
+<p aid:pstyle="MonsterDescription">If the chimera is the first step down a dark path, the manticore is a door that can’t be closed once it's been opened. A lion, a scorpion, the wings of a drake. All difficult to obtain but not impossible and just animals, anyway. The last component, the hissing hateful face of the beast, is the ingredient that makes a manticore so cruel. Young or old, man or woman, it matters not but that they are human, living and breathing, married to the creature with twisted magic. All sense of who they are is lost, and maybe that’s a blessing, but the beast is born from human suffering. No wonder, then, that they’re all so eager to kill. <em>Instinct</em>: To kill</p>
 <ul><li>Poison them</li>
 <li>Rip something apart</li></ul>
 <p aid:pstyle="MonsterName">Owlbear	<span aid:cstyle="Tags">Solitary, Construct</span></p>

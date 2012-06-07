@@ -51,7 +51,7 @@
 <p aid:pstyle="MonsterName">Imp	<span aid:cstyle="Tags">Horde, Planar, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Flame gout (d6 damage ignores armor)	7 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near, Far</span></p>
-<p aid:pstyle="MonsterDescription">These tiny observer-demons often act as a first-time binding subject by neonate warlocks. They can be found infesting arcane cabals, drinking potions when no-one watches, and chasing pets and servants with tiny pitchforks. A caricature of true demonhood, these little creatures are, thankfully, not too difficult to bind or extinguish. <em>Instinct</em>: To harass</p>
+<p aid:pstyle="MonsterDescription">These tiny observer-demons often act as a first-time binding subject by neonate warlocks. They can be found infesting arcane cabals, drinking potions when no one watches, and chasing pets and servants with tiny pitchforks. A caricature of true demonhood, these little creatures are, thankfully, not too difficult to bind or extinguish. <em>Instinct</em>: To harass</p>
 <ul><li>Send information back to hell</li>
 <li>Cause mischief</li></ul>
 <p aid:pstyle="MonsterName">Inevitable	<span aid:cstyle="Tags">Group, Large, Magical, Cautious, Gibbous, Planar</span></p>
@@ -91,5 +91,5 @@
 <p aid:pstyle="MonsterName">Word Daemon	<span aid:cstyle="Tags">Solitary, Planar, Magical</span></p>
 <p aid:pstyle="MonsterDescription">All of mortal magic is just words. Spells are prayers, rote formula, runes cast, or songs sung. Letters, words, sentences, and syntax strung together in a language that the whole world itself might understand. By way of words we can make our fellows cry or exult, can paint pictures and whisper desire to the gods. No little wonder, then, that in all that power is intent. That every word we utter, if repeated and meaning or emotion given to it, can spark a kind of unintentional summoning. Word daemons are called by accident, appear at random and are often short-lived, but come to attend a particular word. Capricious, unpredictable and dangerous, yes—but possibly useful, depending on the word. <em>Instinct</em>: To further their word</p>
 <ul><li>Cast a spell related to their word</li>
-<li>bring their word into abundance</li></ul>
+<li>Bring their word into abundance</li></ul>
 </Body></Root>

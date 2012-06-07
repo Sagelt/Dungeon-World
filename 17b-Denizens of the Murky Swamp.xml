@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage 1 piercing)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is drawn in by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. <em>Instinct</em>: To devour</p>
+<p aid:pstyle="MonsterDescription">Dragon Turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is drawn in by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. <em>Instinct</em>: To devour</p>
 <ul><li>Lure prey with lies and illusions</li>
 <li>Lash out at light</li>
 <li>Devour</li></ul>
@@ -124,7 +124,7 @@
 <p aid:pstyle="MonsterStats">Trample (d8+5 damage)	18 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Armor plated body</p>
-<p aid:pstyle="MonsterDescription">Great lumbering beasts, they live in places long since forgotten by the thinking races of the world. Gentle if unprovoked but mighty if their ire is raised, they trample smaller creatures with the care we might give to crushing an any beneath our boots. If you see one, drift by and gaze in awe, but do not wake the giant. <em>Instinct</em>: To endure</p>
+<p aid:pstyle="MonsterDescription">Great lumbering beasts, they live in places long since forgotten by the thinking races of the world. Gentle if unprovoked but mighty if their ire is raised, they trample smaller creatures with the care we might give to crushing an ant beneath our boots. If you see one, drift by and gaze in awe, but do not wake the giant. <em>Instinct</em>: To endure</p>
 <ul><li>Stampede</li>
 <li>Panic</li></ul>
 <p aid:pstyle="MonsterName">Swamp Shambler	<span aid:cstyle="Tags">Solitary, Large, Magical</span></p>
@@ -142,7 +142,7 @@
 <p aid:pstyle="MonsterDescription">Tall. Real tall. Eight or nine feet when they’re young or weak. Covered all over in warty, tough skin, too. Big teeth, stringy hair like swamp moss and long, dirty nails. Some are green, some grey, some black. They’re clannish and hateful of each other, not to mention all the rest of us. Near impossible to kill, too, unless you’ve fire or acid to spare—cut a limb off and watch. In a few days, you’ve got two trolls where you once had one. A real serious problem, as you can imagine. <em>Instinct</em>: To smash</p>
 <ul><li>Undo the effects of an attack (unless caused by a weakness, your call)</li>
 <li>Hurl something or someone</li></ul>
-<p aid:pstyle="MonsterName">Wll-o-wisp	<span aid:cstyle="Tags">Solitary, Large</span></p>
+<p aid:pstyle="MonsterName">Will-o-wisp	<span aid:cstyle="Tags">Solitary, Large</span></p>
 <p aid:pstyle="MonsterStats">Club (d10+3 damage)	20 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Body of light</p>
