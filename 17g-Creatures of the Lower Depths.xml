@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Tentacle (d8+3 damage)	18 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
-<p aid:pstyle="MonsterDescription">Deep below the surface of the world, in freshwater seas untouched by the sun dwell the aboleth. Fish the size of whales, with strange growths of gelatinous feelers used to probe the lightless shores. They’re served by slaves; blind albino victims of any race unfortunate enough to stumble on them, drained of thought and life by the powers of the aboleth’s alien mind. In the depths they bid and plot against each other, fishy cultists building and digging upward towards the surface until someday, they’ll breach it. For now, they sleep and dream and guide their pallid minions to do their bidding. <em>Instinct</em>: To command</p>
+<p aid:pstyle="MonsterDescription">Deep below the surface of the world, in freshwater seas untouched by the sun, dwell the aboleth. Fish the size of whales, with strange growths of gelatinous feelers used to probe the lightless shores. They’re served by slaves; blind albino victims of any race unfortunate enough to stumble on them, drained of thought and life by the powers of the aboleth’s alien mind. In the depths, they bid and plot against each other, fishy cultists building and digging upward towards the surface until someday, they’ll breach it. For now, they sleep and dream and guide their pallid minions to do their bidding. <em>Instinct</em>: To command</p>
 <ul><li>Invade a mind</li>
 <li>Turn minions on them</li>
 <li>Put a plan in motion</li></ul>
@@ -12,7 +12,7 @@
 <p aid:pstyle="MonsterStats">Bite (2d10·b+9 damage 4 piercing)	26 HP	5 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Inch-thick metal hide, Supernatural knowledge, Wings</p>
-<p aid:pstyle="MonsterDescription">The end of all things shall be a burning—of tree and earth and of the air itself. It shall come upon the plains and mountains not from beyond this world but from within it. Birthed from the womb of deepest earth shall come the Dragon that Will End the World. In its passing all will become ash and bile and the earth a dying thing will drift through planar space devoid of life. They say to worship it is to invite madness. They say to love it is to know oblivion. The awakening is coming. <em>Instinct</em>: To end the world</p>
+<p aid:pstyle="MonsterDescription">The end of all things shall be a burning—of tree and earth and of the air itself. It shall come upon the plains and mountains not from beyond this world but from within it. Birthed from the womb of deepest earth shall come the Dragon that Will End the World. In its passing, all will become ash and bile, and the earth, a dying thing, will drift through planar space devoid of life. They say to worship it is to invite madness. They say to love it is to know oblivion. The awakening is coming. <em>Instinct</em>: To end the world</p>
 <ul><li>Set a disaster in motion</li>
 <li>Breath forth the elements</li>
 <li>Act with perfect knowledge</li></ul>
@@ -27,13 +27,13 @@
 <p aid:pstyle="MonsterStats">Claws (d8+1 damage 3 piercing)	10 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Let us, for a moment, consider the lobster. This one is your worst seafood nightmare come to life. A sort of vicious, half-man half-crawdad cursed with primal intelligence and blessed with a pair of razor-sharp claws. Strange things lurk in the stinking pools in caverns best forgotten and the Chuul is one of them. If you spot one, your best hope is a heavy mace to crack its shell and maybe a little garlic butter. Mmmm. <em>Instinct</em>: To split</p>
+<p aid:pstyle="MonsterDescription">Let us, for a moment, consider the lobster. This one is your worst seafood nightmare come to life. A sort of vicious, half-man half-crawdad cursed with primal intelligence and blessed with a pair of razor-sharp claws. Strange things lurk in the stinking pools in caverns best forgotten, and the Chuul is one of them. If you spot one, your best hope is a heavy mace to crack its shell and maybe a little garlic butter. Mmmm. <em>Instinct</em>: To split</p>
 <ul><li>Split something in two with mighty claws</li>
 <li>Retreat into water</li></ul>
 <p aid:pstyle="MonsterName">Deep Elf Assassin	<span aid:cstyle="Tags">Group, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Poisoned blade (d8 damage 1 piercing)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">It was not so simple a thing as a war over religion or territory. No disagreement of Queens led to the great sundering of the elves. It was sadness. It was the very diminishing of the world by the lesser races and the glory of all the elves had built was cracking and turning to glass. Some, then, chose to separate themselves from the world; wracked with tears they turned their backs on men and dwarves. Others, though, they were overcome with something new. A feeling no elf had felt before. Spite. Hatred filled these elves and twisted them and they turned on their weaker cousins. Some still remain after the great exodus below. Some hide amongst us with spider-poisoned blades, meting out that strangest of punishments: elven vengeance. <em>Instinct</em>: To spite</p>
+<p aid:pstyle="MonsterDescription">It was not so simple a thing as a war over religion or territory. No disagreement of Queens led to the great sundering of the elves. It was sadness. It was the very diminishing of the world by the lesser races, and the glory of all the elves had built was cracking and turning to glass. Some, then, chose to separate themselves from the world; wracked with tears, they turned their backs on men and dwarves. Others, though, they were overcome with something new. A feeling no elf had felt before. Spite. Hatred filled these elves and twisted them, and they turned on their weaker cousins. Some still remain after the great exodus below. Some hide amongst us with spider-poisoned blades, meting out that strangest of punishments: elven vengeance. <em>Instinct</em>: To spite</p>
 <ul><li>Poison them</li>
 <li>Unleash an ancient spell</li>
 <li>Call reinforcements</li></ul>
@@ -47,7 +47,7 @@
 <p aid:pstyle="MonsterStats">Smite (d10+2 damage)	14 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Divine connection</p>
-<p aid:pstyle="MonsterDescription">The spirits of the trees and the lady sunlight are far far from home in the depths where the deep elves dwell. New gods were found, there, waiting for their children to come home. Gods of the spiders, the fungal forests, and things that whisper in the forbidden caves. The deep elves, ever attuned to the world around them, listened with hateful intent to their new gods and found a source of power yet unrealized. Hate calls to hate and grim alliances were made. Even among these spiteful ranks, piety finds a way to express itself. <em>Instinct</em>: To pass on divine vengeance</p>
+<p aid:pstyle="MonsterDescription">The spirits of the trees and the lady sunlight are far far from home in the depths where the deep elves dwell. New gods were found, there, waiting for their children to come home. Gods of the spiders, the fungal forests, and things that whisper in the forbidden caves. The deep elves, ever attuned to the world around them, listened with hateful intent to their new gods and found a source of power yet unrealized. Hate calls to hate, and grim alliances were made. Even among these spiteful ranks, piety finds a way to express itself. <em>Instinct</em>: To pass on divine vengeance</p>
 <ul><li>Weave spells of hatred and malice</li>
 <li>Rally the deep elves</li>
 <li>Pass on divine knowledge</li></ul>
@@ -76,13 +76,13 @@
 <p aid:pstyle="MonsterStats">Axe (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Unerring sense of direction</p>
-<p aid:pstyle="MonsterDescription">Head of a man, body of a bull. No, wait, I’ve got that backwards. It’s the bull’s head and the man’s body. Hooves sometimes? Is that right? I remember the old King said something about a maze? Blast! You know I can’t think under this kind of pressure. What was that? Oh gods, I think it’s coming… <em>Instinct</em>: To contain</p>
+<p aid:pstyle="MonsterDescription">Head of a man, body of a bull. No, wait, I’ve got that backwards. It’s the bull’s head and the man’s body. Hooves sometimes? Is that right? I remember the old King said something about a maze? Blast! You know, I can’t think under this kind of pressure. What was that? Oh gods, I think it’s coming… <em>Instinct</em>: To contain</p>
 <ul><li>Confuse them</li>
 <li>Make them lost</li></ul>
 <p aid:pstyle="MonsterName">Naga	<span aid:cstyle="Tags">Solitary, Intelligent, Organized, Hoarder, Magical</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10 damage)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterDescription">Ambitious and territorial above nearly all else, the naga are very rarely found without a well-formed and insidious cult of followers. You’ll see it in many mountain towns—a snake sigil scrawled on a tavern wall or a local church burned to the ground. People going missing into the mines. Men and women wearing the mark of the serpent. At the core of it all lies a naga; an old race now fallen into obscurity, still preening with the head of a man over its coiled, serpent body. Variations of these creatures exist depending on their bloodline and original purpose, but they are all master manipulators and magical forces to be reckoned with. <em>Instinct</em>: To lead</p>
+<p aid:pstyle="MonsterDescription">Ambitious and territorial above nearly all else, the naga are very rarely found without a well-formed and insidious cult of followers. You’ll see it in many mountain towns—a snake sigil scrawled on a tavern wall or a local church burned to the ground. People going missing into the mines. Men and women wearing the mark of the serpent. At the core of it all lies a naga, an old race now fallen into obscurity, still preening with the head of a man over its coiled, serpent body. Variations of these creatures exist depending on their bloodline and original purpose, but they are all master manipulators and magical forces to be reckoned with. <em>Instinct</em>: To lead</p>
 <ul><li>Send a follower to their death</li>
 <li>Use old magic</li>
 <li>Offer a deal or bargain</li></ul>
@@ -90,7 +90,7 @@
 <p aid:pstyle="MonsterStats">Flaming spear (2d6·b+3 damage)	7 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">The excavation uncovered a basalt gate, the reports called it. Black stone carved with molten runes. When they dug it up, the magi declared it inert but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like red and orange skinned men, tall as an ogre but with a snake's tail where their legs ought to be. They were clothed, too—some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave but the Sergeant wouldn’t listen. You’ve already read what happened next, sir. I know I’m the only one that got back, but what I said is true. The gate is open, now. This is just the beginning! <em>Instinct</em>: To consume in flame</p>
+<p aid:pstyle="MonsterDescription">The excavation uncovered a basalt gate, the reports called it. Black stone carved with molten runes. When they dug it up, the magi declared it inert, but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like red and orange skinned men, tall as an ogre but with a snake's tail where their legs ought to be. They were clothed, too—some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave, but the Sergeant wouldn’t listen. You’ve already read what happened next, sir. I know I’m the only one that got back, but what I said is true. The gate is open, now. This is just the beginning! <em>Instinct</em>: To consume in flame</p>
 <ul><li>Summon elemental fire</li>
 <li>Melt away deception</li></ul>
 </Body></Root>

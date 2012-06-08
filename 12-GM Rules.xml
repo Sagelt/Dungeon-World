@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The GM</h1>
-<Body><p aid:pstyle="NoIndent">This section is about the art and rules of being the Game Master or GM. There are many styles of GMing epic fantasy games with things like dragons and dungeons and brave adventurers but Dungeon World is designed for one of those styles in particular. These rules will help you run a game in that style.</p>
+<Body><p aid:pstyle="NoIndent">This section is about the art and rules of being the Game Master or GM. There are many styles of GMing epic fantasy games with things like dragons and dungeons and brave adventurers, but Dungeon World is designed for one of those styles in particular. These rules will help you run a game in that style.</p>
 <p>Just because the rules are mechanical doesn't mean they're removed from the fiction of what's actually happening in the game or that you're playing to win. You'll be refereeing, adjudicating, and narrating your part of the game much like you would any other game. You'll just have a framework that helps you determine what to say, at what time.</p>
 <p>The GM's rules are rules, just like the rules for moves and character creation and all the rest. Just like every other rule in the game, they are designed to help you play a game of exploration and epic fantasy. You will of course be making your own rules, in the form of custom moves, but the GM's rules are as important to playing Dungeon World as the rules for rolling dice. Play with the rules as written before making any changes, and think carefully about any changes you do make.</p>
 <h3>The Basics</h3>
 <p aid:pstyle="NoIndent">Dungeon World is built on a framework: the GM's <strong>agenda</strong>, <strong>principles</strong>, and <strong>moves</strong>. The GM's agenda is what they set out to do when they sit down at the table. The principles are the guides that keep the GM focused on their agenda. The GM's moves are the concrete, moment-to-moment things the GM does to drive the game forward. The GM's moves aren't like player moves, they aren't triggered by the fiction. Instead they are actions that drive the game onward.</p>
 <p>The GM's agenda, principles, and moves are rules just like damage or stats or HP. You should take the same care in altering them or ignoring them that you would with any other rule. Changing a principle may have just as much of an effect on your game as changing the Fighter's damage dice or giving the Cleric access to Wizard spells.</p>
 <h2>Always Say</h2>
-<p aid:pstyle="NoIndent">When running Dungeon World as the GM you say these things:</p>
+<p aid:pstyle="NoIndent">When running Dungeon World as the GM, you say these things:</p>
 <ul><li>What the rules demand</li>
 <li>What the adventure demands</li>
 <li>What honesty demands</li>
@@ -27,7 +27,7 @@ Say <strong>what the rules tell you to</strong>. If a move has triggered, yours 
 <p aid:pstyle="NoIndent">Everything you say, create, and do at the table and away from the table is to accomplish these three goals and no others. Things that aren't on this list aren't your goals. You're not trying to beat the players or test their ability to solve complex traps. You're not here to give the players a chance to explore your finely crafted setting. You're most certainly not here to tell everyone a planned story.</p>
 <p>That one deserves repeating: <strong>you are not here to tell everyone a planned story</strong>. Don't ever plan a storyline. You do not know what will happen to the players' characters any more than they do. Your job is to portray a fantastic world, not provide a canned plot.</p>
 <p>To that end, Dungeon World adventures <strong>never</strong> presume player actions. A Dungeon World adventure describes a location in motion, someplace important with creatures pursuing their own goals. As the players come into conflict with that location, it will snowball into action. You'll honestly portray the repercussions of their actions.</p>
-<p>When you play this way you get to share in the fun of finding out what happens to the characters and the world around them. You're not a frustrated novelist trying to organize your unruly characters. You're a participant in a great story that's unfolding. So really—don't plan the story. The rules of the game will fight you.</p>
+<p>When you play this way, you get to share in the fun of finding out what happens to the characters and the world around them. You're not a frustrated novelist trying to organize your unruly characters. You're a participant in a great story that's unfolding. So really—don't plan the story. The rules of the game will fight you.</p>
 <p><strong>Fill the character's life with adventure</strong> means helping the players create a world that's exciting and full of epic foes to battle, strange places to explore, and glorious treasure to discover. Adventurers are always caught up in some plot or world-threatening danger or another—encourage and foster that kind of action in the game.</p>
 <p>The players have an agenda too, but it's probably something they'll do by default: portray their characters.</p>
 <h2>Principles</h2>
@@ -86,7 +86,7 @@ Say <strong>what the rules tell you to</strong>. If a move has triggered, yours 
 <li>Offer an opportunity, with or without cost</li>
 <li>Put someone in a spot</li>
 <li>Tell them the requirements or consequences and ask</li></ul>
-<p aid:pstyle="NoIndent">Whenever everyone looks to you to see what happens choose one of these. Each move is something that occurs in the fiction of the game—they aren't code words or special terms. "Use up their resources" literally means to expend the resources of the characters.</p>
+<p aid:pstyle="NoIndent">Whenever everyone looks to you to see what happens, choose one of these. Each move is something that occurs in the fiction of the game—they aren't code words or special terms. "Use up their resources" literally means to expend the resources of the characters.</p>
 <p>Of course you don't say that to the players. You never speak the name of your move (it's one of your principles). You make it a real thing that happens to them: "As you dodge the hulking ogre's club, you slip and land hard. Your sword goes sliding away into the darkness. You think you saw where it went but the ogre is lumbering your way. What do you do?"</p>
 <p>No matter what move you make always follow up with "What do you do?" Your move is a way of fulfilling your agenda—part of which is to fill the character's lives with adventure. When a spell goes wild or the floor drops out from under them adventurers react.</p>
 <h3>When to Make a Move</h3>
@@ -112,9 +112,9 @@ Say <strong>what the rules tell you to</strong>. If a move has triggered, yours 
 <h4>Show signs of doom</h4>
 <p aid:pstyle="NoIndent">This is one of your most versatile moves. Doom is anything bad that's coming. With this move, you just show them that something's going to happen unless they do something about it. Remember to ask "What do you do?"</p>
 <h4>Deal damage</h4>
-<p aid:pstyle="NoIndent">When you deal damage you choose one source of damage that's fictionally threatening a character and apply it. In combat with a lizard man? It stabs you. Running from a collapsing tunnel? Some rocks catch your ankle.</p>
+<p aid:pstyle="NoIndent">When you deal damage, you choose one source of damage that's fictionally threatening a character and apply it. In combat with a lizard man? It stabs you. Running from a collapsing tunnel? Some rocks catch your ankle.</p>
 <p>The amount of damage is decided by the source. In some cases, this move might involve trading damage both ways, with the player character also dealing damage.</p>
-<p>Most damage is based on a dice roll. When a player takes damage, tell them what to roll, you never need to touch the dice. If the player is too cowardly to find out their own fate, they can ask another player to roll for them.</p>
+<p>Most damage is based on a dice roll. When a player takes damage, tell them what to roll—you never need to touch the dice. If the player is too cowardly to find out their own fate, they can ask another player to roll for them.</p>
 <p>Dealing damage is a hard move. Use it carefully.</p>
 <h4>Use up their resources</h4>
 <p aid:pstyle="NoIndent">Surviving in a dungeon, or anywhere dangerous, often comes down to supplies. With this move, something happens to use up some resource: weapons, armor, healing, ongoing spells. You don't always have to use it up permanently. A sword might just be flung to the other side of the room, not shattered.</p>
@@ -160,6 +160,6 @@ Say <strong>what the rules tell you to</strong>. If a move has triggered, yours 
 <p>The simplest way to use this move is the promise of gold out of the way of the main objective. Will they stop to pry the ruby eyes from the idol when they know that the virgin sacrifice looms closer and closer? Use this move and you can find out.</p>
 <h4>Present a challenge to one of the characters</h4>
 <p aid:pstyle="NoIndent">Challenge a character by looking at what they're good at. Give the Thief a lock to pick, show the Cleric evil gods to battle against. Give the Wizard magical mysteries to investigate. Show the Fighter some skulls he can crack. Give someone a chance to shine.</p>
-<p>As an alternative, challenge a character by looking at what they're bad at or what they've left unresolved. If the Bard has a long con running what steps will he take to cover it up when someone figures him out? If the Wizard has been summoning demons then what happens when word gets out?</p>
+<p>As an alternative, challenge a character by looking at what they're bad at or what they've left unresolved. If the Bard has a long con running, what steps will he take to cover it up when someone figures him out? If the Wizard has been summoning demons, then what happens when word gets out?</p>
 <p>This move can give a character the spotlight—even if just for a moment. Try to give everyone a chance to be the focus of play using this move from session to session.</p>
 </Body></Root>

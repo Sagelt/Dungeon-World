@@ -15,7 +15,7 @@
 <p aid:pstyle="MonsterName">Bandit	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Dirk (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">Desperation is the watchword of banditry. When times are tough, what else is there to do but scavenge a weapon and take up with a clan of nasty men and women? Highway robbery, poaching, scams and cons and murder most foul but we’ve all got to eat so who can blame them? Then again, there’s evil in the hearts of some and who’s to say that desperation isn’t a want to sate one’s baser lusts? Anyway—it’s this or starve, sometimes. <em>Instinct</em>: To rob</p>
+<p aid:pstyle="MonsterDescription">Desperation is the watchword of banditry. When times are tough, what else is there to do but scavenge a weapon and take up with a clan of nasty men and women? Highway robbery, poaching, scams and cons, and murder most foul, but we’ve all got to eat so who can blame them? Then again, there’s evil in the hearts of some, and who’s to say that desperation isn’t a want to sate one’s baser lusts? Anyway—it’s this or starve, sometimes. <em>Instinct</em>: To rob</p>
 <ul><li>Steal something</li>
 <li>Demand tribute</li></ul>
 <p aid:pstyle="MonsterName">Bandit King	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
@@ -53,7 +53,7 @@
 <p aid:pstyle="MonsterName">Hunter	<span aid:cstyle="Tags">Group, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Ragged bow (d6 damage)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
-<p aid:pstyle="MonsterDescription">The wilds are home to more than just beasts of horn and scale. There are men and women out there, too—those who smell blood on the wind and stalk the plains in the skins of their prey. Whether with a trusty longbow bought on a rare trip into the city or with a knife of bone and sinew-made, these folk have more in common with the things they track and make their meals than with their own kind. Solemn, somber and quiet, they find a sort of peace in the wild. <em>Instinct</em>: To survive</p>
+<p aid:pstyle="MonsterDescription">The wilds are home to more than just beasts of horn and scale. There are men and women out there, too—those who smell blood on the wind and stalk the plains in the skins of their prey. Whether with a trusty longbow bought on a rare trip into the city or with a knife of bone and sinew-made, these folk have more in common with the things they track and make their meals than with their own kind. Solemn, somber, and quiet, they find a sort of peace in the wild. <em>Instinct</em>: To survive</p>
 <ul><li>Bring back news from the wilds</li>
 <li>Slay a beast</li></ul>
 <p aid:pstyle="MonsterName">Knight	<span aid:cstyle="Tags">Solitary, Intelligent, Organized, Cautious</span></p>
@@ -67,7 +67,7 @@
 <ul><li>Propose a business venture</li>
 <li>Offer a 'deal'</li></ul>
 <p aid:pstyle="MonsterName">Noble	</p>
-<p aid:pstyle="MonsterDescription">Are they granted their place by the gods, perhaps? Is that why they’re able to pass their riches and power down by birth? Some trick or enchantment of the blood, maybe. The peasant bends his knee and scrapes and toils and the noble wears the finery of his place and, they say, we all have our burdens to bear. Seems to me that some of us have burdens of stone and some carry their weight in gold. It’s a tough life. <em>Instinct</em>: To rule</p>
+<p aid:pstyle="MonsterDescription">Are they granted their place by the gods, perhaps? Is that why they’re able to pass their riches and power down by birth? Some trick or enchantment of the blood, maybe. The peasant bends his knee and scrapes and toils, and the noble wears the finery of his place, and, they say, we all have our burdens to bear. Seems to me that some of us have burdens of stone and some carry their weight in gold. It’s a tough life. <em>Instinct</em>: To rule</p>
 <ul><li>Issue an order</li>
 <li>Offer a reward</li></ul>
 <p aid:pstyle="MonsterName">Peasant	</p>
@@ -77,7 +77,7 @@
 <p aid:pstyle="MonsterName">Rebel	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Axe (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">In the countryside they’d be called outlaw and driven off or killed. The city, though, is full of places to hide. Damp basements to pore over maps and to plan and plot against a corrupt system. Like rats, they gnaw away at order, either to supplant it anew or just erode the whole thing. The line between change and chaos is a fine one—some rebels walk that thin line and others just want to see it all torched. Disguise, a knife in the dark or a thrown torch at the right moment are all tools of the rebel. The burning brand of anarchy is a common fear amongst the nobles of Dungeon World. These men and women are why. <em>Instinct</em>: To upset order</p>
+<p aid:pstyle="MonsterDescription">In the countryside they’d be called outlaw and driven off or killed. The city, though, is full of places to hide. Damp basements to pore over maps and to plan and plot against a corrupt system. Like rats, they gnaw away at order, either to supplant it anew or just erode the whole thing. The line between change and chaos is a fine one—some rebels walk that thin line and others just want to see it all torched. Disguise, a knife in the dark, or a thrown torch at the right moment are all tools of the rebel. The burning brand of anarchy is a common fear amongst the nobles of Dungeon World. These men and women are why. <em>Instinct</em>: To upset order</p>
 <ul><li>Die for a cause</li>
 <li>Inspire others</li></ul>
 <p aid:pstyle="MonsterName">Soldier	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
@@ -87,11 +87,11 @@
 <ul><li>March into battle</li>
 <li>Fight as one</li></ul>
 <p aid:pstyle="MonsterName">Spy	</p>
-<p aid:pstyle="MonsterDescription">Beloved of Kings but never truly trusted. Mysterious, secretive and alluring, the life of a spy is, if you ask a commoner, full of romance and intrigue. They’re a knife in the dark and a pair of watchful eyes. A spy can be your best friend, your lover or that old man you see in the market every day. One never knows. Hells, maybe you’re a spy—they say there’s magic that can turn folks' minds without them ever knowing it. How can we trust you? <em>Instinct</em>: To infiltrate</p>
+<p aid:pstyle="MonsterDescription">Beloved of Kings but never truly trusted. Mysterious, secretive, and alluring, the life of a spy is, if you ask a commoner, full of romance and intrigue. They’re a knife in the dark and a pair of watchful eyes. A spy can be your best friend, your lover, or that old man you see in the market every day. One never knows. Hells, maybe you’re a spy—they say there’s magic that can turn folks' minds without them ever knowing it. How can we trust you? <em>Instinct</em>: To infiltrate</p>
 <ul><li>Report the truth</li>
 <li>Double cross</li></ul>
 <p aid:pstyle="MonsterName">Tinkerer	</p>
-<p aid:pstyle="MonsterDescription">It’s said that if you see a tinker on the road and you don’t offer him a swig of ale or some of your food that he’ll leave a curse of bad luck behind. A tinker is a funny thing. These strange folk often travel the roads between towns with their oddment carts and favorite mules. With a ratty dog and always a story to tell. Sometimes the mail, too, if you’re lucky and live in a place where Queen’s Post won’t go. If you’re kind, maybe they’ll sell you a rose that never wilts or a clock that chimes with the sound of faerie laughter. Or maybe they’re just antisocial peddlers. You never know, right? <em>Instinct</em>: To create</p>
+<p aid:pstyle="MonsterDescription">It’s said that if you see a tinker on the road and you don’t offer him a swig of ale or some of your food, he’ll leave a curse of bad luck behind. A tinker is a funny thing. These strange folk often travel the roads between towns with their oddment carts and favorite mules. With a ratty dog and always a story to tell. Sometimes the mail, too, if you’re lucky and live in a place where Queen’s Post won’t go. If you’re kind, maybe they’ll sell you a rose that never wilts or a clock that chimes with the sound of faerie laughter. Or maybe they’re just antisocial peddlers. You never know, right? <em>Instinct</em>: To create</p>
 <ul><li>Offer an oddity at a price</li>
 <li>Spin tales of great danger and reward in far-off lands</li></ul>
 </Body></Root>

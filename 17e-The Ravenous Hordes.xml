@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d6 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid</p>
-<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows their place in the great hive. The Formian is some strange intersection of men and ants. (Though there are winged tribes that look like ants out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular Formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
+<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling, and adult knows their place in the great hive. The Formian is some strange intersection of men and ants. (Though there are winged tribes that look like ants out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular Formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
 <ul><li>Raise the alarm</li>
 <li>Create value for the hive</li>
 <li>Assimilate</li></ul>
@@ -19,7 +19,7 @@
 <p aid:pstyle="MonsterStats">Barbed spear (2d6·b+2 damage)	7 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid, Wings</p>
-<p aid:pstyle="MonsterDescription">Whether in the form of a legionnaire, part of the Formian standing army, or as a praetorian guard to the queen, every formian hive contain a great number of these most dangerous insectoids. Darker in carapace, often scarred with furrows and the ceremonial markings that set them apart from their drones, the formian centurions are their fighting force and rightly so. Born, bred and living only for the singular purpose to kill the enemies of their kind, they fight with one mind and a hundred swords. Thus far, the powers of Law have seen fit to spare mankind a great war with these creatures, but we’ve seen them in skirmish—descending sometimes on border towns with their wings flickering in the heat or spilling up from a sandy mound to wipe clean a newly-dug mine. Theirs is an orderly bloodshed, committed with no pleasure but the completion of a goal. <em>Instinct</em>: To fight as ordered</p>
+<p aid:pstyle="MonsterDescription">Whether in the form of a legionnaire, part of the Formian standing army, or as a praetorian guard to the queen, every formian hive contain a great number of these most dangerous insectoids. Darker in carapace, often scarred with furrows and the ceremonial markings that set them apart from their drones, the formian centurions are their fighting force and rightly so. Born, bred, and living only for the singular purpose to kill the enemies of their kind, they fight with one mind and a hundred swords. Thus far, the powers of Law have seen fit to spare mankind a great war with these creatures, but we’ve seen them in skirmish—descending sometimes on border towns with their wings flickering in the heat or spilling up from a sandy mound to wipe clean a newly-dug mine. Theirs is an orderly bloodshed, committed with no pleasure but the completion of a goal. <em>Instinct</em>: To fight as ordered</p>
 <ul><li>Advance as one</li>
 <li>Summon reinforcements</li>
 <li>Give a life for the hive</li></ul>
@@ -27,7 +27,7 @@
 <p aid:pstyle="MonsterStats">Smash (d10+5 damage)	24 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid</p>
-<p aid:pstyle="MonsterDescription">At the heart of every hive, no matter its size or kind, lives a queen. As large as any giant, she sits protected by her guard, served by every drone and taskmaster with her own, singular purpose: to spread her kind and grow the hive. To birth the eggs. To nurture. We do not understand the minds of these creatures but it is known they can communicate with their children, somehow, over vast distances and that they begin to teach them the ways of earth and stone and war while still pale and wriggling larva, without a word. To kill one is to set chaos on the hive; without their queen, the rest turn on one another in a mad, blind rage. <em>Instinct</em>: To spread formians</p>
+<p aid:pstyle="MonsterDescription">At the heart of every hive, no matter its size or kind, lives a queen. As large as any giant, she sits protected by her guard, served by every drone and taskmaster with her own, singular purpose: to spread her kind and grow the hive. To birth the eggs. To nurture. We do not understand the minds of these creatures, but it is known they can communicate with their children, somehow, over vast distances and that they begin to teach them the ways of earth and stone and war while still pale and wriggling larva, without a word. To kill one is to set chaos on the hive; without their queen, the rest turn on one another in a mad, blind rage. <em>Instinct</em>: To spread formians</p>
 <ul><li>Call every formian it spawned</li>
 <li>Release a half-formed larval mutation</li>
 <li>Set designs on a formian goal</li></ul>
@@ -83,7 +83,7 @@
 <p aid:pstyle="MonsterStats">Flame (d10 damage ignores armor)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Elemental power</p>
-<p aid:pstyle="MonsterDescription">The orcs are as old a race as any. They cast bones in the dirt and called to the gods in the trees and stone as the elves built their first cities. They have waged wars, conquered kingdoms, and fallen into corruption in the aeons it took for men to crawl from their caves and dwarves to first see the light of the sun. Fitting, then, that the old ways still hold. They summon the powers of the world to work, to fight and to protect their people, as they have since the first nights. <em>Instinct</em>: To strengthen orc-kind</p>
+<p aid:pstyle="MonsterDescription">The orcs are as old a race as any. They cast bones in the dirt and called to the gods in the trees and stone as the elves built their first cities. They have waged wars, conquered kingdoms, and fallen into corruption in the aeons it took for men to crawl from their caves and dwarves to first see the light of the sun. Fitting, then, that the old ways still hold. They summon the powers of the world to work, to fight, and to protect their people, as they have since the first nights. <em>Instinct</em>: To strengthen orc-kind</p>
 <ul><li>Give protection of earth</li>
 <li>Give power of fire</li>
 <li>Give swiftness of water</li>
@@ -91,7 +91,7 @@
 <p aid:pstyle="MonsterName">Orc Slaver	<span aid:cstyle="Tags">Horde, Stealthy, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Whip (d6 damage)	3 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterDescription">Red sails fly in the southern sea. Red sails and ships of bone, old wood and iron. The warfleet of the horde. Orcs down that way have taken to the sea, harassing island towns and stealing away with fishermen and their kin. It’s said the custom is spreading north and the orcs learn the value of free work. Taken to it like a sacred task—especially if they can get their hands on elves. Hard to think of a grimmer fate than to live out your life under a lash in an orcish fist. <em>Instinct</em>: To take</p>
+<p aid:pstyle="MonsterDescription">Red sails fly in the southern sea. Red sails and ships of bone, old wood, and iron. The warfleet of the horde. Orcs down that way have taken to the sea, harassing island towns and stealing away with fishermen and their kin. It’s said the custom is spreading north, and the orcs learn the value of free work. Taken to it like a sacred task—especially if they can get their hands on elves. Hard to think of a grimmer fate than to live out your life under a lash in an orcish fist. <em>Instinct</em>: To take</p>
 <ul><li>Take a captive</li>
 <li>Pin someone under a net</li>
 <li>Drug them</li></ul>
@@ -99,7 +99,7 @@
 <p aid:pstyle="MonsterStats">Poisoned dagger (d10 damage 1 piercing)	10 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shadow cloak</p>
-<p aid:pstyle="MonsterDescription">Not every attack by orcs is torches and screaming and enslavement. Amongst those who follow He Of Riven Sight, poison and murder-in-the-dark are considered sacred arts. Enter the shadowhunter. Orcs cloaked in Night’s magic who slip into camps, towns and temples and end the lives of those within. Do not be so distracted by the howling of the berserkers that you do not notice the knife at your back. <em>Instinct</em>: To kill in darkness</p>
+<p aid:pstyle="MonsterDescription">Not every attack by orcs is torches and screaming and enslavement. Amongst those who follow He Of Riven Sight, poison and murder-in-the-dark are considered sacred arts. Enter the shadowhunter. Orcs cloaked in Night’s magic who slip into camps, towns, and temples and end the lives of those within. Do not be so distracted by the howling of the berserkers that you do not notice the knife at your back. <em>Instinct</em>: To kill in darkness</p>
 <ul><li>Poison them</li>
 <li>Melt into the shadows</li>
 <li>Cloak them in darkness</li></ul>
@@ -107,7 +107,7 @@
 <p aid:pstyle="MonsterStats">Iron Sword of Ages (2d10·b+2 damage)	16 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> One-Eye blessings, Shaman blessings</p>
-<p aid:pstyle="MonsterDescription">There are chiefs and there are leaders of the tribes among the orcs. There are those who rise to seize power and fall under the machinations of their foes. There is but one Warchief. One orc in all the horde who stands above the rest, bearing the blessings of the One-Eyes and the Shamans both. Who walks with the elements under Night. Who bears the Iron Sword of Ages and carries the ancient grudge against the civil races on his shoulders. The warchief is to be respected, to be obeyed and above all else, to be feared. All glory to the Warchief. <em>Instinct</em>: To lead</p>
+<p aid:pstyle="MonsterDescription">There are chiefs, and there are leaders of the tribes among the orcs. There are those who rise to seize power and fall under the machinations of their foes. There is but one Warchief. One orc in all the horde who stands above the rest, bearing the blessings of the One-Eyes and the Shamans both. Who walks with the elements under Night. Who bears the Iron Sword of Ages and carries the ancient grudge against the civil races on his shoulders. The warchief is to be respected, to be obeyed, and, above all else, to be feared. All glory to the Warchief. <em>Instinct</em>: To lead</p>
 <ul><li>Start a war</li>
 <li>Make a show of power</li>
 <li>Enrage the tribes</li></ul>
@@ -122,7 +122,7 @@
 <p aid:pstyle="MonsterStats">Wave (d8+2 damage ignores armor)	6 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic, Mutations</p>
-<p aid:pstyle="MonsterDescription">Part priest, part outcast among their kind, the tidecaller speaks with the voice of the deeps. They can be known by their mutations—transparent skin, perhaps, or rows of teeth like a shark. Glowing eyes or fingertips, angler-lights in the darkness of their underwater kingdom. They speak in strange tongue that can call and command creatures of the sea. They ride wild hippocampi and cast strange spells that rot through the wooden decks of ships or encrust them with barnacles heavy enough to sink. It is the tidecallers who come, now, back to the cities of the Triton, bearing word that the prophecy is coming to pass. The world of men will drown in icy brine. The tidecallers speak and the Lords begin to listen. <em>Instinct</em>: To bring on The Flood</p>
+<p aid:pstyle="MonsterDescription">Part priest, part outcast among their kind, the tidecaller speaks with the voice of the deeps. They can be known by their mutations—transparent skin, perhaps, or rows of teeth like a shark. Glowing eyes or fingertips, angler-lights in the darkness of their underwater kingdom. They speak in strange tongue that can call and command creatures of the sea. They ride wild hippocampi and cast strange spells that rot through the wooden decks of ships or encrust them with barnacles heavy enough to sink. It is the tidecallers who come, now, back to the cities of the Triton, bearing word that the prophecy is coming to pass. The world of men will drown in icy brine. The tidecallers speak, and the Lords begin to listen. <em>Instinct</em>: To bring on The Flood</p>
 <ul><li>Cast a spell of water and destruction</li>
 <li>Command beasts of the sea</li>
 <li>Reveal divine commands</li></ul>
@@ -137,7 +137,7 @@
 <p aid:pstyle="MonsterStats">Trident (d8 damage)	6 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic</p>
-<p aid:pstyle="MonsterDescription">The Triton Ruling Houses were chosen, they say, at the dawn of time. Granted lordship over all the races of the sea by some now-forgotten god. These bloodlines continue, passing rulership from father to daughter and mother to son through the ages. Each is allowed to rule their city in whatever way they choose—some alone or with their spouses, others in council of brothers and sisters. In ages past, they were known for their sagacity and bloodlines of even-temper were respected above all else. The tidecallers prophecy is changing that: Nobles are expected to be strong, not wise. The Nobles have begun to respond, and it is feared by some that the ancient blood is changing forever. It may be too late to turn back. Time and tide wait for none. <em>Instinct</em>: To lead</p>
+<p aid:pstyle="MonsterDescription">The Triton Ruling Houses were chosen, they say, at the dawn of time. Granted lordship over all the races of the sea by some now-forgotten god. These bloodlines continue, passing rulership from father to daughter and mother to son through the ages. Each is allowed to rule their city in whatever way they choose—some alone or with their spouses, others in council of brothers and sisters. In ages past, they were known for their sagacity, and bloodlines of even-temper were respected above all else. The tidecallers prophecy is changing that: Nobles are expected to be strong, not wise. The Nobles have begun to respond, and it is feared by some that the ancient blood is changing forever. It may be too late to turn back. Time and tide wait for none. <em>Instinct</em>: To lead</p>
 <ul><li>Stir tritons to war</li>
 <li>Call reinforcements</li></ul>
 </Body></Root>

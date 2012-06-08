@@ -4,14 +4,14 @@
 <p aid:pstyle="MonsterStats">Bite (d10+5 damage 3 piercing)	20 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">A seasoned caravan guard learns to listen for the calls of a scout or sentry with a keen ear. A few extra seconds after the alarm is raised can mean life or death. Different cries mean different responses, too—a call of “orcs!” means draw your sword and steady for blood but a call of “bandits!” says you might be able to bargain. One alarm from the scouts that always, always means it’s time to pack up, whip your horse and run for the hills? “LAND SHARK!” <em>Instinct</em>: To devour</p>
+<p aid:pstyle="MonsterDescription">A seasoned caravan guard learns to listen for the calls of a scout or sentry with a keen ear. A few extra seconds after the alarm is raised can mean life or death. Different cries mean different responses, too—a call of “orcs!” means draw your sword and steady for blood but a call of “bandits!” says you might be able to bargain. One alarm from the scouts that always, always means it’s time to pack up, whip your horse, and run for the hills? “LAND SHARK!” <em>Instinct</em>: To devour</p>
 <ul><li>Drag prey into rough tunnels</li>
 <li>Burst from the earth</li>
 <li>Swallow whole</li></ul>
 <p aid:pstyle="MonsterName">Chimera	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
-<p aid:pstyle="MonsterDescription">Well-known and categorized, the chimera is a perfected creature. From the codices of the Mage’s Guild to the famous pages of Cullaina’s Creature Compendium, there’s no confusion about what Chimera means. Two parts lioness, one part serpent, head of a she-goat, and all the vicious magic one can muster. The actual ritual might vary, as might a detail or two—more creative sorcerers switch the flame breath for acid, perhaps. Used as a guardian, an assassin or merely an instrument of chaos unchained, it matters little. The chimera is the worst sort of abomination: an intentional affront to all natural life. <em>Instinct</em>: To do as commanded</p>
+<p aid:pstyle="MonsterDescription">Well-known and categorized, the chimera is a perfected creature. From the codices of the Mage’s Guild to the famous pages of Cullaina’s Creature Compendium, there’s no confusion about what Chimera means. Two parts lioness, one part serpent, head of a she-goat, and all the vicious magic one can muster. The actual ritual might vary, as might a detail or two—more creative sorcerers switch the flame breath for acid, perhaps. Used as a guardian, an assassin, or merely an instrument of chaos unchained, it matters little. The chimera is the worst sort of abomination: an intentional affront to all natural life. <em>Instinct</em>: To do as commanded</p>
 <ul><li>Belch forth flame</li>
 <li>Run them over</li>
 <li>Poison them</li></ul>
@@ -26,14 +26,14 @@
 <p aid:pstyle="MonsterStats">Acid (d10+1 damage ignores armor)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Digest acid secretion</p>
-<p aid:pstyle="MonsterDescription">It’s okay, magical experimentation is a messy science. For every beautiful pegasus there’s a half-done creature that wasn’t quite right. We understand. The goblin-elephant you thought was such a great idea. The Gelatinous Drake. Just examples. No judgement here. Anyway, we’ve got something for that. We call it the Digester. Yes, just like it sounds. Strange looking, I know, and the smell isn’t the best, but this thing—it’ll eat magic like Svenloff the Stout drinks ale. Next time one of these unfortunate accidents occurs, just point the Digester at it and all your troubles drain away. Just keep an eye on it. Damn thing ate my wand last week. <em>Instinct</em>: To digest</p>
+<p aid:pstyle="MonsterDescription">It’s okay, magical experimentation is a messy science. For every beautiful pegasus, there’s a half-done creature that wasn’t quite right. We understand. The goblin-elephant you thought was such a great idea. The Gelatinous Drake. Just examples. No judgement here. Anyway, we’ve got something for that. We call it the Digester. Yes, just like it sounds. Strange looking, I know, and the smell isn’t the best, but this thing—it’ll eat magic like Svenloff the Stout drinks ale. Next time one of these unfortunate accidents occurs, just point the Digester at it, and all your troubles drain away. Just keep an eye on it. Damn thing ate my wand last week. <em>Instinct</em>: To digest</p>
 <ul><li>Eat away at something</li>
 <li>Draw sustenance</li></ul>
 <p aid:pstyle="MonsterName">Ethereal Filcher	<span aid:cstyle="Tags">Solitary, Devious, Planar</span></p>
 <p aid:pstyle="MonsterStats">Stolen dagger (2d8·w damage)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">Things go missing. A sock, a silver spoon, your dead mother’s bones. We blame the maid, or bad luck, or just a moment of stupid forgetfulness and we move on. We never get to see the real cause of these problems. The spidery thing with human hands and eyes as blue as the deep ethereal from whence the creature comes. We never see the nest it makes of astral silver webbing and stolen objects arranged in some madness pattern. We never watch it assemble its collection of halfling finger-bones, stolen from the hands of the sleeping. We’re lucky, that way. <em>Instinct</em>: To steal</p>
+<p aid:pstyle="MonsterDescription">Things go missing. A sock, a silver spoon, your dead mother’s bones. We blame the maid or bad luck or just a moment of stupid forgetfulness, and we move on. We never get to see the real cause of these problems. The spidery thing with human hands and eyes as blue as the deep ethereal from whence the creature comes. We never see the nest it makes of astral silver webbing and stolen objects arranged in some madness pattern. We never watch it assemble its collection of halfling finger-bones, stolen from the hands of the sleeping. We’re lucky, that way. <em>Instinct</em>: To steal</p>
 <ul><li>Take something important to its planar lair</li>
 <li>Retreat to the Ethereal plane</li>
 <li>Use an item from its lair</li></ul>
@@ -41,7 +41,7 @@
 <p aid:pstyle="MonsterStats">Club (d10+3 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Two heads</p>
-<p aid:pstyle="MonsterDescription">What could possibly be better than an idiotic angry hill giant? One with two heads. Fantastic idea, really. Grade A stuff. <em>Instinct</em>: To smash</p>
+<p aid:pstyle="MonsterDescription">What could possibly be better than an idiotic, angry hill giant? One with two heads. Fantastic idea, really. Grade A stuff. <em>Instinct</em>: To smash</p>
 <ul><li>Attack two enemies at once</li>
 <li>Defend its creator</li></ul>
 <p aid:pstyle="MonsterName">Girallon	<span aid:cstyle="Tags">Solitary, Huge</span></p>
@@ -77,7 +77,7 @@
 <p aid:pstyle="MonsterStats">Sting (d10+1 damage 1 piercing)	16 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
-<p aid:pstyle="MonsterDescription">If the chimera is the first step down a dark path, the manticore is a door that can’t be closed once it's been opened. A lion, a scorpion, the wings of a drake. All difficult to obtain but not impossible and just animals, anyway. The last component, the hissing hateful face of the beast, is the ingredient that makes a manticore so cruel. Young or old, man or woman, it matters not but that they are human, living and breathing, married to the creature with twisted magic. All sense of who they are is lost, and maybe that’s a blessing, but the beast is born from human suffering. No wonder, then, that they’re all so eager to kill. <em>Instinct</em>: To kill</p>
+<p aid:pstyle="MonsterDescription">If the chimera is the first step down a dark path, the manticore is a door that can’t be closed once it's been opened. A lion, a scorpion, the wings of a drake. All difficult to obtain but not impossible and just animals, anyway. The last component, the hissing, hateful face of the beast, is the ingredient that makes a manticore so cruel. Young or old, man or woman, it matters not but that they are human, living and breathing, married to the creature with twisted magic. All sense of who they are is lost, and maybe that’s a blessing, but the beast is born from human suffering. No wonder, then, that they’re all so eager to kill. <em>Instinct</em>: To kill</p>
 <ul><li>Poison them</li>
 <li>Rip something apart</li></ul>
 <p aid:pstyle="MonsterName">Owlbear	<span aid:cstyle="Tags">Solitary, Construct</span></p>

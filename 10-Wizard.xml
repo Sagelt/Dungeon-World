@@ -105,7 +105,7 @@
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Enchanter's Soul</h3>
 <p aid:pstyle="Requirement">Requires: Enchanter</p>
-<p aid:pstyle="NoIndent">When you have time and safety with a magic item in a place of power you can empower that item so that the next time you use it its effects are amplified, the GM will tell you exactly how.</p>
+<p aid:pstyle="NoIndent">When you have time and safety with a magic item in a place of power, you can empower that item so that the next time you use it its effects are amplified, the GM will tell you exactly how.</p>
 <h3 aid:pstyle="MoveName">Highly Logical</h3>
 <p aid:pstyle="Requirement">Replaces: Logical</p>
 <p aid:pstyle="NoIndent">When you use strict deduction to analyze your surroundings, you can Discern Realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.</p>

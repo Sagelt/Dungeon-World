@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d8+1 damage)	10 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">A hide like plate armor and great crushing mandibles are problematic. A stomach full of acid that can burn a hole through a stone wall makes them all the worse. They’d be bad enough if they were proper insect-sized but these things have the gall to be as long as any given horse. It’s just not natural! Good thing they tend to stick to one place? Easy for you to say—you don’t have an Ankheg living under your corn field. <em>Instinct</em>: To undermine</p>
+<p aid:pstyle="MonsterDescription">A hide like plate armor and great crushing mandibles are problematic. A stomach full of acid that can burn a hole through a stone wall makes them all the worse. They’d be bad enough if they were proper insect-sized, but these things have the gall to be as long as any given horse. It’s just not natural! Good thing they tend to stick to one place? Easy for you to say—you don’t have an Ankheg living under your corn field. <em>Instinct</em>: To undermine</p>
 <ul><li>Undermine the ground</li>
 <li>Burst from the earth</li>
 <li>Spray forth acid, eating away at metal and flesh</li></ul>
@@ -18,7 +18,7 @@
 <p aid:pstyle="MonsterStats">Choke (d10 damage)	15 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Flexible</p>
-<p aid:pstyle="MonsterDescription">Some say these things descended from the family of a cruel wizard who forced them to live out their lives underground. Some say his experiments led him to fear the sun and ages passed while he descended into unlife, dragging his folk along with him. These things resemble men, in a way. Head, four limbs and all that. Only their skin is wet and rubbery and their arms long and fingers grasping. They hate all life that bears the stink of the sun’s touch, as one might expect. Jealousy, long-instilled, is hard to shake. <em>Instinct</em>: To deny light</p>
+<p aid:pstyle="MonsterDescription">Some say these things descended from the family of a cruel wizard who forced them to live out their lives underground. Some say his experiments led him to fear the sun, and ages passed while he descended into unlife, dragging his folk along with him. These things resemble men, in a way. Head, four limbs, and all that. Only their skin is wet and rubbery, and their arms long and fingers grasping. They hate all life that bears the stink of the sun’s touch, as one might expect. Jealousy, long-instilled, is hard to shake. <em>Instinct</em>: To deny light</p>
 <ul><li>Hold someone, wringing the breath from them</li>
 <li>Fling a held creature</li></ul>
 <p aid:pstyle="MonsterName">Cloaker	<span aid:cstyle="Tags">Solitary, Stealthy</span></p>
@@ -30,14 +30,14 @@
 <p aid:pstyle="MonsterName">Dwarven Warrior	<span aid:cstyle="Tags">Horde, Organized</span></p>
 <p aid:pstyle="MonsterStats">Axe (d6 damage)	7 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were men and all were of this ilk—stoic and proud warriors. Axe-wielding and plate-wearing. Stout bearded battle-hungry men who would push them, time and time again, back up out of their mines and tunnels with ferocity. It just goes to show how little men know about the elder races. These folk are merely a vanguard, and they bravely do their duty to protect the riches of the Dwarven realm. Earn their trust and you’ve an ally for life. Earn their ire and you’re not likely to regret it very long. <em>Instinct</em>: To defend</p>
+<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were men and all were of this ilk—stoic and proud warriors. Axe-wielding and plate-wearing. Stout, bearded, battle-hungry men who would push them, time and time again, back up out of their mines and tunnels with ferocity. It just goes to show how little men know about the elder races. These folk are merely a vanguard, and they bravely do their duty to protect the riches of the Dwarven realm. Earn their trust, and you’ve an ally for life. Earn their ire, and you’re not likely to regret it very long. <em>Instinct</em>: To defend</p>
 <ul><li>Drive them back</li>
 <li>Call up reinforcements</li></ul>
 <p aid:pstyle="MonsterName">Earth Elemental	<span aid:cstyle="Tags">Solitary, Huge</span></p>
 <p aid:pstyle="MonsterStats">Smash (d10+5 damage)	27 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Made of stone</p>
-<p aid:pstyle="MonsterDescription">Our shaman says that all the things of the world have a spirit. Stones, trees, a stream. Now that I’ve seen the earth roil under my feet and fists of stone beat my friends half to death I’d like to believe that crazy old man. The one I saw was huge—big as a house! It came boiling up from a rockslide out of nowhere and had a voice like an avalanche. I pay my respects, now. Rightly so. <em>Instinct</em>: To show the strength of earth</p>
+<p aid:pstyle="MonsterDescription">Our shaman says that all the things of the world have a spirit. Stones, trees, a stream. Now that I’ve seen the earth roil under my feet and fists of stone beat my friends half to death, I’d like to believe that crazy old man. The one I saw was huge—big as a house! It came boiling up from a rockslide out of nowhere and had a voice like an avalanche. I pay my respects, now. Rightly so. <em>Instinct</em>: To show the strength of earth</p>
 <ul><li>Turn the ground into a weapon</li>
 <li>Meld into stone</li></ul>
 <p aid:pstyle="MonsterName">Goliath	<span aid:cstyle="Tags">Group, Huge, Organized, Intelligent</span></p>
@@ -72,7 +72,7 @@
 <p aid:pstyle="MonsterName">Goblin	<span aid:cstyle="Tags">Horde, Small, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Spear (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterDescription">Nobody seems to know where these things came from. Elves say they’re the Dwarves’ fault—dredged up from a hidden place beneath the earth. Dwarves say they’re bad Elvish children, taken away at birth and raised in the dark. The truth of the matter is that goblins have always been here and they’ll be here once all the civilized races have fallen and gone away. Goblins never die out. There’s just too damn many of them. <em>Instinct</em>: To multiply</p>
+<p aid:pstyle="MonsterDescription">Nobody seems to know where these things came from. Elves say they’re the Dwarves’ fault—dredged up from a hidden place beneath the earth. Dwarves say they’re bad Elvish children, taken away at birth and raised in the dark. The truth of the matter is that goblins have always been here, and they’ll be here once all the civilized races have fallen and gone away. Goblins never die out. There’s just too damn many of them. <em>Instinct</em>: To multiply</p>
 <ul><li>Charge!</li>
 <li>Call more goblins</li>
 <li>Retreat and return with (many) more</li></ul>
@@ -87,7 +87,7 @@
 <p aid:pstyle="MonsterStats">Tentacles (d10+3 damage)	20 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Filth Fever</p>
-<p aid:pstyle="MonsterDescription">The mating call of the otyugh is a horrible, blaring cry that sounds like a cross between an elephant dying and an over-eager vulture. The otyugh spends much of its time partly submerged in filthy water and prefers eating garbage over any other food. As a result, it often grows fat and strong on the offal of orcs, goblins and other cave-dwelling sub-humans. Get too close, however, and you’ll have one of its barbed tentacles dragging you into that soggy, razor-toothed maw. If you get away with your life, best get to a doctor, or your victory may be short lived. <em>Instinct</em>: To foul</p>
+<p aid:pstyle="MonsterDescription">The mating call of the otyugh is a horrible, blaring cry that sounds like a cross between an elephant dying and an over-eager vulture. The otyugh spends much of its time partly submerged in filthy water and prefers eating garbage over any other food. As a result, it often grows fat and strong on the offal of orcs, goblins, and other cave-dwelling sub-humans. Get too close, however, and you’ll have one of its barbed tentacles dragging you into that soggy, razor-toothed maw. If you get away with your life, best get to a doctor, or your victory may be short lived. <em>Instinct</em>: To foul</p>
 <ul><li>Infect someone with filth fever</li>
 <li>Fling someone or something</li></ul>
 <p aid:pstyle="MonsterName">Maggot-Squid	<span aid:cstyle="Tags">Horde, Small</span></p>
@@ -107,7 +107,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Rock-like Flesh</p>
-<p aid:pstyle="MonsterDescription">Evolutionary happenstance has created a clever underground predator. Disguised as a rocky formation—most often a stalactite or stalagmite—the roper waits for its prey to wander by. When it does, whether it’s a rat, a goblin or a foolhardy adventurer, a mass of thin, whipping tentacles erupts from the thing’s hide. A hundred lashes in the blink of an eye and the stunned prey is being dragged into the roper’s mouth. Surprisingly effective for a thing that looks like a rock. <em>Instinct</em>: To ambush</p>
+<p aid:pstyle="MonsterDescription">Evolutionary happenstance has created a clever underground predator. Disguised as a rocky formation—most often a stalactite or stalagmite—the roper waits for its prey to wander by. When it does, whether it’s a rat, a goblin, or a foolhardy adventurer, a mass of thin, whipping tentacles erupts from the thing’s hide. A hundred lashes in the blink of an eye and the stunned prey is being dragged into the roper’s mouth. Surprisingly effective for a thing that looks like a rock. <em>Instinct</em>: To ambush</p>
 <ul><li>Ensnare the unsuspecting</li>
 <li>Burst from the earth</li>
 <li>Spray forth acid, eating away at metal and flesh</li></ul>

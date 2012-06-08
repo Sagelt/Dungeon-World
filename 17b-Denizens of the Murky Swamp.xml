@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage 1 piercing)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Dragon Turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is drawn in by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. <em>Instinct</em>: To devour</p>
+<p aid:pstyle="MonsterDescription">Dragon Turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is drawn in by bright light in the darkness and, like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. <em>Instinct</em>: To devour</p>
 <ul><li>Lure prey with lies and illusions</li>
 <li>Lash out at light</li>
 <li>Devour</li></ul>
@@ -21,11 +21,11 @@
 <p aid:pstyle="MonsterDescription">How do you kill a pile of goo? A great squishy, pile of goo that happens also to want to dissolve you and slurp you up? That is a good question to which I have no answer. Do let us know when you find out. <em>Instinct</em>: To dissolve</p>
 <ul><li>Eat away metal, flesh, or wood</li>
 <li>Ooze into a troubling place: food, armor, stomach</li></ul>
-<p aid:pstyle="MonsterName">Coutal	<span aid:cstyle="Tags">Solitary, Intelligent Devious</span></p>
+<p aid:pstyle="MonsterName">Coutal	<span aid:cstyle="Tags">Solitary, Intelligent, Devious</span></p>
 <p aid:pstyle="MonsterStats">Light ray (d8 damage ignores armor)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Halo</p>
-<p aid:pstyle="MonsterDescription">As if in direct affront to the decay and filth of the world, the gods granted us the Coutal. As if to say “there is beauty, even in this grim place” have we been gifted the Coutal. A serpent in flight on jeweled wings, these beautiful creatures glow with a soft light, as the sun does through stained glass. Bright, wise and calm, a Coutal often knows many things and sees many more. You might be able to make a trade with it in exchange for some favor. They seek to cleanse and to purge and to make of this dark world a better one. Shame we have so few. The gods are cruel. <em>Instinct</em>: To cleanse</p>
+<p aid:pstyle="MonsterDescription">As if in direct affront to the decay and filth of the world, the gods granted us the Coutal. As if to say “there is beauty, even in this grim place” have we been gifted the Coutal. A serpent in flight on jeweled wings, these beautiful creatures glow with a soft light, as the sun does through stained glass. Bright, wise, and calm, a Coutal often knows many things and sees many more. You might be able to make a trade with it in exchange for some favor. They seek to cleanse and to purge and to make of this dark world a better one. Shame we have so few. The gods are cruel. <em>Instinct</em>: To cleanse</p>
 <ul><li>Pass judgement on a person or place</li>
 <li>Summon divine forces to cleanse</li>
 <li>Offer information in exchange for service</li></ul>
@@ -49,7 +49,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage)	20 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shell, Amphibious</p>
-<p aid:pstyle="MonsterDescription">Bakunawa has a brother. Where she is quick to anger and hungry for gold, he is slow and sturdy. She is a knife and he is a shield. A great turtle that lies in the muck and mire for ages as they pass, mud piled upon his back—sometimes trees and shrubs. Sometimes a whole misguided clan of goblins will build their huts and cook their ratty meals on the shell of the dragon turtle. His snapping jaws, glacier-slow they may be, can rend a castle wall. Careful where you tread. <em>Instinct</em>: To resist change</p>
+<p aid:pstyle="MonsterDescription">Bakunawa has a brother. Where she is quick to anger and hungry for gold, he is slow and sturdy. She is a knife, and he is a shield. A great turtle that lies in the muck and mire for ages as they pass, mud piled upon his back—sometimes trees and shrubs. Sometimes a whole misguided clan of goblins will build their huts and cook their ratty meals on the shell of the dragon turtle. His snapping jaws, glacier-slow they may be, can rend a castle wall. Careful where you tread. <em>Instinct</em>: To resist change</p>
 <ul><li>Move forward implacably</li>
 <li>Bring its full bulk to bear</li>
 <li>Destroy structures and buildings</li></ul>
@@ -65,28 +65,28 @@
 <p aid:pstyle="MonsterStats">Talons (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wing-arms</p>
-<p aid:pstyle="MonsterDescription">Ugly, wrinkled bird-folk, these. Once, maybe, in some ancient past, they were a race of angelic men from on high but now they eat rats they fish from the murk with talon-feet and devour with needle-teeth. They understand the tongues of men and dwarves but speak in little more than gibbering tongues, mimicking the words they hear with mocking laughter. It’s a chilling thing to see a beast so close to man or bird but not quite either one. <em>Instinct</em>: To lash out</p>
+<p aid:pstyle="MonsterDescription">Ugly, wrinkled bird-folk, these. Once, maybe, in some ancient past, they were a race of angelic men from on high, but now they eat rats they fish from the murk with talon-feet and devour with needle-teeth. They understand the tongues of men and dwarves but speak in little more than gibbering tongues, mimicking the words they hear with mocking laughter. It’s a chilling thing to see a beast so close to man or bird but not quite either one. <em>Instinct</em>: To lash out</p>
 <ul><li>Attack from the air</li>
 <li>Carry out the bidding of a more powerful creature</li></ul>
 <p aid:pstyle="MonsterName">Fire Eels	<span aid:cstyle="Tags">Horde, Tiny</span></p>
 <p aid:pstyle="MonsterStats">Burning touch (d6-2 damage ignores armor)	3 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Flammable oil, aquatic</p>
-<p aid:pstyle="MonsterDescription">These strange creatures are no bigger or smarter then their mundane kin. They have the same vicious nature. Over their relations they have one advantage—an oily secretion that drips from their skin. It makes them hard to catch. On top of that, with a twist of their body they ignite the stuff, leaving pools of burning oil atop the surface of the water and roasting prey and predator alike. I hear the slimy things make good ingredients for fire-resistant gear, but you have to get your hands on one, first. <em>Instinct</em>: To ignite</p>
+<p aid:pstyle="MonsterDescription">These strange creatures are no bigger or smarter then their mundane kin. They have the same vicious nature. Over their relations they have one advantage—an oily secretion that drips from their skin. It makes them hard to catch. On top of that, with a twist of their body, they ignite the stuff, leaving pools of burning oil atop the surface of the water and roasting prey and predator alike. I hear the slimy things make good ingredients for fire-resistant gear, but you have to get your hands on one first. <em>Instinct</em>: To ignite</p>
 <ul><li>Catch someone or something on fire (even underwater)</li>
 <li>Consume burning prey</li></ul>
 <p aid:pstyle="MonsterName">Frogman	<span aid:cstyle="Tags">Horde, Small, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Spear (d6 damage)	7 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Croak croak croak. Little warty munchkins. Some wizard or godling’s idea of a bad joke, these creatures are. They stand as men, dress in scavenged cloth and hold court in their froggy villages. They speak a rumbling pidgin form of the tongue of man and war constantly with their neighbors. They’re greedy and stupid but clever enough when they need to defend themselves. Some say, too, their priests have a remarkable skill at healing. Or maybe they’re just really, really hard to kill. <em>Instinct</em>: To war</p>
+<p aid:pstyle="MonsterDescription">Croak croak croak. Little warty munchkins. Some wizard or godling’s idea of a bad joke, these creatures are. They stand as men, dress in scavenged cloth, and hold court in their froggy villages. They speak a rumbling pidgin form of the tongue of man and war constantly with their neighbors. They’re greedy and stupid but clever enough when they need to defend themselves. Some say, too, their priests have a remarkable skill at healing. Or maybe they’re just really, really hard to kill. <em>Instinct</em>: To war</p>
 <ul><li>Launch an amphibious assault</li>
 <li>Heal at a prodigious rate</li></ul>
 <p aid:pstyle="MonsterName">Hydra	<span aid:cstyle="Tags">Solitary, Large</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Many heads, Only killed by a blow to the heart</p>
-<p aid:pstyle="MonsterDescription">A bit like a dragon, wingless though it may be. Heads, nine in number at birth, spring from a muscled trunk and weave a sinuous pattern in the air. A hydra is to be feared—a scaled terror of the marsh. The older ones, though, they have more heads for every failed attempt to murder it just makes it stronger. Cut off a head and two more grow in its place. Only a strike, true and strong, to the heart can end a Hydra’s life. Not time or tide or any other thing but this. <em>Instinct</em>: To grow</p>
+<p aid:pstyle="MonsterDescription">A bit like a dragon, wingless though it may be. Heads, nine in number at birth, spring from a muscled trunk and weave a sinuous pattern in the air. A hydra is to be feared—a scaled terror of the marsh. The older ones, though, they have more heads, for every failed attempt to murder it just makes it stronger. Cut off a head and two more grow in its place. Only a strike, true and strong, to the heart can end a Hydra’s life. Not time or tide or any other thing but this. <em>Instinct</em>: To grow</p>
 <ul><li>Attack many enemies at once</li>
 <li>Regenerate a body part (especially a head)</li></ul>
 <p aid:pstyle="MonsterName">Kobold	<span aid:cstyle="Tags">Horde, Small, Stealthy, Intelligent, Organized</span></p>
@@ -101,7 +101,7 @@
 <p aid:pstyle="MonsterStats">Spear (d8 damage)	6 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that Lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshipped their own scaly gods. Maybe that’s true and maybe it ain’t—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
+<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that Lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts, a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshipped their own scaly gods. Maybe that’s true and maybe it ain’t—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
 <ul><li>Ambush the unsuspecting</li>
 <li>Launch an amphibious assault</li></ul>
 <p aid:pstyle="MonsterName">Medusa	<span aid:cstyle="Tags">Solitary, Devious, Intelligent, Hoarder</span></p>
