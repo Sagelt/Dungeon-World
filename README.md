@@ -1,7 +1,7 @@
 # Dungeon World
 Dungeon World is a tabletop roleplaying game. This text tells you how to play that game.
 
-You'll find the entire text of the game, broken up by chapter, here. The text is formatted in XML designed to be consumed by InDesign. Forgive any odd formatting or bad style, that's usually a concession to InDesign.
+You'll find the entire text of the game, broken up by chapter, here. The text is formatted in XML designed to be consumed by [InDesign](http://www.adobe.com/products/indesign.html). Forgive any odd formatting or bad style, that's usually a concession to InDesign.
 
 ## License
 See the LICENSE file for the full details, but here's the basics: you're free to use this text any way you like so long as you credit the authors.
