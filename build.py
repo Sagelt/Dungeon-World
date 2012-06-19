@@ -10,7 +10,23 @@ CHAPTER = re.compile(r'(\d+|[a-z])(\d+|[a-z])?-.*\.xml')
 
 def main():
   """Adds all chapters to a single HTML file and writes it out."""
-  book = minidom.parseString(u'<html><head></head><body></body></html>')
+  book = minidom.parseString(u"""
+      <html>
+        <head>
+          <meta charset='utf-8' />
+          <title>Dungeon World</title>
+          <style type='text/css'>
+            html,body {
+              width: 800px;
+              margin: 1em auto;
+              font: 16px sans-serif;
+            }
+            span { text-shadow: 0 0 0.2em blue; }
+          </style>
+        </head>
+        <body>
+        </body>
+      </html>""")
   body = book.documentElement.childNodes[1]
 
   for filename in smartsorted(glob.iglob('*-*.xml')):
@@ -37,7 +53,9 @@ def smartsorted(iterator):
   return sorted(iterator, key=keyfn)
 
 def writexml(doc, writer):
-  writer.write(doc.toxml('utf-8'))
+  xml = doc.toxml()
+  html = xml.replace(u'<?xml version="1.0" encoding="utf-8"?>', u'<!DOCTYPE html>')
+  writer.write(html.encode('utf-8'))
 
 if __name__ == '__main__':
   main()
