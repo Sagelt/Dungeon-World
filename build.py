@@ -31,11 +31,6 @@ def main():
 
   for filename in smartsorted(glob.iglob('*-*.xml')):
     doc = minidom.parse(filename)
-    if doc.documentElement.tagName == 'Root':
-      doc = doc.documentElement
-    if getattr(getattr(doc, 'firstChild', doc), 'tagName', None) == 'Story':
-      doc = doc.firstChild
-
     chapter = book.createElement('section')
     for child in doc.childNodes:
       chapter.appendChild(child)
