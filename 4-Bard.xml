@@ -106,9 +106,10 @@
 <h3 aid:pstyle="MoveName">Bamboozle</h3>
 <p aid:pstyle="NoIndent">When you Parley with someone, on a hit you also take +1 forward with them.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting those spells is 1 + the levels you've gained since you took this move.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting those spells is 1 + the levels you've gained since you took this move.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Healing Chorus</h3>
 <p aid:pstyle="Requirement">Replaces: Healing Song</p>
@@ -134,4 +135,5 @@
 <p aid:pstyle="Requirement">Replaces: Bamboozle</p>
 <p aid:pstyle="NoIndent">When you Parley with someone, on a hit you also take +1 forward with them and get to ask their player one question which they must answer truthfully.</p>
 <h3 aid:pstyle="MoveName">Multiclass Master</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p></div></Body></Root>
+<p aid:pstyle="Requirement">Requires: Multiclass Initiate</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting those spells is 1 + the levels you've gained since you took this move.</p></div></Body></Root>

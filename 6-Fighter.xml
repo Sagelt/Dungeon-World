@@ -108,7 +108,7 @@
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d4 damage forward against that enemy.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting those spells is 1 + the levels you've gained since you took this move.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
 <p aid:pstyle="NoIndent">You gain +1 armor.</p>
 <h3 aid:pstyle="MoveName">Blacksmith</h3>
@@ -127,8 +127,8 @@
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d8 damage forward against that enemy.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
-<p aid:pstyle="Requirement">Required: Multiclass Dabbler</p>
-<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting is 1 + the levels you've gained since you took this move.</p>
 <h3 aid:pstyle="MoveName">Steel Hide</h3>
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>

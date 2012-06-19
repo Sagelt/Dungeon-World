@@ -129,4 +129,4 @@ Show the world who is lord.</p></div>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. If you gain the ability to cast Wizard spells, your level for the purposes of casting those spells is 1 + the levels you've gained since you took this move.</p></div></Body></Root>
