@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # Dungeon World -> pseudo-HTML
 # Adam Blinkinsop <github.com/blinks>
-#
-# TODO: Figure out how to nicely deal with Root / Story nodes.
 
 import glob
 import re
@@ -17,6 +15,10 @@ def main():
 
   for filename in smartsorted(glob.iglob('*-*.xml')):
     doc = minidom.parse(filename)
+    if doc.documentElement.tagName == 'Root':
+      doc = doc.documentElement
+    if getattr(getattr(doc, 'firstChild', doc), 'tagName', None) == 'Story':
+      doc = doc.firstChild
 
     chapter = book.createElement('section')
     for child in doc.childNodes:
