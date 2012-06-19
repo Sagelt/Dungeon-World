@@ -18,8 +18,37 @@ def main():
       <meta charset="utf-8" />
       <title>Dungeon World</title>
       <style type="text/css">
-        html, body { width: 800px; margin: 1em auto; }
-        span { text-shadow: 0 0 0.2em #aaf; }
+        html, body {
+          font: 16px sans-serif;
+          margin: 1em auto;
+          width: 800px;
+        }
+        p { margin: 0.5em 0; padding: 0; }
+        span { text-shadow: 0 0 0.5em #aaf; }
+        p, span { text-indent: 1em; }
+
+        h1 {
+          border-bottom: 1px solid gray;
+          font-size: 24px;
+          margin-top: 2em;
+          padding-bottom: 0.5em;
+          text-align: center;
+        }
+        h2 {
+          border-bottom: 1px solid #aaa;
+          font-size: 20px;
+          margin-top: 1.5em;
+        }
+        h3 { font-size: 18px; }
+
+        .Example {
+          margin: 0 1em;
+          padding: 0.5em;
+          border: 1px solid #bbb;
+          background-color: #eee;
+        }
+        .MoveName, .BasicMoveName { text-shadow: 0 0 0.5em #afa; }
+        .NoIndent { text-indent: 0; }
       </style>
     </head>
     <body>
@@ -36,13 +65,18 @@ def main():
     root.set('id', filename)
 
     # Deal with Story/Body elements in a more html-ish way.
-    story = root.find('Story')
-    if story is None: story = root.find('Body')
-    if story is not None:
+    for story in root.findall('Story') + root.findall('Body'):
       story.tag = 'div'
       story.set('class', 'story')
 
+    class_attrs = ['{http://ns.adobe.com/AdobeInDesign/4.0/}pstyle']
+    for e in root.iter('*'):
+      for attr in class_attrs:
+        if e.get(attr) is not None:
+          e.set('class', e.get(attr))
+
     body.append(root)
+
   tree.write('book.html', encoding='utf-8', method='html')
 
 
