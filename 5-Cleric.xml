@@ -20,7 +20,7 @@ Show the world who is lord.</p></div>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
-<p aid:pstyle="NoIndent">You are one with stone. When you Commune you are also granted a special version of Words of the Unspeaking which only works on stone as a Rote.</p>
+<p aid:pstyle="NoIndent">You are one with stone. When you Commune you are also granted a special version of Words of the Unspeaking which only works on stone as a rote.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">Your faith is diverse. Choose one Wizard spell. You can cast and be granted that spell as if it was a Cleric spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
