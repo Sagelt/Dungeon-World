@@ -23,7 +23,7 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">Magic is as natural as breath to you. Detect Magic is a rote for you.</p>
+<p aid:pstyle="NoIndent">Magic is as natural as breath to you. Detect Magic is a cantrip for you.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">Choose one cleric spell, you can cast it as if it was a wizard spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
