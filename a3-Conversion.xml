@@ -26,7 +26,7 @@
 <h4>HP</h4>
 <p aid:pstyle="NoIndent">If the monster's HP is listed as Hit Dice take the maximum value of the first HD and add one for each additional hit dice. If the monster's HP is listed as a number with no Hit Dice divide the HP by 4.</p>
 <h4>Armor</h4>
-<p aid:pstyle="NoIndent">If the monster's AC is average give it 1 armor. If the monster's AC is low, give it 0 armor. If the monster's AC is high give it 2 armor, 3 armor for beasts that are all about defense. If it's nearly invulnerable, 4 armor. +1 armor if it's defenses are magical.</p>
+<p aid:pstyle="NoIndent">If the monster's AC is average give it 1 armor. If the monster's AC is low, give it 0 armor. If the monster's AC is high give it 2 armor, 3 armor for beasts that are all about defense. If it's nearly invulnerable, 4 armor. Add 1 armor if its defenses are magical.</p>
 <h4>Moves and Instinct</h4>
 <p aid:pstyle="NoIndent">Look at the special abilities or attacks listed for the monster, these form the basis for its moves.</p>
 <h2>Maps</h2>
@@ -42,5 +42,5 @@
 <ul><li>a vial of antivenom</li>
 <li>a shield that glows with silver light</li>
 <li>a rusted old key in the shape of a lizard</li></ul>
-<p aid:pstyle="NoIndent">These sorts of moves can give the players the sense that their characters are tied to the situation at hand, and open the door for more lines of question-and-answer play that can fill the game world with life. Think about the Fronts, the things they endanger, the riches they might protect and their impact on the world. Let these intro moves flow from that understanding, creating a great kick-start to the adventure.</p> 
+<p aid:pstyle="NoIndent">These sorts of moves can give the players the sense that their characters are tied to the situation at hand, and open the door for more lines of question-and-answer play that can fill the game world with life. Think about the Fronts, the things they endanger, the riches they might protect and their impact on the world. Let these introductory moves flow from that understanding, creating a great kick-start to the adventure.</p> 
 </Story></Root>

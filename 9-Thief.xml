@@ -83,9 +83,9 @@
 <h3 aid:pstyle="MoveName">Poison Master</h3>
 <p aid:pstyle="NoIndent">After you've used a poison once it's no longer Dangerous for you to use.</p>
 <h3 aid:pstyle="MoveName">Envenom</h3>
-<p aid:pstyle="NoIndent">You can apply even complex poisons with a pinprick. When you apply a poison that's not Dangerous for you to use to your weapon it's Touch instead of Applied.</p>
+<p aid:pstyle="NoIndent">You can apply even complex poisons with a pinprick.  You treat any Applied poison that's not Dangerous for you to use as if it were Touch when you apply it to your weapon.</p>
 <h3 aid:pstyle="MoveName">Brewer</h3>
-<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any one poison you've used before.</p>
+<p aid:pstyle="NoIndent">When you have time to gather materials and a safe place to brew you can create three doses of any one poison you've used before.</p>
 <h3 aid:pstyle="MoveName">Underdog</h3>
 <p aid:pstyle="NoIndent">When you're outnumbered, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
@@ -99,7 +99,7 @@
 <p aid:pstyle="NoIndent">When you use Trap Expert you always get +1 hold (even on a failure you get 1 hold). On a 12+ you get 3 hold and the next time you discover a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</p>
 <h3 aid:pstyle="MoveName">Alchemist</h3>
 <p aid:pstyle="Requirement">Replaces: Brewer</p>
-<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you've used before. Alternately you can describe the effects of a poison you'd like to create. The GM will tell you can create it, but with one or more caveats:</p>
+<p aid:pstyle="NoIndent">When you have time to gather materials and a safe place to brew you can create three doses of any poison you've used before. Alternately you can describe the effects of a poison you'd like to create. The GM will tell you can create it, but with one or more caveats:</p>
 <ul><li>It will only work under specific circumstances</li>
 <li>The best you can manage is a weaker version</li>
 <li>It'll take a while to take effect</li>

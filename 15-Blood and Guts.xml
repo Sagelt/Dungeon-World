@@ -6,7 +6,7 @@
 <p>Your class tells you how many HP you get. Your Constitution (the score, not the modifier) always comes into play as well so more Constitution means more HP. If your Constitution permanently changes during play you adjust your HP to reflect your new Constitution score. Unless your Constitution changes your maximum HP stays the same.</p>
 <h3>Damage</h3>
 <p aid:pstyle="NoIndent">When a character takes damage they subtract the damage dealt from their current HP. Armor mitigates damage; if a character has armor they subtract their armor's value from the damage dealt. Damage can never take a character below 0 HP.</p>
-<p>Damage is decided by the attacker. Each class has a base damage die, which may be modified by the weapon used. No matter the implement, the Fighter will always deal more damage than a Wizard—it's about training and skill. Monsters and other non-player characters have a static damage instead of a dice to roll.</p>
+<p>Damage is decided by the attacker. Each class has a base damage die, which may be modified by the weapon used. No matter the implement, the Fighter will always deal more damage than a Wizard—it's about training and skill. Monsters and other non-player characters also have a dice amount for their damage; the player who takes the hit rolls to see how badly they are hurt.</p>
 <p>Player characters deal damage according to their class, the weapon used and the move they've made. When a character is armed, they deal their class's damage. If a character is unarmed, they probably can't deal damage, or they might do 1 stun damage.</p>
 <p>If a move just says "deal damage" the character rolls their class's damage dice plus any bonuses or penalties from moves or weapons. If a move specifies an amount of damage, use that in place of the class's damage roll.</p>
 <p>Monsters' damage is listed in their description. Use this damage any time the monster takes direct action to hurt someone, even if they use a method other than their normal attack.</p>
@@ -27,7 +27,7 @@
 <p aid:pstyle="NoIndent">Stun damage is non-lethal damage. A PC who takes stun damage is Defying Danger to do anything at all, the danger being "you're stunned." A GM character that takes stun damage counts it against their HP as usual, but when they are out of HP they are knocked out, not at the GM's mercy.</p>
 <h3>Healing</h3>
 <p aid:pstyle="NoIndent">There are two sources of healing in Dungeon World: the passage of time and medical aid.</p>
-<p>Whenever a character spends some time resting without aggravating their wounds they heal. The amount of healing is described in the move (Make Camp for a night in a makeshift bed, Recover for says in civilization).</p>
+<p>Whenever a character spends some time resting without aggravating their wounds they heal. The amount of healing is described in the move (Make Camp for a night in a makeshift bed, Recover for stays in civilization).</p>
 <p>Medical aid, both magical and mundane, also provides healing. The amount of damage healed is dependent on the move or item used. Some moves may fully replenish HP while others are just enough to keep someone standing through a fight.</p>
 <p>No matter the source of the healing a character's HP can never increase over their maximum.</p>
 <h3>Death</h3>
@@ -60,13 +60,13 @@
 <p aid:pstyle="Example">Avon, despite being a Wizard, has risen to the notice of Lenoral, the deity of arcane knowledge. After being blessed by an avatar of Lenoral, Avon is under the deity's watch. He can fulfill Petitions and gain boons like a Cleric.</p>
 <p>Descriptive changes only happen when the character has clearly gained access to an ability. Befriending a stray dog does not have the same benefits as an animal companion.</p>
 <h3>Level Up</h3>
-<p aid:pstyle="NoIndent">When you <strong>have a safe moment and XP equal to (or greater than) your current level + 7</strong>, reset your XP to 0 and choose a new advanced move from your class. If you are the Wizard, you also get to add a new spell to your spellbook.</p>
+<p aid:pstyle="NoIndent">When you <strong>have a safe moment and XP equal to (or greater than) your current level + 7</strong>, subtract your current level +7 from your XP and choose a new advanced move from your class. If you have the Spellbook move (such as the Wizard), you also get to add a new spell to your spellbook.</p>
 <p>New moves are chosen based on the character's new level. If a move requires 6th level, it's available as the character advances from 5th to 6th level.</p>
 <p>If your new level is 3, 6, or 9, you also get to increase a stat by 2. Increase the base score of the stat of your choice by 2, adjust the modifier to reflect the new score. Changing your Constitution increases your maximum and current HP. Ability scores can't go higher than 18.</p>
 <h3>Requires &amp; Replaces</h3>
 <p aid:pstyle="NoIndent">Some moves depend on other moves. If another move is listed along with the word <strong>Requires</strong> or <strong>Replaces</strong> you can only gain the new move if you have the move it requires or replaces.</p>
 <p>A move the requires another move can only be taken if you have the move it requires already. You then have both moves and they both apply.</p>
-<p>A move that replaces another move can only be taken if you have the move it replaces already. You lose access to the replaced move and just have the new one. The new move will usually include all the benefits of the replaced one: maybe you replace a move that gives you 1 armor with one that gives you 2 armor instead.</p>
+<p>A move that replaces another move can only be taken if you have the move it replaces already. You lose access to the replaced move and just have the new one. The new move will usually include all the benefits of the replaced one; maybe you replace a move that gives you 1 armor with one that gives you 2 armor instead.</p>
 <h2>Bonds</h2>
 <p aid:pstyle="NoIndent">Bonds are what make you a party of adventurers, not just a random assortment of people. Seeing your bonds evolve and play off each other is one of the best parts of the game.</p>
 <p>That said, this isn't high drama. How you feel about Titanius doesn't matter so much when you're both fighting for life and limb against a horde of demons who would happily end the world if they could. Bonds are the icing on the cake: they make your adventures (and your adventurers) more interesting.</p>
@@ -91,7 +91,7 @@
 <p>Most creatures are Neutral. They take no particular pleasure in harming others, but will do it if it is justified by their situation. Those that put an ideal, be it Law, Chaos, Good, or Evil, above themselves are rarer.</p>
 <p>Even two creatures of the same alignment can come into conflict. Aspiring to help others does not grant infallibility, two Good creatures may fight and die over two different views of how to help others. A great king may wage war on a free city despite his good alignment since he sees (justly, perhaps) that the peoples of the free city will live a better life under his enlightened rule.</p>
 <h3>Changing Alignment</h3>
-<p aid:pstyle="NoIndent">Alignment can, and will, change. Usually such a change comes about as a gradual slide to a decisive moment when the pain caused becomes too great or the benefit too others too small.</p>
+<p aid:pstyle="NoIndent">Alignment can, and will, change. Usually such a change comes about as a gradual slide to a decisive moment when the pain caused becomes too great or the benefit to others too small.</p>
 <p>Any time a player would earn XP from their current alignment they can, instead of taking the XP, change the alignment. The player must have a reason for the change which they can explain to the other players. If they can't explain why their character has had a change of heart they can't change alignment. Don't abuse the privilege.</p>
 <p>The first time a player character changes alignment it must be to another alignment listed for their class, though they can choose any of the alignment moves below for a listed alignment. After that they can go to any alignment they like.</p>
 <p>In some cases a player character may switch alignment moves while still keeping the same alignment. This reflects a smaller shift, one of priority instead of a wholesale shift in thinking. They simply choose a new move for the same alignment from below and mention why their character now sees this as important.</p>

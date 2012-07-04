@@ -96,7 +96,7 @@
 <h3 aid:pstyle="MoveName">Merciless</h3>
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Heirloom</h3>
-<p aid:pstyle="NoIndent">When you consult the spirits of that reside within your signature weapon, roll+Cha. The spirits will give you an insight relating to the current situation, and might ask you some questions in return. On a 10+, the GM will give you good detail. On a 7-9, the GM will give you an impression.</p>
+<p aid:pstyle="NoIndent">When you consult the spirits that reside within your signature weapon, roll+Cha. The spirits will give you an insight relating to the current situation, and might ask you some questions in return. On a 10+, the GM will give you good detail. On a 7-9, the GM will give you an impression.</p>
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
 <p aid:pstyle="NoIndent">When you take damage you can choose to let your armor take the brunt of it. The damage is negated but your armor or shield (your choice) is -1 armor until you get it repaired at a smithy or workshop.</p>
 <h3 aid:pstyle="MoveName">Improved Weapon</h3>
@@ -108,7 +108,7 @@
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d4 damage forward against that enemy.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting those spells is 1 + the levels you've gained since you took this move.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
 <p aid:pstyle="NoIndent">You gain +1 armor.</p>
 <h3 aid:pstyle="MoveName">Blacksmith</h3>
@@ -127,8 +127,8 @@
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d8 damage forward against that enemy.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
-<p aid:pstyle="Requirement">Required: Multiclass Dabbler</p>
-<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.  For the purposes of this move the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells, your level for the purposes of casting is 1 + the levels you've gained since you took this move.</p>
 <h3 aid:pstyle="MoveName">Steel Hide</h3>
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
