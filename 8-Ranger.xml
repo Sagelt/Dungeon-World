@@ -70,7 +70,7 @@
 <li aid:pstyle="Option">Hunter's bow (Near, Far, 1 weight) and spear (Reach, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight) and dungeon rations (1 weight)</li>
-<li aid:pstyle="Option">adventuring gear (1 weight) and bundle of arrows (3 ammo, 2 weight)</li></ul></div>
+<li aid:pstyle="Option">Adventuring gear (1 weight) and bundle of arrows (3 ammo, 2 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>I have guided _______________ before and they owe me for it.</p>
@@ -87,10 +87,10 @@
 <h3 aid:pstyle="MoveName">Familiar Prey</h3>
 <p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int.</p>
 <h3 aid:pstyle="MoveName">Viper's Strike</h3>
-<p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
+<p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
 <p aid:pstyle="NoIndent">When you're still in natural surroundings, enemies never spot you until you make a movement.</p>
-<h3 aid:pstyle="MoveName">Man's Best Friend'</h3>
+<h3 aid:pstyle="MoveName">Man's Best Friend</h3>
 <p aid:pstyle="NoIndent">When you take damage and you allow your animal companion to take the blow the damage is negated and your animal companion's Ferocity becomes 0. If its Ferocity was already 0 you can't use this ability. When you have a few hours of rest with your animal companion its Ferocity returns to normal.</p>
 <h3 aid:pstyle="MoveName">Blot out the Sun</h3>
 <p aid:pstyle="NoIndent">When you Volley you may spend extra ammo before rolling, for each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.</p>
@@ -111,12 +111,12 @@
 <p aid:pstyle="NoIndent">When you Spout Lore about a monster you use Wis instead of Int. On a 12+ you get to ask the GM any one question about the subject.</p>
 <h3 aid:pstyle="MoveName">Viper's Fangs</h3>
 <p aid:pstyle="Requirement">Replaces: Viper's Strike</p>
-<p aid:pstyle="NoIndent">When strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
+<p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Smaug's Belly</h3>
 <p aid:pstyle="NoIndent">When you know your target's weakest point your arrows have 2 piercing.</p>
 <h3 aid:pstyle="MoveName">Strider</h3>
 <p aid:pstyle="Requirement">Replaces: Follow Me</p>
-<p aid:pstyle="NoIndent">When you Undertake a Perilous journey you can take two roles. Roll twice and use the better result for both roles.</p>
+<p aid:pstyle="NoIndent">When you Undertake a Perilous Journey you can take two roles. Roll twice and use the better result for both roles.</p>
 <h3 aid:pstyle="MoveName">A Safer Place</h3>
 <p aid:pstyle="Requirement">Replaces: A Safe Place</p>
 <p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to Take Watch. After a night in camp when you set the watch everyone takes +1 forward.</p>

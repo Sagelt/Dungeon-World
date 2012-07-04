@@ -16,7 +16,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Detect Alignment</span>	Level 1</p>
 <p aid:pstyle="NoIndent">When you cast this spell choose an alignment: Good, Evil, or Neutral. One of your senses is briefly able to detect that alignment. The GM will tell you what here is of that alignment.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cause Fear</span>	Level 1	<em>Ongoing</em></p>
-<p aid:pstyle="NoIndent">Choose an intelligent target you can see and a nearby object. The target is afraid of the object so long as you maintain the spell. Their reaction is up to them: flee, panic, beg, panic, fight. While this spell is ongoing you take -1 to Cast a Spell.</p>
+<p aid:pstyle="NoIndent">Choose an intelligent target you can see and a nearby object. The target is afraid of the object so long as you maintain the spell. Their reaction is up to them: flee, panic, beg, fight. While this spell is ongoing you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Magic Weapon</span>	Level 1	 Ongoing</p>
 <p aid:pstyle="NoIndent">The weapon you hold while casting does +1d4 damage until you dismiss this spell. Until you dismiss this spell you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctuary</span>	Level 1</p>
@@ -68,7 +68,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sever</span>	Level 7	<em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">Choose an appendage on the target such as an arm, tentacle, or wing. The appendage is magically severed from their body, causing no damage but considerable pain. Missing an appendage may, for example, keep a winged creature from flying, or a bull from goring you on its horns. While you maintain the spell you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mark of Death</span>	Level 7</p>
-<p aid:pstyle="NoIndent">Choose a creature who's true name you know. This spell inscribes runes that will kill that creature, should they read them.</p>
+<p aid:pstyle="NoIndent">Choose a creature whose true name you know. This spell inscribes runes that will kill that creature, should they read them.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Control Weather</span>	Level 7</p>
 <p aid:pstyle="NoIndent">Pray for rain—or sun, wind, or snow. Within a day or so, your god will answer. The weather will change according to your will and last a handful of days.</p></div>
 <div><h2>9th Level Spells</h2>

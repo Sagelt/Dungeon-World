@@ -27,7 +27,7 @@
 <p aid:pstyle="NoIndent">Stun damage is non-lethal damage. A PC who takes stun damage is Defying Danger to do anything at all, the danger being "you're stunned." A GM character that takes stun damage counts it against their HP as usual, but when they are out of HP they are knocked out, not at the GM's mercy.</p>
 <h3>Healing</h3>
 <p aid:pstyle="NoIndent">There are two sources of healing in Dungeon World: the passage of time and medical aid.</p>
-<p>Whenever a character spends some time resting without aggravating their wounds they heal. The amount of healing is described in the move (Make Camp for a night in a makeshift bed, Recover for says in civilization).</p>
+<p>Whenever a character spends some time resting without aggravating their wounds they heal. The amount of healing is described in the move (Make Camp for a night in a makeshift bed, Recover for stays in civilization).</p>
 <p>Medical aid, both magical and mundane, also provides healing. The amount of damage healed is dependent on the move or item used. Some moves may fully replenish HP while others are just enough to keep someone standing through a fight.</p>
 <p>No matter the source of the healing a character's HP can never increase over their maximum.</p>
 <h3>Death</h3>
@@ -91,7 +91,7 @@
 <p>Most creatures are Neutral. They take no particular pleasure in harming others, but will do it if it is justified by their situation. Those that put an ideal, be it Law, Chaos, Good, or Evil, above themselves are rarer.</p>
 <p>Even two creatures of the same alignment can come into conflict. Aspiring to help others does not grant infallibility, two Good creatures may fight and die over two different views of how to help others. A great king may wage war on a free city despite his good alignment since he sees (justly, perhaps) that the peoples of the free city will live a better life under his enlightened rule.</p>
 <h3>Changing Alignment</h3>
-<p aid:pstyle="NoIndent">Alignment can, and will, change. Usually such a change comes about as a gradual slide to a decisive moment when the pain caused becomes too great or the benefit too others too small.</p>
+<p aid:pstyle="NoIndent">Alignment can, and will, change. Usually such a change comes about as a gradual slide to a decisive moment when the pain caused becomes too great or the benefit to others too small.</p>
 <p>Any time a player would earn XP from their current alignment they can, instead of taking the XP, change the alignment. The player must have a reason for the change which they can explain to the other players. If they can't explain why their character has had a change of heart they can't change alignment. Don't abuse the privilege.</p>
 <p>The first time a player character changes alignment it must be to another alignment listed for their class, though they can choose any of the alignment moves below for a listed alignment. After that they can go to any alignment they like.</p>
 <p>In some cases a player character may switch alignment moves while still keeping the same alignment. This reflects a smaller shift, one of priority instead of a wholesale shift in thinking. They simply choose a new move for the same alignment from below and mention why their character now sees this as important.</p>

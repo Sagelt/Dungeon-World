@@ -61,10 +61,10 @@
 <li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
 <p aid:pstyle="NoIndent">Choose your weapon:</p>
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
-<li aid:pstyle="Option">staff (Close, two-handed, 1 weight)</li></ul>
+<li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">healing potion</li>
-<li aid:pstyle="Option">three antitoxin</li></ul></div>
+<ul><li aid:pstyle="Option">Healing potion</li>
+<li aid:pstyle="Option">Three antitoxin</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>
@@ -91,7 +91,7 @@
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
-<p aid:pstyle="NoIndent">When you are affected by arcane magic you may attempt to counter the spell. Stake one of your prepared spells of equal or higher level on the defense and roll+Int. On a 10+, the spell is countered and has no effect on you. On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are effected as usual.</p>
+<p aid:pstyle="NoIndent">When you are affected by arcane magic you may attempt to counter the spell. Stake one of your prepared spells of equal or higher level on the defense and roll+Int. On a 10+, the spell is countered and has no effect on you. On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are affected as usual.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>
 <p aid:pstyle="NoIndent">When you see the effects of an arcane spell, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
@@ -114,7 +114,7 @@
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell, you have +4 armor.</p>
 <h3 aid:pstyle="MoveName">Protective Counter</h3>
 <p aid:pstyle="Requirement">Requires: Counterspell</p>
-<p aid:pstyle="NoIndent">When an ally within sight of you is affected by an arcane spell, you can counter it as if it effected you. If the spell affects multiple allies you must counter for each ally separately.</p>
+<p aid:pstyle="NoIndent">When an ally within sight of you is affected by an arcane spell, you can counter it as if it affected you. If the spell affects multiple allies you must counter for each ally separately.</p>
 <h3 aid:pstyle="MoveName">Ethereal Tether</h3>
 <p aid:pstyle="NoIndent">When you have time with a willing or helpless subject you can craft an ethereal tether with them. You perceive what they perceive and can Discern Realities about someone tethered to you or their surroundings no matter the distance. Someone willingly tethered to you can communicate with you over the tether as if you were in the room with them.</p>
 <h3 aid:pstyle="MoveName">Mystical Puppet Strings</h3>

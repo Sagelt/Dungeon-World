@@ -32,9 +32,9 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mimic</span>	Level 3</p>
 <p aid:pstyle="NoIndent">You take the form of someone you touch while casting this spell. Your physical characteristics match theirs exactly but your behavior may not. This change persists until you take damage or choose to return to your own form. While this spell is ongoing, you lose access to all your wizard moves.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mirror Image</span>	Level 3	Illusion</p>
-<p aid:pstyle="NoIndent">You create an illusory image of yourself. The next attack against you effects the illusory image, not you. The image then dissipates.</p>
+<p aid:pstyle="NoIndent">You create an illusory image of yourself. The next attack against you affects the illusory image, not you. The image then dissipates.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sleep</span>	Level 3	Enchantment</p>
-<p aid:pstyle="NoIndent">1d4 enemies you can see of the GM's choice fall asleep. Only creatures capable of sleeping are effected. They awake as normal: loud noises, jolts, pain.</p></div>
+<p aid:pstyle="NoIndent">1d4 enemies you can see of the GM's choice fall asleep. Only creatures capable of sleeping are affected. They awake as normal: loud noises, jolts, pain.</p></div>
 <div><h2>5th Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cage</span>	Level 5	Evocation</p>
 <p aid:pstyle="NoIndent">The target is held in a cage of magical force. Nothing can get in or out of the cage. The cage remains until you cast another spell or dismiss it. While the spell is ongoing, the caged creature can hear your thoughts and you cannot leave sight of the cage.</p>
@@ -71,7 +71,7 @@
 <p aid:pstyle="NoIndent">A cloud of fog drifts into this realm from beyond the Black Gates of Death, filling the immediate area. Whenever a creature in the area takes damage it takes an extra 1d6 damage which ignores armor. This spell persists so long as you can see the affected area, or until you dismiss it.</p></div>
 <div><h2>9th Level Spells</h2>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Antipathy</span>	Level 9	Enchantment</p>
-<p aid:pstyle="NoIndent">Choose a target and describe a type of creature or an alignment. Creatures of the specified type or alignment cannot come within sight of the target. If a creature of the specified type does find itself within site of the target, it immediately flees. This effect continues until you leave the target's presence or you dismiss the spell. While the spell is ongoing, you take -1 to Cast a Spell.</p>
+<p aid:pstyle="NoIndent">Choose a target and describe a type of creature or an alignment. Creatures of the specified type or alignment cannot come within sight of the target. If a creature of the specified type does find itself within sight of the target, it immediately flees. This effect continues until you leave the target's presence or you dismiss the spell. While the spell is ongoing, you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Alert</span>	Level 9	Divination</p>
 <p aid:pstyle="NoIndent">Describe an event. The GM will tell you when that event occurs, no matter where you are or how far away the event is. If you choose, you can view the location of the event as though you were there in person. You can only have one Alert active at a time.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Soul Gem</span>	Level 9</p>
