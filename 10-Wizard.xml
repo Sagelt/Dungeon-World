@@ -71,7 +71,7 @@
 <p>_______________ is keeping an important secret from me.</p>
 <p>_______________ is woefully misinformed about the world; I will teach them all that I can.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves. You also add a new spell to your spellbook at each level.</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves. You also add a new spell to your spellbook at each level, as described in the Spellbook move.</p>
 <h3 aid:pstyle="MoveName">Prodigy</h3>
 <p aid:pstyle="NoIndent">Choose a spell. You prepare that spell as if it were one level lower.</p>
 <h3 aid:pstyle="MoveName">Empowered Magic</h3>
@@ -94,7 +94,7 @@
 <p aid:pstyle="NoIndent">When you are affected by arcane magic you may attempt to counter the spell. Stake one of your prepared spells of equal or higher level on the defense and roll+Int. On a 10+, the spell is countered and has no effect on you. On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are affected as usual.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>
 <p aid:pstyle="NoIndent">When you see the effects of an arcane spell, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>
-<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves. You continue to add a new spell to your spellbook at each level, as described in the Spellbook move.</p>
 <h3 aid:pstyle="MoveName">Master</h3>
 <p aid:pstyle="Requirement">Requires: Prodigy</p>
 <p aid:pstyle="NoIndent">Choose a spell. You prepare that spell as if it were one level lower.</p>
