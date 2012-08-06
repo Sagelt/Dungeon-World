@@ -22,27 +22,29 @@
 <p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p></div>
 <p>Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
-<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a racial move:</p>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
-<p aid:pstyle="NoIndent">When you share a drink with someone, you may Parley with them with Con instead of Cha.</p>
+<p aid:pstyle="NoIndent">When you <strong>share a drink with someone</strong>, you may Parley with them using CON instead of CHA.</p>
 <h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the Precise tag.</p>
+<p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the <em>precise</em> tag.</p>
 <h3 aid:pstyle="MoveName">Halfling</h3>
-<p aid:pstyle="NoIndent">When you Defy Danger and use your small size to your advantage, take +1.</p>
+<p aid:pstyle="NoIndent">When you Defy Danger and <strong>use your small size to your advantage</strong>, take +1.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">Once per battle you may choose a damage roll (yours or someone else's) and reroll it.</p></div>
+<p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else's).</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
-<h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates (Str)</h3>
-<p aid:pstyle="NoIndent">When you use pure strength to destroy an inanimate obstacle, roll+Str. On a 10+ choose 3. On a 7-9 choose 2.</p>
+<h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates (STR)</h3>
+<p aid:pstyle="NoIndent">When you <strong>use pure strength to destroy an inanimate obstacle</strong>, roll+Str.</p>
+<p aid:pstyle="NoIndent">On a 10+, choose 3. </p>
+<p aid:pstyle="NoIndent">On a 7-9 choose 2.</p>
 <ul><li>It doesn’t take a very long time</li>
 <li>Nothing of value is damaged</li>
 <li>It doesn’t make an inordinate amount of noise</li>
 <li>You can fix the thing again without a lot of effort</li></ul>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
-<p aid:pstyle="NoIndent">You ignore the Clumsy tag on armor you wear.</p>
+<p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">Signature Weapon</h3>
 <p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
-<p>Choose a base description, all are 2 weight:</p>
+<p>Choose a base description, all are 2 <em>weight</em>:</p>
 <ul><li aid:pstyle="Option">Sword</li>
 <li aid:pstyle="Option">Axe</li>
 <li aid:pstyle="Option">Hammer</li>
@@ -50,18 +52,18 @@
 <li aid:pstyle="Option">Flail</li>
 <li aid:pstyle="Option">Fists</li></ul>
 <p aid:pstyle="NoIndent">Choose the range that best fits your weapon:</p>
-<ul><li aid:pstyle="Option">Hand</li>
-<li aid:pstyle="Option">Close</li>
-<li aid:pstyle="Option">Reach</li></ul>
+<ul><li aid:pstyle="Option"><em>hand</em></li>
+<li aid:pstyle="Option"><em>close</em></li>
+<li aid:pstyle="Option"><em>reach</em></li></ul>
 <p aid:pstyle="NoIndent">Choose two enhancements:</p>
-<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 weight.</li>
-<li aid:pstyle="Option">Sharp. +2 piercing.</li>
-<li aid:pstyle="Option">Perfectly weighted. +precise.</li>
+<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 <em>weight</em>.</li>
+<li aid:pstyle="Option">Sharp. +2 <em>piercing</em>.</li>
+<li aid:pstyle="Option">Perfectly weighted. +<em>precise</em>.</li>
 <li aid:pstyle="Option">Serrated edges. +1 damage.</li>
 <li aid:pstyle="Option">Glows in the presence of one type of creature, your choice.</li>
-<li aid:pstyle="Option">Huge. +messy, +forceful.</li>
-<li aid:pstyle="Option">Versatile. Choose another range.</li>
-<li aid:pstyle="Option">Well-crafted. -1 weight.</li></ul>
+<li aid:pstyle="Option">Huge. +<em>messy</em>, +<em>forceful</em>.</li>
+<li aid:pstyle="Option">Versatile. Choose an additional range.</li>
+<li aid:pstyle="Option">Well-crafted. -1 <em>weight</em>.</li></ul>
 <p aid:pstyle="NoIndent">Choose a look:</p>
 <ul><li aid:pstyle="Option">Ancient</li>
 <li aid:pstyle="Option">Unblemished</li>
@@ -71,11 +73,11 @@
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
-<p aid:pstyle="NoIndent">Defend those weaker than you</p>
+<p aid:pstyle="NoIndent">Defend those weaker than you.</p>
 <h3 aid:pstyle="MoveName">Neutral</h3>
-<p aid:pstyle="NoIndent">Defeat a worthy opponent</p>
+<p aid:pstyle="NoIndent">Defeat a worthy opponent.</p>
 <h3 aid:pstyle="MoveName">Evil</h3>
-<p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy</p></div>
+<p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy.</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You carry your signature weapon and dungeon rations (1 weight, 5 uses). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and Adventuring gear (1 weight)</li>
@@ -96,17 +98,19 @@
 <h3 aid:pstyle="MoveName">Merciless</h3>
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Heirloom</h3>
-<p aid:pstyle="NoIndent">When you consult the spirits of that reside within your signature weapon, roll+Cha. The spirits will give you an insight relating to the current situation, and might ask you some questions in return. On a 10+, the GM will give you good detail. On a 7-9, the GM will give you an impression.</p>
+<p aid:pstyle="NoIndent">When you <strong>consult the spirits that reside within your signature weapon</strong>, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA.</p>
+<p aid:pstyle="NoIndent">On a 10+, the GM will give you good detail.</p>
+<p aid:pstyle="NoIndent"> On a 7-9, the GM will give you an impression.</p>`
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
-<p aid:pstyle="NoIndent">When you take damage you can choose to let your armor take the brunt of it. The damage is negated but your armor or shield (your choice) is -1 armor until you get it repaired at a smithy or workshop.</p>
+<p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated but your armor or shield (your choice) is -1 <em>armor</em> until you get it repaired at a smithy or workshop.</p>
 <h3 aid:pstyle="MoveName">Improved Weapon</h3>
 <p aid:pstyle="NoIndent">Choose one extra enhancement for your signature weapon.</p>
 <h3 aid:pstyle="MoveName">Seeing Red</h3>
 <p aid:pstyle="NoIndent">When you Discern Realities during combat, you take +1.</p>
 <h3 aid:pstyle="MoveName">Interrogator</h3>
-<p aid:pstyle="NoIndent">When you Parley using threats of impending violence as leverage you may use Str instead of Cha.</p>
+<p aid:pstyle="NoIndent">When you <strong>Parley using threats of impending violence as leverage</strong>,  you may use STR instead of CHA.</p>
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
-<p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d4 damage forward against that enemy.</p>
+<p aid:pstyle="NoIndent">When you Hack and Slash an enemy, your next attack against that same foe deals +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
 <p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
@@ -119,13 +123,16 @@
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Armored Perfection</h3>
 <p aid:pstyle="Requirement">Replaces: Armor Mastery</p>
-<p aid:pstyle="NoIndent">When you take damage you can choose to let your armor take the brunt of it. The damage is negated and you take +1 forward against the attacker but your armor or shield (your choice) is -1 armor until you get it repaired at a smithy or workshop.</p>
+<p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but your armor or shield (your choice) is -1 armor until you get it repaired at a smithy or workshop. This is cumulative – if your armor is reduced to 0, it is destroyed completely.</p>
 <h3 aid:pstyle="MoveName">Evil Eye</h3>
 <p aid:pstyle="Requirement">Requires: Seeing Red</p>
-<p aid:pstyle="NoIndent">When you go into a dangerous situation, roll+Cha. On a 10+, hold 2. On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. On a miss, your enemies immediately identify you as their biggest threat.</p>
+<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. </p>
+<p aid:pstyle="NoIndent">On a 10+, hold 2.</p>
+<p aid:pstyle="NoIndent"> On a 7-9, hold 1.</p>
+<p aid:pstyle="NoIndent"> Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. On a 6-, your enemies immediately identify you as their biggest threat.</p>
 <h3 aid:pstyle="MoveName">Taste of Blood</h3>
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
-<p aid:pstyle="NoIndent">When you Hack and Slash an enemy, you take +1d8 damage forward against that enemy.</p>
+<p aid:pstyle="NoIndent">When you Hack and Slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
 <p aid:pstyle="Requirement">Required: Multiclass Dabbler</p>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
@@ -133,7 +140,10 @@
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
 <h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
-<p aid:pstyle="NoIndent">When you go into battle, roll+Wis. On a 10+, name someone who will live and someone who will die. On a 7-9, name someone who will live or someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
+<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS.</p> 
+<p aid:pstyle="NoIndent">On a 10+, name someone who will live <strong>and</strong> someone who will die.</p>
+<p aid:pstyle="NoIndent"> On a 7-9, name someone who will live <strong>or</strong> someone who will die.</p> 
+<p aid:pstyle="NoIndent">Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's weaponry, ask the GM how much damage they do.</p>
 <h3 aid:pstyle="MoveName">Superior Warrior</h3>
