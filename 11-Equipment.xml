@@ -180,7 +180,7 @@
 <p aid:pstyle="NoIndent">A nail or spike, twisted and forever cold, said to have been pried from the Gates of Death himself. When hammered into a corpse, it disappears and ensures that corpse will never be risen again—no magic short of that of Death himself can reignite the flame of life (natural or otherwise) in the body.</p>
 <p aid:pstyle="MagicItem">Bag of Holding	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and its weight never increases. When you try to retrieve an item from a bag of holding, roll+WIS.</p>
-<p aid:pstyle="NoIndent">On a 10+, it's right there.</p>	
+<p aid:pstyle="NoIndent">On a 10+, it's right there.</p>
 <p aid:pstyle="NoIndent">On a 7-9, choose one:</p>
 <ul><li>You get the exact item, but it takes a while</li>
 <li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
@@ -236,7 +236,7 @@
 <p aid:pstyle="MagicItem">Inspectacles	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">Rough-hewn glass in wooden frames. Dinged up and barely held together, they somehow allow the wearer to see much more than their naked eyes might. When you Discern Realities wearing these gifted lenses, you get to bend the rules a little. On a roll of 10+, ask any three questions you like. They don’t have to be on the list. As long as sight could give you answers, the GM will tell you what you want to know.</p>
 <p aid:pstyle="MagicItem">The Ku’meh Maneuver and Other Stratagems	<span aid:cstyle="Tags">1 Weight</span></p>
-<p aid:pstyle="NoIndent">A great, leathery tome worn shiny by the hands of a hundred great generals, this book is often passed from warrior to warrior, from father to son along the great battle lines that have divided Dungeon World’s past. Anyone reading it may, upon finishing for the first time, roll+INT:</p> 
+<p aid:pstyle="NoIndent">A great, leathery tome worn shiny by the hands of a hundred great generals, this book is often passed from warrior to warrior, from father to son along the great battle lines that have divided Dungeon World’s past. Anyone reading it may, upon finishing for the first time, roll+INT:</p>
 <p aid:pstyle="NoIndent">On a 10+, hold 3.</p>
 <p aid:pstyle="NoIndent">On a 7-9, hold 1.</p>
 <p aid:pstyle="NoIndent">You may spend your hold to advise a companion on some matter of strategic or tactical significance. This advice allows you to, at any time, regardless of distance, roll to Aid them on any one roll. On a miss, the GM can 1 of your hold and spend it to apply -2 to any roll of yours or the poor sap who listened to your advice.</p>
