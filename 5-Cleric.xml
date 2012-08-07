@@ -42,12 +42,12 @@ Show the world who is lord.</p></div>
 <div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
 <p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft call on your deity for protection</strong>, roll+Wis.</p>
 <p aid:pstyle="NoIndent">On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. </p>
-<p aid:pstyle="NoIndent">On a 10+, intelligent undead are momentarily dazed by the radiance of your god and mindless undead flee. If you move aggressively towards an undead creature whileyou Turn Undead it breaks the effects and they are able to act as normal. Intelligent undead, vampires and so on, may still find ways to harry you from afar. They're clever like that.</p></div>
+<p aid:pstyle="NoIndent">On a 10+, intelligent undead are momentarily dazed by the radiance of your god and mindless undead flee. If you move aggressively towards an undead creature while you Turn Undead it breaks the effects and they are able to act as normal. Intelligent undead, vampires and so on, may still find ways to harry you from afar. They're clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet communion with your deity</strong>, you:</p>
 <ul><li>Lose any spells already granted to you.</li>
 <li>Are granted new spells of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level.</li>
-<li>Prepare your rotes,which never count against your limit.</li></ul></div>
+<li>Prepare your rotes, which never count against your limit.</li></ul></div>
 <div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast a Spell</h3>
 <p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your deity</strong>, roll+Wis.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. </p>
@@ -123,7 +123,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">Cure Moderate Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.</p>
 <h3 aid:pstyle="MoveName">Divine Invincibility</h3>
 <p aid:pstyle="Requirement">Replaces: Divine Intervention</p>
-<p aid:pstyle="NoIndent">When you Commune you  gain2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
+<p aid:pstyle="NoIndent">When you Commune you  gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
 <h3 aid:pstyle="MoveName">Martyr</h3>
 <p aid:pstyle="Requirement">Replaces: Penitent</p>
 <p aid:pstyle="NoIndent">When you <strong>take damage and embrace the pain</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to Cast a Spell and add your level to any damage done or healed by the spell.</p>
