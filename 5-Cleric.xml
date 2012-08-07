@@ -123,7 +123,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">Cure Moderate Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.</p>
 <h3 aid:pstyle="MoveName">Divine Invincibility</h3>
 <p aid:pstyle="Requirement">Replaces: Divine Intervention</p>
-<p aid:pstyle="NoIndent">When you Commune you  gain2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
+<p aid:pstyle="NoIndent">When you Commune you gain2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
 <h3 aid:pstyle="MoveName">Martyr</h3>
 <p aid:pstyle="Requirement">Replaces: Penitent</p>
 <p aid:pstyle="NoIndent">When you <strong>take damage and embrace the pain</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to Cast a Spell and add your level to any damage done or healed by the spell.</p>

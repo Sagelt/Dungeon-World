@@ -6,8 +6,8 @@
 <p>You do this for the guts and the glory. The scream of battle and the hot hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, Fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
 <p>You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p>  
-<p><em>Elf</em>: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian</p>    
+<div id="names"><p><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p> 
+<p><em>Elf</em>: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian</p>  
 <p><em>Halfling</em>: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca</p> 
 <p><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
 <h2>Look</h2>
@@ -108,7 +108,7 @@
 <h3 aid:pstyle="MoveName">Seeing Red</h3>
 <p aid:pstyle="NoIndent">When you Discern Realities during combat, you take +1.</p>
 <h3 aid:pstyle="MoveName">Interrogator</h3>
-<p aid:pstyle="NoIndent">When you <strong>Parley using threats of impending violence as leverage</strong>,  you may use STR instead of CHA.</p>
+<p aid:pstyle="NoIndent">When you <strong>Parley using threats of impending violence as leverage</strong>, you may use STR instead of CHA.</p>
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, your next attack against that same foe deals +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
