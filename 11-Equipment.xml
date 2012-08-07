@@ -40,7 +40,7 @@
 <p><em>Near</em>: It's useful for attacking if you can see the whites of their eyes. </p>
 <p><em>Far</em>: It's useful for attacking something in shouting distance.</p>
 <h3>Weapon List</h3>
-<p aid:pstyle="NoIndent">The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for  typical weapons of their type—a specific weapon could have different tags to represent its features.</p>
+<p aid:pstyle="NoIndent">The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for typical weapons of their type—a specific weapon could have different tags to represent its features.</p>
 <p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 15 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 60 coins, 2 Weight</span></p>
 <p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">Near, Far, 100 coins, 1 Weight</span></p>

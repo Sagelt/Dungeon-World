@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage, 1 piercing)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is  attracted by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. Give the greedy snake your treasures and she might just leave you alone.<em>Instinct</em>: To devour</p>
+<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is attracted by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. Give the greedy snake your treasures and she might just leave you alone.<em>Instinct</em>: To devour</p>
 <ul><li>Lure prey with lies and illusions</li>
 <li>Lash out at light</li>
 <li>Devour</li></ul>
@@ -93,7 +93,7 @@
 <p aid:pstyle="MonsterStats">Spear (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Dragon connection</p>
-<p aid:pstyle="MonsterDescription">Some are wont to lump these little, rat-like dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The koboldsare beholden slaves to dragons and were, in ancient times, their lorekeepers and sorcerer-servants. Their clans, with  names like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a kobold means more are near—and if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
+<p aid:pstyle="MonsterDescription">Some are wont to lump these little, rat-like dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The koboldsare beholden slaves to dragons and were, in ancient times, their lorekeepers and sorcerer-servants. Their clans, with names like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a kobold means more are near—and if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
 <ul><li>Lay a trap</li>
 <li>Call on dragons or draconic allies</li>
 <li>Retreat and regroup</li></ul>
