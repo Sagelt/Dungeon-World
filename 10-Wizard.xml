@@ -7,7 +7,7 @@
 <p>Let them cast their sidelong glances. Let them call you “warlock” or “diabolist.” Who among them can hurl fireballs from their eyes?</p>
 <p>Yeah. We didn’t think so.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Elf</em>: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr</p> 
+<div id="names"><p><em>Elf</em>: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr</p>
 <p><em>Human</em>: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
@@ -97,7 +97,7 @@
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
-<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>,stake one of your prepared spells of equal or higher level on the defense and roll+Int.</p> 
+<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>,stake one of your prepared spells of equal or higher level on the defense and roll+Int.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is countered and has no effect on you.</p>
 <p aid:pstyle="NoIndent"> On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are effected as usual.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>

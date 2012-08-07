@@ -3,7 +3,7 @@
 <ClassName>Paladin</ClassName>
 <Body><div id="intro"><p aid:pstyle="NoIndent">Hell awaits. An eternity of torment in fire or ice or whatever best suits the sins of the damned throngs of Dungeon World. All that stands between the pits of that grim torture and salvation is you. Holy man, armored war machine, templar of the Good and the Light, right? The Cleric may say his prayers at night to the gods, dwelling in their heavens. The Fighter may wield his sharp sword in the name of “good” but you know. Only you.</p>
 <p>Eyes, hands, and sweet killing blow of the gods, you are. Yours is the gift of righteousness and virtue. Of justice. Vision, too. A purity of intent that your companions do not have.
-So guide these fools, Paladin. Take up your holy cause and bring salvation to the wastrel world.</p> 
+So guide these fools, Paladin. Take up your holy cause and bring salvation to the wastrel world.</p>
 <p>Vae victis, right?</p></div>
 <h2>Names</h2>
 <div id="names"><p>Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius</p></div>
@@ -24,7 +24,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">When you <strong>pray for guidance, even for a moment, and ask, "What here is evil?"</strong> the GM will tell you, honestly.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Lay on Hands (Cha)</h3>
-<p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA.</p> 
+<p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA.</p>
 <p aid:pstyle="NoIndent">On a 10+ you heal 1d8 damage or remove one disease.</p>
 <p aid:pstyle="NoIndent">On a 7-9, they are healed, but the damage or disease is transferred to you.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
