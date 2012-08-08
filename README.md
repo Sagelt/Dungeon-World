@@ -11,4 +11,4 @@ What we hope you do with it is make new stuff: make classes, adventures, moves, 
 ## Contributing
 In case you're a roleplaying game geek who also wants to contribute directly, we're open to pull requests. Typo fixes and editing would be wonderful.
 
-If you start a pull request please also modify a1-Thanks.xml and add your name to the Contributors section so we can thank you.
+If you start a pull request please also modify text/appendices/Thanks.xml and add your name to the Contributors section so we can thank you.

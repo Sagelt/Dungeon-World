@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Druid</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Cast your eyes around the fire. What has brought you to these people, stinking of the dust and sweat of the city? Perhaps it is a kindness—do you protect them as the mother bear watches over her cubs? Are they your pack, now? Strange brothers and sisters you have. Whatever your inspiration, they would certainly fail without your sharp senses and sharper claws.</p>
+<p>You are of the sacred spaces; you are born of soil and wear the marks of her spirits on your skin. You may have had a life before, maybe you were a city dweller like them, but not now. You've given up that static shape. Listen to your allies pray to their carved stone gods and polish their silver shells. They speak of the glory they'll find back in that festering town you left behind.</p>
+<p>Their gods are children, their steel is false protection. You walk the old ways, you wear the pelts of the earth itself. You'll take your share of the treasure, but will you ever walk as one of them? Only time will tell.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Hycorax, Ethanwe, Sinathel, Demanor, Menoliir, Mithralan, Taeros, Aegor</p>
+<p aid:pstyle="NoIndent"><em>Halfling</em>: Tanner, Dunstan, Rose, Ivy, Robard, Mab, Thistle, Puck, Anne, Serah</p>
+<p aid:pstyle="NoIndent"><em>Human</em>: Elana, Obelis, Herran, Syla, Andanna, Siobhan, Aziz, Pelin, Sibel, Nils, Wei</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Wise eyes, wild eyes, haunting eyes</p>
+<p aid:pstyle="NoIndent">Furry hood, messy hair, braided hair</p>
+<p aid:pstyle="NoIndent">Ceremonial garb, practical leathers, weathered hides</p></div>
+<h2>Stats</h2>
+<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
+<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
+<p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p></div>
+<p>Your base damage is <span id="Damage">d6</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
+<p aid:pstyle="NoIndent">The sap of the elder trees flows within you. In additions to any other attunements, the Great Forest is always considered your Land.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">As your people learned to bind animals to field and farm, so to are you bound to them. You may always take the shape of any domesticated animal, in addition to your normal options.</p>
+<h3 aid:pstyle="MoveName">Halfling</h3>
+<p aid:pstyle="NoIndent">You sing the healing songs of spring and brook. When you Make Camp, you and your allies heal +1d6.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<div id="BornoftheSoil"><h3 aid:pstyle="BasicMoveName">Born of the Soil</h3>
+<p aid:pstyle="NoIndent">You learned your magic in a place whose spirits are strong and ancient and they’ve marked you as one of their own. No matter where you go, they live within you and allow you to take their shape. Choose one of the following. It is the Land to which you are attuned—when using Shapeshifter you may, for free, take the shape of any animal who might live in your Land.</p>
+<ul><li aid:pstyle="Option">The Great Forests</li>
+<li aid:pstyle="Option">The Whispering Plains</li>
+<li aid:pstyle="Option">The Vast Desert</li>
+<li aid:pstyle="Option">The Stinking Mire</li>
+<li aid:pstyle="Option">The River Delta</li>
+<li aid:pstyle="Option">The Sapphire Islands</li>
+<li aid:pstyle="Option">The Open Sea</li>
+<li aid:pstyle="Option">The Towering Mountains</li>
+<li aid:pstyle="Option">The Frozen North</li>
+<li aid:pstyle="Option">The Blasted Wasteland</li></ul>
+<p aid:pstyle="NoIndent">Chose a Tell—a physical attribute that marks you as Born of the Soil—that reflects the spirit of your Land. It may be an animal feature like antlers or leopard’s spots or something more general, hair like leaves or eyes of glittering crystal. Your Tell remains no matter what shape you take.</p></div>
+<div id="StudiedEssence"><h3 aid:pstyle="BasicMoveName">Studied Essence</h3>
+<p aid:pstyle="NoIndent">When you <strong>spend time in contemplation of an animal spirit</strong>, you may add its shape to those you can assume using Shapeshifter.</p></div>
+<div id="ByNatureSustained"><h3 aid:pstyle="BasicMoveName">By Nature Sustained</h3>
+<p aid:pstyle="NoIndent">You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.</p></div>
+<div id="SpiritTongue"><h3 aid:pstyle="BasicMoveName">Spirit Tongue</h3>
+<p aid:pstyle="NoIndent">The grunts, barks, chirps and calls of the creatures of the wild are as language to you. You can understand any animal native to your Land or akin to one whose essence you have studied.</p></div>
+<div id="Shapeshifter"><h3 aid:pstyle="BasicMoveName">Shapeshifter</h3>
+<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis.</p>
+<p>On a 10+ hold 3.</p>
+<p>On a 7-9 hold 2.</p>
+<p>On a 6- hold 1 in addition to whatever the GM says.</p>
+<p>You may take on the physical form of any animal whose essence you have studied or who lives in your Land: you and your possessions meld into a perfect copy of the animal’s form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to natural form. At any time, you may spend all your hold and revert to your natural form.</p></div></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
+<p aid:pstyle="NoIndent">Destroy a symbol of civilization.</p>
+<h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Help something or someone grow</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Eliminate an unnatural menace</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You carry some token of your Land, describe it. Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Hide armor  (1 armor, 1 weight)</li>
+<li aid:pstyle="Option">Wooden shield (+1 armor, 1 weight)</li></ul>
+Choose your armament:
+<ul><li aid:pstyle="Option">Shillelagh (Close, 2 weight)</li>
+<li aid:pstyle="Option">Staff (Close, 2-handed, 1 weight)</li>
+<li aid:pstyle="Option">Spear (Close, Thrown, Near, 1 weight)</li></ul>
+Choose one:
+<ul><li aid:pstyle="Option">Adventuring Gear (1 weight)</li>
+<li aid:pstyle="Option">Poultices and herbs (2 uses,  1 weight)</li>
+<li aid:pstyle="Option">Halfling pipeleaf (1 weight)</li>
+<li aid:pstyle="Option">3 Antitoxin (0 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>____________________ smells more like prey than a hunter.</p>
+<p>The spirits spoke to me of a great danger that follows ______________.</p>
+<p>I have showed ________________ a secret rite of the Land.</p>
+<p>___________ has tasted my blood and I theirs. We are bound by it.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Hunter’s Brother</h3>
+<p aid:pstyle="NoIndent">Choose one move from the Ranger class list.</p>
+<h3 aid:pstyle="MoveName">Red of Tooth and Claw</h3>
+<p aid:pstyle="NoIndent">When you <strong>are in an appropriate animal form</strong> (something dangerous) increase your damage to d8.</p>
+<h3 aid:pstyle="MoveName">Communion of Whispers</h3>
+<p aid:pstyle="NoIndent">When <strong>you spend time in a place, making note of its resident spirits and calling on the spirits of the land</strong>, roll+Wis. You will be granted a vision of significance to you, your allies and the spirits around you.</p>
+<p>On a 10+ the vision will be clear and helpful to you.</p>
+<p>On a 7-9 the vision is unclear, its meaning murky.</p>
+<p>On a miss, the vision is upsetting, frightening or traumatizing. The GM will describe it. Take -1 forward.</p>
+<h3 aid:pstyle="MoveName">Barkskin</h3>
+<p aid:pstyle="NoIndent">So long as your feet touch the ground you have +1 armor.</p>
+<h3 aid:pstyle="MoveName">Eyes of the Tiger</h3>
+<p aid:pstyle="NoIndent">When you mark an animal (with mud, dirt, or blood) you can see through that animal’s eyes as if they were your own, not matter what distance separates you. Only one animal at a time may be marked in this way.</p>
+<h3 aid:pstyle="MoveName">Shed</h3>
+<p aid:pstyle="NoIndent">When you <strong>take damage while in a spirit shape</strong> you may choose to revert to your natural form to negate the damage.</p>
+<h3 aid:pstyle="MoveName">Thing-Talker</h3>
+<p aid:pstyle="NoIndent">You see the spirits in the sand, the sea and the stone. You may now apply your Spirit Tongue, Shapeshifter and Studied Essence moves to inanimate, natural objects (plants and rocks) or creatures made thereof, as well as animals.  Thing-Talker forms can be exact copies or can be mobile vaguely humanoid-shaped entities.</p>
+<h3 aid:pstyle="MoveName">Formcrafter</h3>
+<p aid:pstyle="NoIndent">When you <strong>shapeshift</strong> choose a stat: you take +1 ongoing to rolls using that stat while in shifted. The GM will choose a stat, too: you take -1 ongoing to rolls using that stat while shifted.</p>
+<h3 aid:pstyle="MoveName">Elemental Mastery</h3>
+<p aid:pstyle="NoIndent">When you <strong>call on the primal spirits of fire, water, earth or air to perform a task for you</strong> roll+Wis.</p>
+<p>On a 10+ choose two.</p>
+<p>On a 7-9 choose one.</p>
+<p>On a miss, some catastrophe occurs as a result of your calling.</p>
+<ul><li>The effect you desire comes to pass</li>
+<li>You avoid paying nature’s price </li>
+<li>You retain control</li></ul>
+<h3 aid:pstyle="MoveName">Balance</h3>
+<p aid:pstyle="NoIndent">When you <strong>deal damage</strong>, take 1 balance. When you touch someone and channel the spirits of life you may spend balance. For each balance spent, heal 1d4 hp.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Embracing No Form</h3>
+<p aid:pstyle="NoIndent">When you use your Shapeshifter ability, roll 1d4 and add that total to your hold.</p>
+<h3 aid:pstyle="MoveName">Doppleganger’s Dance</h3>
+<p aid:pstyle="NoIndent">You are able to use your Studied Essence move on specific individuals, including men, elves or the like. Suppressing your Tell is possible, but if you do, take -1 ongoing until you return to your own form.</p>
+<h3 aid:pstyle="MoveName">Blood and Thunder</h3>
+<p aid:pstyle="Requirement">Replaces: Red of Tooth and Claw</p>
+<p aid:pstyle="NoIndent">When you <strong>are in an appropriate animal form</strong> (something dangerous) increase your damage to d10.</p>
+<h3 aid:pstyle="MoveName">The Druid Sleep</h3>
+<p aid:pstyle="NoIndent">When you take this move, the next opportunity that you have safety and time to spend in an appropriate location, you may attune yourself to a new Land. This effect occurs only once and the GM will tell you how long it will take and what cost you must pay. From there on, you are considered to be Born of this Soil in both Lands and all the moves related to it act accordingly.</p>
+<h3 aid:pstyle="MoveName">World-Talker</h3>
+<p aid:pstyle="Requirement">Requires: Thing-Talker</p>
+<p aid:pstyle="NoIndent">You see the patterns that make up the fabric of the world. You may now apply your Spirit Tongue, Shapeshifter and Studied Essence moves to pure elements—fire, water, air and earth.</p>
+<h3 aid:pstyle="MoveName">Stalker’s Sister</h3>
+<p aid:pstyle="NoIndent">Choose one move from the Ranger class list.</p>
+<h3 aid:pstyle="MoveName">Formshaper</h3>
+<p aid:pstyle="Requirement">Requires: Formcrafter</p>
+<p aid:pstyle="NoIndent">You may increase your armor by 1 or deal an additional +1d4 damage while in your animal form. Choose which when you Shapeshift.</p>
+<h3 aid:pstyle="MoveName">Chimera</h3>
+<p aid:pstyle="NoIndent">When you use your Shapeshifter ability, you may create a merged form of up to three different shapes. You may be a bear with the wings of an eagle and the head of a ram, for example. Each feature will grant you a different move to make. Your Chimera form follows the same rules as Shapeshifter otherwise. </p>
+<h3 aid:pstyle="MoveName">Weather Weaver</h3>
+<p aid:pstyle="NoIndent">When you are under open skies when the sun rises the GM will ask you what the weather will be that day. Tell them whatever you like, it comes to pass.</p></div></Body></Root>
