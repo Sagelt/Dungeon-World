@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Folk of the Realm</h1>
-<Body><p aid:pstyle="MonsterName">Acolyte	</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Folk of the Realm</h1>
+<p aid:pstyle="MonsterName">Acolyte	</p>
 <p aid:pstyle="MonsterDescription">”Can’t all be the High Priest, they said. Can’t all wield the White Spire, they said. Scrub the floor, they told me. The Cthonic Overgod don’t want a messy floor, do he? They said it’d be enlightenment and magic. Feh. It’s bruised knees and dish-pan-hands. If only I’d been a cleric, instead.” <em>Instinct</em>: To serve dutifully</p>
 <ul><li>Follow dogma</li>
 <li>Offer eternal reward for mortal deeds</li></ul>
@@ -94,4 +95,4 @@
 <p aid:pstyle="MonsterDescription">It’s said that if you see a tinker on the road and you don’t offer him a swig of ale or some of your food that he’ll leave a curse of bad luck behind. A tinker is a funny thing. These strange folk often travel the roads between towns with their oddment carts and favorite mules. With a ratty dog and always a story to tell. Sometimes the mail, too, if you’re lucky and live in a place where Queen’s Post won’t go. If you’re kind, maybe they’ll sell you a rose that never wilts or a clock that chimes with the sound of faerie laughter. Or maybe they’re just antisocial peddlers. You never know, right? <em>Instinct</em>: To create</p>
 <ul><li>Offer an oddity at a price</li>
 <li>Spin tales of great danger and reward in far-off lands</li></ul>
-</Body></Root>
+</Story></Root>

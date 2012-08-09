@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Lower Depths</h1>
-<Body><p aid:pstyle="MonsterName">Aboleth	<span aid:cstyle="Tags">Group, Huge, Intelligent</span></p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story><h1>Lower Depths</h1>
+<p aid:pstyle="MonsterName">Aboleth	<span aid:cstyle="Tags">Group, Huge, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Tentacle (d8+3 damage)	18 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
@@ -93,4 +93,4 @@
 <p aid:pstyle="MonsterDescription">”The excavation uncovered what the reports called a basalt gate. Black stone carved with molten runes. When they dug it up, the magi declared it inert but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like men with red and orange skin, tall as an ogre but with a snakes tail where there legs ought to be. They were clothed, too —some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave but the sergeant wouldn’t listen. You’ve already read what happened next, sir. I know I’m the only one that got back, but what I said is true. The gate is open, now. This is just the beginning!” <em>Instinct</em>: To consume in flame</p>
 <ul><li>Summon elemental fire</li>
 <li>Melt away deception</li></ul>
-</Body></Root>
+</Story></Root>

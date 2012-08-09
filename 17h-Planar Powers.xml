@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Planar Powers</h1>
-<Body><p aid:pstyle="MonsterName">Angel	<span aid:cstyle="Tags">Solitary, Terrifying, Divine, Intelligent, Organized</span></p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Planar Powers</h1>
+<p aid:pstyle="MonsterName">Angel	<span aid:cstyle="Tags">Solitary, Terrifying, Divine, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats"> Sword of Flames(2d10·b+4 damage, ignores armor)	18 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
@@ -92,4 +93,4 @@
 <p aid:pstyle="MonsterDescription">All of mortal magic is just words. Spells are prayers, rote formula, runes cast, or songs sung. Letters, words, sentences, and syntax strung together in a language that the whole world itself might understand. By way of words we can make our fellows cry or exult, can paint pictures and whisper desire to the gods. No little wonder, then, that in all that power is intent. That every word we utter, if repeated and meaning or emotion given to it, can spark a kind of unintentional summoning. Word daemons are called by accident, appear at random and are often short-lived, but come to attend a particular word. Capricious, unpredictable and dangerous, yes—but possibly useful, depending on the word. <em>Instinct</em>: To further their word</p>
 <ul><li>Cast a spell related to their word</li>
 <li>Bring their word into abundance</li></ul>
-</Body></Root>
+</Story></Root>

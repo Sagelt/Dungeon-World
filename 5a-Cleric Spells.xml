@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet type="text/xsl" href="dungeon-world.xsl"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cleric Spells</h1>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Cleric Spells</h1>
 <div><h2>Rotes</h2>
 <p aid:pstyle="NoIndent">You gain access to all of your rotes every time you Commune without having to select them or count them toward your allotment of spells.</p>
 <div class="spell" name="Light" level="Rote"><p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
@@ -41,7 +41,7 @@
 <li>You must get help from ____</li>
 <li>It will require a lot of money</li>
 <li>You must sacrifice ____ to do it</li></ul>
-<p aid:pstyle="NoIndent">The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.</p> 
+<p aid:pstyle="NoIndent">The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Hold Person</span>	Level 3</p>
 <p aid:pstyle="NoIndent">Choose a creature you can see. Until you Cast a Spell or leave their presence they cannot act except to speak. If they're harmed this effect ends.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Revelation</span>	Level 5</p>
@@ -79,4 +79,5 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Consume Unlife</span>	Level 9</p>
 <p aid:pstyle="NoIndent">The mindless undead creature you touch is destroyed and you steal its death energy to heal yourself or the next ally you touch. The amount of damage healed is equal to the HP that the creature had remaining before you destroyed it.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Plague</span>	Level 9</p>
-<p aid:pstyle="NoIndent">Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to Cast a Spell.</p></div></Root>
+<p aid:pstyle="NoIndent">Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to Cast a Spell.</p></div>
+</Story></Root>

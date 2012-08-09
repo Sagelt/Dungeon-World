@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Swamp Denizens</h1>
-<Body><p aid:pstyle="MonsterName">Bakunawa	<span aid:cstyle="Tags">Solitary, Large, Intelligent, Messy, Forceful</span></p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Swamp Denizens</h1>
+<p aid:pstyle="MonsterName">Bakunawa	<span aid:cstyle="Tags">Solitary, Large, Intelligent, Messy, Forceful</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage, 1 piercing)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
@@ -150,4 +151,4 @@
 <p aid:pstyle="MonsterDescription">Spot a lantern floating in the darkness, lost traveler in the swamp. Hope—a beacon of shimmering light. You call out to it, but there’s no answer. It begins to fade and so you follow, sloshing through the muck, tiring at the chase, hoping you’re being led to safety. Such a sad tale that always ends in doom. These creatures are a mystery—some say they’re ghosts, others beacons of faerie light. Nobody knows the truth. They are cruel, however. All can agree on that. <em>Instinct</em>: To misguide</p>
 <ul><li>Lead someone astray</li>
 <li>Clear a path to the worst place possible</li></ul>
-</Body></Root>
+</Story></Root>

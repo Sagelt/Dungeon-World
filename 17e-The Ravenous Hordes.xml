@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Ravenous Hordes</h1>
-<Body><p aid:pstyle="MonsterName">Formian Drone	<span aid:cstyle="Tags">Horde, Organized, Cautious</span></p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story><h1>Ravenous Hordes</h1>
+<p aid:pstyle="MonsterName">Formian Drone	<span aid:cstyle="Tags">Horde, Organized, Cautious</span></p>
 <p aid:pstyle="MonsterStats">Bite (d6 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid</p>
@@ -140,4 +140,4 @@
 <p aid:pstyle="MonsterDescription">The triton ruling houses were chosen, they say, at the dawn of time. Granted lordship over all the races of the sea by some now-forgotten god. These bloodlines continue, passing rulership from father to daughter and mother to son through the ages. Each is allowed to rule their city in whatever way they choose—some alone or with their spouses, others in council of brothers and sisters. In ages past, they were known for their sagacity and bloodlines of even-temper were respected above all else. The tidecallers prophecy is changing that: nobles are expected to be strong, not wise. The nobles have begun to respond, and it is feared by some that the ancient blood is changing forever. It may be too late to turn back. Time and tide wait for none. <em>Instinct</em>: To lead</p>
 <ul><li>Stir tritons to war</li>
 <li>Call reinforcements</li></ul>
-</Body></Root>
+</Story></Root>

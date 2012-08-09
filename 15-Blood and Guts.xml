@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Blood and Guts</h1>
-<Body><p aid:pstyle="NoIndent">Death and dismemberment are common dangers for adventurers to face in Dungeon World. In the course of play, characters will take damage, heal, and maybe even die. A character's health is measure by their HP (HP being short for hit points). Damage subtracts from HP, which may lead to death. In the right conditions, or with medical or magical help, damage is healed and HP is restored.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Blood and Guts</h1>
+<p aid:pstyle="NoIndent">Death and dismemberment are common dangers for adventurers to face in Dungeon World. In the course of play, characters will take damage, heal, and maybe even die. A character's health is measure by their HP (HP being short for hit points). Damage subtracts from HP, which may lead to death. In the right conditions, or with medical or magical help, damage is healed and HP is restored.</p>
 <h2>HP</h2>
 <p aid:pstyle="NoIndent">A character's HP is a measure of their stamina, endurance, and health. More HP means the character can fight longer and endure more before facing Death's cold stare. Think of HP in the abstract—a character with high HP can't be hit in the head any more times than one with low HP—they just have greater stores of energy to expend before it comes to blows-to-the-head.</p>
 <p>Your class tells you how many HP you get. Your Constitution (the score, not the modifier) always comes into play as well so more Constitution means more HP. If your Constitution permanently changes during play you adjust your HP to reflect your new Constitution score. Unless your Constitution changes your maximum HP stays the same.</p>
@@ -121,4 +122,4 @@
 <li>Destroy something beautiful</li>
 <li>Upset the rightful order</li>
 <li>Harm an innocent</li></ul>
-</Body></Root>
+</Story></Root>

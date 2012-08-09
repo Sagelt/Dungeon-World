@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The World</h1>
-<Body><p aid:pstyle="NoIndent">Much of the adventuring life is spent in dusty, forgotten tombs or in places of terror and life-threatening danger. It's commonplace to awaken from a short and fitful rest, still deep in the belly of the world and surrounded by foes. When the time comes to emerge from these kinds of places—whether laden with the spoils of battle or beaten and bloody—an adventurer seeks out safety and solace.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>The World</h1>
+<p aid:pstyle="NoIndent">Much of the adventuring life is spent in dusty, forgotten tombs or in places of terror and life-threatening danger. It's commonplace to awaken from a short and fitful rest, still deep in the belly of the world and surrounded by foes. When the time comes to emerge from these kinds of places—whether laden with the spoils of battle or beaten and bloody—an adventurer seeks out safety and solace.</p>
 <p>These are the comforts of civilization; a warm bath, a meal of mead and bread, company of fellow men and elves and dwarves. Often, thoughts of returning to these places are all that keep an adventurer from giving up altogether. All fight for gold and glory but who doesn’t ache for a place to spend that gold and laugh around a fire, listening to tales of folly and adventure?</p>
 <p>This chapter covers the wider world - he grand and sweeping scope outside the dungeon. The always-marching movement of the GMs Fronts will shape the world and, in turn, the world reflects the actions the players take to stop or redirect them.</p>
 <h3>Steadings</h3>
@@ -164,4 +165,4 @@
 <p aid:pstyle="NoIndent">When <strong>two steadings both attack each other</strong> their forces meet somewhere between them and fight. If they're evenly matched they both get -Defenses and their troops return home. If one has the advantage they take -Defenses while the other takes -2 Defenses.</p>
 <h3>Other Updates</h3>
 <p aid:pstyle="NoIndent">The conditions above detail the most basic of interactions between steadings, of course the presence of your Fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players' actions and your fronts' effects on the world.</p>
-</Body></Root>
+</Story></Root>
