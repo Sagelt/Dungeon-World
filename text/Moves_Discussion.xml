@@ -2,7 +2,7 @@
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Moves Discussion</h1>
 <Story>
-<p aid:pstyle="NoIndent">This Chapter covers each move in a little more depth.</p>	
+<p aid:pstyle="NoIndent">This Chapter covers each move in a little more depth.</p>
 <h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
 <p aid:pstyle="Example">When you <Strong>attack an enemy in melee</Strong>, roll+Str.</p>
 <p aid:pstyle="Example">On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. </p>
@@ -74,11 +74,11 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <p aid:pstyle="ExampleDialogue">Octavia: Are you sure? Isn’t that what Hack and Slash is? Trading blows and stuff?</p>
 <p aid:pstyle="ExampleDialogue">GM: Yes, duh, of course. I need another cup of coffee–Hack and Slash it is, make your move!</p>
 <h2 aid:pstyle="BasicMoveName">Defend</h2>
-<p aid:pstyle="Example">When you <Strong>stand in defense of a person, item, or location</Strong> under attack, roll+Con.</p> 
+<p aid:pstyle="Example">When you <Strong>stand in defense of a person, item, or location</Strong> under attack, roll+Con.</p>
 <p aid:pstyle="Example">On a 10+, hold 3.</p>
 <p aid:pstyle="Example">On a 7–9, hold 1.</p>
 <p aid:pstyle="Example">As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:</p>
-<ul><li aid:pstyle="Exampleli">Redirect an attack from the thing you defend to yourself</li> 
+<ul><li aid:pstyle="Exampleli">Redirect an attack from the thing you defend to yourself</li>
 <li aid:pstyle="Exampleli">Halve the attack's effect or damage</li>
 <li aid:pstyle="Exampleli">Open up the attacker to an ally giving that ally +1 forward against the attacker</li>
 <li aid:pstyle="Exampleli">Deal damage to the attacker equal to your level</li></ul>
@@ -242,7 +242,7 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <li aid:pstyle="Exampleli">You are not entangled, ensorcelled, or tricked.</li></ul>
 <p>You can only carouse when you return triumphant. That's what draws the crowd of revelers to surround adventurers as they celebrate their latest haul. If you don't proclaim your success or your failure, then who would want to party with you anyway?</p>
 <h2 aid:pstyle="BasicMoveName">Supply</h2>
-<p aid:pstyle="Example">When you <Strong>go to buy something with gold on hand</Strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha.</p> 
+<p aid:pstyle="Example">When you <Strong>go to buy something with gold on hand</Strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha.</p>
 <p aid:pstyle="Example">On a 10+, you find what you're looking for at a fair price.</p>
 <p aid:pstyle="Example">On a 7–9, you'll have to pay more or settle for something that’s not exactly what you wanted, but close. The GM will tell you what your options are.</p>
 <h2 aid:pstyle="BasicMoveName">Recover</h2>
