@@ -24,12 +24,12 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Speak With Dead</span>	Level 1	<em>Death</em></p>
 <p aid:pstyle="NoIndent">A corpse converses with you briefly. It will answer any three questions you pose to it to the best of the knowledge it had in life and the knowledge it gained in death.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	<em>Ongoing</em></p>
-<p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and act for you. This  creates a zombie that follows your orders to the best of its limited abilities. Treat the zombie as a character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. The zombie also gets your choice of 1d4 of these traits:</p>
+<p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and act for you. This creates a zombie that follows your orders to the best of its limited abilities. Treat the zombie as a character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. The zombie also gets your choice of 1d4 of these traits:</p>
 <ul><li>It’s is talented. Give one stat a +2 modifier.</li>
 <li>It’s durable. It has +2 HP for each level you have.</li>
 <li>It has a functioning brain and can complete complex tasks.</li>
 <li> It does not appear obviously dead, at least for a day or two.</li></ul>
-<p aid:pstyle="NoIndent">The zombie lasts until it is destroyed by taking damage in excess of its HP, or until you  end the spell..</p>
+<p aid:pstyle="NoIndent">The zombie lasts until it is destroyed by taking damage in excess of its HP, or until you end the spell..</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Moderate Wounds</span>	Level 3</p>
 <p aid:pstyle="NoIndent">You staunch bleeding and set bones through magic. Heal an ally of 2d8 damage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Darkness</span>	Level 3	<em>Ongoing</em></p>
