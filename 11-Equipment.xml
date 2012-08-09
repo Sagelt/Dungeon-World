@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Equipment</h1>
-<Body><p aid:pstyle="NoIndent">The musty tombs and forgotten treasure troves of the world are filled with useful items. The Fighter can find a sharp new sword or the Thief might stumble across a deadly poison. Most items are mundane—not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The Fighter's signature weapon is never mundane.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Equipment</h1>
+<p aid:pstyle="NoIndent">The musty tombs and forgotten treasure troves of the world are filled with useful items. The Fighter can find a sharp new sword or the Thief might stumble across a deadly poison. Most items are mundane—not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The Fighter's signature weapon is never mundane.</p>
 <p>Each piece of equipment will have a number of tags. These will tell you something about how the equipment affects the character using it (like +Armor) or suggest something about the way it is used (like the Range tags). Like everything else in Dungeon World, these guide the fiction you’re creating in play. If a weapon is awkward, it might mean that you’re more likely to drop it when you fail that Hack and Slash roll.</p>
 <p>By no means is this an exhaustive list—feel free to create your own tags.</p>
 <h3>General Equipment Tags</h3>
@@ -253,15 +254,15 @@
 <p aid:pstyle="MagicItem">Sacred Herbs	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost wizard-monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+WIS:</p>
 <p aid:pstyle="NoIndent">On a 10+, the vision is clear and useful—yielding some valid information.</p>
- <p aid:pstyle="NoIndent">On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand.</p>
- <p aid:pstyle="NoIndent">On a miss, the GM will ask you, “What is it you fear most?” You must answer honestly, of course.</p>
+<p aid:pstyle="NoIndent">On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand.</p>
+<p aid:pstyle="NoIndent">On a miss, the GM will ask you, “What is it you fear most?” You must answer honestly, of course.</p>
 <p aid:pstyle="MagicItem">The Sartar Duck	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">An odd, hand-carved wooden duck. Who would make such a funny thing? While you bear it, you find yourself an exceptionally gifted storyteller—no matter the language, you can make yourself and your story clear to any audience. They will understand your meaning, if not your words.</p>
 <p aid:pstyle="MagicItem">Tears of Annalise	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed by two different people, they bind the swallowers together—when either feels strong emotions (particularly sadness, loss, fear or desire) the other feels it, as well. The effects last until one spills the blood of the other.</p>
 <p aid:pstyle="MagicItem">Teleportation Room	<span aid:cstyle="Tags">Slow</span></p>
 <p aid:pstyle="NoIndent">James Ninefingers, eccentric genius mage, created these room-sized magical apparati. A stone room etched with runes and scribblings, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+INT.</p>
- <p aid:pstyle="NoIndent">On a 10+, you arrive exactly where you’d intended.</p>
+<p aid:pstyle="NoIndent">On a 10+, you arrive exactly where you’d intended.</p>
 <p aid:pstyle="NoIndent">On a 7–9, the GM chooses a safe location nearby.</p>
 <p aid:pstyle="NoIndent">On a miss, you end up someplace. Maybe it’s nearby? It’s definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
 <p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">1 Armor, 1 Weight</span></p>
@@ -277,5 +278,5 @@
 <p aid:pstyle="MagicItem">Violation Glaive	<span aid:cstyle="Tags">Reach, 2 Weight</span></p>
 <p aid:pstyle="NoIndent">A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you Hack and Slash on a 10+ you have an additional option: you can deal your normal damage, let them counter attack you, and instill the emotion of your choice (maybe fear, reverence, or trust)</p>
 <p aid:pstyle="MagicItem">Vorpal Sword	<span aid:cstyle="Tags">Close, 3 Piercing, 2 Weight</span></p>
-<p aid:pstyle="NoIndent">Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another—the limb from the body or folk from their lives. When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.</p></Body>
-</Root>
+<p aid:pstyle="NoIndent">Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another—the limb from the body or folk from their lives. When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.</p>
+</Story></Root>

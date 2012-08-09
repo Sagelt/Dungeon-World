@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
 <h1>Monsters</h1>
-<Body><p aid:pstyle="NoIndent">Great heroes need horrendous antagonists. This section is about how to create and play as those antagonists—from the lowly goblin warrior to the hellish demon.</p>
+<p aid:pstyle="NoIndent">Great heroes need horrendous antagonists. This section is about how to create and play as those antagonists—from the lowly goblin warrior to the hellish demon.</p>
 <h2>Using Monsters</h2>
 <p aid:pstyle="NoIndent">A monster is any living (or undead) thing that stands in the players' way.</p>
 <p>How you use these monsters follows directly from your Agenda and Principles. Stay true to your principles, use your moves and pursue your agenda—you can't go wrong. </p>
@@ -152,5 +152,4 @@
 <p aid:pstyle="NoIndent">Ruins dot the countryside of Dungeon World. Old bastions of long-forgotten civilization fallen to decay, to monsters, or to the whim of a vengeful god. These ruins often cover a much more dangerous truth—catacombs and underground complexes lousy with traps and monsters. Gold, too. Which is why you're here. Why you're locked in mortal combat with a tribe of spiteful dark elves. Battling stone giants in caverns the size of whole countries. Maybe, though, you're the noble souls who've travelled to the world's heart to put an end to the Apocalypse Dragon—the beast who, it is said, will one day swallow the sun and kill us all. We appreciate it, really. We'll all pray for you.</p>
 <h3>Planar Powers</h3>
 <p aid:pstyle="NoIndent">Sometimes, monsters do not come from Dungeon World at all. Beyond the mountains at the edge of the world or below the deepest seas, the sages and wise old priests say that there are gateways to the lands beyond. They speak of elysian fields; rivers of sweet wine and maidens dancing in fields of gold. They tell tales of the paradise of heavens to be found past the Planar Door. Tales tell, too, of the Thousandfold Hell. Of the swirling Elemental Vortex and the devils that wait for the stars to align so they can enter Dungeon World and wreak their bloody havoc. You must be curious to know if these tales are true? What will you see when the passage to the beyond is opened?</p>
-</Body>
-</Root>
+</Story></Root>

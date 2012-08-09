@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<ClassName>Wizard</ClassName>
-<Body><div id="intro"><p aid:pstyle="NoIndent">Dungeon World has rules. Not the laws of men or the rule of some petty tyrant. Bigger, better rules. You drop something—it falls. You can’t make something out of nothing. The dead stay dead, right?</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1 aid:pstyle="ClassName">Wizard</h1>
+<div id="intro"><p aid:pstyle="NoIndent">Dungeon World has rules. Not the laws of men or the rule of some petty tyrant. Bigger, better rules. You drop something—it falls. You can’t make something out of nothing. The dead stay dead, right?</p>
 <p>Oh, the things we tell ourselves to feel better about the long, dark nights.</p>
 <p>You’ve spent so very long poring over those tomes of yours. The experiments that nearly drove you mad and all the botched summonings that endangered your very soul. For what? For power. What else is there? Not just the power of King or Country but the power to boil a man's blood in his veins. To call on the thunder of the sky and the churn of the roiling earth. To shrug off the rules the world holds so dear.</p>
 <p>Let them cast their sidelong glances. Let them call you “warlock” or “diabolist.” Who among them can hurl fireballs from their eyes?</p>
@@ -130,4 +130,4 @@
 <h3 aid:pstyle="MoveName">Spell Augmentation</h3>
 <p aid:pstyle="NoIndent">When you <strong>deal damage to a creature</strong> you can shunt a spell's energy into them—end one of your ongoing spells and add the spell's level to the damage dealt.</p>
 <h3 aid:pstyle="MoveName">Self-Powered</h3>
-<p aid:pstyle="NoIndent">When you have time, arcane materials, and a safe space, you can create your own place of power. Describe to the GM what kind of power it is and how you're binding it to this place, the GM will tell you one kind of creature that will have an interest in your workings.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you have time, arcane materials, and a safe space, you can create your own place of power. Describe to the GM what kind of power it is and how you're binding it to this place, the GM will tell you one kind of creature that will have an interest in your workings.</p></div></Story></Root>

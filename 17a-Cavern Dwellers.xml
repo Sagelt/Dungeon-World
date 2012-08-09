@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cavern Dwellers</h1>
-<Body><p aid:pstyle="MonsterName">Ankheg	<span aid:cstyle="Tags">Group, Large</span></p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Cavern Dwellers</h1>
+<p aid:pstyle="MonsterName">Ankheg	<span aid:cstyle="Tags">Group, Large</span></p>
 <p aid:pstyle="MonsterStats">Bite (d8+1 damage)	10 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
@@ -132,5 +133,4 @@
 <p aid:pstyle="MonsterDescription">Long-forgotten, our last remaining ancestors dwell in caves in the wild parts of the world. Driven away by our cities and villages, our iron swords and our fire, these ape-men eat their meat raw with sharp-nailed hands and jagged teeth. They strike out at frontier villages wielding clubs and in overwhelming numbers to seize cattle, tools, and poor prisoners to drag into the hills. Known for their viciousness and their stink, they’re an old and dying race we’d all sooner forget existed. <em>Instinct</em>: To prey on civilization</p>
 <ul><li>Raid and retreat</li>
 <li>Use scavenged weapons or magic</li></ul>
-</Body>
-</Root>
+</Story></Root>

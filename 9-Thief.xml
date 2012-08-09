@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<ClassName>Thief</ClassName>
-<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p> 
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1 aid:pstyle="ClassName">Thief</h1>
+<div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p> 
 <p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle-trap? So, let them complain. When you’re done all this delving you’ll toast their hero’s graves.</p>
 <p>From your castle. Full of gold. You rogue.</p></div>
 <h2>Names</h2>
@@ -131,4 +131,4 @@
 <ul><li>Who will notice it's missing?</li>
 <li>What's its most powerful defense?</li>
 <li>Who will come after it?</li>
-<li>Who else wants it?</li></ul></div></Body></Root>
+<li>Who else wants it?</li></ul></div></Story></Root>

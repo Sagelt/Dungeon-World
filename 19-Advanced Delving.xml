@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>”Hacking” Dungeon World</h1>
-<Body><p aid:pstyle="NoIndent">Dungeon World portrays a specific kind of fantasy adventure – one with elves and dwarves, heroes and villains and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different – maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf.  All that is possible (and, in fact, encouraged) with a little effort. This chapter will explain how you can turn this Dungeon World into <em>your</em> Dungeon World.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>”Hacking” Dungeon World</h1>
+<p aid:pstyle="NoIndent">Dungeon World portrays a specific kind of fantasy adventure – one with elves and dwarves, heroes and villains and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different – maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf.  All that is possible (and, in fact, encouraged) with a little effort. This chapter will explain how you can turn this Dungeon World into <em>your</em> Dungeon World.</p>
 <h2>Making Moves</h2>
 <p aid:pstyle="NoIndent">The best place to start your journey into hacking Dungeon World is with the moves. Many of the Fronts, Dangers and other elements of your game will already contain custom moves, so it’s a natural, easy place to start. You might want to create moves to reflect the effects of some particular threat ("When you go alone into the Unhallowed Halls…"). You might create moves to cover something that's particularly important to your setting ("When you swim in the dark waters…"). As you get more experienced you might create moves to expand a class, or create your own class entirely.</p>
 <h3>Getting Started</h3>
@@ -143,4 +144,4 @@
 <li>It's a product of the Old Wizards of the Red Tower: Construct, +5 HP</li>
 <li>It's from The Time Before Man: Primordial, +5 damage, +5 HP</li></ul>
 <p>When creating new monster questions you can either reinterpret existing monsters by answering the questions for them again or only use the new questions for new monsters. If the new questions you add or change are key to your vision of Dungeon World its best to redo all the monsters you use, if the question only applies to a specific kind of monster anyway you can just use it for new monsters.</p>
-</Body></Root>
+</Story></Root>

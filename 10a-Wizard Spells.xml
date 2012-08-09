@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Wizard Spells</h1>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1 aid:pstyle="ClassName">Wizard Spells</h1>
 <div><h2>Cantrips</h2>
 <p aid:pstyle="NoIndent">You prepare all of your cantrips every time you Prepare Spells without having to select them or count them toward your allotment of spells.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Light</span>	Cantrip</p>
@@ -75,4 +76,5 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Shelter</span>	Level 9	<em>Evocation</em></p>
 <p aid:pstyle="NoIndent">You create a structure out of pure magical power. It can be as large as a castle or as small as a hut, but is impervious to all non-magical damage. The structure endures until you leave it or you end the spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Perfect Summons</span>	Level 9	<em>Summoning</em></p>
-<p aid:pstyle="NoIndent">You teleport a creature to your presence. Name a creature or give a short description of a type of creature. If you named a creature, that creature appears before you. If you described a type of creature, a creature of that type appears before you.</p></div></Root>
+<p aid:pstyle="NoIndent">You teleport a creature to your presence. Name a creature or give a short description of a type of creature. If you named a creature, that creature appears before you. If you described a type of creature, a creature of that type appears before you.</p></div>
+</Story></Root>

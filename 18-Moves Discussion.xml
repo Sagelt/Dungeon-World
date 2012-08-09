@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
 <h1>Moves Discussion</h1>
-<Story>
 <p aid:pstyle="NoIndent">This Chapter covers each move in a little more depth.</p>	
 <h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
 <p aid:pstyle="Example">When you <Strong>attack an enemy in melee</Strong>, roll+Str.</p>
@@ -267,4 +266,5 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <p aid:pstyle="Example">This move is only for places where you've caused trouble, not every patch of civilization you enter. Being publicly caught up in someone else's trouble still triggers this move.</p>
 <p>Civilization generally means the villages, towns and cities of humans, elves, dwarves, and halflings but it can also apply to any relatively lawful establishment of monStrous species, such as orcs or goblins. If the PCs have stayed in a place as part of the community, itcounts as civilization.</p>
 <h2 aid:pstyle="BasicMoveName">Bolster</h2>
-<p aid:pstyle="Example">When you <Strong>spend your leisure time in study, meditation, or hard practice,</Strong> you gain preparation. If you prepare for a week or two, take 1 preparation. If you prepare for a month or longer, take 3. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Story></Root>
+<p aid:pstyle="Example">When you <Strong>spend your leisure time in study, meditation, or hard practice,</Strong> you gain preparation. If you prepare for a week or two, take 1 preparation. If you prepare for a month or longer, take 3. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p>
+</Story></Root>

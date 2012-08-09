@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
 <h1>The GM</h1>
-<Body><p aid:pstyle="NoIndent">This section is about the art and rules of being the Game Master (GM). There are many styles of GMing epic fantasy games with things like dragons and dungeons and brave adventurers but Dungeon World is designed for one of those styles in particular – high adventure in a world of elves, orcs, dragons and magic. These rules will help you run a game in that style.</p>
+<p aid:pstyle="NoIndent">This section is about the art and rules of being the Game Master (GM). There are many styles of GMing epic fantasy games with things like dragons and dungeons and brave adventurers but Dungeon World is designed for one of those styles in particular – high adventure in a world of elves, orcs, dragons and magic. These rules will help you run a game in that style.</p>
 <p>The characters have rules to follow when they roll dice and take actions.  The GM has rules to follow, too. You’ll be refereeing, adjudicating and narrating the world as you go and Dungeon World provides a framework to guide you in doing so.</p>
 <p>This chapter isn’t about “advice” for the GM or optional tips and tricks on how best to play Dungeon World. It’s a chapter with procedures and rules for taking on the role of the GM. Once you have some experience with the game, you may change those procedures and rules, but for now, consider them as important as any other rule in the game.</p>
 <h3>GMing Dungeon World: A Framework</h3>
@@ -162,4 +162,4 @@ Say <strong>what the rules demand</strong>. If a move has been triggered, yours 
 <p aid:pstyle="NoIndent">Challenge a character by looking at what they're good at. Give the Thief a lock to pick, show the Cleric evil gods to battle against. Give the Wizard magical mysteries to investigate. Show the Fighter some skulls he can crack. Give someone a chance to shine.</p>
 <p>As an alternative, challenge a character by looking at what they're bad at or what they've left unresolved. If the Bard has a long con running, what steps will he take to cover it up when someone figures him out? If the Wizard has been summoning demons, what happens when word gets out?</p>
 <p>This move can give a character the spotlight—even if just for a moment. Try to give everyone a chance to be the focus of play using this move from session to session.</p>
-</Body></Root>
+</Story></Root>

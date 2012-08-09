@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Moves in Detail</h1>
-<Body><h1>Multiclass Moves</h1>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Moves in Detail</h1>
+<h1>Multiclass Moves</h1>
 <h2>Multiclass Dabbler</h2>
 <h2>Multiclass Initiate</h2>
 <h2>Multiclass Master</h2>
@@ -64,5 +65,5 @@
 <h2>Polymorph</h2>
 <p aid:pstyle="NoIndent">In some cases the GM may choose the last option more than once to list each unexpected benefit or weakness.</p>
 <h2>Summon Monster</h2>
-<p aid:pstyle="NoIndent">The exact type of monster you get is up to the GM, based on your choices. If you want a non-reckless swimming creature you might get a water elemental, a 1d8 damage +2 Str creature might be a barbed devil. Whatever the creature is you still get to play it.</p></Body>
-</Root>
+<p aid:pstyle="NoIndent">The exact type of monster you get is up to the GM, based on your choices. If you want a non-reckless swimming creature you might get a water elemental, a 1d8 damage +2 Str creature might be a barbed devil. Whatever the creature is you still get to play it.</p>
+</Story></Root>

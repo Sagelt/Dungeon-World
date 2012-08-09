@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<ClassName>Fighter</ClassName>
-<Body><div id="intro"><p aid:pstyle="NoIndent">It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1 aid:pstyle="ClassName">Fighter</h1>
+<div id="intro"><p aid:pstyle="NoIndent">It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.</p>
 <p>Forget them.</p>
 <p>You do this for the guts and the glory. The scream of battle and the hot hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, Fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
 <p>You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.</p></div>
@@ -147,4 +147,4 @@
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's weaponry, ask the GM how much damage they do.</p>
 <h3 aid:pstyle="MoveName">Superior Warrior</h3>
-<p aid:pstyle="NoIndent">When you Hack and Slash on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you Hack and Slash on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.</p></div></Story></Root>

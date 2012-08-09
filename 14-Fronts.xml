@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Fronts</h1>
-<Body><p aid:pstyle="NoIndent">Fronts are secret tomes of GM knowledge. Each is a collection of linked Dangers—threats to the characters specifically and to the people, places, and things the characters care about. It also includes one or more Impending Dooms, the horrible things that will happen without the players' intervention. “Fronts” comes, of course, from “fighting on two fronts” which is just where you want the characters to be—surrounded by threats, danger and adventure.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story>
+<h1>Fronts</h1>
+<p aid:pstyle="NoIndent">Fronts are secret tomes of GM knowledge. Each is a collection of linked Dangers—threats to the characters specifically and to the people, places, and things the characters care about. It also includes one or more Impending Dooms, the horrible things that will happen without the players' intervention. “Fronts” comes, of course, from “fighting on two fronts” which is just where you want the characters to be—surrounded by threats, danger and adventure.</p>
 <p>Fronts are built outside of active play. They’re the solo fun that you get to have between games—rubbing your hands and cackling evilly to yourself as you craft the foes with which to challenge your PCs. You may tweak or adjust the Fronts during play (who knows when inspiration will strike?) but the meat of them comes from preparation between sessions.</p>
 <p>Fronts are designed to help you organize your thoughts on PC opposition. They’re here to contain your notes, ideas, and plans for these opposing forces. When you’re in a bind your Fronts are where you’re going to turn and say “oh, so <em>that’s</em> what I should do”. Consider them an organizational tool, as inspiration for present and future mayhem.</p>
 <p>When you’re building Fronts, think about all the creepy dungeon denizens, the rampaging hordes and ancient cults that you’d like to see in your game. Think in broad strokes at first and then, as you build Dangers into your Fronts, you’ll be able to narrow those ideas down. When you write your Campaign Front, think about session-to-session trends. When you write your Adventure Fronts, think about what’s important right here and right now. When you’re done writing a few Fronts you’ll be equipped with all the tools you’ll need to challenge your players and ready to run Dungeon World.</p>
@@ -210,5 +211,4 @@
 <ul><li>Who will be the Champion?</li>
 <li>How will Lux respond to the holy light?</li>
 <li>Will the College be able to recruit Avon?</li></ul>
-</Body>
-</Root>
+</Story></Root>
