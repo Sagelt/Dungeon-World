@@ -5,16 +5,16 @@
 <h2>Multiclass Initiate</h2>
 <h2>Multiclass Master</h2>
 <p aid:pstyle="NoIndent">For the purposes of these multiclass moves the Cleric's Commune and Cast a Spell count as one move. Likewise for the Wizard's Spellbook, Prepare Spells, and Cast a Spell.</p>
-<p>If a multiclass move grants you the ability to cast spells you prepare and cast spells as if you had one level in the casting class. Whenever you level up you increase the level you prepare and cast spells at too.</p>
-<p aid:pstyle="Example">When Ajax gains 3rd level he takes Multiclass Dabbler to get Commune and Cast a Spell from the Cleric class. He casts and prepares spells like a first level Cleric: first level spells and rotes only, a total of 2 levels of spells prepared.</p>
+<p>When you first select a multiclass move that grants you the ability to cast spells you prepare and cast spells as if you had one level in the casting class. Every additional time you  level up you increase the level you prepare and cast spells at by one.</p>
+<p aid:pstyle="Example">When Ajax gains 3rd level he takes Multiclass Dabbler to get Commune and Cast a Spell from the Cleric class. He casts and prepares spells like a first level Cleric: first level spells and rotes only, a total of 2 levels of spells prepared. When he later gains 4th level, he prepares and casts spells as a second level Cleric.</p>
 <h1>Bard Moves</h1>
 <h2>Bardic Lore</h2>
-<p aid:pstyle="NoIndent">Treat the areas of your lore like books. Is the upwards-flowing waterfall you just came across something important that would be covered in a book called "On Spells and Magicks?" If so, your Bardic Lore applies.</p>
+<p aid:pstyle="NoIndent">Treat the areas of your lore like books. Is the upwards-flowing waterfall you just came across something important that would be covered in a book or college course called "On Spells and Magicks?" If so, your Bardic Lore of that name applies.</p>
 <p>If you care enough to ask a question about it then it's probably important. Don't second guess yourself: if you care enough to want to know more about it then it has some importance.</p>
 <h2>Charming and Open</h2>
 <p aid:pstyle="NoIndent">Speaking frankly means you really are being open with them, not just giving the appearance of openness. It's your true sincerity that puts others at ease and lets you get information out of them; if you're trying to maintain a lie at the same time you won't get very far.</p>
 <h2>It Goes To Eleven</h2>
-<p aid:pstyle="NoIndent">Of course the creature you effect must have some way of harming your target of choice. Spurring a wolf into a frenzy to attack the eagle lord circling above doesn't do any good, the wolf doesn't have a way to attack it.</p>
+<p aid:pstyle="NoIndent">Of course, the creature you effect must have some way of harming your target of choice. Spurring a wolf into a frenzy to attack the eagle lord circling above doesn't do any good, the wolf doesn't have a way to attack it.</p>
 <h2>An Ear for Magic</h2>
 <p aid:pstyle="NoIndent">Acting on the answers can mean acting against them or taking advantage of them. Either way you take +1 forward.</p>
 <h1>Cleric</h1>
@@ -22,12 +22,12 @@
 <p aid:pstyle="NoIndent">If you like you can prepare the same spell more than once.</p>
 <h1>Cleric Spells</h1>
 <h2>Guidance</h2>
-<p aid:pstyle="NoIndent">It's up the the creativity of your deity (and the GM) to communicate as much as possible through the motions and gestures of you deity's symbol. You don't get visions or a voice from heaven, just some visual cue of what your deity would have you do (even if it's not in your best interest).</p>
+<p aid:pstyle="NoIndent">It's up to the creativity of your deity (and the GM) to communicate as much as possible through the motions and gestures of you deity's symbol. You don't get visions or a voice from heaven, just some visual cue of what your deity would have you do (even if it's not in your best interest).</p>
 <h2>Magic Weapon</h2>
 <p aid:pstyle="NoIndent">Casting Magic Weapon on the same weapon again has no effect. No matter how many times you cast it on the same weapon it's still just magic +1d4 damage.</p>
-<p>Magic though is nothing to be scoffed at. Having a magic weapon may give you an advantage against some of the stranger beasts of Dungeon World, ghosts and the sort. The exact effects depend on the monster and circumstances, so make the most of it.</p>
+<p>That said, even a weak enchantment is nothing to be scoffed at. Having a magic weapon may give you an advantage against some of the stranger beasts of Dungeon World, ghosts and the like. The exact effects depend on the monster and circumstances, so make the most of it.</p>
 <h2>Animate Dead</h2>
-<p aid:pstyle="NoIndent">Treating the zombie as your character means you make moves with it's ability scores based on the fiction, just like always. Unless it's brain is functioning on its own the zombie can't do much besides follow the last order it was given, so you'd better stay close. Even if its brain works it's still bound to follow your orders.</p>
+<p aid:pstyle="NoIndent">Treating the zombie as your character means you make moves with its stats based on the fiction, just like always. Unless its brain is functioning on its own, the zombie can't do much besides follow the last order it was given, so you'd better stay close. Even if its brain works it's still bound to follow your orders.</p>
 <h1>Fighter Moves</h1>
 <h2>Signature Weapon</h2>
 <p aid:pstyle="NoIndent">The base description you choose is just a description. Choosing a spear doesn't give you Close range, for example. You could choose a spear as the description, then Hand as the range. Your spear is something special, or your technique with it is different, just describe why your weapon has the tags you've chosen.</p>
@@ -40,27 +40,27 @@
 <p aid:pstyle="NoIndent">Your +1 forward applies to anything you do based on your knowledge of the spell's effects: defying it, defending against it, using it to your advantage, etc.</p>
 <h1>Ranger Moves</h1>
 <h2>Command</h2>
-<p aid:pstyle="NoIndent">Your bonuses only applies when your animal is doing something it's trained in. An animal not trained to attack monsters won't be any help when you're attacking a otyugh.</p>
+<p aid:pstyle="NoIndent">Your bonuses only apply when your animal is doing something it's trained in. An animal not trained to attack monsters won't be any help when you're attacking an otyugh.</p>
 <h1>Thief Moves</h1>
 <h2>Backstab</h2>
 <p aid:pstyle="NoIndent">Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you're fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre its until they've had time to heal up (or protect the wound you left).</p>
 <h2>Poisoner</h2>
-<p aid:pstyle="NoIndent">In order to make more doses of your chosen poison you need to be reasonably able to gather the required materials. If you're locked up at the top of a tower you're not going to be able to get the materials you need of course.</p>
+<p aid:pstyle="NoIndent">In order to make more doses of your chosen poison you need to be reasonably able to gather the required materials. If you're locked up at the top of a tower you're not going to be able to get the materials you need.</p>
 <h2>Wealth and Taste</h2>
 <p aid:pstyle="NoIndent">In order to use this move it's really got to be your most valuable possession. It's the honest value you place on it that draws others, no lies.</p>
 <h2>Disguise</h2>
-<p aid:pstyle="NoIndent">Your disguise covers your appearance and any basics like accents and limps. It doesn't grant you any special knowledge of the target, so if someone asks you what your favorite color is you'd better think fast. Defying Danger with Cha is a common part of maintaining a Disguise.</p>
+<p aid:pstyle="NoIndent">Your disguise covers your appearance and any basics like accents and limps. It doesn't grant you any special knowledge of the target, so if someone asks you what your favorite color is you'd better think fast. Defying Danger with CHA is a common part of maintaining a Disguise.</p>
 <h1>Wizard Moves</h1>
 <h2>Prepare Spells</h2>
-<p aid:pstyle="NoIndent">You can prepare the same spell twice if you like.</p>
+<p aid:pstyle="NoIndent">You can prepare the same spell more than once if you like.</p>
 <h2>Empowered Magic</h2>
 <p aid:pstyle="NoIndent">Maximizing the effects of a spell is simple for spells that involve a roll: a maximized Magic Missile does 8 damage. In other cases it's down to the circumstances. A maximized Identify might result in far more information than expected. If there's no clear way to maximize it you can't choose that option.</p>
 <p>Likewise for doubling the targets. If the spell doesn't have targets you can't choose to double them.</p>
 <h1>Wizard Spells</h1>
 <h2>Dispel Magic</h2>
-<p aid:pstyle="NoIndent">The exact effects depend on the circumstances. A goblin orkaster's spell might just be ended; a deity's consecration is probably just dimmed. The GM will tell you the likely effects of Dispeling a given effect before you cast.</p>
+<p aid:pstyle="NoIndent">The exact effects depend on the circumstances. A goblin orkaster's spell might just be ended, while a deity's consecration is probably just dimmed. The GM will tell you the likely effects of Dispelling a given effect before you cast.</p>
 <h2>Fireball</h2>
-<p aid:pstyle="NoIndent">"Nearby" means a few paces at most, depending on the circumstances.</p>
+<p aid:pstyle="NoIndent">"Nearby"depends on context; a few paces or so in an open space, considerably more in an enclosed room. Be careful!.</p>
 <h2>Polymorph</h2>
 <p aid:pstyle="NoIndent">In some cases the GM may choose the last option more than once to list each unexpected benefit or weakness.</p>
 <h2>Summon Monster</h2>
