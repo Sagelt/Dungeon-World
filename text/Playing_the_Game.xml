@@ -17,8 +17,7 @@
 <h3>Moves and Dice</h3>
 <p aid:pstyle="NoIndent">Most moves include the phrase “roll+stat” where “stat” is one of your character’s stat modifiers (CON for example). Unless the move tells you otherwise, that always means that you roll two dice and add their results to the value of the stat.Some moves will have you add some other value to your roll instead of a stat.</p>
 <p aid:pstyle="Example">I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two dice, got a one and a four. My total is six.</p>
-<p aid:pstyle="NoIndent">The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7-9 is still a success but it comes with compromises or cost. A 6 or lower is trouble.</p>
-<p>Each move will tell you what happens on a 10+ and a 7-9. Most moves won’t say what happens on a 6-, that’s up to the GM.</p>
+<p aid:pstyle="NoIndent">The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7-9 is still a success but it comes with compromises or cost. A 6 or lower is trouble, but you always learn from your mistakes—a 6 or lower also means you mark XP.</p>
 <p>Damage rolls work a little differently. They use different dice and have a more straightforward effect. Those rolls are described in the Damage section later in the chapter INTREF.</p>
 <h3>Moves and Equipment</h3>
 <p aid:pstyle="NoIndent">The most important role of a character’s equipment is to help describe the moves they make. A character without a weapon of some sort isn’t going to trigger the Hack and Slash move when fighting a dragon since a bare-knuckle punch really doesn’t do much to inch-thick scales. It doesn’t “count” for the purposes of triggering the move.</p>
@@ -28,8 +27,7 @@
 <h3>The Effects of Moves</h3>
 <p aid:pstyle="NoIndent">The effects of moves are always about the fictional world the characters inhabit. A 10+ on Hack and Slash doesn’t just mean the mechanical effects, it means you successfully attacked something and did some type of harm to it.</p>
 <p>Once you’ve figured out what the effects of the move are, apply them to the fiction and go back to the conversation. Always return to what’s going on in the game.</p>
-<p>The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7-9 is still a success but it comes with compromises or cost. A 6 or lower is trouble.</p>
-<p>Each move will tell you what happens on a 10+ and a 7-9. Most moves won’t say what happens on a 6-, that’s up to the GM.</p>
+<p>Each move will tell you what happens on a 10+ and a 7-9. Most moves won’t say what happens on a 6-, that’s up to the GM. One thing always happens on a 6-: you mark XP.</p>
 <p>Some moves have immediate mechanical effects, like dealing damage or giving someone a bonus to their next roll. These effects are always a reflection of the fictional world the characters are in; make sure to use them when describing the effects of the move.</p>
 <h4>Some Moves…</h4>
 <p>…Use the phrase "deal damage." Dealing damage means you roll the damage dice for your class and modify it based on the weapon you were using for that move. You use your damage dice any time you make an attack that could reasonably hurt your target. Usually that means you're wielding a weapon, but your fists can be weapons with the right training or an interesting situation</p>
