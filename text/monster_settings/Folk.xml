@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Folk of the Realm</h1>
 <Body><p aid:pstyle="MonsterName">Acolyte	</p>
-<p aid:pstyle="MonsterDescription">”Can’t all be the High Priest, they said. Can’t all wield the White Spire, they said. Scrub the floor, they told me. The Cthonic Overgod don’t want a messy floor, do he? They said it’d be enlightenment and magic. Feh. It’s bruised knees and dish-pan-hands. If only I’d been a cleric, instead.” <em>Instinct</em>: To serve dutifully</p>
+<p aid:pstyle="MonsterDescription">”Can’t all be the High Priest, they said. Can’t all wield the White Spire, they said. Scrub the floor, they told me. The Cthonic Overgod don’t want a messy floor, do he? They said it’d be enlightenment and magic. Feh. It’s bruised knees and dishpan hands. If only I’d been a cleric, instead.” <em>Instinct</em>: To serve dutifully</p>
 <ul><li>Follow dogma</li>
 <li>Offer eternal reward for mortal deeds</li></ul>
 <p aid:pstyle="MonsterName">Adventurer	<span aid:cstyle="Tags">Horde, Intelligent</span></p>
@@ -32,13 +32,13 @@
 <p aid:pstyle="MonsterName">Guardsman	<span aid:cstyle="Tags">Group, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Spear (d8 damage)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterDescription">Noble protector or merely drunken lout, it often makes no difference to these sorts. Falling shy of a noble knight, the proud town guard is an ancient profession none-the-less. These folks of the constabulary often dress in the colors of their lord (when you can see it under the mud) and, depending on the richness of that lord, might even have a decent weapon and some armor that fits. Those are the lucky ones. Even so, someone has to be there to keep an eye on the gate when the Black Riders have been spotted in the woods. Too many of us owe our lives to these souls—remember that the next time one is drunkenly insulting your mother, hmm? <em>Instinct</em>: To do as ordered</p>
+<p aid:pstyle="MonsterDescription">Noble protector or merely drunken lout, it often makes no difference to these sorts. Falling shy of a noble knight, the proud town guard is an ancient profession nonetheless. These folks of the constabulary often dress in the colors of their lord (when you can see it under the mud) and, depending on the richness of that lord, might even have a decent weapon and some armor that fits. Those are the lucky ones. Even so, someone has to be there to keep an eye on the gate when the Black Riders have been spotted in the woods. Too many of us owe our lives to these souls—remember that the next time one is drunkenly insulting your mother, hmm? <em>Instinct</em>: To do as ordered</p>
 <ul><li>Uphold the law</li>
 <li>Make a profit</li></ul>
 <p aid:pstyle="MonsterName">Halfling Thief	<span aid:cstyle="Tags">Solitary, Small, Intelligent, Stealthy, Devious</span></p>
 <p aid:pstyle="MonsterStats">Dagger (2d8·w damage)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">It would be foolish, now, to draw conclusions about folks just because they happen to be good at one thing or another. Then again, a spade’s a spade, isn’t it. Or maybe just the goodly, soft-and-sweet type of Halfling have the mind to stay in their grassy-hill homes and aren’t the type you find in the slums and taverns of the mannish world . Perhaps they’re there to cut your purse for calling them “halfling” in the first place. Not all take so kindly to the title. Or they’re playing a game, pretending to be a child in need of alms—and your arrogant eyes can’t even see the difference until too late. Well, it matters little. They’re gone with your coin before you even realize you deserved it. <em>Instinct</em>: To live a life of stolen luxury</p>
+<p aid:pstyle="MonsterDescription">It would be foolish, now, to draw conclusions about folks just because they happen to be good at one thing or another. Then again, a spade’s a spade, isn’t it. Or maybe just the goodly, soft-and-sweet type of Halfling have the mind to stay in their grassy-hill homes and aren’t the type you find in the slums and taverns of the mannish world. Perhaps they’re there to cut your purse for calling them “halfling” in the first place. Not all take so kindly to the title. Or they’re playing a game, pretending to be a child in need of alms—and your arrogant eyes can’t even see the difference until too late. Well, it matters little. They’re gone with your coin before you even realize you deserved it. <em>Instinct</em>: To live a life of stolen luxury</p>
 <ul><li>Steal</li>
 <li>Put on the appearance of friendship</li></ul>
 <p aid:pstyle="MonsterName">Hedge Wizard	<span aid:cstyle="Tags">Magical</span></p>
@@ -87,7 +87,7 @@
 <ul><li>March into battle</li>
 <li>Fight as one</li></ul>
 <p aid:pstyle="MonsterName">Spy	</p>
-<p aid:pstyle="MonsterDescription">Beloved of kings but never truly trusted. Mysterious, secretive and alluring, the life of a spy is, if you ask a commoner, full of romance and intrigue. They’re a knife in the dark and a pair of watchful eyes. A spy can be your best friend, your lover or that old man you see in the market every day. One never knows. Hells, maybe you’re a spy—they say there’s magic that can turn folks minds without them ever knowing it. How can we trust you? <em>Instinct</em>: To infiltrate</p>
+<p aid:pstyle="MonsterDescription">Beloved of kings but never truly trusted. Mysterious, secretive and alluring, the life of a spy is, if you ask a commoner, full of romance and intrigue. They’re a knife in the dark and a pair of watchful eyes. A spy can be your best friend, your lover or that old man you see in the market every day. One never knows. Hells, maybe you’re a spy—they say there’s magic that can turn folks' minds without them ever knowing it. How can we trust you? <em>Instinct</em>: To infiltrate</p>
 <ul><li>Report the truth</li>
 <li>Double cross</li></ul>
 <p aid:pstyle="MonsterName">Tinkerer	</p>

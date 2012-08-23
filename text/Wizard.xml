@@ -28,7 +28,7 @@
 <p aid:pstyle="NoIndent">Choose one cleric spell, you can cast it as if it was a wizard spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Spellbook</h3>
-<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 <em>weight</em>.</p>
+<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. Your spellbook is 1 <em>weight</em>.</p>
 <h3 aid:pstyle="BasicMoveName">Prepare Spells</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook</strong>, you:</p>
 <ul><li>Lose any spells you already have prepared</li>
@@ -69,8 +69,8 @@
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
 <li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">healing potion</li>
-<li aid:pstyle="Option">three antitoxin</li></ul></div>
+<ul><li aid:pstyle="Option">Healing potion</li>
+<li aid:pstyle="Option">Three antitoxin</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>
