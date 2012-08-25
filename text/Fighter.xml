@@ -17,7 +17,7 @@
 <p aid:pstyle="NoIndent">Calloused Skin, Tanned Skin, or Scarred Skin</p>
 <p aid:pstyle="NoIndent">Built Body, Lithe Body, or Ravaged Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p></div>
+<p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p>
 <p>Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>

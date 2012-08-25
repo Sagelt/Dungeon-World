@@ -14,7 +14,7 @@
 <p>Dark Clothes, Fancy Clothes, or Common Clothes</p>
 <p>Lithe Body, Knobby Body, or Flabby Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p></div>
+<p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p>
 <p>Your base damage is <span id="Damage">d8</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>

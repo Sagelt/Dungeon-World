@@ -8,8 +8,7 @@
 <p aid:pstyle="NoIndent">Food or water you hold in your hands while you cast this spell is consecrated by your deity. In addition to now being holy or unholy, the affected substance is purified of any mundane spoilage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Guidance</span>	Rote</p>
 <p aid:pstyle="NoIndent">The symbol of your deity appears before you and gestures towards the direction or course of action your deity would have you take then disappears. The message is through gesture only; your communication through this spell is severely limited.</p></div>
-<div><h2>1st Level Spells</h2>
-<p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Bless</span>	Level 1	<em>Ongoing</em></p>
+<div><p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Bless</span>	Level 1	<em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">Your deity smiles upon a combatant of your choice. They take +1 ongoing so long as battle continues and they stand and fight. While this spell is ongoing you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Light Wounds</span>	Level 1</p>
 <p aid:pstyle="NoIndent">At your touch wounds scab and bones cease to ache. Heal an ally of 1d8 damage.</p>
@@ -23,8 +22,7 @@
 <p aid:pstyle="NoIndent">As you cast this spell, you walk the perimeter of an area, consecrating it to your deity. As long as you stay within that area you are alerted whenever someone acts with malice within the sanctuary (including entering with harmful intent). Anyone who receives healing within a Sanctuary heals +1d4 HP.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Speak With Dead</span>	Level 1	<em>Death</em></p>
 <p aid:pstyle="NoIndent">A corpse converses with you briefly. It will answer any three questions you pose to it to the best of the knowledge it had in life and the knowledge it gained in death.</p></div>
-<div><h2>3rd Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	<em>Ongoing</em></p>
+<div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	<em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and serve you. This  creates a zombie that follows your orders to the best of its limited abilities. Treat the zombie as a character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. The zombie also gets your choice of 1d4 of these traits:</p>
 <ul><li>It’s talented. Give one stat a +2 modifier.</li>
 <li>It’s durable. It has +2 HP for each level you have.</li>
@@ -44,8 +42,7 @@
 <p aid:pstyle="NoIndent">The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.</p> 
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Hold Person</span>	Level 3</p>
 <p aid:pstyle="NoIndent">Choose a creature you can see. Until you Cast a Spell or leave their presence they cannot act except to speak. This effect ends immediately if the target takes damage from any source.</p></div>
-<div><h2>5th Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Revelation</span>	Level 5</p>
+<div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Revelation</span>	Level 5</p>
 <p aid:pstyle="NoIndent">Your deity answers your prayers with a moment of perfect understanding. The GM will shed light on the current situation. When acting on the information, you take +1 Forward.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Critical Wounds</span>	Level 5</p>
 <p aid:pstyle="NoIndent">Heal an ally of 3d8 damage.</p>
@@ -58,9 +55,8 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">True Seeing</span>	Level 5	<em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">Your vision is opened to the true nature of everything you lay your eyes on. You pierce illusions and see things that have been hidden. The GM will describe the area before you ignoring any illusions and falsehoods, magical or otherwise. While this spell is ongoing you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Trap Soul</span>	Level 5</p>
-<p aid:pstyle="NoIndent">When cast in the presence of a ghost or recently dead body this spell traps the target’s soul in a gem you provide. While trapped, the soul answers every question posed to it and cannot resist your requests. Once released the soul is likely to hold a grudge against its captor.</p>
-</div><div><h2>7th Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Word of Recall</span>	Level 7</p>
+<p aid:pstyle="NoIndent">When cast in the presence of a ghost or recently dead body this spell traps the target’s soul in a gem you provide. While trapped, the soul answers every question posed to it and cannot resist your requests. Once released the soul is likely to hold a grudge against its captor.</p></div>
+<div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Word of Recall</span>	Level 7</p>
 <p aid:pstyle="NoIndent">Choose a word. The first time after casting this spell that you speak the chosen word, you and any allies touching you when you cast the spell are immediately returned to the exact spot where you cast the spell. You can only maintain a single location; casting Word of Recall again before speaking the word replaces the earlier spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Heal</span>	Level 7</p>
 <p aid:pstyle="NoIndent">Touch an ally and you may heal their damage a number of points up to your maximum HP.</p>
@@ -72,8 +68,7 @@
 <p aid:pstyle="NoIndent">Choose a creature whose true name you know. This spell creates permanent runes on a target surface that will kill that creature, should they read them.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Control Weather</span>	Level 7</p>
 <p aid:pstyle="NoIndent">Pray for rain—or sun, wind, or snow. Within a day or so, your god will answer. The weather will change according to your will and last a handful of days.</p></div>
-<div><h2>9th Level Spells</h2>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Storm of Vengeance</span>	Level 9</p>
+<div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Storm of Vengeance</span>	Level 9</p>
 <p aid:pstyle="NoIndent">Your deity brings the unnatural weather of your choice to pass. Rain of blood or acid, clouds of souls, wind that can carry away buildings, or any other weather you can imagine: ask and it shall come.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Repair</span>	Level 9</p>
 <p aid:pstyle="NoIndent">Choose one event in the target's past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.</p>

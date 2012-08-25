@@ -13,9 +13,7 @@
 <p aid:pstyle="NoIndent">Furry hood, messy hair, braided hair</p>
 <p aid:pstyle="NoIndent">Ceremonial garb, practical leathers, weathered hides</p></div>
 <h2>Stats</h2>
-<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
-<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
-<p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p></div>
+<p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p>
 <p>Your base damage is <span id="Damage">d6</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
