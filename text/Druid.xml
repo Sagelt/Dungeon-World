@@ -60,7 +60,7 @@
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Eliminate an unnatural menace</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You carry some token of your Land, describe it. Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 2+Strength. You carry some token of your Land, describe it. Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Hide armor  (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Wooden shield (+1 armor, 1 weight)</li></ul>
 Choose your armament:

@@ -60,7 +60,7 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Use magic to cause terror and fear.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 5+Str. You start with your spellbook (1 weight) and dungeon rations (1 <em>weight</em>, 5 <em>uses</em>). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is equal to your Strength. You start with your spellbook (1 weight) and dungeon rations (1 <em>weight</em>, 5 <em>uses</em>). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
 <p aid:pstyle="NoIndent">Choose your weapon:</p>

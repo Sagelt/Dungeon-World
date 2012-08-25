@@ -65,7 +65,7 @@
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Help an animal or spirit of the wild.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Str. You start with dungeon rations (1 weight, 5 uses), leather armor (1 armor, 1 weight), and a bundle or arrows (3 ammo, 2 weight). Choose your armament:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 4+Strength. You start with dungeon rations (1 weight, 5 uses), leather armor (1 armor, 1 weight), and a bundle or arrows (3 ammo, 2 weight). Choose your armament:</p>
 <ul><li aid:pstyle="Option">Hunter's bow (Near, Far, 1 weight) and short sword (Close, 1 weight)</li>
 <li aid:pstyle="Option">Hunter's bow (Near, Far, 1 weight) and spear (Reach, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
