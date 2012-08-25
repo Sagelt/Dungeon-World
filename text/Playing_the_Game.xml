@@ -17,7 +17,8 @@
 <h3>Moves and Dice</h3>
 <p aid:pstyle="NoIndent">Most moves include the phrase “roll+stat” where “stat” is one of your character’s stat modifiers (CON for example). Unless the move tells you otherwise, that always means that you roll two dice and add their results to the value of the stat.Some moves will have you add some other value to your roll instead of a stat.</p>
 <p aid:pstyle="Example">I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two dice, got a one and a four. My total is six.</p>
-<p aid:pstyle="NoIndent">The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7-9 is still a success but it comes with compromises or cost. A 6 or lower is trouble, but you always learn from your mistakes—a 6 or lower also means you mark XP.</p>
+<p aid:pstyle="NoIndent">The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7-9 is still a success but it comes with compromises or cost. A 6 or lower is trouble.</p>
+<p>Each move will tell you what happens on a 10+ and a 7-9. Most moves won’t say what happens on a 6-, that’s up to the GM.</p>
 <p>Damage rolls work a little differently. They use different dice and have a more straightforward effect. Those rolls are described in the Damage section later in the chapter INTREF.</p>
 <h3>Moves and Equipment</h3>
 <p aid:pstyle="NoIndent">The most important role of a character’s equipment is to help describe the moves they make. A character without a weapon of some sort isn’t going to trigger the Hack and Slash move when fighting a dragon since a bare-knuckle punch really doesn’t do much to inch-thick scales. It doesn’t “count” for the purposes of triggering the move.</p>
@@ -27,7 +28,8 @@
 <h3>The Effects of Moves</h3>
 <p aid:pstyle="NoIndent">The effects of moves are always about the fictional world the characters inhabit. A 10+ on Hack and Slash doesn’t just mean the mechanical effects, it means you successfully attacked something and did some type of harm to it.</p>
 <p>Once you’ve figured out what the effects of the move are, apply them to the fiction and go back to the conversation. Always return to what’s going on in the game.</p>
-<p>Each move will tell you what happens on a 10+ and a 7-9. Most moves won’t say what happens on a 6-, that’s up to the GM. One thing always happens on a 6-: you mark XP.</p>
+<p>The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7-9 is still a success but it comes with compromises or cost. A 6 or lower is trouble.</p>
+<p>Each move will tell you what happens on a 10+ and a 7-9. Most moves won’t say what happens on a 6-, that’s up to the GM.</p>
 <p>Some moves have immediate mechanical effects, like dealing damage or giving someone a bonus to their next roll. These effects are always a reflection of the fictional world the characters are in; make sure to use them when describing the effects of the move.</p>
 <h4>Some Moves…</h4>
 <p>…Use the phrase "deal damage." Dealing damage means you roll the damage dice for your class and modify it based on the weapon you were using for that move. You use your damage dice any time you make an attack that could reasonably hurt your target. Usually that means you're wielding a weapon, but your fists can be weapons with the right training or an interesting situation</p>
@@ -163,6 +165,54 @@ Return treasure to its rightful owner</ul>
 <li>Upset the rightful order</li>
 <li>Harm an innocent</li></ul>
 <h2>The Adventurer’s Life</h2>
+<h1>Hirelings</h1>
+<p aid:pstyle="NoIndent">Hirelings are those sorry souls that—for money, glory, or stranger needs—venture along with adventurers into the gloom and danger. They are the foolhardy that seek to make their name on adventures.</p>
+<p>Hirelings serve a few purposes. To the characters, they're the help. They lend their strength to the player characters' efforts in return for their pay. To the players, they're a resource. They buy the characters some extra time against even the most frightening of threats. They're also replacement characters, waiting to step up into the hero's role when a player character falls. To the GM, they're a human face for the characters to turn to, even in the depths of the earth of the far reaches of the planes.</p>
+<p>Hirelings are not heroes. A hireling may become a hero, as a replacement character, but until that time they're just another GM character, suffering the dangers and perils of the world. As such their exact HP, armor, and damage isn't particularly important. A hireling is defined by their <strong>Skill</strong> (or Skills) a <strong>Cost</strong> and a <strong>Loyalty</strong> score.</p>
+<p>A hireling's skill is a special benefit they provide to the players. Most skills are related to class abilities, allowing a hireling to fill in for a certain class. If you don't have a Ranger but you need to track the assassin's route out of Torsea anyway, you need a Tracker. Each skill has a rank, usually from 1 to 10. The higher the rank the more trained the hireling. Generally hirelings only work for adventurers of equal or higher level than their highest skill.</p>
+<p>If a hireling becomes a character their skills may suggest a given class, but there isn't a requirement. When the moment comes and the spotlight is on them they may find strength they didn't know they had.</p>
+<p>Skills don't limit what a hireling can do, they just provide mechanics for a certain ability. A hireling with the protector skill can still carry your burdens or check for traps, but the outcome isn't guaranteed by a rule. It will fall entirely to the circumstances and the GM. Sending a hireling to do something that is clearly beyond their abilities is asking the GM for trouble.</p>
+<p>Of course no hireling works for free. The hireling's cost is what it takes to keep them with the player characters. If the hireling's cost isn't paid regularly (usually once a session) they're liable to quit or turn on their employers.</p>
+<p>When hirelings are in play, the players may have to make the Order Hirelings move. The move uses the loyalty of the hireling that triggered the move:</p>
+<h3 aid:pstyle="MoveName">Order Hirelings</h3>
+<p aid:pstyle="NoIndent">Hirelings do what you tell them to, so long as it isn't obviously dangerous, degrading, or stupid, and their cost is met. When a hireling find themselves in a dangerous, degrading, or just flat-out crazy situation due to your orders roll+loyalty. On a 10+ they stand firm and carry out the order. On a 7-9 they do it for now, but come back with serious demands later. Meet them or the hireling quits on the worst terms.</p>
+<h2>Making a Hireling</h2>
+<p aid:pstyle="NoIndent">Hirelings are easy to make on the fly. When someone enters the player's employ note down their name and what cost they've agreed to as well as any skills they may have.</p>
+<p>Start with a number based on where the hireling was found. Hirelings in villages start with 2–5. Town hirelings get 4–6. Keep hirelings are 5–8. City hirelings are 6–10. Distribute the hireling's number between loyalty, a main skill, and zero or more secondary skills. Starting loyalty higher than 2 is unusual, as is starting loyalty below 0. Choose a cost for the hireling and you're done.</p>
+<p>A hireling's stats, especially their loyalty, may change during play as a reflection of events. A particular kindness or bonus from the players is worth +1 loyalty forward. Disrespect is -1 loyalty forward. If it's been a while since their cost was last paid they get -1 loyalty ongoing until their cost is met. A hirelings loyalty may be permanently increased when they achieve some great deed with the players. A significant failure or beating may permanently lower the hireling's loyalty.</p>
+<h3>Costs</h3>
+<ul><li>The Thrill of Victory</li>
+<li>Money</li>
+<li>Uncovered Knowledge</li>
+<li>Fame and Glory</li>
+<li>Debauchery</li>
+<li>Good Accomplished</li></ul>
+<h3>Skills</h3>
+<h4>Adept</h4>
+<p aid:pstyle="NoIndent">An adept has at least apprenticed to an arcane expert, but is not powerful in their own right. They may have mastered a few simple spells, but they don't have anything like the wizard's spellbook</p>
+<p><em>Arcane Assistance</em>—When an adept aids in the casting of a spell of lower level than their skill, the spell's effects have greater range, duration, or potency. The exact effects depend on the situation and the spell and are up to the GM. The GM will describe what effects the assist will add before the spell is cast. The most important feature of casting with an adept is that any negative effects of the casting are focused on the adept first.</p>
+<h4>Expert</h4>
+<p aid:pstyle="NoIndent">Experts are skilled in a variety of areas, most of them illicit or dangerous. They are good with devices and traps, but not too helpful in the field of battle.</p>
+<p><em>Experimental Trap Disarming</em>—When an expert leads the way they can detect traps almost in time. If a trap would be sprung while an expert is leading the way the expert suffers the full effects but the players get +skill against the trap and add the expert's skill to their armor against the trap. Most traps leave an expert in need of immediate healing. If the players Make Camp near the trap, the expert can disarm it by the time camp is broken.</p>
+<h4>Minstrel</h4>
+<p aid:pstyle="NoIndent">When a smiling face is needed to smooth things over or negotiate a deal, a minstrel is always happy to lend their services for the proper price.</p>
+<p><em>A Hero's Welcome</em>—When you enter a place of food, drink, or entertainment with a minstrel you will be treated as a friend by everyone present (unless your actions prove otherwise). You also subtract the minstrel's skill from all prices in town.</p>
+<h4>Priest</h4>
+<p aid:pstyle="NoIndent">Priest are the lower ranking clergy of a religion, performing minor offices and regular sacraments. While not granted spells themselves, they are able to call upon their deity for minor aid.</p>
+<p><em>Ministry</em>—When you make camp with a priest if you would normally heal you heal to your maximum HP value.</p>
+<p><em>First Aid</em>—When you call on a priest for healing, the priest rushes to your side and heals you of 2×skill HP. You take -1 forward as their healing is painful and distracting.</p>
+<h4>Protector</h4>
+<p aid:pstyle="NoIndent">A protector stands between their employer and the blades, fangs, teeth, and spells that would harm them. </p>
+<p><em>Sentry</em>—When a protector stands between you and an attack you increase your armor against that attack by the defender's skill, then reduce their skill by 1 until they receive healing or have time to mend.</p>
+<p><em>Intervene</em>—When a protector helps you Defy Danger you may opt to take +1 from their aid. If you do you cannot get a 10+ result, a 10+ instead counts as a 7–9.</p>
+<h4>Tracker</h4>
+<p aid:pstyle="NoIndent">Trackers know the secrets of following a trail, but they don't have the experience with strange creatures and exotic locals that make for a great hunter.</p>
+<p><em>Track</em>—When a tracker is given time to study a trail while Making Camp, when camp is broken they can follow the trail to the next major change in terrain, travel, or weather.</p>
+<p><em>Guide</em>—When a tracker leads the way you automatically succeed on any Perilous Journey of a distance lower than the tracker's skill.</p>
+<h4>Warrior</h4>
+<p aid:pstyle="NoIndent">Warriors are not masters of combat, but they are handy with a weapon. They won't be leading anyone into battle anytime soon, but their arm is good.</p>
+<p><em>Man-at-arms</em>—When you deal damage while a warrior aids you add their skill to the damage done. If your attack results in consequences (like a counter attack) the man-at-arms takes the brunt of it.</p>
+
 <p aid:pstyle="NoIndent">Now you know the basics. It’s time you found out what the adventurer’s life is really like. They say it’s all gold and glory. That’s mostly true, but sometimes it also means digging through otyugh waste for a chance at one more gold coin.</p>
 <h3>Dungeons</h3>
 <p aid:pstyle="NoIndent">As an adventurer you’ll spend a lot of time in dungeons. The word “dungeon” conjures up an image of the stony halls under a castle where prisoners are kept, but a dungeon is really any place filled with danger and opportunity. A dragon’s cave, an enemy camp, a forgotten sewer, a sky castle, the very foundations of the world—dungeons, all.</p>
