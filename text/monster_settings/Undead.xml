@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterStats">Scream (d10 damage)	16 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
-<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days. Often mistaken at first glance for a ghost or wandering spirit, the banshee reveals a far more deadly talent for sonic assault when angered. And her anger comes easy. A victim of betrayal (often by a loved one) the banshee makes known her displeasure with a roar or scream that can putrefy flesh and rend the senses. If you can help her get her vengeance, they say she might grant rewards. Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To get revenge </p>
+<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days. Often mistaken at first glance for a ghost or wandering spirit, the banshee reveals a far more deadly talent for sonic assault when angered. And her anger comes easy. A victim of betrayal (often by a loved one) the banshee makes known her displeasure with a roar or scream that can putrefy flesh and rend the senses. If you can help her get her vengeance, they say she might grant rewards. Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To get revenge /p>
 <ul><li>Drown out all other sound with a ceaseless scream</li>
 <li>Unleash a skull-splitting noise</li>
 <li>Disappear into the mists</li></ul>
@@ -85,7 +85,7 @@
 <p aid:pstyle="MonsterStats">Tail whip (d6+1 damage)	11 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Vampire spawn</p>
-<p aid:pstyle="MonsterDescription">Aswang-hound and hopping whip-tail! Sent by vampires on their two, twisted legs, these ugly things look like the head of a rat or a crocodile, maybe, furry though and sharp of tooth. They have withered wings, but cannot use them and long, whipping tails, spurred with poison tips. Stupid, vengeful and mischievous they cause all kinds of chaos when let out of the strange clay jars in which they’re born. Only a vampire could love such a wretched thing. <em>Instinct</em>: To disturb</p>
+<p aid:pstyle="MonsterDescription">“Aswang-hound and hopping whip-tail! Sent by vampires on their two, twisted legs, these ugly things look like the head of a rat or a crocodile, maybe, furry though and sharp of tooth. They have withered wings, but cannot use them and long, whipping tails, spurred with poison tips. Stupid, vengeful and mischievous they cause all kinds of chaos when let out of the strange clay jars in which they’re born. Only a vampire could love such a wretched thing.” <em>Instinct</em>: To disturb</p>
 <ul><li>Poison them</li>
 <li>Do a vampire's bidding</li></ul>
 <p aid:pstyle="MonsterName">Skeleton	<span aid:cstyle="Tags">Horde</span></p>

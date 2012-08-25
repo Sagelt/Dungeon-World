@@ -33,7 +33,7 @@
 <p aid:pstyle="MonsterName">Deep Elf Assassin	<span aid:cstyle="Tags">Group, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Poisoned blade (d8 damage, 1 piercing)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">It was not so simple a thing as a war over religion or territory. No disagreement of queens led to the great sundering of the elves. It was sadness. It was the very diminishing of the world by the lesser races. The glory of all the elves had built was cracking and turning to glass. Some, then, chose to separate themselves from the world; wracked with tears they turned their backs on men and dwarves. There were others, though, that were overcome with something new. A feeling no elf had felt before. Spite. Hatred filled these elves and twisted them and they turned on their weaker cousins. Some still remain after the great exodus below. Some hide amongst us with spider-poisoned blades, meting out that strangest of punishments: elven vengeance. <em>Instinct</em>: To spite the surface races</p>
+<p aid:pstyle="MonsterDescription">It was not so simple a thing as a war over religion or territory. No disagreement of queens led to the great sundering of the elves. It was sadness. It was the verydiminishing of the world by the lesser races. The glory of all the elves had built was cracking and turning to glass. Some, then, chose to separate themselves from the world; wracked with tears they turned their backs on men and dwarves. There were others, though, that were overcome with something new. A feeling no elf had felt before. Spite. Hatred filled these elves and twisted them and they turned on their weaker cousins. Some still remain after the great exodus below. Some hide amongst us with spider-poisoned blades, meting out that strangest of punishments: elven vengeance. <em>Instinct</em>: To spite the surface races</p>
 <ul><li>Poison them</li>
 <li>Unleash an ancient spell</li>
 <li>Call reinforcements</li></ul>
@@ -67,7 +67,7 @@
 <p aid:pstyle="MonsterName">Magmin	<span aid:cstyle="Tags">Horde, Intelligent, Organized, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Flaming hammer (d6+2 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Fiery blood</p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Firey blood</p>
 <p aid:pstyle="MonsterDescription">Dwarf-shaped and industrious, the magmin are among the deepest-dwellers of Dungeon World. Found in cities of brass and obsidian built nearest the molten core of the planet, the magmin live a life devoted to craft—especially that of fire and magical items related to it. Surly and strange, they do not often deign to speak to petitioners who appear at their gates, even those who have somehow found a way to survive the hellish heat. Even so, they respect little more than a finely made item and to learn to forge from a magmin craftsman means unlocking secrets unknown to surface blacksmiths. Like so much else, visiting the magmin is a game of risk and reward. <em>Instinct</em>: To craft</p>
 <ul><li>Offer a trade or deal</li>
 <li>Strike with fire or magic</li>

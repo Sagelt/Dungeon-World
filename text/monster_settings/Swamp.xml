@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+3 damage, 1 piercing)	16 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is attracted by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. Give the greedy snake your treasures and she might just leave you alone.<em>Instinct</em>: To devour</p>
+<p aid:pstyle="MonsterDescription">Dragon-turtle’s sister is a mighty serpent queen. Ten yards of scales and muscle, they say she wakes with a hunger when the sun disappears from the sky. She is  attracted by bright light in the darkness and like any snake, the Bakunawa is sneaky. She will seek first to beguile and mislead and will only strike out with violence when no other option is available. When she does, though, her jaws are strong enough to crack the hull of any swamp-boat and certainly enough to slice through a steel breastplate or two. Give the greedy snake your treasures and she might just leave you alone.<em>Instinct</em>: To devour</p>
 <ul><li>Lure prey with lies and illusions</li>
 <li>Lash out at light</li>
 <li>Devour</li></ul>
@@ -93,7 +93,7 @@
 <p aid:pstyle="MonsterStats">Spear (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Dragon connection</p>
-<p aid:pstyle="MonsterDescription">Some are wont to lump these little, rat-like dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The koboldsare beholden slaves to dragons and were, in ancient times, their lorekeepers and sorcerer-servants. Their clans, with names like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a kobold means more are near—and if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
+<p aid:pstyle="MonsterDescription">Some are wont to lump these little, rat-like dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The koboldsare beholden slaves to dragons and were, in ancient times, their lorekeepers and sorcerer-servants. Their clans, with  names like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a kobold means more are near—and if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
 <ul><li>Lay a trap</li>
 <li>Call on dragons or draconic allies</li>
 <li>Retreat and regroup</li></ul>
@@ -101,7 +101,7 @@
 <p aid:pstyle="MonsterStats">Spear (d8 damage)	6 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts, a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshiped their own scaly gods. Maybe that’s true and maybe it ain’t—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
+<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts, a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshipped their own scaly gods. Maybe that’s true and maybe it ain’t—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
 <ul><li>Ambush the unsuspecting</li>
 <li>Launch an amphibious assault</li></ul>
 <p aid:pstyle="MonsterName">Medusa	<span aid:cstyle="Tags">Solitary, Devious, Intelligent, Hoarder</span></p>
@@ -117,16 +117,18 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
 <p aid:pstyle="MonsterDescription">The shape and craft of men wedded to the hunger and the endless teeth of a shark. Voracious and filled only with hate, these creatures will not stop until all life has been consumed. They cannot be reasoned with, they cannot be controlled or sated. They are hunger and bloodlust, driven up from the depths of the sea to ravage coastal towns and swallow island villages. <em>Instinct</em>: To spill blood</p>
-<ul><li>Bite off a limb</li>
+<ul>
+<li>Bite off a limb</li>
 <li>Hurl a poisoned spear</li>
-<li>Frenzy at the sight of blood</li></ul>
+<li>Frenzy at the sight of blood</li>
+</ul>
 <p aid:pstyle="MonsterName">Sauropod	<span aid:cstyle="Tags">Group, Huge, Cautious</span></p>
 <p aid:pstyle="MonsterStats">Trample (d8+5 damage)	18 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Armor plated body</p>
 <p aid:pstyle="MonsterDescription">Great lumbering beasts, they live in places long since forgotten by the thinking races of the world. Gentle if unprovoked, but mighty if their ire is raised, they trample smaller creatures with the care we might give to crushing an ant beneath our boots. If you see one, drift by and gaze in awe, but do not wake the giant. <em>Instinct</em>: To endure</p>
 <ul><li>Stampede</li>
-<li>Knock something down</li>
+<li>Knock something down< /li>
 <li>Unleash a deafening bellow</li></ul>
 <p aid:pstyle="MonsterName">Swamp Shambler	<span aid:cstyle="Tags">Solitary, Large, Magical</span></p>
 <p aid:pstyle="MonsterStats">Lash (d10+1 damage)	23 HP	1 Armor</p>
@@ -143,8 +145,8 @@
 <p aid:pstyle="MonsterDescription">Tall. Real tall. Eight or nine feet when they’re young or weak. Covered all over in warty, tough skin, too. Big teeth, stringy hair like swamp moss and long, dirty nails. Some are green, some grey, some black. They’re clannish and hateful of each other, not to mention all the rest of us. Near impossible to kill, too, unless you’ve fire or acid to spare—cut a limb off and watch. In a few days, you’ve got two trolls where you once had one. A real serious problem, as you can imagine. <em>Instinct</em>: To smash</p>
 <ul><li>Undo the effects of an attack (unless caused by a weakness, your call)</li>
 <li>Hurl something or someone</li></ul>
-<p aid:pstyle="MonsterName">Wll-o-wisp         <span aid:cstyle="Tags">Solitary, Tiny, Magical</span></p>
-<p aid:pstyle="MonsterStats">Ray (w[2d8-2] damage)      12 HP     0 Armor</p>
+<p aid:pstyle="MonsterName">Wll-o-wisp	<span aid:cstyle="Tags">Solitary, Tiny, Magical</span></p>
+<p aid:pstyle="MonsterStats">Ray (w[2d8-2] damage)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Body of light</p>
 <p aid:pstyle="MonsterDescription">Spot a lantern floating in the darkness, lost traveler in the swamp. Hope—a beacon of shimmering light. You call out to it, but there’s no answer. It begins to fade and so you follow, sloshing through the muck, tiring at the chase, hoping you’re being led to safety. Such a sad tale that always ends in doom. These creatures are a mystery—some say they’re ghosts, others beacons of faerie light. Nobody knows the truth. They are cruel, however. All can agree on that. <em>Instinct</em>: To misguide</p>

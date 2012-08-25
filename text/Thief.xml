@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <ClassName>Thief</ClassName>
-<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p> 
 <p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle-trap? So, let them complain. When you’re done all this delving you’ll toast their hero’s graves.</p>
 <p>From your castle. Full of gold. You rogue.</p></div>
 <h2>Names</h2>
@@ -14,8 +14,6 @@
 <p>Dark Clothes, Fancy Clothes, or Common Clothes</p>
 <p>Lithe Body, Knobby Body, or Flabby Body</p></div>
 <h2>Stats</h2>
-<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
-<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
 <p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p></div>
 <p>Your base damage is <span id="Damage">d8</span>.</p>
 <h2>Starting Moves</h2>
@@ -26,7 +24,7 @@
 <p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Trap Expert</h3>
-<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX.</p>
+<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX.</p> 
 <p aid:pstyle="NoIndent">On a 10+, hold 3.</p>
 <p aid:pstyle="NoIndent">On a 7-9, hold 1.</p>
 <p aid:pstyle="NoIndent"> Spend your hold as you walk through the area to ask these questions:</p>
@@ -34,7 +32,7 @@
 <li>What does the trap do when activated?</li>
 <li>What else is hidden here?</li></ul>
 <h3 aid:pstyle="BasicMoveName">Tricks of the Trade</h3>
-<p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX.</p>
+<p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX.</p> 
 <p aid:pstyle="NoIndent">On a 10+, you do it, no problem. </p>
 <p aid:pstyle="NoIndent">On a 7-9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p>
 <h3 aid:pstyle="BasicMoveName">Backstab</h3>
@@ -66,7 +64,7 @@
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight) and short sword (Close, 1 weight)</li>
 <li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
-<ul><li aid:pstyle="Option">3 throwing daggers (Thrown, Near, 0 weight)</li>
+<ul><li aid:pstyle="Option">3 throwing daggers  (Thrown, Near, 0 weight)</li>
 <li aid:pstyle="Option">Ragged Bow (Near, 2 weight) and bundle of arrows (5 ammo, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>

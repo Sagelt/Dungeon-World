@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The World</h1>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The world</h1>
 <Body><p aid:pstyle="NoIndent">Much of the adventuring life is spent in dusty, forgotten tombs or in places of terror and life-threatening danger. It's commonplace to awaken from a short and fitful rest, still deep in the belly of the world and surrounded by foes. When the time comes to emerge from these kinds of places—whether laden with the spoils of battle or beaten and bloody—an adventurer seeks out safety and solace.</p>
-<p>These are the comforts of civilization; a warm bath, a meal of mead and bread, company of fellow men and elves and dwarves. Often, thoughts of returning to these places are all that keep an adventurer from giving up altogether. All fight for gold and glory but who doesn’t ache for a place to spend that gold and laugh around a fire, listening to tales of folly and adventure?</p>
-<p>This chapter covers the wider world - he grand and sweeping scope outside the dungeon. The always-marching movement of the GMs Fronts will shape the world and, in turn, the world reflects the actions the players take to stop or redirect them.</p>
+<p>These are the comforts of civilization; a warm bath, a meal of mead and bread, company of fellow men and elves and dwarves. Often, thoughts of returning to these places are all that keep an adventurer from giving up altogether. All fight for gold and glory but who doesn’t ache for a place to spend that gold and laugh around a fire, listening to tales of folly and adventure?<p>
+<p>This chapter covers the wider world—the grand and sweeping scope outside the dungeon. The always-marching movement of the GMs Fronts will shape the world and, in turn, the world reflects the actions the players take to stop or redirect them.</p>
 <h3>Steadings</h3>
 <p aid:pstyle="NoIndent">We call all the assorted communities, holds, and so on where there's a place to stay and some modicum of civilization <strong>Steadings</strong>, as in "homestead." Steadings are places with at least a handful of inhabitants, usually humans, and some stable structures. They can be as big as a capital city or as small as few ramshackle buildings.</p>
 <h2>Creating the world</h2>
@@ -12,7 +12,7 @@
 <p>When you have time (after the first session or during a snack break, for example) use the rules to create the first Steading. Consider adding marks for other places that have been mentioned so far, either details from character creation or the Steading rules themselves.</p>
 <h2>While You’re In Town…</h2>
 <p aid:pstyle="NoIndent">When the players visit a Steading there are some special moves they'll be able to make. These still follow the fictional flow of the game. When the players arrive, ask them "What do you do?" The players' actions will, more often than not, trigger a move from this list. They represent respite, reinvigoration and resupply—opportunities for the players to gather their wits and spend their treasure. Remember that a Steading isn't a break from reality. You're still making hard moves when necessary and thinking about how the players' action (or inaction) advances your Fronts. The Impending Doom is always there, whether the players are fighting it in the dungeon or ignoring it while getting drunk in the local tavern.</p>
-<p>Don't let a visit to a Steading become a permanent respite. Remember, Dungeon World is a scary, dangerous place. If the players choose to ignore that, make a hard move. Fill the characters' lives with adventure whether they're out seeking it or not. These moves exist so you can make a visit to town an interesting event without spending a whole session haggling over the cost of a new baldric.</p>
+<p>Let each player make one or two moves here, depending on how they answer your "what do you do?" question. Don't let a visit to a Steading become a permanent respite. Remember, Dungeon World is a scary, dangerous place. If the players choose to ignore that, make a hard move. Fill the characters' lives with adventure whether they're out seeking it or not. These moves exist so you can make a visit to town an interesting event without spending a whole session haggling over the cost of a new baldric.</p>
 <h2>Elements of a Steading</h2>
 <p aid:pstyle="NoIndent">A Steading is any bit of civilization that offers some amount of safety to its inhabitants. Villages, towns, keeps, and cities are the most common Steadings. Like weapons, Steadings are described by their tags. All Steadings have tags indicating prosperity, population and defenses and many will have tags to illustrate their more unusual properties.</p>
 <p>Steadings are differentiated based on size. The size indicates roughly how many people the Steading can support. The population tag tells you if the current population is more then or less than this amount.</p>
@@ -66,7 +66,7 @@
 <p><em>Personage</em>: There's a notable person who makes their home here. Give them a name and a short note on why they're notable.</p>
 <p><em>Dwarven</em>: The Steading is significantly or entirely dwarves. Dwarven goods are more common and less expensive than they typically are.</p>
 <p><em>Elven</em>: The Steading is significantly or entirely elves. Elven goods are more common and less expensive than they typically are.</p>
-<p><em>Craft</em>: The Steading is known for excellence in the listed craft. Items of their chosen craft are more readily available here or of higher quality than found elsewhere. </p>
+<p><em>Craft</em>: The Steading is known for excellence in the listed craft. Items of their chosen craft are more readily available here or of higher quality than found elsewhere. p>
 <p><em>Lawless</em>: Crime is rampant; authority is weak.</p>
 <p><em>Blight</em>: The Steading has a recurring problem, usually a type of monster.</p>
 <p><em>Power</em>: The Steading holds sway of some type. Typically Political, Divine, or Arcane.</p>
@@ -163,5 +163,4 @@
 <h4>Clash</h4>
 <p aid:pstyle="NoIndent">When <strong>two steadings both attack each other</strong> their forces meet somewhere between them and fight. If they're evenly matched they both get -Defenses and their troops return home. If one has the advantage they take -Defenses while the other takes -2 Defenses.</p>
 <h3>Other Updates</h3>
-<p aid:pstyle="NoIndent">The conditions above detail the most basic of interactions between steadings, of course the presence of your Fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players' actions and your fronts' effects on the world.</p>
-</Body></Root>
+<p aid:pstyle="NoIndent">The conditions above detail the most basic of interactions between steadings, of course the presence of your Fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players' actions and your fronts' effects on the world.</p></Body></Root>

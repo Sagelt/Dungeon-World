@@ -13,8 +13,6 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">Flowing Robes, Habit, or Common Garb</p>
 <p aid:pstyle="NoIndent">Thin Body, Knobby Body, or Flabby Body</p></div>
 <h2>Stats</h2>
-<div id="statbox"><p aid:pstyle="NoIndent">Assign these scores to your stats:</p>
-<p>17 (+2), 15 (+1), 13 (+1), 11 (+0), 9 (+0), 8 (-1)</p>
 <p aid:pstyle="NoIndent">You start with 8+Constitution HP.</p></div>
 <p>Your base damage is <span id="Damage">d6</span>.</p>
 <h2>Starting Moves</h2>
@@ -42,12 +40,12 @@ Show the world who is lord.</p></div>
 <div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
 <p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft call on your deity for protection</strong>, roll+Wis.</p>
 <p aid:pstyle="NoIndent">On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. </p>
-<p aid:pstyle="NoIndent">On a 10+, intelligent undead are momentarily dazed by the radiance of your god and mindless undead flee. If you move aggressively towards an undead creature while you Turn Undead it breaks the effects and they are able to act as normal. Intelligent undead, vampires and so on, may still find ways to harry you from afar. They're clever like that.</p></div>
+<p aid:pstyle="NoIndent">On a 10+, intelligent undead are momentarily dazed and mindless undead flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They're clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet communion with your deity</strong>, you:</p>
 <ul><li>Lose any spells already granted to you.</li>
 <li>Are granted new spells of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level.</li>
-<li>Prepare your rotes, which never count against your limit.</li></ul></div>
+<li>Prepare all of your rotes, which never count against your limit.</li></ul></div>
 <div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast a Spell</h3>
 <p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your deity</strong>, roll+Wis.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. </p>
@@ -112,7 +110,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="Requirement">Requires: Chosen One</p>
 <p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for Chosen One. You are granted that spell as if it was one level lower.</p>
 <h3 aid:pstyle="MoveName">Apotheosis</h3>
-<p aid:pstyle="NoIndent">Once, after taking this move, the next time you<strong>spend time in prayer as appropriate to your god</strong>, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc). When you emerge from prayer, you permanently gain that physical feature. This feature forever marks you as chosen by your god, and your piety will be obvious to all who look upon you.</p>
+<p aid:pstyle="NoIndent">The next time you<strong>spend time in prayer as appropriate to your god</strong> after taking this move, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc). When you emerge from prayer, you permanently gain that physical feature. This feature forever marks you as chosen by your god, and your piety will be obvious to all who look upon you.</p>
 <h3 aid:pstyle="MoveName">Reaper</h3>
 <p aid:pstyle="NoIndent">When you <strong>take time after a conflict to dedicate your victory to your deity and deal with the dead</strong>, take +1 forward.</p>
 <h3 aid:pstyle="MoveName">Providence</h3>
@@ -123,7 +121,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">Cure Moderate Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.</p>
 <h3 aid:pstyle="MoveName">Divine Invincibility</h3>
 <p aid:pstyle="Requirement">Replaces: Divine Intervention</p>
-<p aid:pstyle="NoIndent">When you Commune you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
+<p aid:pstyle="NoIndent">When you Commune you gain2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
 <h3 aid:pstyle="MoveName">Martyr</h3>
 <p aid:pstyle="Requirement">Replaces: Penitent</p>
 <p aid:pstyle="NoIndent">When you <strong>take damage and embrace the pain</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to Cast a Spell and add your level to any damage done or healed by the spell.</p>
