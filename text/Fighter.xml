@@ -44,7 +44,7 @@
 <p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">Signature Weapon</h3>
 <p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
-<p>Choose a base description, all are 2 <em>weight</em>:</p>
+<p>Choose a base description, all are 2 weight:</p>
 <ul><li aid:pstyle="Option">Sword</li>
 <li aid:pstyle="Option">Axe</li>
 <li aid:pstyle="Option">Hammer</li>
@@ -56,14 +56,14 @@
 <li aid:pstyle="Option"><em>close</em></li>
 <li aid:pstyle="Option"><em>reach</em></li></ul>
 <p aid:pstyle="NoIndent">Choose two enhancements:</p>
-<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 <em>weight</em>.</li>
+<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 weight.</li>
 <li aid:pstyle="Option">Sharp. +2 <em>piercing</em>.</li>
 <li aid:pstyle="Option">Perfectly weighted. +<em>precise</em>.</li>
 <li aid:pstyle="Option">Serrated edges. +1 damage.</li>
 <li aid:pstyle="Option">Glows in the presence of one type of creature, your choice.</li>
 <li aid:pstyle="Option">Huge. +<em>messy</em>, +<em>forceful</em>.</li>
 <li aid:pstyle="Option">Versatile. Choose an additional range.</li>
-<li aid:pstyle="Option">Well-crafted. -1 <em>weight</em>.</li></ul>
+<li aid:pstyle="Option">Well-crafted. -1 weight.</li></ul>
 <p aid:pstyle="NoIndent">Choose a look:</p>
 <ul><li aid:pstyle="Option">Ancient</li>
 <li aid:pstyle="Option">Unblemished</li>
