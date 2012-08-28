@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="dungeon-world-chapter.xsl"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story><h1>Dungeon World</h1>
 <div id="Introduction"><p aid:pstyle="NoIndent">Dungeon World is a world of fantastic adventure. A world of magic, gods and demons, of good and evil, law and chaos. Brave heroes venture into the most dangerous corners of the land in search of gold and glory.</p>
 <p>Adventurers take many shapes in Dungeon World. The races of elves, men, dwarves and halflings all have their heroes. Sometimes, they’re the Fighter, like Walton or Olive, near-invincible beasts of battle encased in iron armor. Others are more mysterious—Rath or Lilliastre, for example—a Wizard busy conjuring up and wielding the wicked forces of magic. Treasure and glory is sought by the holy Cleric, a tricky Thief, a mighty Paladin and more.</p>
@@ -19,8 +20,8 @@ Show the world who is lord.</p>
 <p>You are the wall—let every danger smash itself to dust on you. In the end, you’ll be the last one standing.</p>
 <h2>The Paladin</h2>
 <p aid:pstyle="NoIndent">Hell awaits. An eternity of torment in fire or ice or whatever best suits the sins of the damned throngs of Dungeon World. All that stands between the pits of that grim torture and salvation is you. Holy man, armored war machine, templar of the Good and the Light, right? The Cleric may say his prayers at night to the gods, dwelling in their heavens. The Fighter may wield his sharp sword in the name of "good" but you know. Only you.</p>
-<p>Eyes, hands, and sweet killing blow of the gods, you are. Yours is the gift of righteousness and virtue—of justice, of Vision, too. A purity of intent that your companions do not have.
-So guide these fools, Paladin. Take up your holy cause and bring salvation to the wastrel world.</p>
+<p>Eyes, hands, and sweet killing blow of the gods, you are. Yours is the gift of righteousness and virtue—of justice, of Vision, too. A purity of intent that your companions do not have.</p>
+<p>So guide these fools, Paladin. Take up your holy cause and bring salvation to the wastrel world.</p>
 <p>Vae victis, right?</p>
 <h2>The Ranger</h2>
 <p aid:pstyle="NoIndent">These city-born folk you travel with. Have they heard the call of the wolf? Felt the winds howl in the bleak deserts of the East? Have they hunted their prey with the bow and the knife like you? Hell no. That’s why they need you.</p>
@@ -44,12 +45,12 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <li>One copy of each class sheet</li>
 <li>One copy each of the cleric and wizard spell sheets</li>
 <li>One copy of the equipment sheet</li>
-<li>One copy of the adventure sheet and GM moves</li></ul>
-<li>Miscellanea such as: pens and pencils, scrap paper for maps and notes, maybe some index cards<li>
+<li>One copy of the adventure sheet and GM moves</li>
+<li>Miscellanea such as: pens and pencils, scrap paper for maps and notes, maybe some index cards</li></ul>
 <p>Everyone at the table will need something to write with and some six-sided dice. Two dice is the minimum but two dice per player is a good idea.</p>
 <p>You'll also need some specialized dice: four-sided, eight-sided, and ten-sided. One of each is enough but more is better; you won't have to pass them around so much.</p>
 <h1>What’s Dungeon World Like to Play?</h1>
-<p aid:pstyle="NoIndent">Playing Dungeon World is all about finding out what happens when your characters encounter dangerous and exciting monsters, strange ruins and unusual people on their quest for gold and glory. It’s a conversation between the players and the GM – the GM tells the players what they see and hear in the world around them and the players say how their characters are thinking, feeling and what they’re doing. Sometimes, those descriptions will trigger a move; something that’ll cause the GM to stop and say "time to roll the dice to see what happens". For a moment, everyone hangs on the edge of their seat as the dice clatter to a stop. Tension and excitement are always the result, no matter how the dice land. 
+<p aid:pstyle="NoIndent">Playing Dungeon World is all about finding out what happens when your characters encounter dangerous and exciting monsters, strange ruins and unusual people on their quest for gold and glory. It’s a conversation between the players and the GM—the GM tells the players what they see and hear in the world around them and the players say how their characters are thinking, feeling and what they’re doing. Sometimes, those descriptions will trigger a move; something that’ll cause the GM to stop and say "time to roll the dice to see what happens". For a moment, everyone hangs on the edge of their seat as the dice clatter to a stop. Tension and excitement are always the result, no matter how the dice land.</p>
 <p>You can play Dungeon World with the same group, session to session, over a long series of adventures, watching your characters change and grow together. You can play it as a self-contained game in a single-session, too. Between other games or at a convention, perhaps. Whether a long campaign or a one-shot, Dungeon World’s rules are here to guide you and help you create stories of fantasy adventure in a world full of fantastic stuff. Time to get out there and explore it!</p>
 <h1>How to Use This Book</h1>
 <p aid:pstyle="NoIndent">[I imagine this topic taking up a single page or so. It should cover these things:
