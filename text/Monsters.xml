@@ -36,7 +36,7 @@
 <p><em>Construct</em>: It was made, not born</p>
 <p><em>Planar</em>: It’s from beyond this world</p>
 <h3>Organization Tags</h3>
-<p><em>Horde</em>: Where there's one, there’s more. A lot more.</p>
+<p><em>Horde</em>: Where there’s one, there’s more. A lot more.</p>
 <p><em>Group</em>: Usually seen in small numbers, 3–6 or so.</p>
 <p><em>Solitary</em>: It lives and fights alone.</p>
 <h3>Size Tags</h3>
@@ -67,7 +67,7 @@
 <li>Much larger than a cart: Huge, Reach, +8 HP, +3 damage</li></ul>
 <h4>What is its most important defense?</h4>
 <ul><li>Cloth or flesh: 0 armor</li>
-<li>Leathers or think hide: 1 armor</li>
+<li>Leathers or thin hide: 1 armor</li>
 <li>Mail or scales: 2 armor</li>
 <li>Plate or bone: 3 armor</li>
 <li>Permanent magical protection: 4 armor, Magical</li></ul>
@@ -111,7 +111,7 @@
 <li>Planar: something not of this earth</li>
 <li>Lord over others: +1d4 to the roll</li>
 <li>Ancient and noteworthy: +1d4 to the roll</li></ul>
-<p aid:pstyle="NoIndent">Roll the monster's damage die plus any added dice to fine the monster's treasure:</p>
+<p aid:pstyle="NoIndent">Roll the monster's damage die plus any added dice to find the monster's treasure:</p>
 <ol><li aid:pstyle="NumberedList">A few coins, 2d8 or so</li>
 <li aid:pstyle="NumberedList">An item useful to the current situation</li>
 <li aid:pstyle="NumberedList">Several coins, about 4d10</li>
@@ -136,7 +136,7 @@
 <p>Consult a monster setting to populate a Front or when you want a threat that is only tangentially related to one of your Fronts. For example, if the heroes are battling against the Dungeon Front, The Cult of Khul-ka-ra, by exploring the ancient ruins that the cult has made its home then you might use monsters from the Legions of the Undead as a related threat—not truly part of the front but still a block in the heroes' path.</p>
 <p>The monster stat blocks within the settings describe not only HP, damage, and all the other aspects of the monster. These monsters were created with the same process listed above, and the reasons for their stats are just as important as the stats themselves. Looking at the reasoning behind the stats will allow you to present the monsters honestly, answering questions that arise in Dungeon World like "Can a warband of gnolls sack an entire village?"</p>
 <h3>Cavern Dwellers</h3>
-<p aid:pstyle="NoIndent">At the edges of civilization in the caves and tunnels below the old mountains of the world dwell all sorts of scheming, dangerous monsters. Some are wily and old, like the race of goblins scheming to burn villages and make off with livestock. Others are strange aberrations of nature like the stinking, trash-eating Otyugh. A word of caution, then, to those brave adventurers whose first foray into danger leads them into these dank and shadowy places; bad things live in the dark. Bad things with sharp teeth.</p>
+<p aid:pstyle="NoIndent">At the edges of civilization in the caves and tunnels below the old mountains of the world dwell all sorts of scheming, dangerous monsters. Some are wily and old, like the race of goblins scheming to burn villages and make off with livestock. Others are strange aberrations of nature like the stinking, trash-eating Otyugh. A word of caution, then, to those brave adventurers whose first foray into danger leads them into these dank and shadowy places: bad things live in the dark. Bad things with sharp teeth.</p>
 <h3>Denizens of the Swamp</h3>
 <p aid:pstyle="NoIndent">All things give way to rot in the end. Food spoils on the table, men's minds go mad with age and disease. Even the world itself, when left untended and uncared for, can turn to black muck and stinking air. Things dwell in these parts of Dungeon World. Things gone just as a bad as the swirling filth that fills the swamps. In these cesspit lowlands, adventurers will find such creatures as the deadly-eyed basilisk or the famed, unkillable troll. You'll need more than a dry pair of boots to survive these putrid fens. A sword would be a good start.</p>
 <h3>Legions of the Undead</h3>
@@ -146,10 +146,10 @@
 <h3>Ravenous Hordes</h3>
 <p aid:pstyle="NoIndent">"I've bested an orc in single combat," they crow. "I've fought a gnoll and lived to the tell the tale." Which is no small feat and yet, you know the truth of these boasts. Like vermin, spotting but one of these creatures speaks to a greater doom on the horizon. No orc travels alone. No slavering gnoll moves without his pack. You know that soon, the wardrums will sound and the walls will be besieged by the full fury of the warchief and his tusked berserkers. These are the monsters that will bring civilization, screaming and weeping, to its knees. Unless you can stop them. Best of luck.</p>
 <h3>Twisted Experiments</h3>
-<p aid:pstyle="NoIndent">For some who learn the arcane arts it's not merely enough to be able to live for a thousand years or throw lightning bolts that can fry a man. Some aren't quite satisfied with the power to speak to the dead or draw the angels down from heaven. Hubris calls on those cloaked-and-hooded "scientists" to make a strange and unholy life of their own. No mortal children, these. These are the brood of a mind gone foul with strange magic. In this setting you will find such nightmares as the chimera, dripping poison. Here, too, are the protector golems and mutant apes. All sorts of bad ideas await you in the fallen towers of the mad magicians of Dungeon World.</p>
+<p aid:pstyle="NoIndent">For some who learn the arcane arts it's not merely enough to be able to live for a thousand years or throw lightning bolts that can fry a man. Some aren't quite satisfied with the power to speak to the dead or draw the angels down from heaven. Hubris calls on those cloaked and hooded "scientists" to make a strange and unholy life of their own. No mortal children, these. These are the brood of a mind gone foul with strange magic. In this setting you will find such nightmares as the chimera, dripping poison. Here, too, are the protector golems and mutant apes. All sorts of bad ideas await you in the fallen towers of the mad magicians of Dungeon World.</p>
 <h3>The Lower Depths</h3>
 <p aid:pstyle="NoIndent">Ruins dot the countryside of Dungeon World. Old bastions of long-forgotten civilization fallen to decay, to monsters, or to the whim of a vengeful god. These ruins often cover a much more dangerous truth—catacombs and underground complexes lousy with traps and monsters. Gold, too. Which is why you're here. Why you're locked in mortal combat with a tribe of spiteful dark elves. Battling stone giants in caverns the size of whole countries. Maybe, though, you're the noble souls who've travelled to the world's heart to put an end to the Apocalypse Dragon—the beast who, it is said, will one day swallow the sun and kill us all. We appreciate it, really. We'll all pray for you.</p>
 <h3>Planar Powers</h3>
-<p aid:pstyle="NoIndent">Sometimes, monsters do not come from Dungeon World at all. Beyond the mountains at the edge of the world or below the deepest seas, the sages and wise old priests say that there are gateways to the lands beyond. They speak of elysian fields; rivers of sweet wine and maidens dancing in fields of gold. They tell tales of the paradise of heavens to be found past the Planar Door. Tales tell, too, of the Thousandfold Hell. Of the swirling Elemental Vortex and the devils that wait for the stars to align so they can enter Dungeon World and wreak their bloody havoc. You must be curious to know if these tales are true? What will you see when the passage to the beyond is opened?</p>
+<p aid:pstyle="NoIndent">Sometimes, monsters do not come from Dungeon World at all. Beyond the mountains at the edge of the world or below the deepest seas, the sages and wise old priests say that there are gateways to the lands beyond. They speak of Elysian fields, rivers of sweet wine, and maidens dancing in fields of gold. They tell tales of the paradise of heavens to be found past the Planar Door. Tales tell, too, of the Thousandfold Hell. Of the swirling Elemental Vortex and the devils that wait for the stars to align so they can enter Dungeon World and wreak their bloody havoc. You must be curious to know if these tales are true? What will you see when the passage to the beyond is opened?</p>
 </Body>
 </Root>

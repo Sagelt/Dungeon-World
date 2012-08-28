@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<<<<<<< HEAD
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>"Hacking" Dungeon World</h1>
 <Body><p aid:pstyle="NoIndent">Dungeon World portrays a specific kind of fantasy adventure—one with elves and dwarves, heroes and villains, and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different—maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf. All that is possible (and, in fact, encouraged) with a little effort. This chapter will explain how you can turn this Dungeon World into <em>your</em> Dungeon World.</p>
 <h2>Making Moves</h2>
@@ -59,8 +60,8 @@
 <h2>Adventure Moves</h2>
 <p aid:pstyle="NoIndent">Adventure moves deal directly with the adventure underway. They can move the action along, change the rewards, or transition from one adventure to another.</p>
 <p>If you're running a short game, maybe at a convention or game day, you may find that you want to front-load the experience a little more. Here's a move that covers "the adventure so far" so that you can get straight into a short game in media res.</p>
-<p aid:pstyle="Example">Stalwart Fighter: As if the bandits weren’t bad enough! As if all the sword wounds, bruises and beatings at the hands of your enemies were insufficient—now this. Trapped underground with your adventuring companions when all you wanted was to return to the town and spend your well-earned bounty. No such luck, warrior. Sharpen that sword! Certainly, the others will need your protecting before safety is found. Just like last time. Once more into the breach, right? I swear, one of these fellow must owe you a favor or two by now…</p>
-<p aid:pstyle="Example">Have a look around and roll+CHA.</p>
+<p aid:pstyle="Example">Stalwart Fighter: As if the bandits weren’t bad enough! As if all the sword wounds, bruises and beatings at the hands of your enemies were insufficient—now this. Trapped underground with your adventuring companions when all you wanted was to return to the town and spend your well-earned bounty. No such luck, warrior. Sharpen that sword! Certainly, the others will need your protecting before safety is found. Just like last time. Once more into the breach, right? I swear, one of these fellows must owe you a favor or two by now…</p>
+<p aid:pstyle="Example">Have a look around and roll+CHA.</p> 
 <p aid:pstyle="Example">On a 10+, choose two party members.</p>
 <p aid:pstyle="Example">On a 7-9, choose just one</p>
 <p aid:pstyle="Example">On a 6-, you’re surrounded by ingrates.</p>
@@ -82,7 +83,7 @@
 <li><strong>When a character uses a thing</strong>. Examples: Magic items, Heirloom (Fighter).</li>
 <li><strong>From now on</strong>. Examples: Serenity (Cleric), Poisoner (Thief).</li></ul>
 <h3>Effect</h3>
-<p aid:pstyle="NoIndent">Moves effects can be anything you can think of; they are as limitless as your ideas. Don't feel constrained to making rolls, +1 bonuses, and swapping stats. Since all moves flow from the fiction, a fictional effect like "They treat you as a friend" is just as powerful and useful as +1 forward, maybe more so.</p>
+<p aid:pstyle="NoIndent">Moves effects can be anything you can think of; they are as limitless as your ideas. Don't feel constrained to making rolls, +1 bonuses, and swapping stats. Since all moves flow from the fiction, a fictional effect like "They treat you as a friend" is just as powerful and useful as +1 forward—maybe more so.</p>
 <p>Here are some broad types of effects, any given move may use more than one of them:</p>
 <ul><li><strong>Roll</strong>. Examples: Defy Danger, Cast a Spell (Wizard), Called Shot (Ranger).</li>
 <li><strong>Substitute stats</strong>. Examples: Dwarf (Fighter).</li>
@@ -120,9 +121,9 @@
 <p>Consider this situation: Gregor attacks an eagle lord with his mighty axe. He describes his fictional action: "I swing my axe right down on his wing with a big overhead chop." Then he rolls the move, gets a 10, and makes his choices. Max damage is a clear choice and comes right from the fiction. The other options, however, don't make much sense. If he chooses to divide his damage, how does that flow from his one fictional attack? How did that one chop also hit the treant behind him?</p>
 <p>Scoping down the fictional effect of the move lead to this version:</p>
 <p aid:pstyle="Example">When you attack an enemy who can defend themselves, roll+Str. On a 10+, you deal your damage but your enemy does not get to deal theirs to you. If you choose, you can take your enemy's damage and deal double damage to the enemy. On a 7-9, you take the enemy's damage and deal your damage.</p>
-<p>Here the move now has only the effects that could clearly follow from a single attack. Any action that couldn't reasonably lead to a counter-attack isn't Hack and Slash, so now the trigger matches the effects. Unfortunately double damage was a bit much, so we changed it to this:</p>
+<p>Here the move now has only the effects that could clearly follow from a single attack. Any action that couldn't reasonably lead to a counterattack isn't Hack and Slash, so now the trigger matches the effects. Unfortunately double damage was a bit much, so we changed it to this:</p>
 <p aid:pstyle="Example">When you attack an enemy in melee, roll+Str. On a 7-9, you deal your damage to the enemy and take their damage. On a 10+ you deal your damage to the enemy. You can choose to also take the enemy's damage to deal +2 damage.</p>
-<p>+2 damage is a clear advantage, but not a game-breaker. The only problem here is that it reduced the effects of an attack to taking damage. Monsters do so much more than just take away your HP; monsters hurl you about the room and destroy the ground you stand on, why can't they do that in response?</p>
+<p>+2 damage is a clear advantage, but not a game breaker. The only problem here is that it reduced the effects of an attack to taking damage. Monsters do so much more than just take away your HP; monsters hurl you about the room and destroy the ground you stand on, why can't they do that in response?</p>
 <p aid:pstyle="Example">When you attack an enemy in melee, roll+Str. On a 10+ you deal your damage to the enemy. You can choose to let the enemy make an attack to deal +2 damage. On a 7-9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
 <p>This version (the final one) allows a monster to "attack" not just deal damage. That opens up a whole host of interesting monster moves to be used.</p>
 <h2>Agenda, Principles, and GM Moves</h2>

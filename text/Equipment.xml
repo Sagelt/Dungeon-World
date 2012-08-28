@@ -19,7 +19,7 @@
 <p><em>Worn</em>: To use it, you have to be wearing it.</p>
 <p><em>n Uses</em>: It can only be used <em>n</em> times. </p>
 <h2>Weapons</h2>
-<p>Weapons don't kill monsters, people do. That's why weapons in Dungeon World don’t have a listed damage. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It's useful because its small and easy to strike with at close distance. A dagger in the hands of the Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
+<p aid:pstyle="NoIndent">Weapons don't kill monsters, people do. That's why weapons in Dungeon World don’t have a listed damage. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It's useful because it's small and easy to strike with at close distance. A dagger in the hands of the Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
 <h3>Weapon Tags</h3>
 <p aid:pstyle="NoIndent">Weapons may have tags that are primarily there to help you describe them (like Rusty or Glowing) but these tags have a specific, mechanical effect.</p>
 <p><em>n Ammo</em>: It counts as ammunition for appropriate ranged weapons. The number indicated does not represent individual arrows or sling stones, but represents what you have left on hand. </p>
@@ -46,8 +46,8 @@
 <p aid:pstyle="Item">Crossbow	<span aid:cstyle="Tags">Near, +1 damage, Reload, 35 coins, 3 Weight</span></p>
 <p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 Ammo, 1 coin, 1 Weight</span></p>
 <p aid:pstyle="Item">Elven Arrows	<span aid:cstyle="Tags">4 Ammo, 20 coins, 1 Weight</span></p>
-<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 coins, 2 Weight</span></p>
-<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 coins, 1 Weight</span></p>
+<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 coin, 2 Weight</span></p>
+<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 coin, 1 Weight</span></p>
 <p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 2 coins, 1 Weight</span></p>
 <p aid:pstyle="Item">Throwing Dagger	<span aid:cstyle="Tags">Thrown, Near, 1 coin, 0 Weight</span></p>
 <p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 8 coins, 1 Weight</span></p>
@@ -116,11 +116,11 @@
 <p aid:pstyle="Item">A run-of-the-mill killing	<span aid:cstyle="Tags">5 coins</span></p>
 <p aid:pstyle="Item">An assassination	<span aid:cstyle="Tags">120 coins</span></p>
 <p aid:pstyle="Item">Healing from a Chirurgeon	<span aid:cstyle="Tags">5 coins</span></p>
-<p aid:pstyle="Item">A month's prayers for the departed	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">A month's prayers for the departed	<span aid:cstyle="Tags">1 coin</span></p>
 <p aid:pstyle="Item">Repairs to a mundane item	<span aid:cstyle="Tags">25% of the item's cost</span></p>
 <h2>Meals</h2>
-<p aid:pstyle="Item">A hearty meal for one	<span aid:cstyle="Tags">1 coins</span></p>
-<p aid:pstyle="Item">A poor meal for a family	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">A hearty meal for one	<span aid:cstyle="Tags">1 coin</span></p>
+<p aid:pstyle="Item">A poor meal for a family	<span aid:cstyle="Tags">1 coin</span></p>
 <p aid:pstyle="Item">A feast	<span aid:cstyle="Tags">15 coins per person</span></p>
 <h2>Transport</h2>
 <p aid:pstyle="Item">Cart and Donkey, sworn to carry your burdens	<span aid:cstyle="Tags">50 coins, Load 20</span></p>
@@ -129,9 +129,9 @@
 <p aid:pstyle="Item">Wagon	<span aid:cstyle="Tags">150 coins, Load 40</span></p>
 <p aid:pstyle="Item">Barge	<span aid:cstyle="Tags">50 coins, Load 15</span></p>
 <p aid:pstyle="Item">River boat	<span aid:cstyle="Tags">150 coins, Load 20</span></p>
-<p aid:pstyle="Item">Merchant Ship	<span aid:cstyle="Tags">5,000 coins, Load 200</span></p>
-<p aid:pstyle="Item">War Ship	<span aid:cstyle="Tags">20,000 coins, Load 100</span></p>
-<p aid:pstyle="Item">Passage on a safe route	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">Merchant ship	<span aid:cstyle="Tags">5,000 coins, Load 200</span></p>
+<p aid:pstyle="Item">War ship	<span aid:cstyle="Tags">20,000 coins, Load 100</span></p>
+<p aid:pstyle="Item">Passage on a safe route	<span aid:cstyle="Tags">1 coin</span></p>
 <p aid:pstyle="Item">Passage on a tough route	<span aid:cstyle="Tags">10 coins</span></p>
 <p aid:pstyle="Item">Passage on a dangerous route	<span aid:cstyle="Tags">100 coins</span></p>
 <h2>Land and Buildings</h2>
@@ -150,7 +150,7 @@
 <p aid:pstyle="Item">A compelling bribe	<span aid:cstyle="Tags">80-Charisma coins</span></p>
 <p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">500-Charisma coins</span></p>
 <h2>Gifts and Finery</h2>
-<p aid:pstyle="Item">A peasant gift	<span aid:cstyle="Tags">1 coins</span></p>
+<p aid:pstyle="Item">A peasant gift	<span aid:cstyle="Tags">1 coin</span></p>
 <p aid:pstyle="Item">A fine gift	<span aid:cstyle="Tags">55 coins</span></p>
 <p aid:pstyle="Item">A noble gift	<span aid:cstyle="Tags">200 coins</span></p>
 <p aid:pstyle="Item">A ring or cameo	<span aid:cstyle="Tags">75 coins</span></p>
@@ -199,7 +199,7 @@
 <p aid:pstyle="MagicItem">Common Scroll	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
 <p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class's spell list for you to be able to cast it. When you cast a spell from a scroll, the spell has effect, simple as that.</p>
 <p aid:pstyle="MagicItem">Devilsbane Oil	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
-<p aid:pstyle="NoIndent">A holy oil, created in limited supply by a mute sect of mountain-monks whose order protected humanity from the powers of the Demon Pits in ancient epochs. Only a few jars remain. When applied to any weapon and used to strike a denizen of any outer plane, the oil undoes the magic that binds that creature. In some cases, this will return it to its home. In others, it merely undoes any magic controlling it. The oil stays on the weapon for a few hours before it dries and flakes away.</p>
+<p aid:pstyle="NoIndent">A holy oil, created in limited supply by a mute sect of mountain monks whose order protected humanity from the powers of the Demon Pits in ancient epochs. Only a few jars remain. When applied to any weapon and used to strike a denizen of any outer plane, the oil undoes the magic that binds that creature. In some cases, this will return it to its home. In others, it merely undoes any magic controlling it. The oil stays on the weapon for a few hours before it dries and flakes away.</p>
 <p>If applied to the edges of a doorway or drawn in a circle, the oil will repel creatures whose home is any of the outer planes. They cannot pass across it. The oil lasts for one full day before it soaks in or evaporates.</p>
 <p aid:pstyle="MagicItem">Earworm Wax	<span aid:cstyle="Tags">1 Use, 0 Weight</span></p>
 <p aid:pstyle="NoIndent">A yellowish candle. Seems never to burn out and the light it casts is strange and weak. Its wax is always cool, too. Drip the wax into the ear of a target and gain 3 hold. Spend that hold and ask your target a question. They find themselves telling you the whole truth, despite themselves. The consequences, after the fact? Those are up to you to deal with.</p>
@@ -266,15 +266,15 @@
 <p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">1 Armor, 1 Weight</span></p>
 <p aid:pstyle="NoIndent">A stealthy suit of armor, it appears as many things to many people and blends in with appropriate apparel. The wearer always seems the height of fashion to any who gaze upon him.</p>
 <p aid:pstyle="MagicItem">Titus’ Truthful Tallow	<span aid:cstyle="Tags">0 Weight</span></p>
-<p aid:pstyle="NoIndent">A candle of ivory-and-copper colored tallow with a wick of spun silver. When lit, none upon whom its light falls is able to tell a lie. They may keep silent or dissemble but when asked a question directly, they can speak naught but truth.</p>
+<p aid:pstyle="NoIndent">A candle of ivory- and copper-colored tallow with a wick of spun silver. When lit, none upon whom its light falls is able to tell a lie. They may keep silent or dissemble but when asked a question directly, they can speak naught but truth.</p>
 <p aid:pstyle="MagicItem">Tricksy Rope	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">A rope that listens. Does tricks, too, like a smart and more obedient snake might. Tell it “Coil” or “Slack” or “Come here, rope” and it will. </p>
 <p aid:pstyle="MagicItem">The Sterling Hand	<span aid:cstyle="Tags">0 Weight</span></p>
-<p aid:pstyle="NoIndent">Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon (near range) and is made of pure enough silver to harm creatures affected by such.</p>
+<p aid:pstyle="NoIndent">Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon (Near range) and is made of pure enough silver to harm creatures affected by such.</p>
 <p aid:pstyle="MagicItem">Vellius’s Gauntlets	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">Crafted in the name of Vellius the Clumsy, Vellius the Butter-Fingered, Vellius the Clod, these gloves of simple cloth prevent you from dropping any object you don’t intent to. You cannot be disarmed and will not fall from any rope or ladder, for example. This item can get very messy if you have something strong pulling at your legs while you grip onto something solid.</p>
 <p aid:pstyle="MagicItem">Violation Glaive	<span aid:cstyle="Tags">Reach, 2 Weight</span></p>
-<p aid:pstyle="NoIndent">A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you Hack and Slash on a 10+ you have an additional option: you can deal your normal damage, let them counter attack you, and instill the emotion of your choice (maybe fear, reverence, or trust)</p>
+<p aid:pstyle="NoIndent">A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you Hack and Slash on a 10+ you have an additional option: you can deal your normal damage, let them counterattack you, and instill the emotion of your choice (maybe fear, reverence, or trust).</p>
 <p aid:pstyle="MagicItem">Vorpal Sword	<span aid:cstyle="Tags">Close, 3 Piercing, 2 Weight</span></p>
 <p aid:pstyle="NoIndent">Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another—the limb from the body or folk from their lives. When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.</p></Body>
 </Root>
