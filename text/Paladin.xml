@@ -31,7 +31,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">I Am the Law</h3>
 <p aid:pstyle="NoIndent">When you <strong>give an NPC an order based on your divine authority</strong>, roll+Cha. </p>
-<p aid:pstyle="NoIndent">On a 6+, they choose one:</p>
+<p aid:pstyle="NoIndent">On a 7+, they choose one:</p>
 <ul><li>Do what you say</li>
 <li>Back away cautiously, then flee</li>
 <li>Attack you</li></ul>
