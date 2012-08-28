@@ -57,7 +57,11 @@
 <p>Temporary or circumstantial armor works the same way as armor that you wear: 1 armor for partial cover, 2 armor for major cover.</p>
 <p>You don’t always need to make an explicit move to deal damage. If a character or monster is established in the fiction as being ready to attack and nobody makes a move that deals with that threat, damage is dealt.</p>
 <p>HP loss is often only part of the effect. If the harm is generalized, like falling into a pit, losing the HP is probably all there is to it. When the harm is specific, like an orc pulling your arm from its socket, HP should be part of the effect but not the entirety of it. The bigger issue is dealing with the newly busted arm: how do you swing a sword or cast a spell? Likewise having your head chopped off is not HP damage, it's just you being dead.</p>
-<h3>Stun Damage</h3>
+<h4>Damage From Multiple Creatures</h4>
+<p aid:pstyle="NoIndent">It's a brave monster that goes into battle alone. Most creatures fight with someone at their side, and maybe another at their back, and possibly an archer covering the rear, and so on. This can lead to multiple monsters dealing their damage at once.</p>
+<p>If multiple creatures attack at once roll the damage die for each of them and take the highest result. If some of the creatures deal a different amount of damage roll the damage with the highest potential for each creature involved in the attack and take the highest result.</p>
+<p aid:pstyle="Example">A goblin orkaster (d10+1 damage ignores armor) and three goblins (d6 damage) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, four times: once for the orkaster, and once for each of the other goblins. I take the highest result, a roll of 8, and tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.</p>
+<h4>Stun Damage</h4>
 <p aid:pstyle="NoIndent">Stun damage is non-lethal damage. A PC who takes stun damage is Defying Danger to do anything at all, the danger being "you're stunned." This lasts as long as makes sense in the fiction—you’re stunned until you can get a chance to clear your head or fix whatever stunned you. A GM character that takes stun damage doesn’t count it against their HP but will act accordingly, staggering around for a few seconds, fumbling blindly, etc.</p>
 <h3>Healing</h3>
 <p aid:pstyle="NoIndent">There are two sources of healing in Dungeon World: medical aid and the passage of time.</p>
