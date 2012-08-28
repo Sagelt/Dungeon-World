@@ -55,7 +55,7 @@ Show the world who is lord.</p></div>
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
 <li>Your casting distances you from your deity—take -1 ongoing to Cast a Spell until the next time you Commune.</li>
 <li>After you cast it, the spell is revoked by your deity. You cannot cast the spell again until you Commune and have it granted to you.</li></ul>
-<p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to Cast a Spell</p></div></div></div>
+<p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to Cast a Spell.</p></div></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
@@ -112,7 +112,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="Requirement">Requires: Chosen One</p>
 <p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for Chosen One. You are granted that spell as if it was one level lower.</p>
 <h3 aid:pstyle="MoveName">Apotheosis</h3>
-<p aid:pstyle="NoIndent">Once, after taking this move, the next time you<strong>spend time in prayer as appropriate to your god</strong>, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc). When you emerge from prayer, you permanently gain that physical feature. This feature forever marks you as chosen by your god, and your piety will be obvious to all who look upon you.</p>
+<p aid:pstyle="NoIndent">Once, after taking this move, the next time you<strong>spend time in prayer as appropriate to your god</strong>, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc.). When you emerge from prayer, you permanently gain that physical feature. This feature forever marks you as chosen by your god, and your piety will be obvious to all who look upon you.</p>
 <h3 aid:pstyle="MoveName">Reaper</h3>
 <p aid:pstyle="NoIndent">When you <strong>take time after a conflict to dedicate your victory to your deity and deal with the dead</strong>, take +1 forward.</p>
 <h3 aid:pstyle="MoveName">Providence</h3>
