@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterName">Chimera	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
-<p aid:pstyle="MonsterDescription">Well known and categorized, the chimera is a perfected creature. From the codices of the Mage’s Guild to the famous pages of Cullaina’s Creature Compendium, there’s no confusion about what chimera means. Two parts lioness, one part serpent, head of a she-goat, and all the vicious magic one can muster. The actual ritual might vary, as might a detail or two—more creative sorcerers switch the flame breath for acid, perhaps. Used as a guardian, an assassin or merely an instrument of chaos unchained, it matters little. The chimera is the worst sort of abomination: an intentional affront to all natural life. <em>Instinct</em>: To do as commanded</p>
+<p aid:pstyle="MonsterDescription">Well-known and categorized, the chimera is a perfected creature. From the codices of the Mage’s Guild to the famous pages of Cullaina’s Creature Compendium, there’s no confusion about what chimera means. Two parts lioness, one part serpent, head of a she-goat, and all the vicious magic one can muster. The actual ritual might vary, as might a detail or two—more creative sorcerers switch the flame breath for acid, perhaps. Used as a guardian, an assassin or merely an instrument of chaos unchained, it matters little. The chimera is the worst sort of abomination: an intentional affront to all natural life. <em>Instinct</em>: To do as commanded</p>
 <ul><li>Belch forth flame</li>
 <li>Run them over</li>
 <li>Poison them</li></ul>
@@ -19,7 +19,7 @@
 <p aid:pstyle="MonsterStats">Pickaxe (2d6·w damage)	3 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
-<p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the Derro, are the mistakes of a long-forgotten dwarven alchemist. The derro don’t forget, though. Twisted and hateful, the Derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
+<p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the Derro, are the mistakes of a long-forgotten dwarven alchemist. The Derro don’t forget, though. Twisted and hateful, the Derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
 <ul><li>Fill a mind with foreign thoughts</li>
 <li>Take control of a beast's mind</li></ul>
 <p aid:pstyle="MonsterName">Digester	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>

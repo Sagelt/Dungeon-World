@@ -18,7 +18,7 @@
 <p aid:pstyle="MonsterStats">Choke (d10 damage)	15 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Flexible</p>
-<p aid:pstyle="MonsterDescription">Some say these things descended from the family of a cruel wizard who forced them to live out their lives underground. They say his experiments led him to fear the sun and ages passed while he descended into unlife, dragging his folk along with him. These things resemble men, in a way. Head, four limbs and all that. Only their skin is wet and rubbery and their arms long and fingers grasping. They hate all life that bears the stink of the sun’s touch, as one might expect. Jealousy, long instilled, is hard to shake. <em>Instinct</em>: To deny light</p>
+<p aid:pstyle="MonsterDescription">Some say these things descended from the family of a cruel wizard who forced them to live out their lives underground. They say his experiments led him to fear the sun and ages passed while he descended into unlife, dragging his folk along with him. These things resemble men, in a way. Head, four limbs and all that. Only their skin is wet and rubbery and their arms long and fingers grasping. They hate all life that bears the stink of the sun’s touch, as one might expect. Jealousy, long-instilled, is hard to shake. <em>Instinct</em>: To deny light</p>
 <ul><li>Hold someone, wringing the breath from them</li>
 <li>Fling a held creature</li></ul>
 <p aid:pstyle="MonsterName">Cloaker	<span aid:cstyle="Tags">Solitary, Stealthy</span></p>
@@ -30,14 +30,14 @@
 <p aid:pstyle="MonsterName">Dwarven Warrior	<span aid:cstyle="Tags">Horde, Organized</span></p>
 <p aid:pstyle="MonsterStats">Axe (d6 damage)	7 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were men and all were of this ilk: stoic and proud warriors. Axe-wielding and plate-wearing. Stout bearded battle-hungry men who would push them, time and time again, back up out of their mines and tunnels with ferocity. It just goes to show how little men know about the elder races. These folk are merely a vanguard, and they bravely do their duty to protect the riches of the Dwarven realm. Earn their trust and you’ve an ally for life. Earn their ire and you’re not like to regret it very long. <em>Instinct</em>: To defend</p>
+<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were men and all were of this ilk: stoic and proud warriors. Axe-wielding and plate-wearing. Stout bearded battle-hungry men who would push them, time and time again, back up out of their mines and tunnels with ferocity. It just goes to show how little men know about the elder races. These folk are merely a vanguard, and they bravely do their duty to protect the riches of the Dwarven realm. Earn their trust and you’ve an ally for life. Earn their ire and you’re not likely to regret it very long. <em>Instinct</em>: To defend</p>
 <ul><li>Drive them back</li>
 <li>Call up reinforcements</li></ul>
 <p aid:pstyle="MonsterName">Earth Elemental	<span aid:cstyle="Tags">Solitary, Huge</span></p>
 <p aid:pstyle="MonsterStats">Smash (d10+5 damage)	27 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Made of stone</p>
-<p aid:pstyle="MonsterDescription">Our shaman says that all the things of the world have a spirit. Stones, trees, a stream. Now that I’ve seen the earth roil under my feet and fists of stone beat my friends half to death I’m like to believe that crazy old man. The one I saw was huge—big as a house! It came boiling up from a rockslide out of nowhere and had a voice like an avalanche. I pay my respects, now. Rightly so. <em>Instinct</em>: To show the strength of earth</p>
+<p aid:pstyle="MonsterDescription">Our shaman says that all the things of the world have a spirit. Stones, trees, a stream. Now that I’ve seen the earth roil under my feet and fists of stone beat my friends half to death I’d like to believe that crazy old man. The one I saw was huge—big as a house! It came boiling up from a rockslide out of nowhere and had a voice like an avalanche. I pay my respects, now. Rightly so. <em>Instinct</em>: To show the strength of earth</p>
 <ul><li>Turn the ground into a weapon</li>
 <li>Meld into stone</li></ul>
 <p aid:pstyle="MonsterName">Goliath	<span aid:cstyle="Tags">Group, Huge, Organized, Intelligent</span></p>
@@ -50,7 +50,7 @@
 <p aid:pstyle="MonsterStats">Flames (d6 damage ignores armor)	3 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Full of flames</p>
-<p aid:pstyle="MonsterDescription">Scarabaeus Pyractomena! What a delightful creature—see how its carapace glitters in the light of our torches? Not too close now, they’re temperamental, you see. The fire in their belly isn’t just metaphorical, no. Watch as I goad the beast. Aha! A spout of flame! Unexpected, isn’t it? One of these creatures alone, if it comes up from below, can be a hellish nuisance to a farmstead or village. A whole swarm? There’s a reason they call it a conflagration of fire beetles. <em>Instinct</em>: To enflame</p>
+<p aid:pstyle="MonsterDescription"><em>Scarabaeus pyractomena</em>! What a delightful creature—see how its carapace glitters in the light of our torches? Not too close now, they’re temperamental, you see. The fire in their belly isn’t just metaphorical, no. Watch as I goad the beast. Aha! A spout of flame! Unexpected, isn’t it? One of these creatures alone, if it comes up from below, can be a hellish nuisance to a farmstead or village. A whole swarm? There’s a reason they call it a conflagration of fire beetles. <em>Instinct</em>: To enflame</p>
 <ul><li>Undermine the ground</li>
 <li>Burst from the earth</li>
 <li>Spray forth flames</li></ul>
@@ -58,7 +58,7 @@
 <p aid:pstyle="MonsterStats">Claw (d6 damage)	3 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
-<p aid:pstyle="MonsterDescription">It’s a sad thing, really. Guardians bred by Magi of the past with no more castles to guard. Their ancestors’ sacred task bred into their blood leads them to find a place—ruins, mostly but sometimes a cave or hill or mountain cliff—and guard it as though their masters yet lived below. They’re notoriously good at finding valuables buried below the earth, though. Find one of these winged reptiles and you’ll find yourself a treasure nearby. Just be careful, they’re hard to spot and tend to move in packs. <em>Instinct</em>: To guard</p>
+<p aid:pstyle="MonsterDescription">It’s a sad thing, really. Guardians bred by magi of the past with no more castles to guard. Their ancestors’ sacred task bred into their blood leads them to find a place—ruins, mostly but sometimes a cave or hill or mountain cliff—and guard it as though their masters yet lived below. They’re notoriously good at finding valuables buried below the earth, though. Find one of these winged reptiles and you’ll find yourself a treasure nearby. Just be careful, they’re hard to spot and tend to move in packs. <em>Instinct</em>: To guard</p>
 <ul><li>Attack with the element of surprise</li>
 <li>Take to the air</li>
 <li>Blend into stonework</li></ul>

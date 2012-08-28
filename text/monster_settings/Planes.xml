@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Planar Powers</h1>
 <Body><p aid:pstyle="MonsterName">Angel	<span aid:cstyle="Tags">Solitary, Terrifying, Divine, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats"> Sword of Flames(2d10·b+4 damage, ignores armor)	18 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Sword of Flames (2d10·b+4 damage, ignores armor)	18 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
-<p aid:pstyle="MonsterDescription">”So was it written that the heavens opened up to Avra’hal and did an angel from the clouds emerge to speak unto her and so did it appear to her as her firstborn daughter—beautiful, of ebon skin and golden eyes—and did Avra’hal weep to see it. ’Be not afraid’ it commanded her ‘go to the villages I have shown you in your dreams and unto them show the word I have written on your soul.’ Avra’hal wept and wept and did agree to do this and did take up her sword and tome and did into the villages go, a great thirst for blood on her lips for the word the angel wrote upon the soul of Avra’hal was ‘kill’.” <em>Instinct</em>: To share divine will</p>
+<p aid:pstyle="MonsterDescription">“So was it written that the heavens opened up to Avra’hal and did an angel from the clouds emerge to speak unto her and so did it appear to her as her firstborn daughter—beautiful, of ebon skin and golden eyes—and did Avra’hal weep to see it. ‘Be not afraid,’ it commanded her. ‘Go to the villages I have shown you in your dreams and unto them show the word I have written on your soul.’ Avra’hal wept and wept and did agree to do this and did take up her sword and tome and did into the villages go, a great thirst for blood on her lips for the word the angel wrote upon the soul of Avra’hal was ‘kill’.” <em>Instinct</em>: To share divine will</p>
 <ul><li>Deliver visions and prophecy</li>
 <li>Stir mortals to action</li>
 <li>Expose sin and injustice</li></ul>
@@ -29,7 +29,7 @@
 <p aid:pstyle="MonsterName">Corrupter	<span aid:cstyle="Tags">Solitary, Devious, Planar, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Secret dagger (2d8·w damage)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">”Surely, my good man, you must know why I am here. Must know who I am. You said the words. You spilled the blood and followed the instructions almost to the letter. Your pronunciation was a bit off but that’s to be expected. I’ve come to give you what you’ve always wanted, friend. Glory, love, money? Paltry things when you’ve the vaults of hell to plumb. Don’t look so shocked, you knew what this was. You have but one thing we desire. Promise it to us, and the world shall be yours for the taking. Trust me.” <em>Instinct</em>: To bargain</p>
+<p aid:pstyle="MonsterDescription">“Surely, my good man, you must know why I am here. Must know who I am. You said the words. You spilled the blood and followed the instructions almost to the letter. Your pronunciation was a bit off but that’s to be expected. I’ve come to give you what you’ve always wanted, friend. Glory, love, money? Paltry things when you’ve the vaults of hell to plumb. Don’t look so shocked, you knew what this was. You have but one thing we desire. Promise it to us, and the world shall be yours for the taking. Trust me.” <em>Instinct</em>: To bargain</p>
 <ul><li>Offer a deal with horrible consequences</li>
 <li>Plumb the vaults of hell for a bargaining chip</li>
 <li>Make a show of power</li></ul>
@@ -37,7 +37,7 @@
 <p aid:pstyle="MonsterStats">Flame (d8+1 damage, ignores armor)	14 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Made of flame</p>
-<p aid:pstyle="MonsterDescription">”Stop rubbing that lamp, you idiot. I do not care what you have read, it will not grant you wishes. I brought you here to show you something real, something true. See this mural? It shows the ancient city. The true city that came before. They called it Majilis and it was made of brass by the spirits. They had golem servants and human lovers and, in that day, it was said you could trade them a year of your life for a favor. We are not here to gather treasure this night, fool, we are here to learn. The djinn still sometimes come to these places, and you must understand their history if you are to know how to behave. They are powerful and wicked and proud and you must know them if you hope to survive a summoning. Now, bring the lamp here and we will light it, it grows dark and these ruins are dangerous at night.” <em>Instinct</em>: To burn eternally</p>
+<p aid:pstyle="MonsterDescription">“Stop rubbing that lamp, you idiot. I do not care what you have read, it will not grant you wishes. I brought you here to show you something real, something true. See this mural? It shows the ancient city. The true city that came before. They called it Majilis and it was made of brass by the spirits. They had golem servants and human lovers and, in that day, it was said you could trade them a year of your life for a favor. We are not here to gather treasure this night, fool, we are here to learn. The djinn still sometimes come to these places, and you must understand their history if you are to know how to behave. They are powerful and wicked and proud and you must know them if you hope to survive a summoning. Now, bring the lamp here and we will light it, it grows dark and these ruins are dangerous at night.” <em>Instinct</em>: To burn eternally</p>
 <ul><li>Grant power for a price</li>
 <li>Summon the forces of the City of Brass</li></ul>
 <p aid:pstyle="MonsterName">Hell Hound	<span aid:cstyle="Tags">Group, Planar, Organized</span></p>
@@ -51,7 +51,7 @@
 <p aid:pstyle="MonsterName">Imp	<span aid:cstyle="Tags">Horde, Planar, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Flame gout (d6 damage, ignores armor)	7 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near, Far</span></p>
-<p aid:pstyle="MonsterDescription">These tiny observer-demons often act as a first-time binding subject by neophyte warlocks. They can be found infesting arcane cabals, drinking potions when no-one watches, and chasing pets and servants with tiny pitchforks. A caricature of true demonhood, these little creatures are, thankfully, not too difficult to bind or extinguish. <em>Instinct</em>: To harass</p>
+<p aid:pstyle="MonsterDescription">These tiny observer-demons often act as a first-time binding subject by neophyte warlocks. They can be found infesting arcane cabals, drinking potions when no one watches, and chasing pets and servants with tiny pitchforks. A caricature of true demonhood, these little creatures are, thankfully, not too difficult to bind or extinguish. <em>Instinct</em>: To harass</p>
 <ul><li>Send information back to hell</li>
 <li>Cause mischief</li></ul>
 <p aid:pstyle="MonsterName">Inevitable	<span aid:cstyle="Tags">Group, Large, Magical, Cautious, Gibbous, Planar</span></p>
