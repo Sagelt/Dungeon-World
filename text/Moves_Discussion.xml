@@ -130,7 +130,7 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <h2 aid:pstyle="BasicMoveName">Discern Realities</h2>
 <p aid:pstyle="Example">When you <Strong>closely study a situation or person</Strong>, roll+Wis.</p>
 <p aid:pstyle="Example">On a 10+, ask the GM 3 questions from the list below.</p>
-<p aid:pstyle="Example"> On a 7–9, ask 1.</p>
+<p aid:pstyle="Example">On a 7–9, ask 1.</p>
 <p aid:pstyle="Example">Either way, take +1 forward when acting on the answers.</p>
 <ul><li aid:pstyle="Exampleli">What happened here recently?</li>
 <li aid:pstyle="Exampleli">What is about to happen?</li>
@@ -172,7 +172,7 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <h2 aid:pstyle="BasicMoveName">Aid or Interfere</h2>
 <p aid:pstyle="Example">When you <Strong>help or hinder someone </Strong>, roll+bond with them.</p>
 <p aid:pstyle="Example">On a 10+, they take +1 or -2 to their roll, your choice.</p>
-<p aid:pstyle="Example"> On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.</p>
+<p aid:pstyle="Example">On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.</p>
 <p aid:pstyle="NoIndent">Any time you feel like two players should be rolling against each other, the defender should be Interfering with the attacker. This doesn't always mean sabotaging them. It can mean anything from arguing against a Parley to just being a shifty person who's hard to Discern. It's about getting in the way of another players' success.</p>
 <p>Always ask the person aiding or Interfering how they are doing it. As long as they can answer that, they trigger the move. Sometimes, as the GM, you'll have to ask if Interference is happening. Your players might not always notice they're Interfering with each other.</p>
 <p>Aid is a little more obvious. If a player can explain how they're helping with a move and it makes sense, let them roll to aid.</p>
@@ -189,7 +189,7 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <p aid:pstyle="Example">On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates Into whatever fate awaits you.</p>
 <p aid:pstyle="Example">On 6-, your fate is sealed. You're marked as Death's own and you'll cross the threshold soon. The GM will tell you when.</p>
 <p aid:pstyle="NoIndent">The Last Breath is that moment standing between life and death. Time stands still as Death appears to claim the living for his own. Even those who do not pass beyond the Black Gates catch a glimpse of the other side and what might await them—friends and enemies past, rewards or punishment for acts in life or other, Stranger vistas. All are Changed in some way by this moment—even those who escape.</p>
-<p> There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He's escaped with something that, by rights, isn't his anymore. Death is powerless to stop this, but he remembers this slight. On a 7-9, the GM should offer a real choice with significant Consequence. Think about the behaviors of the Character and the things you've learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a Challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say "Death takes you across the threshold, Into his bleak kingdom." and move on. However, it can be fun to give the Character back his life but be sure that he knows that he lives on borrowed him. You might say "you have a week to live" or "you can feel the cold hand of death on you…" and leave it at that, for now. The player may want to give in and accept death at this poInt—that's okay. Let him create a new Character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should lead to new story tWists, Changes in Alignment, bonds, and in overall outlook. Keep it exciting and stick to your principles and agenda as you would with a living Character making a move.</p>
+<p>There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He's escaped with something that, by rights, isn't his anymore. Death is powerless to stop this, but he remembers this slight. On a 7-9, the GM should offer a real choice with significant Consequence. Think about the behaviors of the Character and the things you've learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a Challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say "Death takes you across the threshold, Into his bleak kingdom." and move on. However, it can be fun to give the Character back his life but be sure that he knows that he lives on borrowed him. You might say "you have a week to live" or "you can feel the cold hand of death on you…" and leave it at that, for now. The player may want to give in and accept death at this poInt—that's okay. Let him create a new Character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should lead to new story tWists, Changes in Alignment, bonds, and in overall outlook. Keep it exciting and stick to your principles and agenda as you would with a living Character making a move.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Sparrow, as the knife blade disappears Into your guts, the world fades away and you stand before the Black Gates of Death. Among the throngs of suffering souls, you spot Lord Hwyn, that sickly cur. It looks like all his ill deals caught up with him at last. He spots you across the bleak gulf and you feel the chill of his hunger in your very soul. Take your Last Breath.</p>
 <p aid:pstyle="ExampleDialogue">Sparrow: Heavy. I got a 9.</p>
 <p aid:pstyle="ExampleDialogue">GM: Death appears to you, Wisps of black cloth dancing around her shadowy form. A pale hand touches your face. You hear her voice in your mind. “Come to me so soon, pretty Sparrow? You follow a river of souls, sent here by your blade. I do so love you for them. I’ll return you to the world, but you must make me a promise. In shadow you dwell, so shadow you shall become. Shun the light of day forever or find a quick trip back to my company. What do you say, little Thief?</p>
@@ -212,8 +212,8 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <p aid:pstyle="Example">On a miss, whatever lurks outside the campfire's light has the drop on you.</p>
 <h2 aid:pstyle="BasicMoveName">Undertake a Perilous Journey</h2>
 <p aid:pstyle="Example">When you <Strong>travel through hostile territory</Strong>, choose one member of the party to act as <em>trailblazer</em>, one to <em>scout</em> ahead, and one to be <em>quartermaster</em>. Each Character with a job to do rolls+Wis.</p>
-<p aid:pstyle="Example"> On a 10+:</p>
-<ul><li aid:pstyle="Exampleli"> the quartermaster reduces the number of rations required by one</li>
+<p aid:pstyle="Example">On a 10+:</p>
+<ul><li aid:pstyle="Exampleli">the quartermaster reduces the number of rations required by one</li>
 <li aid:pstyle="Exampleli">the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much)</li>
 <li aid:pstyle="Exampleli">the scout will spot any trouble quick enough to let you get the drop on it</li></ul>
 <p aid:pstyle="Example">On a 7–9, each roles performs their job as expected: the normal number of rations are Consumed, the journey takes about as long as expected, no one gets the drop on you but you don't get the drop on them either.</p>
@@ -257,10 +257,10 @@ GM: You drop your shield? That’s a bad idea–now you have to Defy Danger beca
 <li aid:pstyle="Exampleli">+1 if you make it known what you're setting out to do</li>
 <li aid:pstyle="Exampleli">+1 if you make it known that they'll get a share of whatever you find</li>
 <li aid:pstyle="Exampleli">+1 if you have a useful reputation around these parts</li></ul>
-<p aid:pstyle="Example"> On a 10+, you've got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along.</p>
+<p aid:pstyle="Example">On a 10+, you've got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along.</p>
 <p aid:pstyle="Example">On a 7–9, you'll have to settle for someone close to what you want or turn them away. </p>
 <p aid:pstyle="Example">On a miss someone influential and ill-suited declares they'd like to come along (a foolhardy youth, a loose-cannon, or a veiled enemy, for example), bring them and take the Consequences or turn them away.</p>
-<p aid:pstyle="Example"> If you turn away applicants you take -1 forward to Recruit.</p>
+<p aid:pstyle="Example">If you turn away applicants you take -1 forward to Recruit.</p>
 <h2 aid:pstyle="BasicMoveName">Outstanding Warrants</h2>
 <p aid:pstyle="Example">When you <Strong>return to a civilized place in which you've caused trouble before</Strong>, roll+Cha.</p>
 <p aid:pstyle="Example">On a 10+, word has spread of your deeds and everyone recognizes you. </p>
