@@ -21,7 +21,7 @@
 <h2>Weapons</h2>
 <p aid:pstyle="NoIndent">Weapons don't kill monsters, people do. That's why weapons in Dungeon World don’t have a listed damage. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It's useful because its small and easy to strike with at close distance. A dagger in the hands of the Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
 <h3>Weapon Tags</h3>
-<p>Weapons may have tags that are primarily there to help you describe them (like Rusty or Glowing) but these tags have a specific, mechanical effect.</p>
+<p aid:pstyle="NoIndent">Weapons may have tags that are primarily there to help you describe them (like Rusty or Glowing) but these tags have a specific, mechanical effect.</p>
 <p><em>n Ammo</em>: It counts as ammunition for appropriate ranged weapons. The number indicated does not represent individual arrows or sling stones, but represents what you have left on hand. </p>
 <p><em>Forceful</em>: It can knock someone back a pace, maybe even off their feet. </p>
 <p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add <em>n</em> to it.</p>
@@ -98,7 +98,7 @@
 <p aid:pstyle="Item">Oil of Tagit	<span aid:cstyle="Tags">Dangerous, Applied, 15 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target falls into a light sleep.</p>
 <p aid:pstyle="Item">Bloodweed	<span aid:cstyle="Tags">Dangerous, Touch, 12 coins, 0 Weight</span></p>
-<p aid:pstyle="ItemDescription"> Until cured, whenever the afflicted rolls damage, they roll an additional d4 and subtract that result from their normal damage.</p>
+<p aid:pstyle="ItemDescription">Until cured, whenever the afflicted rolls damage, they roll an additional d4 and subtract that result from their normal damage.</p>
 <p aid:pstyle="Item">Goldenroot	<span aid:cstyle="Tags">Dangerous, Applied, 20 coins, 0 Weight</span></p>
 <p aid:pstyle="ItemDescription">The target treats the next creature they see as a trusted ally, until proved otherwise.</p>
 <p aid:pstyle="Item">Serpent's Tears	<span aid:cstyle="Tags">Dangerous, Touch, 10 coins, 0 Weight</span></p>
@@ -210,11 +210,11 @@
 <p aid:pstyle="NoIndent">An archmage, old and too frail to leave his tower, crafted this intricate and fragile device of glass and gold to examine the histories and relics he so loved. Looking at an object through the lens reveals visions of who made it and where it came from.</p>
 <p aid:pstyle="MagicItem">Farsight Stone	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">Swirling clouds fill this smoky orb and those in its presence often hear strange whispers. In ancient times, it was part of a network of such stones, used to communicate and surveil across great distances. When you gaze into the stone, name a location and roll+WIS:</p>
-<p aid:pstyle="NoIndent"> On a 10+, you see a clear vision of the location and can maintain it as long as you concentrate on the orb. </p>
+<p aid:pstyle="NoIndent">On a 10+, you see a clear vision of the location and can maintain it as long as you concentrate on the orb. </p>
 <p aid:pstyle="NoIndent">On a 7–9, you still see the vision, but you draw the attention of some other thing (an angel, a demon, or the holder of another Farsight stone) that uses the stone to surveil you, as well.</p>
 <p aid:pstyle="MagicItem">The Fiasco Codex	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">A thick tome, said to be penned in the blood of poor fools and robber-barons by some demon prince possessed of dark humor, this tome details tales and stories of those whose ambition overwhelmed their reason. Reading from this tome teaches one the value of clear-headedness but leaves a sense of dread behind. When you read from the Fiasco Codex, Roll+WIS:</p>
-<p aid:pstyle="NoIndent"> On a 10+, ask two of the questions below.</p>
+<p aid:pstyle="NoIndent">On a 10+, ask two of the questions below.</p>
 <p aid:pstyle="NoIndent">On a 7–9, ask one.</p>
 <ul><li>What is my greatest opportunity, right now?</li>
 <li>Who can I betray to gain an advantage?</li>
@@ -224,7 +224,7 @@
 <p aid:pstyle="NoIndent">A simple thing, but useful when you need a breath of fresh air. The flask appears empty but cannot be filled, anything added to it simply spills out. This is because the flask is eternally full of air. If placed underwater, it will bubble forever. If pressed to the mouth, one can breathe normally—smoke is no concern, for example. I’m sure you’ll find all sorts of unusual uses for it.</p>
 <p aid:pstyle="MagicItem">Folly Held Aloft, The Wax Wings, A Huge Mistake	<span aid:cstyle="Tags">1 Weight</span></p>
 <p aid:pstyle="NoIndent">Who hasn’t always wanted to soar the pretty blue sky? In an attempt to grant the wishes of land-bound folk, these great magical wings were created. Known by many names and crafted by as many mages, they commonly take the shape of the wings of whatever local birds hold affection. Worn by means of a harness or, in some dire cases, a surgical procedure.</p>
-<p>When you take to the air with these magical wings, roll+DEX: </p>
+<p>When you take to the air with these magical wings, roll+DEX:</p>
 <p aid:pstyle="NoIndent">On a 10+, your flight is controlled and you may stay aloft as long as you like. </p>
 <p aid:pstyle="NoIndent">On a 7–9, you make it aloft but your flight is short or erratic and unpredictable, your choice. </p>
 <p aid:pstyle="NoIndent">On a 6-, you make it aloft, but the coming-down part and everything between is up to the GM.</p>
@@ -253,15 +253,15 @@
 <p aid:pstyle="MagicItem">Sacred Herbs	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost wizard-monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+WIS:</p>
 <p aid:pstyle="NoIndent">On a 10+, the vision is clear and useful—yielding some valid information.</p>
- <p aid:pstyle="NoIndent">On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand.</p>
- <p aid:pstyle="NoIndent">On a miss, the GM will ask you, “What is it you fear most?” You must answer honestly, of course.</p>
+<p aid:pstyle="NoIndent">On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand.</p>
+<p aid:pstyle="NoIndent">On a miss, the GM will ask you, “What is it you fear most?” You must answer honestly, of course.</p>
 <p aid:pstyle="MagicItem">The Sartar Duck	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">An odd, hand-carved wooden duck. Who would make such a funny thing? While you bear it, you find yourself an exceptionally gifted storyteller—no matter the language, you can make yourself and your story clear to any audience. They will understand your meaning, if not your words.</p>
 <p aid:pstyle="MagicItem">Tears of Annalise	<span aid:cstyle="Tags">0 Weight</span></p>
 <p aid:pstyle="NoIndent">Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed by two different people, they bind the swallowers together—when either feels strong emotions (particularly sadness, loss, fear or desire) the other feels it, as well. The effects last until one spills the blood of the other.</p>
 <p aid:pstyle="MagicItem">Teleportation Room	<span aid:cstyle="Tags">Slow</span></p>
 <p aid:pstyle="NoIndent">James Ninefingers, eccentric genius mage, created these room-sized magical apparati. A stone room etched with runes and scribblings, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+INT.</p>
- <p aid:pstyle="NoIndent">On a 10+, you arrive exactly where you’d intended.</p>
+<p aid:pstyle="NoIndent">On a 10+, you arrive exactly where you’d intended.</p>
 <p aid:pstyle="NoIndent">On a 7–9, the GM chooses a safe location nearby.</p>
 <p aid:pstyle="NoIndent">On a miss, you end up someplace. Maybe it’s nearby? It’s definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
 <p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">1 Armor, 1 Weight</span></p>
