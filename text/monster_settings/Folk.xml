@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Folk of the Realm</h1>
 <Body><p aid:pstyle="MonsterName">Acolyte	</p>
-<p aid:pstyle="MonsterDescription">”Can’t all be the High Priest, they said. Can’t all wield the White Spire, they said. Scrub the floor, they told me. The Cthonic Overgod don’t want a messy floor, do he? They said it’d be enlightenment and magic. Feh. It’s bruised knees and dish-pan-hands. If only I’d been a cleric, instead.” <em>Instinct</em>: To serve dutifully</p>
+<p aid:pstyle="MonsterDescription">“Can’t all be the High Priest, they said. Can’t all wield the White Spire, they said. Scrub the floor, they told me. The Cthonic Overgod don’t want a messy floor, do he? They said it’d be enlightenment and magic. Feh. It’s bruised knees and dish-pan-hands. If only I’d been a cleric, instead.” <em>Instinct</em>: To serve dutifully</p>
 <ul><li>Follow dogma</li>
 <li>Offer eternal reward for mortal deeds</li></ul>
 <p aid:pstyle="MonsterName">Adventurer	<span aid:cstyle="Tags">Horde, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Sword (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Endless enthusiasm</p>
-<p aid:pstyle="MonsterDescription">”Scum of the earth, they are. A troupe of armored men and women come sauntering into town, brandishing what, for all intents and purposes, is enough magical and mundane power to level the whole place. Bringing with them bags and bags of loot, still dripping blood from whatever poor sod they had to kill to get it. An economical fiasco waiting to happen, if you ask me. The whole system becomes completely uprooted. Dangerous, unpredictable murder-hobos. Oh, wait, you’re an adventurer? I take it all back.”<em>Instinct</em>: To adventure or die trying</p>
+<p aid:pstyle="MonsterDescription">“Scum of the earth, they are. A troupe of armored men and women come sauntering into town, brandishing what, for all intents and purposes, is enough magical and mundane power to level the whole place. Bringing with them bags and bags of loot, still dripping blood from whatever poor sod they had to kill to get it. An economical fiasco waiting to happen, if you ask me. The whole system becomes completely uprooted. Dangerous, unpredictable murder-hobos. Oh, wait, you’re an adventurer? I take it all back.” <em>Instinct</em>: To adventure or die trying</p>
 <ul><li>Go on a fool's errand</li>
 <li>Act impulsively</li>
 <li>Share tales of past exploits</li></ul>
@@ -51,7 +51,7 @@
 <li>Reveal divine secrets</li>
 <li>Commission divine undertakings</li></ul>
 <p aid:pstyle="MonsterName">Hunter	<span aid:cstyle="Tags">Group, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Ragged bow (d6 damage)		6 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Ragged bow (d6 damage)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterDescription">The wilds are home to more than just beasts of horn and scale. There are men and women out there, too—those who smell blood on the wind and stalk the plains in the skins of their prey. Whether with a trusty longbow bought on a rare trip into the city or with a knife of bone and sinew, these folk have more in common with the things they track and make their meals than with their own kind. Solemn, somber and quiet, they find a sort of peace in the wild. <em>Instinct</em>: To survive</p>
 <ul><li>Bring back news from the wilds</li>
@@ -63,9 +63,9 @@
 <ul><li>Make a moral stand</li>
 <li>Lead soldiers into battle</li></ul>
 <p aid:pstyle="MonsterName">Merchant	</p>
-<p aid:pstyle="MonsterDescription">”Ten foot poles. Get your ten foot poles, here. Torches, bright and hot. Mules, too—stubborn but immaculately bred. Need a linen sack, do you? Right over here! Come and get your ten foot poles!”<em>Instinct</em>: To profit</p>
+<p aid:pstyle="MonsterDescription">“Ten foot poles. Get your ten foot poles, here. Torches, bright and hot. Mules, too—stubborn but immaculately bred. Need a linen sack, do you? Right over here! Come and get your ten foot poles!” <em>Instinct</em>: To profit</p>
 <ul><li>Propose a business venture</li>
-<li>Offer a 'deal'</li></ul>
+<li>Offer a “deal”</li></ul>
 <p aid:pstyle="MonsterName">Noble	</p>
 <p aid:pstyle="MonsterDescription">Are they granted their place by the gods, perhaps? Is that why they’re able to pass their riches and power down by birth? Some trick or enchantment of the blood, maybe. The peasant bends his knee and scrapes and toils and the noble wears the finery of his place and, they say, we all have our burdens to bear. Seems to me that some of us have burdens of stone and some carry their weight in gold. It’s a tough life. <em>Instinct</em>: To rule</p>
 <ul><li>Issue an order</li>
