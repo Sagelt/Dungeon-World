@@ -15,7 +15,7 @@
 <ul><li>Turn flesh to stone with a gaze</li>
 <li>Retreat into a maze of stone</li></ul>
 <p aid:pstyle="MonsterName">Black Pudding	<span aid:cstyle="Tags">Solitary, Gibbous</span></p>
-<p aid:pstyle="MonsterStats">Corrosive touch (d10 damage ignores armor)	15 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Corrosive touch (d10 damage, ignores armor)	15 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amorphous</p>
 <p aid:pstyle="MonsterDescription">How do you kill a pile of goo? A great, squishy pile of goo that also happens to want to dissolve you and slurp you up? That is a good question to which I have no answer. Do let us know when you find out. <em>Instinct</em>: To dissolve</p>
@@ -42,7 +42,7 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Shapeshifting</p>
 <p aid:pstyle="MonsterDescription">Their natural form, if you ever see it, is hideous. Like a creature who stopped growing part-way, before it decided it was elf or man or dwarf. Then again, maybe that’s how you get to be the way a doppelganger is—without form, without shape to call their own, maybe all they really seek is a place to fit in. If you go out into the world, when you come back home, make sure your friends are who you think they are. They might, instead, be a doppelganger and your friend might be dead at the bottom of a well somewhere. Then again, depending on your friends, that might be an improvement. <em>Instinct</em>: To infiltrate</p>
-<ul><li>Assume the shape of a person who's flesh it's tasted</li>
+<ul><li>Assume the shape of a person whose flesh it's tasted</li>
 <li>Use another's identity to advantage</li>
 <li>Leave someone's reputation shattered</li></ul>
 <p aid:pstyle="MonsterName">Dragon Turtle	<span aid:cstyle="Tags">Solitary, Huge, Cautious</span></p>
