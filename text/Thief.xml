@@ -29,7 +29,7 @@
 <p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX.</p>
 <p aid:pstyle="NoIndent">On a 10+, hold 3.</p>
 <p aid:pstyle="NoIndent">On a 7-9, hold 1.</p>
-<p aid:pstyle="NoIndent"> Spend your hold as you walk through the area to ask these questions:</p>
+<p aid:pstyle="NoIndent">Spend your hold as you walk through the area to ask these questions:</p>
 <ul><li>Is there a trap here and if so, what activates it?</li>
 <li>What does the trap do when activated?</li>
 <li>What else is hidden here?</li></ul>
@@ -102,7 +102,7 @@
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Dirty Fighter</h3>
 <p aid:pstyle="Requirement">Replaces: Cheap Shot</p>
-<p aid:pstyle="NoIndent">When using a <em>precise</em>or <em>hand</em> weapon, your Backstab deals an extra +1d10 damage and all other attacks deal +1d6 damage.</p>
+<p aid:pstyle="NoIndent">When using a <em>precise</em> or <em>hand</em> weapon, your Backstab deals an extra +1d10 damage and all other attacks deal +1d6 damage.</p>
 <h3 aid:pstyle="MoveName">Extremely Cautious</h3>
 <p aid:pstyle="Requirement">Replaces: Cautious</p>
 <p aid:pstyle="NoIndent">When you use Trap Expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you discover a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</p>
