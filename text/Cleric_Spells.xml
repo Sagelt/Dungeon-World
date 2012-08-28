@@ -21,7 +21,7 @@
 <p aid:pstyle="NoIndent">The weapon you hold while casting does +1d4 damage until you dismiss this spell. While this spell is ongoing you take -1 to Cast a Spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctuary</span>	Level 1</p>
 <p aid:pstyle="NoIndent">By walking the perimeter of an area, you make it holy to your deity. As long as you stay within that area you are alerted whenever someone acts with malice within the sanctuary (including entering with harmful intent). Anyone who receives healing within a Sanctuary heals +1d4 HP.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Speak With Dead</span>	Level 1	<em>Death</em></p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Speak With Dead</span>	Level 1</p>
 <p aid:pstyle="NoIndent">A corpse converses with you briefly. It will answer any three questions you pose to it to the best of the knowledge it had in life and the knowledge it gained in death.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Animate Dead</span>	Level 3	<em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">You invoke a hungry spirit to possess a recently-dead body and act for you. This creates a zombie that follows your orders to the best of its limited abilities. Treat the zombie as a character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. The zombie also gets your choice of 1d4 of these traits:</p>
