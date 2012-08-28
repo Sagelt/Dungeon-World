@@ -33,7 +33,7 @@
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook</strong>, you:</p>
 <ul><li>Lose any spells you already have prepared</li>
 <li>Prepare new spells of your choice from your spellbook whose total levels don't exceed your own level+1.</li>
-<li> Prepare your cantrips which never count against your limit.</li></ul>
+<li>Prepare your cantrips which never count against your limit.</li></ul>
 <h3 aid:pstyle="BasicMoveName">Cast a Spell (Int)</h3>
 <p aid:pstyle="NoIndent">When you <strong>release a spell you've prepared</strong>, roll+Int.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. </p>
@@ -97,9 +97,9 @@
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
-<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>,stake one of your prepared spells of equal or higher level on the defense and roll+Int.</p>
+<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>, stake one of your prepared spells of equal or higher level on the defense and roll+Int.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is countered and has no effect on you.</p>
-<p aid:pstyle="NoIndent"> On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are effected as usual.</p>
+<p aid:pstyle="NoIndent">On a 7-9, the spell is countered and you forget the spell you staked. If the spell has other targets they are affected as usual.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>
 <p aid:pstyle="NoIndent">When you <strong>see the effects of an arcane spell</strong>, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
