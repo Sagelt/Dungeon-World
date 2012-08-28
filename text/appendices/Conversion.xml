@@ -39,8 +39,8 @@
 <h2>Introductory Moves</h2>
 <p aid:pstyle="NoIndent">This step is entirely optional, but can be really useful when running through an adventure for a convention group or other group where running through a full “first session” process just isn’t possible. You can take variables of the adventure and create “hooks” for that adventure, writing custom moves to be made after character creation but before play starts. These moves will serve to engage the characters in the fiction and give them something special to prepare them or hook them into what’s about to happen. You can write one for each class, or bundle them together, if you like. Here’s an example:</p>
 <p aid:pstyle="Example">Fighter, someone who loves you gave you a gift before you left for a life of adventure. Roll + CHA and tell us how much they love you. On a 10+ pick two heirlooms, on a 7-9 pick one . On a miss, well, good intentions count for something, right?</p>
-<ul><li>a vial of antivenom</li>
-<li>a shield that glows with silver light</li>
-<li>a rusted old key in the shape of a lizard</li></ul>
+<ul><li aid:pstyle="Exampleli">A vial of antivenom</li>
+<li aid:pstyle="Exampleli">A shield that glows with silver light</li>
+<li aid:pstyle="Exampleli">A rusted old key in the shape of a lizard</li></ul>
 <p aid:pstyle="NoIndent">These sorts of moves can give the players the sense that their characters are tied to the situation at hand, and open the door for more lines of question-and-answer play that can fill the game world with life. Think about the Fronts, the things they endanger, the riches they might protect and their impact on the world. Let these intro moves flow from that understanding, creating a great kick-start to the adventure.</p>
 </Story></Root>
