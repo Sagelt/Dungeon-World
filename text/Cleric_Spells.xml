@@ -28,7 +28,7 @@
 <ul><li>It’s is talented. Give one stat a +2 modifier.</li>
 <li>It’s durable. It has +2 HP for each level you have.</li>
 <li>It has a functioning brain and can complete complex tasks.</li>
-<li> It does not appear obviously dead, at least for a day or two.</li></ul>
+<li>It does not appear obviously dead, at least for a day or two.</li></ul>
 <p aid:pstyle="NoIndent">The zombie lasts until it is destroyed by taking damage in excess of its HP, or until you end the spell..</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Moderate Wounds</span>	Level 3</p>
 <p aid:pstyle="NoIndent">You staunch bleeding and set bones through magic. Heal an ally of 2d8 damage.</p>
