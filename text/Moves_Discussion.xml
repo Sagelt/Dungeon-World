@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Moves Discussion</h1>
-<Story><p aid:pstyle="NoIndent">This chapter contains all the moves that are available to all characters. These moves fall into two categories: basic and special.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Moves Discussion</h1>
+<Body><p aid:pstyle="NoIndent">This chapter contains all the moves that are available to all characters. These moves fall into two categories: basic and special.</p>
 <p>Basic moves are the bread and butter of the adventurer's life. They cover situations likely to come up in fights, tense negotiations, and dangerous areas.</p>
 <p>Special moves come up a little more rarely. They cover things like gaining a level, taking a long journey, or returning to town between adventures.</p>
 <p>All player characters have all the basic and special moves. Each player character will also have some moves from their class, we'll get to those later.</p>
@@ -271,4 +270,4 @@
 <p aid:pstyle="Example">This move is only for places where you've caused trouble, not every patch of civilization you enter. Being publicly caught up in someone else's trouble still triggers this move.</p>
 <p>Civilization generally means the villages, towns and cities of humans, elves, dwarves, and halflings but it can also apply to any relatively lawful establishment of monStrous species, such as orcs or goblins. If the PCs have stayed in a place as part of the community, it counts as civilization.</p>
 <h2 aid:pstyle="BasicMoveName">Bolster</h2>
-<p aid:pstyle="Example">When you <Strong>spend your leisure time in study, meditation, or hard practice,</Strong> you gain preparation. If you prepare for a week or two, take 1 preparation. If you prepare for a month or longer, take 3. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Story></Root>
+<p aid:pstyle="Example">When you <Strong>spend your leisure time in study, meditation, or hard practice,</Strong> you gain preparation. If you prepare for a week or two, take 1 preparation. If you prepare for a month or longer, take 3. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Body></Root>

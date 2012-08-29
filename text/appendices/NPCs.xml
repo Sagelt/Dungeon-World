@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<Story><p aid:pstyle="NoIndent">Sometimes the players will come across someone who becomes important in the moment. When the ritual goes wrong and a poor captive gets the power cosmic what does that villager do with it? Who were they?</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Instant NPCs</h1>
+<Body><p aid:pstyle="NoIndent">Sometimes the players will come across someone who becomes important in the moment. When the ritual goes wrong and a poor captive gets the power cosmic what does that villager do with it? Who were they?</p>
 <p>When you need a quick NPC all you need is an instinct and some way to pursue it. We call that a Knack, it can be anything from a skill to a title to a debt owed. Combine the two and you have an NPC who has something they want and a way to try to get it, you're ready to go.</p>
 <h2>100 Instincts</h2>
 <ol><li aid:pstyle="NumberedList">To avenge</li>
@@ -204,4 +204,4 @@
 <li aid:pstyle="NumberedList">Power overwhelming</li>
 <li aid:pstyle="NumberedList">Delusions of grandeur</li>
 <li aid:pstyle="NumberedList">The wind at his back and a spring in his step</li></ol>
-</Story></Root>
+</Body></Root>

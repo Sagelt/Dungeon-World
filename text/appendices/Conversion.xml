@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<Story><p aid:pstyle="NoIndent">There isn’t always time for prep. People aren’t entirely committed to a game—you just want to test it out or you’ve got a four-hour slot at a convention that you want to fill and you’ve never met the players before in your life. Maybe prep isn’t something you care about or you think it’s more fun to just take a map and run with it. Even better, maybe you’ve got a favorite old school adventure module and you’d love to run through using the Dungeon World rules. In this appendix, we’ll cover how to convert and adapt material from other games into Dungeon World and give you the same flexibility to run your favorite adventures using the rules in this book.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Adventure Conversion</h1>
+<Body><p aid:pstyle="NoIndent">There isn’t always time for prep. People aren’t entirely committed to a game—you just want to test it out or you’ve got a four-hour slot at a convention that you want to fill and you’ve never met the players before in your life. Maybe prep isn’t something you care about or you think it’s more fun to just take a map and run with it. Even better, maybe you’ve got a favorite old school adventure module and you’d love to run through using the Dungeon World rules. In this appendix, we’ll cover how to convert and adapt material from other games into Dungeon World and give you the same flexibility to run your favorite adventures using the rules in this book.</p>
 <h2>Overview</h2>
 <p aid:pstyle="NoIndent">The first step in preparing an adventure for use with Dungeon World is reading through that adventure, and through the Dungeon World rules. For this book, you’ll want to be familiar with all the basic rules, as well as familiar with the section on Fronts and on the GM principles. The former will be guiding you in adapting the framework of the adventure and the latter will help keep your mind going in the right direction—so that gameplay stays true to the style and rules set out in this book. You’ll want to read through the module next, paying close attention to the four following topics as you go.</p>
 <ul><li>Maps</li>
@@ -43,4 +43,4 @@
 <li>A shield that glows with silver light</li>
 <li>A rusted old key in the shape of a lizard</li></ul>
 <p aid:pstyle="NoIndent">These sorts of moves can give the players the sense that their characters are tied to the situation at hand, and open the door for more lines of question-and-answer play that can fill the game world with life. Think about the Fronts, the things they endanger, the riches they might protect and their impact on the world. Let these intro moves flow from that understanding, creating a great kickstart to the adventure.</p>
-</Story></Root>
+</Body></Root>
