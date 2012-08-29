@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="dungeon-world.xsl"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cleric Spells</h1>
-<div><h2>Rotes</h2>
+<Body><div><h2>Rotes</h2>
 <p aid:pstyle="NoIndent">Every time you Commune, you gain access to all of your rotes without having to select them or count them toward your allotment of spells.</p>
 <div class="spell" name="Light" level="Rote"><p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
 <p aid:pstyle="NoIndent">An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel but is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.</p></div>
@@ -78,4 +78,4 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Consume Unlife</span>	Level 9</p>
 <p aid:pstyle="NoIndent">The mindless undead creature you touch is destroyed and you steal its death energy to heal yourself or the next ally you touch. The amount of damage healed is equal to the HP that the creature had remaining before you destroyed it.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Plague</span>	Level 9</p>
-<p aid:pstyle="NoIndent">Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to Cast a Spell.</p></div></Root>
+<p aid:pstyle="NoIndent">Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to Cast a Spell.</p></div></Body></Root>
