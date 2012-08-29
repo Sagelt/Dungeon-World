@@ -18,7 +18,7 @@
 <p>Just like a weapon, monsters have <strong>tags</strong> that describe how it deals damage, including the range(s) of its attacks. When trying to attack something out of its range (to close or too far) the monster's out of luck, no damage. Any tag that can go on a weapon (like <em>messy</em> or <em>slow</em>) can also go on a monster.</p>
 <p>There are special tags that apply only to monsters. These tags, listed below, describe the key attributes of the monster—qualities that describe how big they are and how, if at all, they organize themselves.</p>
 <p>A monster's <strong>HP</strong> is a measure of how much damage it can take before it dies. Just like players, when a monster takes damage it subtracts that amount from its HP. At 0 HP it's dead, no Last Breath.</p>
-<p>Some monsters are lucky enough to enjoy <strong>Armor</strong>. Just like player armor: when a monster with armor takes damage it subtracts its armor from the damage done.</p>
+<p>Some monsters are lucky enough to enjoy <strong>armor</strong>. Just like player armor: when a monster with armor takes damage it subtracts its armor from the damage done.</p>
 <p><strong>Special qualities</strong> describe innate aspects of the monster that are important to play. These are a guide to the fiction, and therefore the moves. A quality like <em>Intangible</em> means just what it says: mundane stuff just passes through it. That means swinging a mundane sword at it isn't Hack and Slash, for a start.</p>
 <h3>Monsters Without Stats</h3>
 <p aid:pstyle="NoIndent">Some creatures operate on a scale so far beyond the mortal that concepts like HP, Armor, and Damage just do not hold. These creatures may still cause problems for the players and may even be defeated with clever thinking and enough preparation, they just won't be trading blows. These sorts of monsters likely represent entire fronts themselves and can be approached in the same way using the rules from that chapter.</p>
@@ -26,7 +26,7 @@
 <h2>Monster Tags</h2>
 <p><em>Magical</em>: It is by nature magical through and through.</p>
 <p><em>Devious</em>: Its main danger lies beyond the simple clash of battle.</p>
-<p><em>Gibbous</em>: Its anatomy and organs are bizarre and unnatural.</p>
+<p><em>Amorphous</em>: Its anatomy and organs are bizarre and unnatural.</p>
 <p><em>Organized</em>: It has a group structure that aids it in survival. Defeating one may cause the wrath of others. One may sound an alarm.</p>
 <p><em>Intelligent</em>: It's smart enough that some individuals pick up other skills. The GM can adapt the monster by adding tags to reflect specific training, like a mage or warrior.</p>
 <p><em>Hoarder</em>: It almost certainly has treasure.</p>
@@ -36,7 +36,7 @@
 <p><em>Construct</em>: It was made, not born</p>
 <p><em>Planar</em>: It’s from beyond this world</p>
 <h3>Organization Tags</h3>
-<p><em>Horde</em>: Where there’s one, there’s more. A lot more.</p>
+<p><em>Horde</em>: Where there's one, there’s more. A lot more.</p>
 <p><em>Group</em>: Usually seen in small numbers, 3–6 or so.</p>
 <p><em>Solitary</em>: It lives and fights alone.</p>
 <h3>Size Tags</h3>
@@ -95,12 +95,11 @@
 <li>It's as smart as a human or thereabouts: Intelligent</li>
 <li>It actively defends itself with a shield or similar: Cautious, +1 Armor</li>
 <li>It collects trinkets that humans would consider valuable (gold, gems, secrets): Hoarder</li>
-<li>It uses magic: Magical, write a move about its style of magic and the effects it can invoke</li>
-<li>It's from beyond this world: Planar, write a move about using its otherworldly knowledge and power</li>
+<li>It's from beyond this world: Planar, write a move about using it's otherworldly knowledge and power</li>
 <li>It's kept alive by something beyond simple biology: +4 HP</li>
 <li>It was made by someone: Construct, give it a special quality or two about its construction or purpose</li>
 <li>Its appearance is disturbing, terrible, or horrible: Terrifying, write a special quality about why it's so horrendous</li>
-<li>It doesn't have organs or discernible anatomy: Gibbous, +1 Armor, +3 HP</li></ul>
+<li>It doesn't have organs or discernible anatomy: Amorphous, +1 Armor, +3 HP</li></ul>
 <h2>Treasure</h2>
 <p aid:pstyle="NoIndent">Monsters, much like adventurers, collect shiny useful things. When the players search the belongings of a monster (be they on their person or tucked away somewhere) describe them honestly.</p>
 <p>If the monster has accumulated some wealth you can roll that randomly. Start with the monster's damage die, modified if the monster is:</p>
@@ -111,7 +110,7 @@
 <li>Planar: something not of this earth</li>
 <li>Lord over others: +1d4 to the roll</li>
 <li>Ancient and noteworthy: +1d4 to the roll</li></ul>
-<p aid:pstyle="NoIndent">Roll the monster's damage die plus any added dice to find the monster's treasure:</p>
+<p aid:pstyle="NoIndent">Roll the monster's damage die plus any added dice to fine the monster's treasure:</p>
 <ol><li aid:pstyle="NumberedList">A few coins, 2d8 or so</li>
 <li aid:pstyle="NumberedList">An item useful to the current situation</li>
 <li aid:pstyle="NumberedList">Several coins, about 4d10</li>
@@ -131,12 +130,12 @@
 <li aid:pstyle="NumberedList">Something relating to one of the characters and roll again</li>
 <li aid:pstyle="NumberedList">A hoard: 1d10×1000 coins and 1d10×10 gems worth 2d6×100 each</li></ol>
 <h2>Monster Settings</h2>
-<p aid:pstyle="NoIndent">The monsters in this book are presented in <em>monster settings</em>. A monster setting is a  type of location and the monsters you might find there. It's a way of grouping monsters by where they fit in the world. A monster setting tells you what kind of monsters might inhabit an area while your Fronts tell you what monsters are working together or have ongoing plots.</p>
+<p aid:pstyle="NoIndent">The monsters in this book are presented in <em>monster settings</em>. A monster setting is a type of location and the monsters you might find there. It's a way of grouping monsters by where they fit in the world. A monster setting tells you what kind of monsters might inhabit an area while your Fronts tell you what monsters are working together or have ongoing plots.</p>
 <p>When creating your own monster settings, they can be more specific. You could create a monster setting for the Great Western Steppes or the Domains of the Horse Lords.</p>
 <p>Consult a monster setting to populate a Front or when you want a threat that is only tangentially related to one of your Fronts. For example, if the heroes are battling against the Dungeon Front, The Cult of Khul-ka-ra, by exploring the ancient ruins that the cult has made its home then you might use monsters from the Legions of the Undead as a related threat—not truly part of the front but still a block in the heroes' path.</p>
-<p>The monster stat blocks within the settings describe not only HP, damage, and all the other aspects of the monster. These monsters were created with the same process listed above, and the reasons for their stats are just as important as the stats themselves. Looking at the reasoning behind the stats will allow you to present the monsters honestly, answering questions that arise in Dungeon World like "Can a warband of gnolls sack an entire village?"</p>
+<p>The monster stat blocks within the settings describe not only HP, damage, and all the other aspects of the monster. These monsters were created with the same process listed above, and the reasons for their stats are just as important as the stats themselves. Looking at the reasoning behind the stats will allow you to present the monsters honestly, answering questions that arise in Dungeon World like "can a warband of gnolls sack an entire village?"</p>
 <h3>Cavern Dwellers</h3>
-<p aid:pstyle="NoIndent">At the edges of civilization in the caves and tunnels below the old mountains of the world dwell all sorts of scheming, dangerous monsters. Some are wily and old, like the race of goblins scheming to burn villages and make off with livestock. Others are strange aberrations of nature like the stinking, trash-eating Otyugh. A word of caution, then, to those brave adventurers whose first foray into danger leads them into these dank and shadowy places: bad things live in the dark. Bad things with sharp teeth.</p>
+<p aid:pstyle="NoIndent">At the edges of civilization in the caves and tunnels below the old mountains of the world dwell all sorts of scheming, dangerous monsters. Some are wily and old, like the race of goblins scheming to burn villages and make off with livestock. Others are strange aberrations of nature like the stinking, trash-eating Otyugh. A word of caution, then, to those brave adventurers whose first foray into danger leads them into these dank and shadowy places; bad things live in the dark. Bad things with sharp teeth.</p>
 <h3>Denizens of the Swamp</h3>
 <p aid:pstyle="NoIndent">All things give way to rot in the end. Food spoils on the table, men's minds go mad with age and disease. Even the world itself, when left untended and uncared for, can turn to black muck and stinking air. Things dwell in these parts of Dungeon World. Things gone just as a bad as the swirling filth that fills the swamps. In these cesspit lowlands, adventurers will find such creatures as the deadly-eyed basilisk or the famed, unkillable troll. You'll need more than a dry pair of boots to survive these putrid fens. A sword would be a good start.</p>
 <h3>Legions of the Undead</h3>
@@ -144,12 +143,12 @@
 <h3>The Dark Woods</h3>
 <p aid:pstyle="NoIndent">It would not be a lie to say that there are trees that stand in the deepest groves of Dungeon World that have stood since before man or elf walked amidst their roots. It would be true, too, to say that these ancient trees have long lost the green leaves of spring. In the strands of the dark woods one finds, if one looks in the right place, sylvan monsters old and powerful. Here live the race of savage centaurs and the fey soul-stealing creatures of yore. Under the shadow of the ancient trees, wolf-men howl for blood. Hurry along the old forest road and light no fire for food or warmth for it's said that flames offend the woods themselves. You wouldn't want that, would you?</p>
 <h3>Ravenous Hordes</h3>
-<p aid:pstyle="NoIndent">"I've bested an orc in single combat," they crow. "I've fought a gnoll and lived to the tell the tale." Which is no small feat and yet, you know the truth of these boasts. Like vermin, spotting but one of these creatures speaks to a greater doom on the horizon. No orc travels alone. No slavering gnoll moves without his pack. You know that soon, the wardrums will sound and the walls will be besieged by the full fury of the warchief and his tusked berserkers. These are the monsters that will bring civilization, screaming and weeping, to its knees. Unless you can stop them. Best of luck.</p>
+<p aid:pstyle="NoIndent">"I've bested an orc in single combat" they crow. "I've fought a gnoll and lived to the tell the tale." Which is no small feat and yet, you know the truth of these boasts. Like vermin, spotting but one of these creatures speaks to a greater doom on the horizon. No orc travels alone. No slavering gnoll moves without his pack. You know that soon, the wardrums will sound and the walls will be besieged by the full fury of the warchief and his tusked berserkers. These are the monsters that will bring civilization, screaming and weeping, to its knees. Unless you can stop them. Best of luck.</p>
 <h3>Twisted Experiments</h3>
-<p aid:pstyle="NoIndent">For some who learn the arcane arts it's not merely enough to be able to live for a thousand years or throw lightning bolts that can fry a man. Some aren't quite satisfied with the power to speak to the dead or draw the angels down from heaven. Hubris calls on those cloaked and hooded "scientists" to make a strange and unholy life of their own. No mortal children, these. These are the brood of a mind gone foul with strange magic. In this setting you will find such nightmares as the chimera, dripping poison. Here, too, are the protector golems and mutant apes. All sorts of bad ideas await you in the fallen towers of the mad magicians of Dungeon World.</p>
+<p aid:pstyle="NoIndent">For some who learn the arcane arts it's not merely enough to be able to live for a thousand years or throw lightning bolts that can fry a man. Some aren't quite satisfied with the power to speak to the dead or draw the angels down from heaven. Hubris calls on those cloaked-and-hooded "scientists" to make a strange and unholy life of their own. No mortal children, these. These are the brood of a mind gone foul with strange magic. In this setting you will find such nightmares as the chimera, dripping poison. Here, too, are the protector golems and mutant apes. All sorts of bad ideas await you in the fallen towers of the mad magicians of Dungeon World.</p>
 <h3>The Lower Depths</h3>
 <p aid:pstyle="NoIndent">Ruins dot the countryside of Dungeon World. Old bastions of long-forgotten civilization fallen to decay, to monsters, or to the whim of a vengeful god. These ruins often cover a much more dangerous truth—catacombs and underground complexes lousy with traps and monsters. Gold, too. Which is why you're here. Why you're locked in mortal combat with a tribe of spiteful dark elves. Battling stone giants in caverns the size of whole countries. Maybe, though, you're the noble souls who've travelled to the world's heart to put an end to the Apocalypse Dragon—the beast who, it is said, will one day swallow the sun and kill us all. We appreciate it, really. We'll all pray for you.</p>
 <h3>Planar Powers</h3>
-<p aid:pstyle="NoIndent">Sometimes, monsters do not come from Dungeon World at all. Beyond the mountains at the edge of the world or below the deepest seas, the sages and wise old priests say that there are gateways to the lands beyond. They speak of Elysian fields, rivers of sweet wine, and maidens dancing in fields of gold. They tell tales of the paradise of heavens to be found past the Planar Door. Tales tell, too, of the Thousandfold Hell. Of the swirling Elemental Vortex and the devils that wait for the stars to align so they can enter Dungeon World and wreak their bloody havoc. You must be curious to know if these tales are true? What will you see when the passage to the beyond is opened?</p>
+<p aid:pstyle="NoIndent">Sometimes, monsters do not come from Dungeon World at all. Beyond the mountains at the edge of the world or below the deepest seas, the sages and wise old priests say that there are gateways to the lands beyond. They speak of elysian fields; rivers of sweet wine and maidens dancing in fields of gold. They tell tales of the paradise of heavens to be found past the Planar Door. Tales tell, too, of the Thousandfold Hell. Of the swirling Elemental Vortex and the devils that wait for the stars to align so they can enter Dungeon World and wreak their bloody havoc. You must be curious to know if these tales are true? What will you see when the passage to the beyond is opened?</p>
 </Body>
 </Root>
