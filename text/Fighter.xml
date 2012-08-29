@@ -77,7 +77,7 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Strength. You carry your signature weapon and dungeon rations (1 weight, 5 uses). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Strength. You carry your signature weapon and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Scale armor (2 armor, 3 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose two:</p>
