@@ -14,7 +14,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">Worn Holy Symbol or Fancy Holy Symbol</p>
 <p aid:pstyle="NoIndent">Fit Body, Bulky Body, or Thin Body</p></div>
 <h2>Stats</h2>
-<div id="statbox"><p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p></div>
+<p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p>
 <p>Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are human, so you get this move.</p>
