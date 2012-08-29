@@ -65,7 +65,7 @@
 <li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
 <ul><li aid:pstyle="Option">3 throwing daggers  (Thrown, Near, 0 weight)</li>
-<li aid:pstyle="Option">Ragged Bow (Near, 2 weight) and bundle of arrows (5 ammo, 1 weight)</li></ul>
+<li aid:pstyle="Option">Ragged Bow (Near, 2 weight) and bundle of arrows (3 ammo, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Healing potion</li></ul></div>
