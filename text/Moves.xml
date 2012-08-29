@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Basic Moves</h1>
-<Story><h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Basic Moves</h1>
+<Body><h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
 <p aid:pstyle="NoIndent">When you <strong>attack an enemy in melee</strong>, roll+Str. On a 10+ you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
 <h2 aid:pstyle="BasicMoveName">Volley</h2>
 <p aid:pstyle="NoIndent">When you <strong>take aim and shoot at an enemy at range</strong>, roll+Dex. On a 10+ you have a clear shot—deal your damage. On a 7–9, choose one (whichever you choose you deal your damage):</p>
@@ -36,9 +35,9 @@
 <h2 aid:pstyle="BasicMoveName">Parley</h2>
 <p aid:pstyle="NoIndent">When you <strong>you have leverage on a GM character and manipulate them</strong>, roll+Cha. Leverage is something they need or want. On a hit they ask you for something and do it if you make them a promise first. On a 7–9, they need some concrete assurance of your promise, right now.</p>
 <h2 aid:pstyle="BasicMoveName">Aid or Interfere</h2>
-<p aid:pstyle="NoIndent">When you <strong>help or hinder someone you have a Bond with</strong>, roll+Bond with them. On a 10+ they take +1 or -2, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p></Story>
+<p aid:pstyle="NoIndent">When you <strong>help or hinder someone you have a Bond with</strong>, roll+Bond with them. On a 10+ they take +1 or -2, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p></Body>
 <h1>Special Moves</h1>
-<Story><h2 aid:pstyle="BasicMoveName">Last Breath</h2>
+<Body><h2 aid:pstyle="BasicMoveName">Last Breath</h2>
 <p aid:pstyle="NoIndent">When <strong>you're dying</strong> you catch a glimpse of what lies beyond the Black Gates of Death's Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn't care how tough or cool you are). On a 10+ you've cheated death—you're in a bad spot but you're still alive. On a 7–9 Death will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. On a miss, your fate is sealed. You're marked as Death's own and you'll cross the threshold soon. The GM will tell you when.</p>
 <h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
 <p aid:pstyle="NoIndent">When you <strong>make a move while carrying weight</strong> up to or equal to Load, you're fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.</p>
@@ -57,8 +56,8 @@
 <ul><li>Did we learn something new and important about the world?</li>
 <li>Did we overcome a notable monster or enemy?</li>
 <li>Did we loot a memorable treasure?</li></ul>
-<p>For each "yes" answer everyone marks XP.</p></Story>
-<Story><h2 aid:pstyle="BasicMoveName">Carouse</h2>
+<p>For each "yes" answer everyone marks XP.</p></Body>
+<Body><h2 aid:pstyle="BasicMoveName">Carouse</h2>
 <p aid:pstyle="NoIndent">When you <strong>return triumphant and throw a big party</strong>, spend 100 coin and roll + extra 100s of coin spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss, you still choose one, but things get really out of hand.</p>
 <ul><li>You befriend a useful NPC</li>
 <li>You hear rumors of an opportunity</li>
@@ -80,4 +79,4 @@
 <li>Someone has put a price on your head</li>
 <li>Someone important to you has been put in a bad spot as a result of your actions</li></ul>
 <h2 aid:pstyle="BasicMoveName">Bolster</h2>
-<p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Story></Root>
+<p aid:pstyle="NoIndent">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Body></Root>
