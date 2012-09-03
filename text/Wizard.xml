@@ -23,15 +23,15 @@
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
 <p aid:pstyle="NoIndent">Magic is as natural as breath to you. Detect Magic is a cantrip for you.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">Choose one cleric spell, you can cast it as if it was a wizard spell.</p></div>
+<p aid:pstyle="NoIndent">Choose one cleric spell. You can cast it as if it was a wizard spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Spellbook</h3>
-<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 <em>weight</em>.</p>
+<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 weight.</p>
 <h3 aid:pstyle="BasicMoveName">Prepare Spells</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook</strong>, you:</p>
 <ul><li>Lose any spells you already have prepared</li>
 <li>Prepare new spells of your choice from your spellbook whose total levels don't exceed your own level+1.</li>
-<li> Prepare your cantrips which never count against your limit.</li></ul>
+<li>Prepare your cantrips which never count against your limit.</li></ul>
 <h3 aid:pstyle="BasicMoveName">Cast a Spell (Int)</h3>
 <p aid:pstyle="NoIndent">When you <strong>release a spell you've prepared</strong>, roll+Int.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. </p>
@@ -39,7 +39,7 @@
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
 <li>The spell disturbs the fabric of reality as it is cast—take -1 ongoing to Cast a Spell until the next time you Prepare Spells.</li>
 <li>After it is cast, the spell is forgotten. You cannot cast the spell again until you Prepare Spells.</li></ul>
-<p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to Cast a Spell</p>
+<p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to Cast a Spell.</p>
 <h3 aid:pstyle="BasicMoveName">Spell Defense</h3>
 <p aid:pstyle="NoIndent">When you <strong>craft an ongoing spell into a makeshift shield of arcane energy to deflect an attack</strong>, the spell is ended and you subtract the spell's level from the damage done to you.</p>
 <h3 aid:pstyle="BasicMoveName">Ritual</h3>
@@ -60,15 +60,15 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Use magic to cause terror and fear.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is equal to your Strength. You start with your spellbook (1 weight) and dungeon rations (1 <em>weight</em>, 5 <em>uses</em>). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is equal to your Strength. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
 <p aid:pstyle="NoIndent">Choose your weapon:</p>
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
 <li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">healing potion</li>
-<li aid:pstyle="Option">three antitoxin</li></ul></div>
+<ul><li aid:pstyle="Option">Healing potion</li>
+<li aid:pstyle="Option">Three antitoxin</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>
@@ -95,9 +95,9 @@
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
-<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>,stake one of your prepared spells of equal or higher level on the defense and roll+INT.</p> 
+<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>, stake one of your prepared spells of equal or higher level on the defense and roll+Int.</p>
 <p aid:pstyle="NoIndent">On a 10+, the spell is countered and has no effect on you.</p>
-<p aid:pstyle="NoIndent"> On a 7-9, the spell is countered and you forget the spell you staked.</p>
+<p aid:pstyle="NoIndent">On a 7-9, the spell is countered and you forget the spell you staked.</p>
 <p aid:pstyle="NoIndent">Your counterspell protects only you; if the countered spell has other targets they get its effects.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>
 <p aid:pstyle="NoIndent">When you <strong>see the effects of an arcane spell</strong>, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>

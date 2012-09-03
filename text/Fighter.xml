@@ -3,7 +3,7 @@
 <ClassName>Fighter</ClassName>
 <Body><div id="intro"><p aid:pstyle="NoIndent">It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.</p>
 <p>Forget them.</p>
-<p>You do this for the guts and the glory. The scream of battle and the hot hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, Fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
+<p>You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, Fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
 <p>You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.</p></div>
 <h2>Names</h2>
 <div id="names"><p><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p>  
@@ -42,7 +42,7 @@
 <p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">Signature Weapon</h3>
 <p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
-<p>Choose a base description, all are 2 <em>weight</em>:</p>
+<p>Choose a base description, all are 2 weight:</p>
 <ul><li aid:pstyle="Option">Sword</li>
 <li aid:pstyle="Option">Axe</li>
 <li aid:pstyle="Option">Hammer</li>
@@ -54,14 +54,14 @@
 <li aid:pstyle="Option"><em>close</em></li>
 <li aid:pstyle="Option"><em>reach</em></li></ul>
 <p aid:pstyle="NoIndent">Choose two enhancements:</p>
-<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 <em>weight</em>.</li>
+<ul><li aid:pstyle="Option">Hooks and spikes. +1 damage, but +1 weight.</li>
 <li aid:pstyle="Option">Sharp. +2 <em>piercing</em>.</li>
 <li aid:pstyle="Option">Perfectly weighted. +<em>precise</em>.</li>
 <li aid:pstyle="Option">Serrated edges. +1 damage.</li>
 <li aid:pstyle="Option">Glows in the presence of one type of creature, your choice.</li>
 <li aid:pstyle="Option">Huge. +<em>messy</em>, +<em>forceful</em>.</li>
 <li aid:pstyle="Option">Versatile. Choose an additional range.</li>
-<li aid:pstyle="Option">Well-crafted. -1 <em>weight</em>.</li></ul>
+<li aid:pstyle="Option">Well-crafted. -1 weight.</li></ul>
 <p aid:pstyle="NoIndent">Choose a look:</p>
 <ul><li aid:pstyle="Option">Ancient</li>
 <li aid:pstyle="Option">Unblemished</li>
@@ -77,12 +77,12 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Strength. You carry your signature weapon and dungeon rations (1 weight, 5 uses). Choose your defenses:</p>
-<ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and Adventuring gear (1 weight)</li>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Strength. You carry your signature weapon and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Scale armor (2 armor, 3 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose two:</p>
 <ul><li aid:pstyle="Option">2 Healing potions (2 weight)</li>
-<li aid:pstyle="Option">shield (+1 armor, 2 weight)</li>
+<li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li>
 <li aid:pstyle="Option">Antitoxin, dungeon rations (1 weight), and poultices and herbs (1 weight)</li>
 <li aid:pstyle="Option">22 Gold</li></ul></div>
 <h2>Bonds</h2>
@@ -98,7 +98,7 @@
 <h3 aid:pstyle="MoveName">Heirloom</h3>
 <p aid:pstyle="NoIndent">When you <strong>consult the spirits that reside within your signature weapon</strong>, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA.</p>
 <p aid:pstyle="NoIndent">On a 10+, the GM will give you good detail.</p>
-<p aid:pstyle="NoIndent"> On a 7-9, the GM will give you an impression.</p>`
+<p aid:pstyle="NoIndent">On a 7-9, the GM will give you an impression.</p>
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
 <p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated but you must reduce the <em>armor</em> value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 <em>armor</em> it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Improved Weapon</h3>
@@ -126,8 +126,8 @@
 <p aid:pstyle="Requirement">Requires: Seeing Red</p>
 <p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. </p>
 <p aid:pstyle="NoIndent">On a 10+, hold 2.</p>
-<p aid:pstyle="NoIndent"> On a 7-9, hold 1.</p>
-<p aid:pstyle="NoIndent"> Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. On a 6-, your enemies immediately identify you as their biggest threat.</p>
+<p aid:pstyle="NoIndent">On a 7-9, hold 1.</p>
+<p aid:pstyle="NoIndent">Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. On a 6-, your enemies immediately identify you as their biggest threat.</p>
 <h3 aid:pstyle="MoveName">Taste of Blood</h3>
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
@@ -140,7 +140,7 @@
 <h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
 <p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS.</p> 
 <p aid:pstyle="NoIndent">On a 10+, name someone who will live <strong>and</strong> someone who will die.</p>
-<p aid:pstyle="NoIndent"> On a 7-9, name someone who will live <strong>or</strong> someone who will die.</p> 
+<p aid:pstyle="NoIndent">On a 7-9, name someone who will live <strong>or</strong> someone who will die.</p>
 <p aid:pstyle="NoIndent">Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's weaponry, ask the GM how much damage they do.</p>

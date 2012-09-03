@@ -27,7 +27,7 @@
 <p aid:pstyle="MonsterStats">Claws (d8+1 damage, 3 piercing)	10 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription"> Your worst seafood nightmare come to life. A vicious sort of half-man half-crawdad, cursed with primal intelligence and blessed with a pair of razor-sharp claws. Strange things lurk in the stinking pools in caverns best forgotten and the chuul is one of them. If you spot one, your best hope is a heavy mace to crack its shell and maybe a little garlic butter. Mmmm. <em>Instinct</em>: To split</p>
+<p aid:pstyle="MonsterDescription">Your worst seafood nightmare come to life. A vicious sort of half-man half-crawdad, cursed with primal intelligence and blessed with a pair of razor-sharp claws. Strange things lurk in the stinking pools in caverns best forgotten and the chuul is one of them. If you spot one, your best hope is a heavy mace to crack its shell and maybe a little garlic butter. Mmmm. <em>Instinct</em>: To split</p>
 <ul><li>Split something in two with mighty claws</li>
 <li>Retreat into water</li></ul>
 <p aid:pstyle="MonsterName">Deep Elf Assassin	<span aid:cstyle="Tags">Group, Intelligent, Organized</span></p>
@@ -62,7 +62,7 @@
 <p aid:pstyle="MonsterName">Gray Render	<span aid:cstyle="Tags">Solitary, Large</span></p>
 <p aid:pstyle="MonsterStats">Rending claws (d10+3 damage, 3 piercing)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
-<p aid:pstyle="MonsterDescription">On its own, the render is a force of utter destruction. Huge and leathery, with a maw of unbreakable teeth and claws to match, the render seems to enjoy little more than tearing things apart. Stone, flesh, or steel, it matters little. However, the gray render is so rarely found alone. They bond with other creatures. Some at birth, others as fully-grown creatures, and will follow their bonded master wherever it goes, bringing them offerings of meat and protecting them while they sleep. Finding an un-bonded render means certain riches, if you survive to sell it. <em>Instinct</em>: To serve</p>
+<p aid:pstyle="MonsterDescription">On its own, the render is a force of utter destruction. Huge and leathery, with a maw of unbreakable teeth and claws to match, the render seems to enjoy little more than tearing things apart. Stone, flesh, or steel, it matters little. However, the gray render is so rarely found alone. They bond with other creatures. Some at birth, others as fully-grown creatures, and a gray render will follow their bonded master wherever they go, bringing them offerings of meat and protecting them while they sleep. Finding an un-bonded render means certain riches, if you survive to sell it. <em>Instinct</em>: To serve</p>
 <ul><li>Tear something apart</li></ul>
 <p aid:pstyle="MonsterName">Magmin	<span aid:cstyle="Tags">Horde, Intelligent, Organized, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Flaming hammer (d6+2 damage)	7 HP	4 Armor</p>
@@ -90,7 +90,7 @@
 <p aid:pstyle="MonsterStats">Flaming spear (2d6·b+3 damage)	7 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">”The excavation uncovered what the reports called a basalt gate. Black stone carved with molten runes. When they dug it up, the magi declared it inert but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like men with red and orange skin, tall as an ogre but with a snakes tail where there legs ought to be. They were clothed, too —some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave but the sergeant wouldn’t listen. You’ve already read what happened next, sir. I know I’m the only one that got back, but what I said is true. The gate is open, now. This is just the beginning!” <em>Instinct</em>: To consume in flame</p>
+<p aid:pstyle="MonsterDescription">”The excavation uncovered what the reports called a basalt gate. Black stone carved with molten runes. When they dug it up, the magi declared it inert but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like men with red and orange skin, tall as an ogre but with a snake's tail where their legs ought to be. They were clothed, too—some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave but the sergeant wouldn’t listen. You’ve already read what happened next, sir. I know I’m the only one that got back, but what I said is true. The gate is open, now. This is just the beginning!” <em>Instinct</em>: To consume in flame</p>
 <ul><li>Summon elemental fire</li>
 <li>Melt away deception</li></ul>
 </Body></Root>
