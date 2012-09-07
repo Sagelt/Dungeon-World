@@ -3,8 +3,8 @@
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cleric Spells</h1>
 <div><h2>Rotes</h2>
 <p aid:pstyle="NoIndent">Every time you Commune, you gain access to all of your rotes without having to select them or count them toward your allotment of spells.</p>
-<div class="spell" name="Light" level="Rote"><p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
-<p aid:pstyle="NoIndent">An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel but is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.</p></div>
+<p aid:pstyle="SpellName" id="SpellName"><span aid:cstyle="SpellName">Light</span>	Rote</p>
+<p aid:pstyle="NoIndent">An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel but is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sanctify</span>	Rote</p>
 <p aid:pstyle="NoIndent">Food or water you hold in your hands while you cast this spell is consecrated by your deity. In addition to now being holy or unholy, the affected substance is purified of any mundane spoilage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Guidance</span>	Rote</p>
