@@ -11,7 +11,7 @@
 <p><em>Halfling</em>: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca</p> 
 <p><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
 <h2>Look</h2>
-<div id="Look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Eager Eyes</p>
 <p aid:pstyle="NoIndent">Wild Hair, Shorn Hair, or Battered Helm</p>
 <p aid:pstyle="NoIndent">Calloused Skin, Tanned Skin, or Scarred Skin</p>
@@ -86,7 +86,7 @@
 <li aid:pstyle="Option">Antitoxin, dungeon rations (1 weight), and poultices and herbs (1 weight)</li>
 <li aid:pstyle="Option">22 Gold</li></ul></div>
 <h2>Bonds</h2>
-<div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ owes me their life, whether they admit it or not.</p>
 <p>I have sworn to protect _______________.</p>
 <p>I worry about the ability of _______________ to survive in the dungeon.</p>
