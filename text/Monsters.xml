@@ -24,26 +24,26 @@
 <p aid:pstyle="NoIndent">Some creatures operate on a scale so far beyond the mortal that concepts like HP, Armor, and Damage just do not hold. Some creatures just aren't dangerous in a fight. These creatures may still cause problems for the players and may even be defeated with clever thinking and enough preparation.</p>
 <p>If a creature is of such a scale far beyond the players, or if it just doesn't put up a physical fight, don't assign it HP, Damage, or Armor. You can still use the monster creation rules to give it tags. The core of a stat-less monster is its instinct and moves; you can have it make its moves and act according to its instinct, even without numeric stats.</p>
 <h2>Monster Tags</h2>
-<p><em>Magical</em>: It is by nature magical through and through.</p>
-<p><em>Devious</em>: Its main danger lies beyond the simple clash of battle.</p>
-<p><em>Amorphous</em>: Its anatomy and organs are bizarre and unnatural.</p>
-<p><em>Organized</em>: It has a group structure that aids it in survival. Defeating one may cause the wrath of others. One may sound an alarm.</p>
-<p><em>Intelligent</em>: It's smart enough that some individuals pick up other skills. The GM can adapt the monster by adding tags to reflect specific training, like a mage or warrior.</p>
-<p><em>Hoarder</em>: It almost certainly has treasure.</p>
-<p><em>Stealthy</em>: It can avoid detection and prefers to attack with the element of surprise.</p>
-<p><em>Terrifying</em>: Its presence and appearance evoke fear.</p>
-<p><em>Cautious</em>: It prizes survival over aggression.</p>
-<p><em>Construct</em>: It was made, not born</p>
-<p><em>Planar</em>: It’s from beyond this world</p>
+<p aid:pstyle="NoIndent"><em>Magical</em>: It is by nature magical through and through.</p>
+<p aid:pstyle="NoIndent"><em>Devious</em>: Its main danger lies beyond the simple clash of battle.</p>
+<p aid:pstyle="NoIndent"><em>Amorphous</em>: Its anatomy and organs are bizarre and unnatural.</p>
+<p aid:pstyle="NoIndent"><em>Organized</em>: It has a group structure that aids it in survival. Defeating one may cause the wrath of others. One may sound an alarm.</p>
+<p aid:pstyle="NoIndent"><em>Intelligent</em>: It's smart enough that some individuals pick up other skills. The GM can adapt the monster by adding tags to reflect specific training, like a mage or warrior.</p>
+<p aid:pstyle="NoIndent"><em>Hoarder</em>: It almost certainly has treasure.</p>
+<p aid:pstyle="NoIndent"><em>Stealthy</em>: It can avoid detection and prefers to attack with the element of surprise.</p>
+<p aid:pstyle="NoIndent"><em>Terrifying</em>: Its presence and appearance evoke fear.</p>
+<p aid:pstyle="NoIndent"><em>Cautious</em>: It prizes survival over aggression.</p>
+<p aid:pstyle="NoIndent"><em>Construct</em>: It was made, not born</p>
+<p aid:pstyle="NoIndent"><em>Planar</em>: It’s from beyond this world</p>
 <h3>Organization Tags</h3>
-<p><em>Horde</em>: Where there's one, there’s more. A lot more.</p>
-<p><em>Group</em>: Usually seen in small numbers, 3–6 or so.</p>
-<p><em>Solitary</em>: It lives and fights alone.</p>
+<p aid:pstyle="NoIndent"><em>Horde</em>: Where there's one, there’s more. A lot more.</p>
+<p aid:pstyle="NoIndent"><em>Group</em>: Usually seen in small numbers, 3–6 or so.</p>
+<p aid:pstyle="NoIndent"><em>Solitary</em>: It lives and fights alone.</p>
 <h3>Size Tags</h3>
-<p><em>Tiny</em>: It's much smaller than a halfling.</p>
-<p><em>Small</em>: It's about halfling size.</p>
-<p><em>Large</em>: It's much bigger than a human, about as big as a cart.</p>
-<p><em>Huge</em>: It's as big as a small house or larger.</p>
+<p aid:pstyle="NoIndent"><em>Tiny</em>: It's much smaller than a halfling.</p>
+<p aid:pstyle="NoIndent"><em>Small</em>: It's about halfling size.</p>
+<p aid:pstyle="NoIndent"><em>Large</em>: It's much bigger than a human, about as big as a cart.</p>
+<p aid:pstyle="NoIndent"><em>Huge</em>: It's as big as a small house or larger.</p>
 <h2>Making Monsters</h2>
 <p aid:pstyle="NoIndent">Monsters start with your description of them. Whether you're making the monster before play or just as the players come face-to-face with it, every monster starts with a clear vision of what it is and what it does.</p>
 <p>If you're making a monster between sessions start by imagining it. Imagine what it looks like, what it does, why it stands out. Imagine the stories told about it and what effects it has had on the world.</p>
@@ -102,7 +102,7 @@
 <li>It doesn't have organs or discernible anatomy: Amorphous, +1 Armor, +3 HP</li></ul>
 <h2>Treasure</h2>
 <p aid:pstyle="NoIndent">Monsters, much like adventurers, collect shiny useful things. When the players search the belongings of a monster (be they on their person or tucked away somewhere) describe them honestly.</p>
-<p>If the monster has accumulated some wealth you can roll that randomly. Start with the monster's damage die, modified if the monster is:</p>
+<p aid:pstyle="NoIndent">If the monster has accumulated some wealth you can roll that randomly. Start with the monster's damage die, modified if the monster is:</p>
 <ul><li>Hoarder: roll damage die twice, take higher result</li>
 <li>Far from home: +at least one ration (usable by anyone with similar taste)</li>
 <li>Magical: some strange item, possibly magical</li>

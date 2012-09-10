@@ -22,7 +22,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">When you <strong>pray for guidance, even for a moment, and ask, "What here is evil?"</strong> the GM will tell you, honestly.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Lay on Hands (Cha)</h3>
-<p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7-9, they are healed, but the damage or disease is transferred to you.</p>
+<p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
 <p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">I Am the Law</h3>
@@ -70,7 +70,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p>I respect the beliefs of _______________ but hope they will someday see the true way.</p>
 <p>_______________ is a brave soul, I have much to learn from them.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Divine Favor</h3>
 <p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the Commune and Cast a Spell Cleric moves. When you select this move, treat yourself as a Cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective Cleric level by 1.</p>
 <h3 aid:pstyle="MoveName">Bloody Aegis</h3>
@@ -91,7 +91,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">Take +1 to Order Hirelings.</p>
 <h3 aid:pstyle="MoveName">Hospitaller</h3>
 <p aid:pstyle="NoIndent">When you heal an ally, you heal +1d8 damage.</p>
-<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Evidence of Faith</h3>
 <p aid:pstyle="Requirement">Requires: Divine Favor</p>
 <p aid:pstyle="NoIndent">When you <strong>see divine magic as it happens</strong>, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.</p>

@@ -23,7 +23,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">Your faith is diverse. Choose one Wizard spell. You can cast and be granted that spell as if it was a Cleric spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <div id="Deity"><h3 aid:pstyle="BasicMoveName">Deity</h3>
-<p aid:pstyle="NoIndent">You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, or Zorica) and choose your deity’s domain:</p>
+<p aid:pstyle="NoIndent">You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, Zorica or Krugon the Bleak) and choose your deity’s domain:</p>
 <ul><li aid:pstyle="Option">Healing and Restoration</li>
 <li aid:pstyle="Option">Bloody Conquest</li>
 <li aid:pstyle="Option">Civilization</li>
@@ -45,7 +45,7 @@ Show the world who is lord.</p></div>
 <li>Are granted new spells of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level.</li>
 <li>Prepare all of your rotes, which never count against your limit.</li></ul></div>
 <div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast a Spell</h3>
-<p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your deity</strong>, roll+Wis. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7-9, the spell is cast, but choose one:</p>
+<p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your deity</strong>, roll+Wis. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
 <li>Your casting distances you from your deity—take -1 ongoing to Cast a Spell until the next time you Commune.</li>
 <li>After you cast it, the spell is revoked by your deity. You cannot cast the spell again until you Commune and have it granted to you.</li></ul>
@@ -76,7 +76,7 @@ Show the world who is lord.</p></div>
 <p>_______________ is in constant danger, I will keep them safe.</p>
 <p>I am working on converting _______________ to my faith.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Chosen One</h3>
 <p aid:pstyle="NoIndent">Choose one spell. You are granted that spell as if it was one level lower.</p>
 <h3 aid:pstyle="MoveName">Invigorate</h3>
@@ -92,7 +92,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Penitent</h3>
 <p aid:pstyle="NoIndent">When you <strong>take damage and embrace the pain</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to Cast a Spell.</p>
 <h3 aid:pstyle="MoveName">Empower</h3>
-<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well:</p>
+<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10+ you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well:</p>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Orison for Guidance</h3>
@@ -101,7 +101,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">When you wear no armor or shield you get 2 armor.</p>
 <h3 aid:pstyle="MoveName">Devoted Healer</h3>
 <p aid:pstyle="NoIndent">When you heal someone else of damage, add your level to the amount of damage healed.</p>
-<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Anointed</h3>
 <p aid:pstyle="Requirement">Requires: Chosen One</p>
 <p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for Chosen One. You are granted that spell as if it was one level lower.</p>
@@ -126,7 +126,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">When you wear no armor or shield you get 3 armor.</p>
 <h3 aid:pstyle="MoveName">Greater Empower</h3>
 <p aid:pstyle="Requirement">Replaces: Empower</p>
-<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
+<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10–11 you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>

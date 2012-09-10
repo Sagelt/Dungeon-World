@@ -31,6 +31,7 @@
 <li aid:pstyle="Option">The Vast Desert</li>
 <li aid:pstyle="Option">The Stinking Mire</li>
 <li aid:pstyle="Option">The River Delta</li>
+The Depths of the Earth
 <li aid:pstyle="Option">The Sapphire Islands</li>
 <li aid:pstyle="Option">The Open Sea</li>
 <li aid:pstyle="Option">The Towering Mountains</li>
@@ -42,7 +43,7 @@
 <div id="SpiritTongue"><h3 aid:pstyle="BasicMoveName">Spirit Tongue</h3>
 <p aid:pstyle="NoIndent">The grunts, barks, chirps and calls of the creatures of the wild are as language to you. You can understand any animal native to your Land or akin to one whose essence you have studied.</p></div>
 <div id="Shapeshifter"><h3 aid:pstyle="BasicMoveName">Shapeshifter</h3>
-<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis. ✴On a 10+ hold 3. ✴On a 7-9 hold 2. ✴On a 6- hold 1 in addition to whatever the GM says.</p>
+<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a 6- hold 1 in addition to whatever the GM says.</p>
 <p>You may take on the physical form of any animal whose essence you have studied or who lives in your Land: you and your possessions meld into a perfect copy of the animal’s form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to natural form. At any time, you may spend all your hold and revert to your natural form.</p></div>
 <div id="StudiedEssence"><h3 aid:pstyle="BasicMoveName">Studied Essence</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend time in contemplation of an animal spirit</strong>, you may add its shape to those you can assume using Shapeshifter.</p></div></div></div>
@@ -56,7 +57,7 @@
 <p aid:pstyle="NoIndent">Eliminate an unnatural menace</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 2+Strength. You carry some token of your Land, describe it. Choose your defenses:</p>
-<ul><li aid:pstyle="Option">Hide armor  (1 armor, 1 weight)</li>
+<ul><li aid:pstyle="Option">Hide armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Wooden shield (+1 armor, 1 weight)</li></ul>
 Choose your armament:
 <ul><li aid:pstyle="Option">Shillelagh (Close, 2 weight)</li>
@@ -64,7 +65,7 @@ Choose your armament:
 <li aid:pstyle="Option">Spear (Close, Thrown, Near, 1 weight)</li></ul>
 Choose one:
 <ul><li aid:pstyle="Option">Adventuring Gear (1 weight)</li>
-<li aid:pstyle="Option">Poultices and herbs (2 uses,  1 weight)</li>
+<li aid:pstyle="Option">Poultices and herbs (2 uses, 1 weight)</li>
 <li aid:pstyle="Option">Halfling pipeleaf (1 weight)</li>
 <li aid:pstyle="Option">3 Antitoxin (0 weight)</li></ul></div>
 <h2>Bonds</h2>
@@ -74,13 +75,13 @@ Choose one:
 <p>I have showed ________________ a secret rite of the Land.</p>
 <p>___________ has tasted my blood and I theirs. We are bound by it.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Hunter’s Brother</h3>
 <p aid:pstyle="NoIndent">Choose one move from the Ranger class list.</p>
 <h3 aid:pstyle="MoveName">Red of Tooth and Claw</h3>
 <p aid:pstyle="NoIndent">When you <strong>are in an appropriate animal form</strong> (something dangerous) increase your damage to d8.</p>
 <h3 aid:pstyle="MoveName">Communion of Whispers</h3>
-<p aid:pstyle="NoIndent">When <strong>you spend time in a place, making note of its resident spirits and calling on the spirits of the land</strong>, roll+Wis. You will be granted a vision of significance to you, your allies and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7-9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening or traumatizing. The GM will describe it. Take -1 forward.</p>
+<p aid:pstyle="NoIndent">When <strong>you spend time in a place, making note of its resident spirits and calling on the spirits of the land</strong>, roll+Wis. You will be granted a vision of significance to you, your allies and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7–9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening or traumatizing. The GM will describe it. Take -1 forward.</p>
 <h3 aid:pstyle="MoveName">Barkskin</h3>
 <p aid:pstyle="NoIndent">So long as your feet touch the ground you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Eyes of the Tiger</h3>
@@ -88,17 +89,17 @@ Choose one:
 <h3 aid:pstyle="MoveName">Shed</h3>
 <p aid:pstyle="NoIndent">When you <strong>take damage while in a spirit shape</strong> you may choose to revert to your natural form to negate the damage.</p>
 <h3 aid:pstyle="MoveName">Thing-Talker</h3>
-<p aid:pstyle="NoIndent">You see the spirits in the sand, the sea and the stone. You may now apply your Spirit Tongue, Shapeshifter and Studied Essence moves to inanimate, natural objects (plants and rocks) or creatures made thereof, as well as animals.  Thing-Talker forms can be exact copies or can be mobile vaguely humanoid-shaped entities.</p>
+<p aid:pstyle="NoIndent">You see the spirits in the sand, the sea and the stone. You may now apply your Spirit Tongue, Shapeshifter and Studied Essence moves to inanimate, natural objects (plants and rocks) or creatures made thereof, as well as animals. Thing-Talker forms can be exact copies or can be mobile vaguely humanoid-shaped entities.</p>
 <h3 aid:pstyle="MoveName">Formcrafter</h3>
 <p aid:pstyle="NoIndent">When you <strong>shapeshift</strong> choose a stat: you take +1 ongoing to rolls using that stat while in shifted. The GM will choose a stat, too: you take -1 ongoing to rolls using that stat while shifted.</p>
 <h3 aid:pstyle="MoveName">Elemental Mastery</h3>
-<p aid:pstyle="NoIndent">When you <strong>call on the primal spirits of fire, water, earth or air to perform a task for you</strong> roll+Wis. ✴On a 10+ choose two. ✴On a 7-9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.</p>
+<p aid:pstyle="NoIndent">When you <strong>call on the primal spirits of fire, water, earth or air to perform a task for you</strong> roll+Wis. ✴On a 10+ choose two. ✴On a 7–9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.</p>
 <ul><li>The effect you desire comes to pass</li>
 <li>You avoid paying nature’s price </li>
 <li>You retain control</li></ul>
 <h3 aid:pstyle="MoveName">Balance</h3>
 <p aid:pstyle="NoIndent">When you <strong>deal damage</strong>, take 1 balance. When you touch someone and channel the spirits of life you may spend balance. For each balance spent, heal 1d4 hp.</p>
-<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Embracing No Form</h3>
 <p aid:pstyle="NoIndent">When you use your Shapeshifter ability, roll 1d4 and add that total to your hold.</p>
 <h3 aid:pstyle="MoveName">Doppleganger’s Dance</h3>
