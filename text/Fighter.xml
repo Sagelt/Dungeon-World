@@ -6,10 +6,10 @@
 <p>You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, Fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
 <p>You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p>  
-<p><em>Elf</em>: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian</p>    
-<p><em>Halfling</em>: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca</p> 
-<p><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
+<div id="names"><p  aid:pstyle="NoIndent"><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p>  
+<p aid:pstyle="NoIndent"><em>Elf</em>: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian</p>    
+<p aid:pstyle="NoIndent"><em>Halfling</em>: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca</p> 
+<p aid:pstyle="NoIndent"><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Eager Eyes</p>
@@ -18,7 +18,7 @@
 <p aid:pstyle="NoIndent">Built Body, Lithe Body, or Ravaged Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p>
-<p>Your base damage is <span id="Damage">d10</span>.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
@@ -31,9 +31,7 @@
 <p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else's).</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates (STR)</h3>
-<p aid:pstyle="NoIndent">When you <strong>use pure strength to destroy an inanimate obstacle</strong>, roll+Str.</p>
-<p aid:pstyle="NoIndent">On a 10+, choose 3. </p>
-<p aid:pstyle="NoIndent">On a 7-9 choose 2.</p>
+<p aid:pstyle="NoIndent">When you <strong>use pure strength to destroy an inanimate obstacle</strong>, roll+Str. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.</p>
 <ul><li>It doesn’t take a very long time</li>
 <li>Nothing of value is damaged</li>
 <li>It doesn’t make an inordinate amount of noise</li>
@@ -96,9 +94,7 @@
 <h3 aid:pstyle="MoveName">Merciless</h3>
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Heirloom</h3>
-<p aid:pstyle="NoIndent">When you <strong>consult the spirits that reside within your signature weapon</strong>, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA.</p>
-<p aid:pstyle="NoIndent">On a 10+, the GM will give you good detail.</p>
-<p aid:pstyle="NoIndent">On a 7-9, the GM will give you an impression.</p>
+<p aid:pstyle="NoIndent">When you <strong>consult the spirits that reside within your signature weapon</strong>, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. ✴On a 10+, the GM will give you good detail. ✴On a 7-9, the GM will give you an impression.</p>
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
 <p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated but you must reduce the <em>armor</em> value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 <em>armor</em> it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Improved Weapon</h3>
@@ -110,7 +106,7 @@
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, your next attack against that same foe deals +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
-<p aid:pstyle="NoIndent">Get one move from another class. For the purposes of Multiclass Dabbler the Wizard's Spellbook, Prepare Spells, and Cast a Spell moves count as one move. The Cleric's Commune and Cast a Spell moves also count as one move. If you gain the ability to cast spells you cast them as if you were one level lower.</p>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
 <p aid:pstyle="NoIndent">You gain +1 armor.</p>
 <h3 aid:pstyle="MoveName">Blacksmith</h3>
@@ -124,10 +120,7 @@
 <p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but you must reduce the <em>armor</em> value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 <em>armor</em> it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Evil Eye</h3>
 <p aid:pstyle="Requirement">Requires: Seeing Red</p>
-<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. </p>
-<p aid:pstyle="NoIndent">On a 10+, hold 2.</p>
-<p aid:pstyle="NoIndent">On a 7-9, hold 1.</p>
-<p aid:pstyle="NoIndent">Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. On a 6-, your enemies immediately identify you as their biggest threat.</p>
+<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.</p>
 <h3 aid:pstyle="MoveName">Taste of Blood</h3>
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you Hack and Slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
@@ -138,10 +131,7 @@
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
 <h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
-<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS.</p> 
-<p aid:pstyle="NoIndent">On a 10+, name someone who will live <strong>and</strong> someone who will die.</p>
-<p aid:pstyle="NoIndent">On a 7-9, name someone who will live <strong>or</strong> someone who will die.</p>
-<p aid:pstyle="NoIndent">Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
+<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's weaponry, ask the GM how much damage they do.</p>
 <h3 aid:pstyle="MoveName">Superior Warrior</h3>

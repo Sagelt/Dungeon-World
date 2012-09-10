@@ -6,14 +6,14 @@
 <p>Enter the Bard. You, with your smooth tongue and quick wit. You teller-of-tales and singer-of-songs. It takes a mere minstrel to retell a thing but a true Bard to live it. Strap on your boots, noble orator. Sharpen that hidden dagger and take up the call. Someone’s got to be there, fighting shoulder-to-shoulder with the goons and the thugs and the soon-to-be-heroes. Who better than you to write the tale of your own heroism?</p>
 <p>Nobody. Get going.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Elf</em>: Astrafel, Daelwyn, Feliana, Damarra, Sistranalle, Pendrell, Melliandre, Dagoliir</p> 
-<p><em>Human</em>: Baldric, Leena, Dunwick, Willem, Edwyn, Florian, Seraphine, Quorra, Charlotte, Lily, Ramonde, Cassandra</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Astrafel, Daelwyn, Feliana, Damarra, Sistranalle, Pendrell, Melliandre, Dagoliir</p> 
+<p aid:pstyle="NoIndent"><em>Human</em>: Baldric, Leena, Dunwick, Willem, Edwyn, Florian, Seraphine, Quorra, Charlotte, Lily, Ramonde, Cassandra</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
-<p>Knowing Eyes, Fiery Eyes, or Joyous Eyes</p>
-<p>Fancy Hair, Wild Hair, or Stylish Cap</p>
-<p>Finery, Traveling Clothes, or Poor Clothes</p>
-<p>Fit Body, Well-fed Body, or Thin Body</p></div>
+<p aid:pstyle="NoIndent">Knowing Eyes, Fiery Eyes, or Joyous Eyes</p>
+<p aid:pstyle="NoIndent">Fancy Hair, Wild Hair, or Stylish Cap</p>
+<p aid:pstyle="NoIndent">Finery, Traveling Clothes, or Poor Clothes</p>
+<p aid:pstyle="NoIndent">Fit Body, Well-fed Body, or Thin Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d6</span>.</p>
@@ -30,9 +30,7 @@
 <li>+1d4 forward to damage</li>
 <li>Their mind is shaken clear of one enchantment</li>
 <li>The next time someone successfully assists the target with Aid, they get +2 instead of +1</li></ul>
-<p aid:pstyle="NoIndent">Then roll+Cha.</p>
-<p aid:pstyle="NoIndent">On a 10+, the ally gets the selected effect.</p>
-<p aid:pstyle="NoIndent">On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM's choice.</p>
+<p aid:pstyle="NoIndent">Then roll+Cha. ✴On a 10+, the ally gets the selected effect. ✴On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM's choice.</p>
 <h3 aid:pstyle="BasicMoveName">Bardic Lore</h3>
 <p aid:pstyle="NoIndent">Choose an area of expertise:</p>
 <ul><li>Spells and Magicks</li>
@@ -44,7 +42,7 @@
 <li>Gods and Their Servants</li></ul>
 <p aid:pstyle="NoIndent">When you <strong>first encounter an important creature, location, or item (your call) covered by your Bardic Lore</strong> you can ask the GM any one question about it, the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.</p>
 <h3 aid:pstyle="BasicMoveName">Charming and Open</h3>
-<p aid:pstyle="NoIndent">When you <strong>speak frankly with someone</strong>, you can ask their player a question from the list below. If they answer it truthfully they may then ask you a question from the list.</p>
+<p aid:pstyle="NoIndent">When you <strong>speak frankly with someone</strong>, you can ask their player a question from the list below. They must answer it truthfully, then they may ask you a question from the list (which you must answer truthfully).</p>
 <ul><li>Whom do you serve?</li>
 <li>What do you wish I would do?</li>
 <li>How can I get you to ______?</li>
@@ -94,13 +92,9 @@
 <h3 aid:pstyle="MoveName">Vicious Cacophony</h3>
 <p aid:pstyle="NoIndent">When you <strong>grant bonus damage with Arcane Art</strong>, you grant an extra +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">It Goes To Eleven</h3>
-<p aid:pstyle="NoIndent">When you <strong>unleash a crazed performance</strong> (a righteous lute solo, mighty brass blast, confusing interpretive dance) choose a target who can hear you and roll+Cha.</p>
-<p aid:pstyle="NoIndent">On a 10+ the target flails in confusion dealing its damage to a creature of your choosing.</p>
-<p aid:pstyle="NoIndent">On a 7–9 it still damages a target of your choice, but then takes +1d4 damage ongoing as the music invigorates it.</p>
+<p aid:pstyle="NoIndent">When you <strong>unleash a crazed performance</strong> (a righteous lute solo, mighty brass blast, confusing interpretive dance) choose a target who can hear you and roll+Cha. ✴On a 10+ the target flails in confusion dealing its damage to a random creature nearby. ✴On a 7–9 it still damages a random creature nearby, but then takes +1d4 damage ongoing as the music invigorates it.</p>
 <h3 aid:pstyle="MoveName">Metal Hurlant</h3>
-<p aid:pstyle="NoIndent">When you <strong>shout with great force or play a shattering note</strong> choose a target and roll+Con.</p>
-<p aid:pstyle="NoIndent">On a 10+ the target takes 2d6 damage and is deafened for a few minutes.</p>
-<p aid:pstyle="NoIndent">On a 7–9 you still damage your target, but it's out of control: the GM will choose an additional target nearby.</p>
+<p aid:pstyle="NoIndent">When you <strong>shout with great force or play a shattering note</strong> choose a target and roll+Con. ✴On a 10+ the target takes 1d10 damage and is deafened for a few minutes. ✴On a 7–9 you still damage your target, but it's out of control: the GM will choose an additional target nearby.</p>
 <h3 aid:pstyle="MoveName">A Little Help From My Friends</h3>
 <p aid:pstyle="NoIndent">When you <strong>successfully Aid someone</strong> you take +1 forward as well.</p>
 <h3 aid:pstyle="MoveName">Eldritch Tones</h3>
@@ -122,10 +116,8 @@
 <p aid:pstyle="NoIndent">When you <strong>grant bonus damage with Arcane Art</strong>, you grant an extra +2d4 damage.</p>
 <h3 aid:pstyle="MoveName">Unforgettable Face</h3>
 <p aid:pstyle="NoIndent">When you <strong>meet someone you've met before</strong> (your call) after some time apart you take +1 forward against them.</p>
-<h3 aid:pstyle="MoveName">Reputation (Cha)</h3>
-<p aid:pstyle="NoIndent">When you <strong>first meet someone who's heard songs about you</strong>, roll+Cha.</p>
-<p aid:pstyle="NoIndent">On a 10+, tell the GM two things they've heard about you.</p>
-<p aid:pstyle="NoIndent">On a 7-9, tell the GM one thing they've heard, and the GM tells you one thing.</p>
+<h3 aid:pstyle="MoveName">Reputation</h3>
+<p aid:pstyle="NoIndent">When you <strong>first meet someone who's heard songs about you</strong>, roll+Cha. ✴On a 10+, tell the GM two things they've heard about you. ✴On a 7-9, tell the GM one thing they've heard, and the GM tells you one thing.</p>
 <h3 aid:pstyle="MoveName">Eldritch Chord</h3>
 <p aid:pstyle="Requirement">Replaces: Eldritch Tones</p>
 <p aid:pstyle="NoIndent">When you use Arcane Art, you choose two effects. You also get to choose one of those effects to double.</p>

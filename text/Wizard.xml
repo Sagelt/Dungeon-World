@@ -7,17 +7,17 @@
 <p>Let them cast their sidelong glances. Let them call you “warlock” or “diabolist.” Who among them can hurl fireballs from their eyes?</p>
 <p>Yeah. We didn’t think so.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Elf</em>: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr</p> 
-<p><em>Human</em>: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr</p> 
+<p aid:pstyle="NoIndent"><em>Human</em>: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
-<p>Haunted Eyes, Sharp Eyes, or Crazy Eyes</p>
-<p>Styled Hair, Wild Hair, or Pointed Hat</p>
-<p>Worn Robes, Stylish Robes, or Strange Robes</p>
-<p>Pudgy Body, Creepy Body, or Thin Body</p></div>
+<p aid:pstyle="NoIndent">Haunted Eyes, Sharp Eyes, or Crazy Eyes</p>
+<p aid:pstyle="NoIndent">Styled Hair, Wild Hair, or Pointed Hat</p>
+<p aid:pstyle="NoIndent">Worn Robes, Stylish Robes, or Strange Robes</p>
+<p aid:pstyle="NoIndent">Pudgy Body, Creepy Body, or Thin Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 4+Constitution HP.</p>
-<p>Your base damage is <span id="Damage">d4</span>.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d4</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
@@ -33,9 +33,7 @@
 <li>Prepare new spells of your choice from your spellbook whose total levels don't exceed your own level+1.</li>
 <li>Prepare your cantrips which never count against your limit.</li></ul>
 <h3 aid:pstyle="BasicMoveName">Cast a Spell (Int)</h3>
-<p aid:pstyle="NoIndent">When you <strong>release a spell you've prepared</strong>, roll+Int.</p>
-<p aid:pstyle="NoIndent">On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. </p>
-<p aid:pstyle="NoIndent">On a 7-9, the spell is cast, but choose one:</p>
+<p aid:pstyle="NoIndent">When you <strong>release a spell you've prepared</strong>, roll+Int. ✴On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. ✴On a 7-9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
 <li>The spell disturbs the fabric of reality as it is cast—take -1 ongoing to Cast a Spell until the next time you Prepare Spells.</li>
 <li>After it is cast, the spell is forgotten. You cannot cast the spell again until you Prepare Spells.</li></ul>
@@ -95,10 +93,7 @@
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
-<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>, stake one of your prepared spells of equal or higher level on the defense and roll+Int.</p>
-<p aid:pstyle="NoIndent">On a 10+, the spell is countered and has no effect on you.</p>
-<p aid:pstyle="NoIndent">On a 7-9, the spell is countered and you forget the spell you staked.</p>
-<p aid:pstyle="NoIndent">Your counterspell protects only you; if the countered spell has other targets they get its effects.</p>
+<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>, stake one of your prepared spells of equal or higher level on the defense and roll+Int. ✴On a 10+, the spell is countered and has no effect on you. ✴On a 7-9, the spell is countered and you forget the spell you staked. Your counterspell protects only you; if the countered spell has other targets they get its effects.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>
 <p aid:pstyle="NoIndent">When you <strong>see the effects of an arcane spell</strong>, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>

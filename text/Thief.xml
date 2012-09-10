@@ -5,17 +5,17 @@
 <p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you’re done all this delving you’ll toast their hero’s graves.</p>
 <p>From your castle. Full of gold. You rogue.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Halfling</em>: Felix, Rook, Mouse, Sketch, Trixie, Robin, Omar, Brynn, Bug</p>
-<p><em>Human</em>: Sparrow, Shank, Jack, Marlow, Dodge, Rat, Pox, Humble, Farley</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Halfling</em>: Felix, Rook, Mouse, Sketch, Trixie, Robin, Omar, Brynn, Bug</p>
+<p aid:pstyle="NoIndent"><em>Human</em>: Sparrow, Shank, Jack, Marlow, Dodge, Rat, Pox, Humble, Farley</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
-<p>Shifty Eyes or Criminal Eyes</p>
-<p>Hooded Head, Messy Hair, or Cropped Hair</p>
-<p>Dark Clothes, Fancy Clothes, or Common Clothes</p>
-<p>Lithe Body, Knobby Body, or Flabby Body</p></div>
+<p aid:pstyle="NoIndent">Shifty Eyes or Criminal Eyes</p>
+<p aid:pstyle="NoIndent">Hooded Head, Messy Hair, or Cropped Hair</p>
+<p aid:pstyle="NoIndent">Dark Clothes, Fancy Clothes, or Common Clothes</p>
+<p aid:pstyle="NoIndent">Lithe Body, Knobby Body, or Flabby Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p>
-<p>Your base damage is <span id="Damage">d8</span>.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Halfling</h3>
@@ -24,21 +24,14 @@
 <p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Trap Expert</h3>
-<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX.</p> 
-<p aid:pstyle="NoIndent">On a 10+, hold 3.</p>
-<p aid:pstyle="NoIndent">On a 7-9, hold 1.</p>
-<p aid:pstyle="NoIndent">Spend your hold as you walk through the area to ask these questions:</p>
+<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX. ✴On a 10+, hold 3. ✴On a 7-9, hold 1. Spend your hold as you walk through the area to ask these questions:</p>
 <ul><li>Is there a trap here and if so, what activates it?</li>
 <li>What does the trap do when activated?</li>
 <li>What else is hidden here?</li></ul>
 <h3 aid:pstyle="BasicMoveName">Tricks of the Trade</h3>
-<p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX.</p> 
-<p aid:pstyle="NoIndent">On a 10+, you do it, no problem. </p>
-<p aid:pstyle="NoIndent">On a 7-9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p>
+<p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX. ✴On a 10+, you do it, no problem. ✴On a 7-9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p>
 <h3 aid:pstyle="BasicMoveName">Backstab</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy with a melee weapon</strong>, you can choose to deal your damage or roll+DEX. </p>
-<p aid:pstyle="NoIndent">On a 10+ choose two.</p>
-<p aid:pstyle="NoIndent">On a 7-9 choose one.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy with a melee weapon</strong>, you can choose to deal your damage or roll+DEX. ✴On a 10+ choose two. ✴On a 7-9 choose one.</p>
 <ul><li>You don't get into melee with them</li>
 <li>You deal your damage+1d6</li>
 <li>You create an advantage, +1 forward to you or an ally acting on it</li>
@@ -94,9 +87,7 @@
 <h3 aid:pstyle="MoveName">Underdog</h3>
 <p aid:pstyle="NoIndent">When you're outnumbered, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
-<p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+CHA.</p>
-<p aid:pstyle="NoIndent">On a 10+, someone has it, just for you.</p>
-<p aid:pstyle="NoIndent">On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
+<p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Dirty Fighter</h3>
 <p aid:pstyle="Requirement">Replaces: Cheap Shot</p>
@@ -119,9 +110,7 @@
 <h3 aid:pstyle="MoveName">Strong Arm, True Aim</h3>
 <p aid:pstyle="NoIndent">You can throw any melee weapon, using it to Volley. A thrown melee weapon is gone, you can never choose to reduce ammo on a 7-9.</p>
 <h3 aid:pstyle="MoveName">Escape Route</h3>
-<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. </p>
-<p aid:pstyle="NoIndent">On a 10+ you're gone. </p>
-<p aid:pstyle="NoIndent">On a 7-9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
+<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7-9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
 <h3 aid:pstyle="MoveName">Disguise</h3>
 <p aid:pstyle="NoIndent">When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.</p>
 <h3 aid:pstyle="MoveName">Heist</h3>

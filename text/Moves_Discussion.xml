@@ -7,35 +7,32 @@
 <p>All player characters have all the basic and special moves. Each player character will also have some moves from their class, we'll get to those later.</p>
 <p>Each move is presented here starting with it's name, then the rules of the move. Each move is also accompanied by a quick discussion of how to use the move and some examples of the move being used in play.</p>
 <h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
-<p aid:pstyle="Example">When you <Strong>attack an enemy in melee</Strong>, roll+Str.</p>
-<p aid:pstyle="Example">On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. </p>
-<p aid:pstyle="ExampleLastLine">On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
-<p aid:pstyle="NoIndent">Hack and Slash is for attacking a prepared enemy plain and simple. If the enemy isn't prepared for your attack—if they don't know you're there or they're reStrained and helpless—then that's not Hack and Slash. You just deal your damage or murder them outright, depending on the situation. Nasty stuff.</p>
+<p aid:pstyle="MoveOneLine">When you <Strong>attack an enemy in melee</Strong>, roll+Str. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
+<p aid:pstyle="NoIndent">Hack and Slash is for attacking a prepared enemy plain and simple. If the enemy isn't prepared for your attack—if they don't know you're there or they're restrained and helpless—then that's not Hack and Slash. You just deal your damage or murder them outright, depending on the situation. Nasty stuff.</p>
 <p>The enemy's counterattack can be any GM move made directly with that creature. A goblin might just attack you back, or they might jam a poisoned needle Into your veins. Life's tough, isn't it?</p>
-<p>Note that an "attack" is some action that a player undertakes that has a Chance of causing physical harm to someone else. Attacking a dragon with inch-thick metal scales full of magical energy with a typical sword is like swinging a meat cleaver at a tank: it just isn't going to cause any harm, so it's not an appropriate use of Hack and Slash. Note that circumstances can Change that: if you're in a position to stab the dragon on its soft underbelly (good luck with getting there) it could hurt, so it's an attack.</p>
+<p>Note that an "attack" is some action that a player undertakes that has a chance of causing physical harm to someone else. Attacking a dragon with inch-thick metal scales full of magical energy with a typical sword is like swinging a meat cleaver at a tank: it just isn't going to cause any harm, so it's not an appropriate use of Hack and Slash. Note that circumstances can Change that: if you're in a position to stab the dragon on its soft underbelly (good luck with getting there) it could hurt, so it's an attack.</p>
 <p>If the action that triggers the move could reasonably hurt multiple targets roll once and apply damage to each target (they each get their armor).</p>
-<p aid:pstyle="ExampleDialogueFirstLine">GM: Jarl, you’re up to your not-inConsiderable belly in slavering goblins. They have you surrounded, knives bared. What do you do?</p>
+<p>Some attacks may have additional effects depending on the triggering action, the circumstances, or the weapons involved. An attack could also knock someone down, restrain them, or leave a big bloody splatter.</p>
+<p aid:pstyle="ExampleDialogueFirstLine">GM: Jarl, you’re up to your not-inconsiderable belly in slavering goblins. They have you surrounded, knives bared. What do you do?</p>
 <p aid:pstyle="ExampleDialogue">Jarl: I’ve had enough of this! I wallop the closest goblin with my hammer.</p>
 <p aid:pstyle="ExampleDialogue">GM: Okay, then. This is definitely combat, you’re using Hack and Slash. Roll+Str.</p>
 <p aid:pstyle="ExampleDialogue">Jarl: I got an 11. It says here that I have a choice. Fear is for the weak, let those goblins come!</p>
 <p aid:pstyle="ExampleDialogueLastLine">GM: You smash your hammer Into the nearest goblin and are rewarded by the satisfying sound of the crunching of his bones. That and a knife wound as the goblin counterattacks. He deals 4 damage to you. What do you do?</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Cadeus, from the shadows, you’ve got the drop on those orc warriors.</p>
 <p aid:pstyle="ExampleDialogue">Cadeus: I leap out and bring my sword down in a sweeping arc! Like this! Yeeeah!</p>
-<p aid:pstyle="ExampleDialogue">GM: Well, they certainly weren’t expecting that, they’re caught totally off guard and you slice Into one. Roll your damage.</p>
+<p aid:pstyle="ExampleDialogue">GM: Well, they weren’t expecting that, they’re caught totally off guard and you slice into one. Roll damage.</p>
 <p aid:pstyle="ExampleDialogue">Cadeus: I deal six damage.</p>
-<p aid:pstyle="ExampleDialogueLastLine">GM:	The orc collapses in a bloody heap! The seCond orc freezes just for a seCond and then he’s grinning at you with that horrible tusked mouth, raising his signal horn from his belt! What do you do?</p>
+<p aid:pstyle="ExampleDialogueLastLine">GM:	The orc collapses in a bloody heap! The second orc freezes and then he’s grinning at you with that horrible tusked mouth, raising his signal horn from his belt! What do you do?</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Bartleby, you’ve got Finbar the Magnificent, mightiest duelist in the land, completely disarmed and at sword poInt.</p>
 <p aid:pstyle="ExampleDialogue">Bartleby: I won’t let you betray me again, Finbar! I run him through.</p>
 <p aid:pstyle="ExampleDialogue">GM: Well, okay, that’s a Hack and Slash, roll+Str.</p>
 <p aid:pstyle="ExampleDialogue">Bartleby: If you say so… I got a 7.</p>
-<p aid:pstyle="ExampleDialogueLastLine">GM: Okay, you run him through because he can’t even defend himself and… umm, wait. You know what, he’s not in melee with you at all. He’s helpless, forget Hack and Slash, he’s toast. He slumps to the ground, coughing up blood. You hardly have time to savor your victory before the sound of the city guard alarm is raised. What do you do?</p>
+<p aid:pstyle="ExampleDialogueLastLine">GM: Okay, you run him through because he can’t even defend himself and… umm, wait. You know what, he’s not in melee with you at all. He’s helpless, forget Hack and Slash, he’s toast. He slumps to the ground, coughing up blood but the sound of the guard alarm rings out. What do you do?</p>
 <h2 aid:pstyle="BasicMoveName">Volley</h2>
-<p aid:pstyle="Example">When you <Strong>take aim and shoot at an enemy at range</Strong>, roll+Dex.</p>
-<p aid:pstyle="Example">On a 10+, you have a clear shot—deal your damage.</p>
-<p aid:pstyle="Example">On a 7–9, choose one (whichever you choose you deal your damage):</p>
-<ul><li aid:pstyle="Exampleli">You have to move to get the shot placing you in danger of the GM's choice</li>
-<li aid:pstyle="Exampleli">You have to take what you can get: -1d6 damage</li>
-<li aid:pstyle="Exampleli">You have to take several shots, reducing your ammo by one.</li></ul>
+<p aid:pstyle="NoIndent">When you <Strong>take aim and shoot at an enemy at range</Strong>, roll+Dex. ✴On a 10+, you have a clear shot—deal your damage. ✴On a 7–9, choose one (whichever you choose you deal your damage):</p>
+<ul><li aid:pstyle="li">You have to move to get the shot placing you in danger of the GM's choice</li>
+<li aid:pstyle="li">You have to take what you can get: -1d6 damage</li>
+<li aid:pstyle="Lastli">You have to take several shots, reducing your ammo by one.</li></ul>
 <p aid:pstyle="NoIndent">Volley covers the entire act of drawing, aiming, and firing a ranged weapon or throwing a thrown weapon. The advantage to using a ranged weapon over melee is that the attacker is less likely to be attacked back. Of course they do have to worry about ammunition and getting a clear shot though.</p>
 <p>On a 7–9, read "danger" broadly. It can be bad footing or ending in the path of a sword or maybe just giving up your sweet sniper nest to your enemies. Whatever it is, it's impending and it's always something that causes the GM to say "What do you do?" Quite often, the danger will be something that will then require you to dedicate yourself to avoiding it or force you to Defy Danger.</p>
 <p>If you're throwing something that doesn't have ammo (maybe you've got a move that makes your shield throwable) you can't choose to mark off ammo. Choose from the other two options instead.</p>
@@ -50,15 +47,14 @@
 <p aid:pstyle="ExampleDialogue">Halek: 12 damage? That’s the danger?</p>
 <p aid:pstyle="ExampleDialogueLastLine">GM: You’re probably right, okay, so you’re not mush yet—the Ogre is looming behind you and that club is flying down at your head! What do you do?</p>
 <h2 aid:pstyle="BasicMoveName">Defy Danger</h2>
-<p aid:pstyle="Example">When you <Strong>act despite an imminent threat</Strong> or <Strong>suffer a calamity</Strong>, say how you deal with it and roll. If you do it…</p>
-<ul><li aid:pstyle="Exampleli">…by powering through, +Str</li>
-<li aid:pstyle="Exampleli">…by getting out of the way or acting fast, +Dex</li>
-<li aid:pstyle="Exampleli">…by enduring, +Con</li>
-<li aid:pstyle="Exampleli">…with quick thinking, +Int</li>
-<li aid:pstyle="Exampleli">…through mental fortitude, +Wis</li>
-<li aid:pstyle="Exampleli">…using Charm and social grace, +Cha</li></ul>
-<p aid:pstyle="Example">On a 10+, you do what you set out to, the threat doesn't come to bear.</p>
-<p aid:pstyle="Example">On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.</p>
+<p aid:pstyle="NoIndent">When you <strong>act despite an imminent threat</strong> or <strong>suffer a calamity</strong>, say how you deal with it and roll. If you do it…</p>
+<ul><li aid:pstyle="li">…by powering through, +Str</li>
+<li aid:pstyle="li">…by getting out of the way or acting fast, +Dex</li>
+<li aid:pstyle="li">…by enduring, +Con</li>
+<li aid:pstyle="li">…with quick thinking, +Int</li>
+<li aid:pstyle="li">…through mental fortitude, +Wis</li>
+<li aid:pstyle="li">…using Charm and social grace, +Cha</li></ul>
+<p aid:pstyle="MoveOneLine">✴On a 10+, you do what you set out to, the threat doesn't come to bear. ✴On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.</p>
 <p aid:pstyle="NoIndent">You Defy Danger when you do something in the face of impending peril. This may seem like a catch-all. It is! Defy Danger is for those times when it seems like you clearly should be rolling but no other move applies.</p>
 <p>Defy Danger also applies when you make another move despite danger not covered by that move. For example, Hack and Slash assumes that's you're trading blows in battle—you don't need to Defy Danger because of the monster you're fighting unless there's some specific danger that wouldn't be part of your normal attack. On the other hand, if you're trying to Hack and Slash while spikes shoot from hidden traps in the walls, you're ignoring a clear and present threat and need to Defy Danger.</p>
 <p>Danger, here, is anything that requires resilience, Concentration, or poise. This move will usually be called for by the GM. She'll tell you what the danger is as you make the move. Something like "You'll have to Defy Danger first. The danger is the steep and icy floor you're running across. If you can keep your footing, you can make it to the door before the Necromancer's magic gets you."</p>
@@ -77,14 +73,11 @@
 <p aid:pstyle="ExampleDialogue">Octavia: Are you sure? Isn’t that what Hack and Slash is? Trading blows and stuff?</p>
 <p aid:pstyle="ExampleDialogue">GM: Yes, duh, of course. I need another cup of coffee–Hack and Slash it is, make your move!</p>
 <h2 aid:pstyle="BasicMoveName">Defend</h2>
-<p aid:pstyle="Example">When you <Strong>stand in defense of a person, item, or location</Strong> under attack, roll+Con.</p>
-<p aid:pstyle="Example">On a 10+, hold 3.</p>
-<p aid:pstyle="Example">On a 7–9, hold 1.</p>
-<p aid:pstyle="Example">As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:</p>
-<ul><li aid:pstyle="Exampleli">Redirect an attack from the thing you defend to yourself</li>
-<li aid:pstyle="Exampleli">Halve the attack's effect or damage</li>
-<li aid:pstyle="Exampleli">Open up the attacker to an ally giving that ally +1 forward against the attacker</li>
-<li aid:pstyle="Exampleli">Deal damage to the attacker equal to your level</li></ul>
+<p aid:pstyle="NoIndent">When you <strong>stand in defense of a person, item, or location</strong> under attack, roll+Con. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:</p>
+<ul><li aid:pstyle="li">Redirect an attack from the thing you defend to yourself</li>
+<li aid:pstyle="li">Halve the attack's effect or damage</li>
+<li aid:pstyle="li">Open up the attacker to an ally giving that ally +1 forward against the attacker</li>
+<li aid:pstyle="Lastli">Deal damage to the attacker equal to your level</li></ul>
 <p aid:pstyle="NoIndent">Defending something means standing nearby and focusing on preventing attacks against that thing or stopping anyone from getting near it. When you're no longer nearby or you stop devoting your attention to incoming attacks then you lose any hold you might have had.</p>
 <p>You can only spend hold when someone makes an attack on you or the thing you're defending. The choices you can make depend on the attacker and the type of attack. In particular, you can't deal damage to an attacker who you can't reach with your weapon.</p>
 <p>An attack is any action you can Interfere with that has harmful effects. Swords and arrows are attacks, of course, but so are spells, grabs, and Charges. </p>
@@ -106,10 +99,7 @@
 <p aid:pstyle="ExampleDialogue">GM: You two are spread out, now. How are you going to do that if you’re 20 yards away? You lost your hold when you attacked the Croc, my friend.</p>
 <p aid:pstyle="ExampleDialogueLastLine">Hadrian: Yeah, I guess I’m not “standing in defense” anymore. Forget it, you’re on your own, Durga!</p>
 <h2 aid:pstyle="BasicMoveName">Spout Lore</h2>
-<p aid:pstyle="Example">When you <Strong>Consult your accumulated knowledge about something</Strong>, roll+Int.</p>
-<p aid:pstyle="Example">On a 10+, the GM will tell you something Interesting and useful about the subject relevant to your situation.</p>
-<p aid:pstyle="Example">On a 7–9, the GM will only tell you something Interesting—it's on you to make it useful.</p>
-<p aid:pstyle="Example">The GM might ask you "How do you know this?" Tell them the truth, now.</p>
+<p aid:pstyle="MoveOneLine">When you <strong>Consult your accumulated knowledge about something</strong>, roll+Int. ✴On a 10+, the GM will tell you something Interesting and useful about the subject relevant to your situation. ✴On a 7–9, the GM will only tell you something interesting—it's on you to make it useful. The GM might ask you "How do you know this?" Tell them the truth, now.</p>
 <p aid:pstyle="NoIndent">You Spout Lore any time you want to search your memory for knowledge or facts about something. You take a moment to ponder the things you know about the Orcish Tribes or the Tower of Ul'dammar and then reveal that knowledge.</p>
 <p>The knowledge you get is like Consulting a bestiary, travel guide, or library. You get facts about the subject matter. On a 10+ those facts the GM will show you how those facts can be immediately useful, on a 7–9 they're just facts.</p>
 <p>On a miss the GM's move will often involve the time you take thinking. Maybe you miss that goblin moving around behind you, or the tripwire across the hallway. It's also a great Chance to reveal an unwelcome truth.</p>
@@ -127,16 +117,14 @@
 <p aid:pstyle="ExampleDialogue">GM: Right, of course. Well, you recognize a few glyphs specifically. They’re efreeti, marks of a fire spell, but they’re different, a kind of transmutation magic. I bet if you cast a spell Into the skull, it’ll turn it Into a fire spell.</p>
 <p aid:pstyle="ExampleDialogueLastLine">Vitus: Magic Missiles of fire—hurrah!</p>
 <h2 aid:pstyle="BasicMoveName">Discern Realities</h2>
-<p aid:pstyle="Example">When you <Strong>closely study a situation or person</Strong>, roll+Wis.</p>
-<p aid:pstyle="Example">On a 10+, ask the GM 3 questions from the list below.</p>
-<p aid:pstyle="Example">On a 7–9, ask 1.</p>
-<p aid:pstyle="Example">Either way, take +1 forward when acting on the answers.</p>
-<ul><li aid:pstyle="Exampleli">What happened here recently?</li>
-<li aid:pstyle="Exampleli">What is about to happen?</li>
-<li aid:pstyle="Exampleli">What should I be on the lookout for?</li>
-<li aid:pstyle="Exampleli">What here is useful or valuable to me?</li>
-<li aid:pstyle="Exampleli">Who’s really in Control here?</li>
-<li aid:pstyle="Exampleli">What here is not what it appears to be?</li></ul>
+<p aid:pstyle="NoIndent">When you <Strong>closely study a situation or person</Strong>, roll+Wis. ✴On a 10+, ask the GM 3 questions from the list below. ✴On a 7–9, ask 1.</p>
+<p>Either way, take +1 forward when acting on the answers.</p>
+<ul><li aid:pstyle="li">What happened here recently?</li>
+<li aid:pstyle="li">What is about to happen?</li>
+<li aid:pstyle="li">What should I be on the lookout for?</li>
+<li aid:pstyle="li">What here is useful or valuable to me?</li>
+<li aid:pstyle="li">Who’s really in Control here?</li>
+<li aid:pstyle="Lastli">What here is not what it appears to be?</li></ul>
 <p aid:pstyle="NoIndent">To Discern Realities you must closely observe your target. That usually means Interacting with it or watching someone else do the same. You can't just stick your head in the doorway and Discern Realities about a room. You're not merely scanning for clues—you have to look under and around things, tap the walls and check for weird dust patterns on the bookshelves. That sort of thing.</p>
 <p>Discerning Realities isn't just about noticing a detail, it's about figuring out the bigger picture. The GM always describes what the player Characters experience honestly, so during a fight the GM will say that the kobold mage stays at the other end of the hall. Discerning Realities could reveal the reason behind that: the kobold's motions reveal that he's actually pulling energy from the room behind him, he can't come any closer.</p>
 <p>Just like Spout Lore, the answers you get are always honest ones. Even if the GM has to figure it out on the spot. Once they answer, it's set in stone. You'll want to Discern Realities to find the truth behind illusions—magical or otherWise.</p>
@@ -151,9 +139,7 @@
 <p aid:pstyle="ExampleDialogue">Omar: So either the goblins blocked it from the other side, or there’s something in there that tried to get out.</p>
 <p aid:pstyle="ExampleDialogueLastLine">GM: Bingo.</p>
 <h2 aid:pstyle="BasicMoveName">Parley</h2>
-<p aid:pstyle="Example">When you <Strong>have leverage on a GM Character and manipulate them</Strong>, roll+Cha. Leverage is something they need or want.</p>
-<p aid:pstyle="Example">On a 10+, they do what you ask if you first promise what they ask of you.</p>
-<p aid:pstyle="Example">On a 7–9, they will do what you ask, but need some Concrete assurance of your promise, right now.</p>
+<p aid:pstyle="MoveOneLine">When you <Strong>have leverage on a GM Character and manipulate them</Strong>, roll+Cha. Leverage is something they need or want. ✴On a 10+, they do what you ask if you first promise what they ask of you. ✴On a 7–9, they will do what you ask, but need some Concrete assurance of your promise, right now.</p>
 <p aid:pstyle="NoIndent">Parley covers a lot of ground including old standbys like intimidation and diplomacy. You know you're using Parley when you're trying to get someone to do something for you by holding a promise or threat over them. Your leverage can be nasty or nice, the tone doesn't matter.</p>
 <p>Merely asking someone politely isn't Parleying. That's just talking. You say "Can I have that magic sword?" and the King's knight says "Hell no, this is my blade, my father forged it and my mother enchanted it" and that's that. To Parley, you have to have leverage. Leverage is anything that could lure the target of your Parley to do something for you. Maybe it's something they want or something they don't want you to do. Like a sack of gold. Or punching them in the face. What counts as leverage depends on the people involved and the request being made. Threaten a lone goblin with death and you have leverage. Threaten a goblin backed up by his gang with death and he might think he's better off in a fight.</p>
 <p>On a 7+ they ask you for something related to whatever leverage you have. If your leverage is that you're standing before them sharpening your knife and insinuating about how much you'd like to shank them with it they might ask you to let them go. If your leverage is your position in court above them they might ask for a favor.</p>
@@ -169,9 +155,7 @@
 <p aid:pstyle="ExampleDialogueFirstLine">Pendrell: This is the place where One Eye plays cards, right? Okay, I walk up to the guard. “Hey there fellows, care to, you know, open the door and let me in?” and I’m being all suave and cool so they’ll do it. Parley is roll+Cha right?</p>
 <p aid:pstyle="ExampleDialogue">GM: Not so fast, slick. All you’ve done is say what you want. The big smelly one on the right steps in front of you and says “Sorry sir, private game,” he says, all bored-sounding. It’s like he hates his job and Wishes he were someplace else. If you want to Parley, you’re going to need some leverage. Maybe a bribe?</p>
 <h2 aid:pstyle="BasicMoveName">Aid or Interfere</h2>
-<p aid:pstyle="Example">When you <Strong>help or hinder someone </Strong>, roll+bond with them.</p>
-<p aid:pstyle="Example">On a 10+, they take +1 or -2 to their roll, your choice.</p>
-<p aid:pstyle="Example">On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.</p>
+<p aid:pstyle="MoveOneLine">When you <strong>help or hinder someone </strong>, roll+bond with them. ✴On a 10+, they take +1 or -2 to their roll, your choice. ✴On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.</p>
 <p aid:pstyle="NoIndent">Any time you feel like two players should be rolling against each other, the defender should be Interfering with the attacker. This doesn't always mean sabotaging them. It can mean anything from arguing against a Parley to just being a shifty person who's hard to Discern. It's about getting in the way of another players' success.</p>
 <p>Always ask the person aiding or Interfering how they are doing it. As long as they can answer that, they trigger the move. Sometimes, as the GM, you'll have to ask if Interference is happening. Your players might not always notice they're Interfering with each other.</p>
 <p>Aid is a little more obvious. If a player can explain how they're helping with a move and it makes sense, let them roll to aid.</p>
@@ -183,91 +167,76 @@
 <h1>Special Moves</h1>
 <p aid:pstyle="NoIndent">Special moves are moves that come up less often or in more specific situations. They're still the basis of what Characters do in Dungeon World—particularly what they do between dungeon crawls and high-flying adventures.</p>
 <h2 aid:pstyle="BasicMoveName">Last Breath</h2>
-<p aid:pstyle="Example">When <Strong>you're dying</Strong> you catch a glimpse of what lies beyond the Black Gates of Death's Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn't care how tough or cool you are).</p>
-<p aid:pstyle="Example">On a 10+, you've cheated death—you're in a bad spot but you're still alive.</p>
-<p aid:pstyle="Example">On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates Into whatever fate awaits you.</p>
-<p aid:pstyle="Example">On 6-, your fate is sealed. You're marked as Death's own and you'll cross the threshold soon. The GM will tell you when.</p>
+<p aid:pstyle="MoveOneLine">When <Strong>you're dying</Strong> you catch a glimpse of what lies beyond the Black Gates of Death's Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn't care how tough or cool you are). ✴On a 10+, you've cheated death—you're in a bad spot but you're still alive. ✴On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates Into whatever fate awaits you. ✴On 6-, your fate is sealed. You're marked as Death's own and you'll cross the threshold soon. The GM will tell you when.</p>
 <p aid:pstyle="NoIndent">The Last Breath is that moment standing between life and death. Time stands still as Death appears to claim the living for his own. Even those who do not pass beyond the Black Gates catch a glimpse of the other side and what might await them—friends and enemies past, rewards or punishment for acts in life or other, Stranger vistas. All are Changed in some way by this moment—even those who escape.</p>
 <p>There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He's escaped with something that, by rights, isn't his anymore. Death is powerless to stop this, but he remembers this slight. On a 7–9, the GM should offer a real choice with significant Consequence. Think about the behaviors of the Character and the things you've learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a Challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say "Death takes you across the threshold, Into his bleak kingdom." and move on. However, it can be fun to give the Character back his life but be sure that he knows that he lives on borrowed time. You might say "you have a week to live" or "you can feel the cold hand of death on you…" and leave it at that, for now. The player may want to give in and accept death at this poInt—that's okay. Let him create a new Character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should lead to new story twists, Changes in Alignment, bonds, and in overall outlook. Keep it exciting and stick to your principles and agenda as you would with a living Character making a move.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Sparrow, as the knife blade disappears Into your guts, the world fades away and you stand before the Black Gates of Death. Among the throngs of suffering souls, you spot Lord Hwyn, that sickly cur. It looks like all his ill deals caught up with him at last. He spots you across the bleak gulf and you feel the chill of his hunger in your very soul. Take your Last Breath.</p>
 <p aid:pstyle="ExampleDialogue">Sparrow: Heavy. I got a 9.</p>
 <p aid:pstyle="ExampleDialogue">GM: Death appears to you, wisps of black cloth dancing around her shadowy form. A pale hand touches your face. You hear her voice in your mind. “Come to me so soon, pretty Sparrow? You follow a river of souls, sent here by your blade. I do so love you for them. I’ll return you to the world, but you must make me a promise. In shadow you dwell, so shadow you shall become. Shun the light of day forever or find a quick trip back to my company. What do you say, little Thief?</p>
-<p aid:pstyle="ExampleDialogue">Sparrow: *gulp*</p>
+<p aid:pstyle="ExampleDialogue">Sparrow: (gulp)</p>
 <h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
-<p aid:pstyle="Example">When you <Strong>make a move while carrying weight</Strong> you may be encumbered. If your weight carried is:</p>
-<ul><li aid:pstyle="Exampleli">Equal to or less than your Load, you suffer no penalty</li>
-<li aid:pstyle="Exampleli">Less than or equal to your Load+2, you take -1 ongoing until you lighten your burden</li>
-<li aid:pstyle="Exampleli">Greater than your Load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
+<p aid:pstyle="NoIndent">When you <Strong>make a move while carrying weight</Strong> you may be encumbered. If your weight carried is:</p>
+<ul><li aid:pstyle="li">Equal to or less than your Load, you suffer no penalty</li>
+<li aid:pstyle="li">Less than or equal to your Load+2, you take -1 ongoing until you lighten your burden</li>
+<li aid:pstyle="Lastli">Greater than your Load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
 <p aid:pstyle="NoIndent">A PC's Load stat is determined by their class and Str. Being able to carry more is a clear benefit when trying to carry treasure out of a dungeon or just making sure you can bring along what you need.</p>
 <p>This move only applies to things a person could walk around with and still act. Carrying a boulder on your back is not encumbrance—you can't really act or move much with it. It effects what moves you can make appropriately in the fiction.</p>
 <h2 aid:pstyle="BasicMoveName">Make Camp</h2>
-<p aid:pstyle="Example">When you <Strong>settle in to rest</Strong> Consume a ration. If you're somewhere dangerous decide the watch order as well. If you have enough XP you may Level Up. When you wake from at least a few unInterrupted hours of sleep heal damage equal to half your max HP.</p>
+<p aid:pstyle="MoveOneLine">When you <strong>settle in to rest</strong> Consume a ration. If you're somewhere dangerous decide the watch order as well. If you have enough XP you may Level Up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
 <p aid:pstyle="NoIndent">You usually Make Camp so that you can do other things, like Prepare Spells or Commune with your god. Or, you know, sleep soundly at night. Whenever you stop to catch your breath for more than an hour or so, you've probably Made Camp.</p>
 <p>Staying a night in an inn or house is Making Camp, too. Regain your hit poInts as usual, but only mark off a ration if you're eating from the food you carry, not paying for a meal or receiving hospitality.</p>
 <h2 aid:pstyle="BasicMoveName">Take Watch</h2>
-<p aid:pstyle="Example">When <Strong>you're on watch and something approaches the camp</Strong> roll+Wis.</p>
-<p aid:pstyle="Example">On a 10+, you're able to wake the camp and prepare a response, everyone in the camp takes +1 forward.</p>
-<p aid:pstyle="Example">On a 7–9, you react just a moment too late; your companions in camp are awake but haven't had time to prepare. They have weapons and armor but little else.</p>
-<p aid:pstyle="Example">On a miss, whatever lurks outside the campfire's light has the drop on you.</p>
+<p aid:pstyle="MoveOneLine">When <Strong>you're on watch and something approaches the camp</Strong> roll+Wis. ✴On a 10+, you're able to wake the camp and prepare a response, everyone in the camp takes +1 forward. ✴On a 7–9, you react just a moment too late; your companions in camp are awake but haven't had time to prepare. They have weapons and armor but little else. ✴On a miss, whatever lurks outside the campfire's light has the drop on you.</p>
 <h2 aid:pstyle="BasicMoveName">Undertake a Perilous Journey</h2>
-<p aid:pstyle="Example">When you <Strong>travel through hostile territory</Strong>, choose one member of the party to act as <em>trailblazer</em>, one to <em>scout</em> ahead, and one to be <em>quartermaster</em>. Each Character with a job to do rolls+Wis.</p>
-<p aid:pstyle="Example">On a 10+:</p>
-<ul><li aid:pstyle="Exampleli">the quartermaster reduces the number of rations required by one</li>
-<li aid:pstyle="Exampleli">the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much)</li>
-<li aid:pstyle="Exampleli">the scout will spot any trouble quick enough to let you get the drop on it</li></ul>
-<p aid:pstyle="Example">On a 7–9, each roles performs their job as expected: the normal number of rations are Consumed, the journey takes about as long as expected, no one gets the drop on you but you don't get the drop on them either.</p>
-<p aid:pstyle="Example">You can’t assign more than one job to a Character. If you don’t have enough party members, or choose not to assign a job, treat that job as if it had been assigned, and the responsible player had rolled a 6.</p>
-<p aid:pstyle="Example">Distances in Dungeon World are measured in rations. A ration is the amount of supplies used up in a day. Journeys take more rations when they are long or when travel is slow.</p>
-<p aid:pstyle="NoIndent">A perilous journey is the whole way between two locations. You don't roll for one day's journey and then make camp only to roll for the next day's journey, too. Make one roll for the entire trip.</p>
+<p aid:pstyle="NoIndent">When you <strong>travel through hostile territory</strong>, choose one member of the party to act as <em>trailblazer</em>, one to <em>scout</em> ahead, and one to be <em>quartermaster</em>. Each Character with a job to do rolls+Wis.</p>
+<p>✴On a 10+:</p>
+<ul><li aid:pstyle="li">the quartermaster reduces the number of rations required by one</li>
+<li aid:pstyle="li">the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much)</li>
+<li aid:pstyle="li">the scout will spot any trouble quick enough to let you get the drop on it</li></ul>
+<p aid:pstyle="MoveOneLine">✴On a 7–9, each role performs their job as expected: the normal number of rations are Consumed, the journey takes about as long as expected, no one gets the drop on you but you don't get the drop on them either.</p>
+<p aid:pstyle="NoIndent">You can’t assign more than one job to a Character. If you don’t have enough party members, or choose not to assign a job, treat that job as if it had been assigned, and the responsible player had rolled a 6.</p>
+<p>Distances in Dungeon World are measured in rations. A ration is the amount of supplies used up in a day. Journeys take more rations when they are long or when travel is slow.</p>
+<p>A perilous journey is the whole way between two locations. You don't roll for one day's journey and then make camp only to roll for the next day's journey, too. Make one roll for the entire trip.</p>
 <p>This move only applies when you know where you're going. Setting off to explore is not a perilous journey. It's wandering around looking for cool things to discover. Use up rations as you camp and the GM will give you details about the world as you discover them.</p>
 <h2 aid:pstyle="BasicMoveName">Level Up</h2>
-<p aid:pstyle="Example">When you <Strong>have downtime (hours or days) and XP equal to (or greater than) your current level + 7</Strong>, you can reflect on your experiences and hone your skills.</p>
-<ul><li aid:pstyle="Exampleli">Subtract your current level +7 from your XP.</li>
-<li aid:pstyle="Exampleli">Increase your level by 1.</li>
-<li aid:pstyle="Exampleli">Choose a new advanced move from your class.</li>
-<li aid:pstyle="Exampleli">If you are the Wizard, you also get to add a new spell to your spellbook.</li>
-<li aid:pstyle="Exampleli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can't go higher than 18.</li></ul>
+<p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level+7</strong>, you can reflect on your experiences and hone your skills.</p>
+<ul><li aid:pstyle="li">Subtract your current level+7 from your XP.</li>
+<li aid:pstyle="li">Increase your level by 1.</li>
+<li aid:pstyle="li">Choose a new advanced move from your class.</li>
+<li aid:pstyle="li">If you are the Wizard, you also get to add a new spell to your spellbook.</li>
+<li aid:pstyle="Lastli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can't go higher than 18.</li></ul>
 <h2 aid:pstyle="BasicMoveName">End of Session</h2>
-<p aid:pstyle="Example">When you <strong>reach the end of a session</strong>, choose one your bonds that you feel is resolved (completely explored, no longer relevant, or otherWise). Ask the player of the Character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you Wish.</p>
-<p aid:pstyle="Example">Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:</p>
-<ul><li aid:pstyle="Exampleli">Did we learn something new and important about the world?</li>
-<li aid:pstyle="Exampleli">Did we overcome a notable monster or enemy?</li>
-<li aid:pstyle="Exampleli">Did we loot a memorable treasure?</li></ul>
-<p aid:pstyle="Example">For each "yes" answer everyone marks XP.</p>
+<p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one your bonds that you feel is resolved (completely explored, no longer relevant, or otherWise). Ask the player of the Character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you Wish.</p>
+<p>Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:</p>
+<ul><li aid:pstyle="li">Did we learn something new and important about the world?</li>
+<li aid:pstyle="li">Did we overcome a notable monster or enemy?</li>
+<li aid:pstyle="li">Did we loot a memorable treasure?</li></ul>
+<p aid:pstyle="MoveOneLine">For each "yes" answer everyone marks XP.</p>
 <h2 aid:pstyle="BasicMoveName">Carouse</h2>
-<p aid:pstyle="Example">When you <Strong>return triumphant and throw a big party</Strong>, spend 100 coin and roll +1 for every extra 100 coin spent.</p>
-<p aid:pstyle="Example">On a 10+, choose 3.</p>
-<p aid:pstyle="Example">On a 7–9, choose 1.</p>
-<p aid:pstyle="Example">On a miss, you still choose one, but things get really out of hand (the GM will say how).</p>
-<ul><li aid:pstyle="Exampleli">You befriend a useful NPC.</li>
-<li aid:pstyle="Exampleli">You hear rumors of an opportunity.</li>
-<li aid:pstyle="Exampleli">You gain useful information.</li>
-<li aid:pstyle="Exampleli">You are not entangled, ensorcelled, or tricked.</li></ul>
-<p>You can only carouse when you return triumphant. That's what draws the crowd of revelers to surround adventurers as they celebrate their latest haul. If you don't proclaim your success or your failure, then who would want to party with you anyway?</p>
+<p aid:pstyle="NoIndent">When you <Strong>return triumphant and throw a big party</Strong>, spend 100 coin and roll +1 for every extra 100 coin spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1.</p>
+<p>✴On a miss, you still choose one, but things get really out of hand (the GM will say how).</p>
+<ul><li aid:pstyle="li">You befriend a useful NPC.</li>
+<li aid:pstyle="li">You hear rumors of an opportunity.</li>
+<li aid:pstyle="li">You gain useful information.</li>
+<li aid:pstyle="lastli">You are not entangled, ensorcelled, or tricked.</li></ul>
+<p aid:pstyle="NoIndent">You can only carouse when you return triumphant. That's what draws the crowd of revelers to surround adventurers as they celebrate their latest haul. If you don't proclaim your success or your failure, then who would want to party with you anyway?</p>
 <h2 aid:pstyle="BasicMoveName">Supply</h2>
-<p aid:pstyle="Example">When you <Strong>go to buy something with gold on hand</Strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha.</p>
-<p aid:pstyle="Example">On a 10+, you find what you're looking for at a fair price.</p>
-<p aid:pstyle="Example">On a 7–9, you'll have to pay more or settle for something that’s not exactly what you wanted, but close. The GM will tell you what your options are.</p>
+<p aid:pstyle="MoveOneLine">When you <Strong>go to buy something with gold on hand</Strong>, if it's something readily available in the settlement you're in, you can buy it at market price. If it's something special, beyond what's usually available here, or non-mundane, roll+Cha. ✴On a 10+, you find what you're looking for at a fair price. ✴On a 7–9, you'll have to pay more or settle for something that’s not exactly what you wanted, but close. The GM will tell you what your options are.</p>
 <h2 aid:pstyle="BasicMoveName">Recover</h2>
-<p aid:pstyle="Example">When you <Strong>do nothing but rest in comfort and safety</Strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you're under the care of a healer (magical or otherWise) you heal a debility for every two days of rest instead.</p>
+<p aid:pstyle="MoveOneLine">When you <strong>do nothing but rest in comfort and safety</strong> after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you're under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.</p>
 <h2 aid:pstyle="BasicMoveName">Recruit</h2>
-<p aid:pstyle="Example">When you <Strong>put out word that you're looking to hire help</Strong>, roll: </p>
-<ul><li aid:pstyle="Exampleli">+1 if you make it known that your pay is generous</li>
-<li aid:pstyle="Exampleli">+1 if you make it known what you're setting out to do</li>
-<li aid:pstyle="Exampleli">+1 if you make it known that they'll get a share of whatever you find</li>
-<li aid:pstyle="Exampleli">+1 if you have a useful reputation around these parts</li></ul>
-<p aid:pstyle="Example">On a 10+, you've got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along.</p>
-<p aid:pstyle="Example">On a 7–9, you'll have to settle for someone close to what you want or turn them away. </p>
-<p aid:pstyle="Example">On a miss someone influential and ill-suited declares they'd like to come along (a foolhardy youth, a loose-cannon, or a veiled enemy, for example), bring them and take the Consequences or turn them away.</p>
-<p aid:pstyle="Example">If you turn away applicants you take -1 forward to Recruit.</p>
+<p aid:pstyle="NoIndent">When you <Strong>put out word that you're looking to hire help</Strong>, roll: </p>
+<ul><li aid:pstyle="li">+1 if you make it known that your pay is generous</li>
+<li aid:pstyle="li">+1 if you make it known what you're setting out to do</li>
+<li aid:pstyle="li">+1 if you make it known that they'll get a share of whatever you find</li>
+<li aid:pstyle="li">+1 if you have a useful reputation around these parts</li></ul>
+<p aid:pstyle="MoveOneLine">✴On a 10+, you've got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along. ✴On a 7–9, you'll have to settle for someone close to what you want or turn them away. ✴On a miss someone influential and ill-suited declares they'd like to come along (a foolhardy youth, a loose-cannon, or a veiled enemy, for example), bring them and take the consequences or turn them away. If you turn away applicants you take -1 forward to Recruit.</p>
 <h2 aid:pstyle="BasicMoveName">Outstanding Warrants</h2>
-<p aid:pstyle="Example">When you <Strong>return to a civilized place in which you've caused trouble before</Strong>, roll+Cha.</p>
-<p aid:pstyle="Example">On a 10+, word has spread of your deeds and everyone recognizes you. </p>
-<p aid:pstyle="Example">On a 7–9, as above, and the GM chooses a complication:</p>
-<ul><li aid:pstyle="Exampleli">The local Constabulary has a warrant out for your arrest.</li>
-<li aid:pstyle="Exampleli">Someone has put a price on your head.</li>
-<li aid:pstyle="Exampleli">Someone important to you has been put in a bad spot as a result of your actions.</li></ul>
-<p aid:pstyle="Example">This move is only for places where you've caused trouble, not every patch of civilization you enter. Being publicly caught up in someone else's trouble still triggers this move.</p>
+<p aid:pstyle="Example">When you <strong>return to a civilized place in which you've caused trouble before</strong>, roll+Cha. ✴On a 10+, word has spread of your deeds and everyone recognizes you. ✴On a 7–9, as above, and the GM chooses a complication:</p>
+<ul><li aid:pstyle="li">The local Constabulary has a warrant out for your arrest.</li>
+<li aid:pstyle="li">Someone has put a price on your head.</li>
+<li aid:pstyle="Lastli">Someone important to you has been put in a bad spot as a result of your actions.</li></ul>
+<p aid:pstyle="NoIndent">This move is only for places where you've caused trouble, not every patch of civilization you enter. Being publicly caught up in someone else's trouble still triggers this move.</p>
 <p>Civilization generally means the villages, towns and cities of humans, elves, dwarves, and halflings but it can also apply to any relatively lawful establishment of monStrous species, such as orcs or goblins. If the PCs have stayed in a place as part of the community, it counts as civilization.</p>
 <h2 aid:pstyle="BasicMoveName">Bolster</h2>
-<p aid:pstyle="Example">When you <Strong>spend your leisure time in study, meditation, or hard practice,</Strong> you gain preparation. If you prepare for a week or two, take 1 preparation. If you prepare for a month or longer, take 3. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Story></Root>
+<p aid:pstyle="MoveOneLine">When you <strong>spend your leisure time in study, meditation, or hard practice,</strong> you gain preparation. If you prepare for a week or two, take 1 preparation. If you prepare for a month or longer, take 3. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.</p></Story></Root>

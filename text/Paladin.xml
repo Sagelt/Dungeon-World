@@ -6,7 +6,7 @@
 So guide these fools, Paladin. Take up your holy cause and bring salvation to the wastrel world.</p> 
 <p>Vae victis, right?</p></div>
 <h2>Names</h2>
-<div id="names"><p>Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius</p></div>
+<div id="names"><p aid:pstyle="NoIndent">Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Kind Eyes, Fiery Eyes, or Glowing Eyes</p>
@@ -15,26 +15,22 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">Fit Body, Bulky Body, or Thin Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p>
-<p>Your base damage is <span id="Damage">d10</span>.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are human, so you get this move.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you <strong>pray for guidance, even for a moment, and ask, "What here is evil?"</strong> the GM will tell you, honestly.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Lay on Hands (Cha)</h3>
-<p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA.</p> 
-<p aid:pstyle="NoIndent">On a 10+ you heal 1d8 damage or remove one disease.</p>
-<p aid:pstyle="NoIndent">On a 7-9, they are healed, but the damage or disease is transferred to you.</p>
+<p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7-9, they are healed, but the damage or disease is transferred to you.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
 <p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">I Am the Law</h3>
-<p aid:pstyle="NoIndent">When you <strong>give an NPC an order based on your divine authority</strong>, roll+Cha. </p>
-<p aid:pstyle="NoIndent">On a 7+, they choose one:</p>
+<p aid:pstyle="NoIndent">When you <strong>give an NPC an order based on your divine authority</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
 <ul><li>Do what you say</li>
 <li>Back away cautiously, then flee</li>
 <li>Attack you</li></ul>
-<p aid:pstyle="NoIndent">On a 10+, you also take +1 forward against them.</p>
-<p aid:pstyle="NoIndent">On a miss, they do as they please and you take -1 forward against them.</p>
+<p aid:pstyle="NoIndent">✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.</p>
 <h3 aid:pstyle="BasicMoveName">Quest</h3>
 <p aid:pstyle="NoIndent">When you <strong>dedicate yourself to a mission through prayer and ritual cleansing</strong>, state what you set out to do:</p>
 <ul><li>Slay _______, a great blight on the land</li>

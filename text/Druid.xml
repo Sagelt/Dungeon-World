@@ -14,7 +14,7 @@
 <p aid:pstyle="NoIndent">Ceremonial Garb, Practical Leathers, or Weathered Hides</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 6+Constitution HP.</p>
-<p>Your base damage is <span id="Damage">d6</span>.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d6</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
@@ -37,18 +37,15 @@
 <li aid:pstyle="Option">The Frozen North</li>
 <li aid:pstyle="Option">The Blasted Wasteland</li></ul>
 <p aid:pstyle="NoIndent">Chose a Tell—a physical attribute that marks you as Born of the Soil—that reflects the spirit of your Land. It may be an animal feature like antlers or leopard’s spots or something more general, hair like leaves or eyes of glittering crystal. Your Tell remains no matter what shape you take.</p></div>
-<div id="StudiedEssence"><h3 aid:pstyle="BasicMoveName">Studied Essence</h3>
-<p aid:pstyle="NoIndent">When you <strong>spend time in contemplation of an animal spirit</strong>, you may add its shape to those you can assume using Shapeshifter.</p></div>
 <div id="ByNatureSustained"><h3 aid:pstyle="BasicMoveName">By Nature Sustained</h3>
 <p aid:pstyle="NoIndent">You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.</p></div>
 <div id="SpiritTongue"><h3 aid:pstyle="BasicMoveName">Spirit Tongue</h3>
 <p aid:pstyle="NoIndent">The grunts, barks, chirps and calls of the creatures of the wild are as language to you. You can understand any animal native to your Land or akin to one whose essence you have studied.</p></div>
 <div id="Shapeshifter"><h3 aid:pstyle="BasicMoveName">Shapeshifter</h3>
-<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis.</p>
-<p>On a 10+ hold 3.</p>
-<p>On a 7-9 hold 2.</p>
-<p>On a 6- hold 1 in addition to whatever the GM says.</p>
-<p>You may take on the physical form of any animal whose essence you have studied or who lives in your Land: you and your possessions meld into a perfect copy of the animal’s form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to natural form. At any time, you may spend all your hold and revert to your natural form.</p></div></div></div>
+<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis. ✴On a 10+ hold 3. ✴On a 7-9 hold 2. ✴On a 6- hold 1 in addition to whatever the GM says.</p>
+<p>You may take on the physical form of any animal whose essence you have studied or who lives in your Land: you and your possessions meld into a perfect copy of the animal’s form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to natural form. At any time, you may spend all your hold and revert to your natural form.</p></div>
+<div id="StudiedEssence"><h3 aid:pstyle="BasicMoveName">Studied Essence</h3>
+<p aid:pstyle="NoIndent">When you <strong>spend time in contemplation of an animal spirit</strong>, you may add its shape to those you can assume using Shapeshifter.</p></div></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
@@ -83,10 +80,7 @@ Choose one:
 <h3 aid:pstyle="MoveName">Red of Tooth and Claw</h3>
 <p aid:pstyle="NoIndent">When you <strong>are in an appropriate animal form</strong> (something dangerous) increase your damage to d8.</p>
 <h3 aid:pstyle="MoveName">Communion of Whispers</h3>
-<p aid:pstyle="NoIndent">When <strong>you spend time in a place, making note of its resident spirits and calling on the spirits of the land</strong>, roll+Wis. You will be granted a vision of significance to you, your allies and the spirits around you.</p>
-<p>On a 10+ the vision will be clear and helpful to you.</p>
-<p>On a 7-9 the vision is unclear, its meaning murky.</p>
-<p>On a miss, the vision is upsetting, frightening or traumatizing. The GM will describe it. Take -1 forward.</p>
+<p aid:pstyle="NoIndent">When <strong>you spend time in a place, making note of its resident spirits and calling on the spirits of the land</strong>, roll+Wis. You will be granted a vision of significance to you, your allies and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7-9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening or traumatizing. The GM will describe it. Take -1 forward.</p>
 <h3 aid:pstyle="MoveName">Barkskin</h3>
 <p aid:pstyle="NoIndent">So long as your feet touch the ground you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Eyes of the Tiger</h3>
@@ -98,10 +92,7 @@ Choose one:
 <h3 aid:pstyle="MoveName">Formcrafter</h3>
 <p aid:pstyle="NoIndent">When you <strong>shapeshift</strong> choose a stat: you take +1 ongoing to rolls using that stat while in shifted. The GM will choose a stat, too: you take -1 ongoing to rolls using that stat while shifted.</p>
 <h3 aid:pstyle="MoveName">Elemental Mastery</h3>
-<p aid:pstyle="NoIndent">When you <strong>call on the primal spirits of fire, water, earth or air to perform a task for you</strong> roll+Wis.</p>
-<p>On a 10+ choose two.</p>
-<p>On a 7-9 choose one.</p>
-<p>On a miss, some catastrophe occurs as a result of your calling.</p>
+<p aid:pstyle="NoIndent">When you <strong>call on the primal spirits of fire, water, earth or air to perform a task for you</strong> roll+Wis. ✴On a 10+ choose two. ✴On a 7-9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.</p>
 <ul><li>The effect you desire comes to pass</li>
 <li>You avoid paying nature’s price </li>
 <li>You retain control</li></ul>

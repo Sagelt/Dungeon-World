@@ -5,17 +5,17 @@
 <p>Guide. Hunter. Creature of the wilds. You are these things and more. Your time in the wilderness may have been solitary until now, the call of some greater thing—call it fate if you like, has cast your lot with these folk. Brave, they may be. Powerful and strong, too. You know the secrets of the spaces-between, though.</p>
 <p>Without you, they’d be lost. Blaze a trail through the blood and dark, strider.</p></div>
 <h2>Names</h2>
-<div id="names"><p><em>Elf</em>: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe</p> 
-<p><em>Human</em>: Jonah, Halek, Brandon, Emory, Shrike, Nora, Diana</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe</p> 
+<p aid:pstyle="NoIndent"><em>Human</em>: Jonah, Halek, Brandon, Emory, Shrike, Nora, Diana</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
-<p>Wild Eyes, Sharp Eyes, or Animal Eyes</p>
-<p>Hooded Head, Wild Hair, or Bald</p>
-<p>Cape, Camouflage, or Traveling Clothes</p>
-<p>Lithe Body, Wild Body, or Sharp Body</p></div>
+<p aid:pstyle="NoIndent">Wild Eyes, Sharp Eyes, or Animal Eyes</p>
+<p aid:pstyle="NoIndent">Hooded Head, Wild Hair, or Bald</p>
+<p aid:pstyle="NoIndent">Cape, Camouflage, or Traveling Clothes</p>
+<p aid:pstyle="NoIndent">Lithe Body, Wild Body, or Sharp Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">You start with 8+Constitution HP.</p>
-<p>Your base damage is <span id="Damage">d8</span>.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
@@ -24,16 +24,14 @@
 <p aid:pstyle="NoIndent">When you Make Camp in a dungeon or city, you don't need to consume a ration.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Hunt and Track (Wis)</h3>
-<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+WIS. </p>
-<p aid:pstyle="NoIndent">On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel.</p>
-<p aid:pstyle="NoIndent">On a 10+, you also choose 1:</p>
+<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+WIS. ✴On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
 <ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
 <li>Determine what caused the trail to end</li></ul>
 <h3 aid:pstyle="BasicMoveName">Called Shot</h3>
 <p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</p>
-<ul><li>Head—10+: As 7–9, plus your damage; 7-9: They do nothing but stand and drool for a few moments.</li>
-<li>Arms—10+: As 7-9, plus your damage; 7-9: They drop anything they're holding.</li>
-<li>Legs—10+: As 7-9, plus your damage; 7-9: They're hobbled and slow moving.</li></ul>
+<ul><li>Head ✴10+: As 7–9, plus your damage ✴7-9: They do nothing but stand and drool for a few moments.</li>
+<li>Arms ✴10+: As 7-9, plus your damage ✴7-9: They drop anything they're holding.</li>
+<li>Legs ✴10+: As 7-9, plus your damage ✴7-9: They're hobbled and slow moving.</li></ul>
 <h3 aid:pstyle="BasicMoveName">Animal Companion</h3>
 <p aid:pstyle="NoIndent">You have a supernatural connection with a loyal animal. You can't talk to it per se but it always acts as you wish it to. Name your animal companion and choose a species:</p>
 <p aid:pstyle="Example">Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pigeon, rat, mule</p>
@@ -44,7 +42,7 @@
 <li>Ferocity +3, Cunning +1, 1 Armor, Instinct +2</li></ul>
 <p aid:pstyle="NoIndent">Choose as many strengths as its ferocity:</p>
 <p aid:pstyle="Example">Fast, burly, huge, calm, adaptable, quick reflexes, tireless, camouflage, ferocious, intimidating, keen senses, stealthy</p>
-<p aid:pstyle="NoIndent">Your animal companion is trained to fight humanoids. Choose as many additional tricks as its cunning:</p>
+<p aid:pstyle="NoIndent">Your animal companion is trained to fight humanoids. Choose as many additional trainings as its cunning:</p>
 <p aid:pstyle="Example">Hunt, search, scout, guard, fight monsters, perform, labor, travel</p>
 <p aid:pstyle="NoIndent">Choose as many weaknesses as its instinct:</p>
 <p aid:pstyle="Example">Flighty, savage, slow, broken, frightening, forgetful, stubborn, lame</p>
@@ -95,9 +93,9 @@
 <h3 aid:pstyle="MoveName">Blot Out the Sun</h3>
 <p aid:pstyle="NoIndent">When you Volley you may spend extra ammo before rolling, for each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.</p>
 <h3 aid:pstyle="MoveName">Well-Trained</h3>
-<p aid:pstyle="NoIndent">Choose another trick for your animal companion.</p>
+<p aid:pstyle="NoIndent">Choose another training for your animal companion.</p>
 <h3 aid:pstyle="MoveName">God Amidst the Wastes</h3>
-<p aid:pstyle="NoIndent"> Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the Commune and Cast a Spell Cleric moves. When you select this move, treat yourself as a Cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective Cleric level by 1.</p>
+<p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the Commune and Cast a Spell Cleric moves. When you select this move, treat yourself as a Cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective Cleric level by 1.</p>
 <h3 aid:pstyle="MoveName">Follow Me</h3>
 <p aid:pstyle="NoIndent">When you Undertake a Perilous Journey you can take two roles. You make a separate roll for each.</p>
 <h3 aid:pstyle="MoveName">A Safe Place</h3>
@@ -125,4 +123,4 @@
 <h3 aid:pstyle="MoveName">Special Trick</h3>
 <p aid:pstyle="NoIndent">Choose a move from another class. So long as you are working with your animal companion you have access to that move.</p>
 <h3 aid:pstyle="MoveName">Unnatural Ally</h3>
-<p aid:pstyle="NoIndent">Your animal companion is a monster, not an animal. Describe it. Give it +2 Ferocity and +1 Instinct, plus a new trick.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">Your animal companion is a monster, not an animal. Describe it. Give it +2 Ferocity and +1 Instinct, plus a new training.</p></div></Body></Root>
