@@ -59,7 +59,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Harm another to prove the superiority of your church or god.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 4+Strength. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (weight 0). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 11+str. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (weight 0). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>

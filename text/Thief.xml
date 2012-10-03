@@ -24,14 +24,14 @@
 <p aid:pstyle="NoIndent">You are a professional. When you Spout Lore or Discern Realities about criminal activities, take +1.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Trap Expert</h3>
-<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX. ✴On a 10+, hold 3. ✴On a 7-9, hold 1. Spend your hold as you walk through the area to ask these questions:</p>
+<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. Spend your hold as you walk through the area to ask these questions:</p>
 <ul><li>Is there a trap here and if so, what activates it?</li>
 <li>What does the trap do when activated?</li>
 <li>What else is hidden here?</li></ul>
 <h3 aid:pstyle="BasicMoveName">Tricks of the Trade</h3>
-<p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX. ✴On a 10+, you do it, no problem. ✴On a 7-9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p>
+<p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX. ✴On a 10+, you do it, no problem. ✴On a 7–9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p>
 <h3 aid:pstyle="BasicMoveName">Backstab</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy with a melee weapon</strong>, you can choose to deal your damage or roll+DEX. ✴On a 10+ choose two. ✴On a 7-9 choose one.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy with a melee weapon</strong>, you can choose to deal your damage or roll+DEX. ✴On a 10+ choose two. ✴On a 7–9 choose one.</p>
 <ul><li>You don't get into melee with them</li>
 <li>You deal your damage+1d6</li>
 <li>You create an advantage, +1 forward to you or an ally acting on it</li>
@@ -53,11 +53,11 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Shift danger or blame from yourself to someone else.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 2+Strength. You start with one dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coin. Choose your arms:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+str. You start with one dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coin. Choose your arms:</p>
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight) and short sword (Close, 1 weight)</li>
 <li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
-<ul><li aid:pstyle="Option">3 throwing daggers  (Thrown, Near, 0 weight)</li>
+<ul><li aid:pstyle="Option">3 throwing daggers (Thrown, Near, 0 weight)</li>
 <li aid:pstyle="Option">Ragged Bow (Near, 2 weight) and bundle of arrows (3 ammo, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
@@ -69,7 +69,7 @@
 <p>_______________ knows incriminating details about me.</p>
 <p>_______________ and I have a con running.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Cheap Shot</h3>
 <p aid:pstyle="NoIndent">When using a <em>precise</em> or <em>hand</em> weapon, your Backstab deals an extra +1d6 damage.</p>
 <h3 aid:pstyle="MoveName">Cautious</h3>
@@ -88,7 +88,7 @@
 <p aid:pstyle="NoIndent">When you're outnumbered, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
 <p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
-<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Dirty Fighter</h3>
 <p aid:pstyle="Requirement">Replaces: Cheap Shot</p>
 <p aid:pstyle="NoIndent">When using a <em>precise</em> or <em>hand</em> weapon, your Backstab deals an extra +1d10 damage and all other attacks deal +1d6 damage.</p>
@@ -108,9 +108,9 @@
 <h3 aid:pstyle="MoveName">Evasion</h3>
 <p aid:pstyle="NoIndent">When you Defy Danger on a 12+, you transcend the danger. You not only do what you set out to, but the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
 <h3 aid:pstyle="MoveName">Strong Arm, True Aim</h3>
-<p aid:pstyle="NoIndent">You can throw any melee weapon, using it to Volley. A thrown melee weapon is gone, you can never choose to reduce ammo on a 7-9.</p>
+<p aid:pstyle="NoIndent">You can throw any melee weapon, using it to Volley. A thrown melee weapon is gone, you can never choose to reduce ammo on a 7–9.</p>
 <h3 aid:pstyle="MoveName">Escape Route</h3>
-<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7-9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
+<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
 <h3 aid:pstyle="MoveName">Disguise</h3>
 <p aid:pstyle="NoIndent">When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.</p>
 <h3 aid:pstyle="MoveName">Heist</h3>
