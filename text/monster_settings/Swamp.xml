@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterName">Basilisk	<span aid:cstyle="Tags">Solitary, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Bite (d10 damage)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">”Few have seen a basilisk and lived to tell the tale. Get it? Seen a basilisk? Little bit of basilisk humor there. Sorry, I know you’re looking for something helpful, sirs. Serious stuff, I understand. The basilisk, even without its ability to turn your flesh to stone with a gaze, is a dangerous creature. A bit like a frog, bulbous eyes and six muscled legs built for leaping. A bit like an alligator, with snapping jaws and sawing teeth. Covered in stony scales and very hard to kill. Best avoided, if possible.” <em>Instinct</em>: To create new statuary</p>
+<p aid:pstyle="MonsterDescription">"Few have seen a basilisk and lived to tell the tale. Get it? Seen a basilisk? Little bit of basilisk humor there. Sorry, I know you’re looking for something helpful, sirs. Serious stuff, I understand. The basilisk, even without its ability to turn your flesh to stone with a gaze, is a dangerous creature. A bit like a frog, bulbous eyes and six muscled legs built for leaping. A bit like an alligator, with snapping jaws and sawing teeth. Covered in stony scales and very hard to kill. Best avoided, if possible.” <em>Instinct</em>: To create new statuary</p>
 <ul><li>Turn flesh to stone with a gaze</li>
 <li>Retreat into a maze of stone</li></ul>
 <p aid:pstyle="MonsterName">Black Pudding	<span aid:cstyle="Tags">Solitary, Gibbous</span></p>
@@ -93,7 +93,7 @@
 <p aid:pstyle="MonsterStats">Spear (d6 damage)	3 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Dragon connection</p>
-<p aid:pstyle="MonsterDescription">Some are wont to lump these little, rat-like dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The koboldsare beholden slaves to dragons and were, in ancient times, their lorekeepers and sorcerer-servants. Their clans, with  names like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a kobold means more are near—and if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
+<p aid:pstyle="MonsterDescription">Some are wont to lump these little, rat-like dragon-men in with goblins and orcs, bugbears and hobgoblins. They are smarter and wiser than their kin, however. The kobolds are beholden slaves to dragons and were, in ancient times, their lorekeepers and sorcerer-servants. Their clans, with  names like Ironscale and Whitewing, form around a dragon master and live to serve and do its bidding. Spotting a kobold means more are near—and if more are near then a mighty dragon cannot be far, either. <em>Instinct</em>: To serve dragons</p>
 <ul><li>Lay a trap</li>
 <li>Call on dragons or draconic allies</li>
 <li>Retreat and regroup</li></ul>
@@ -101,7 +101,7 @@
 <p aid:pstyle="MonsterStats">Spear (d8 damage)	6 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amphibious</p>
-<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts, a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshipped their own scaly gods. Maybe that’s true and maybe it ain’t—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
+<p aid:pstyle="MonsterDescription">A traveling sorcerer once told me that lizardmen came before we did. That before elves and dwarves and men built even the first of their wattle huts, a race of proud lizard kings strode the land. That they lived in palaces of crystal and worshipped their own scaly gods. Maybe that’s true and maybe it ain't—now they dwell in places men long forgot or abandoned, crafting tools from volcano-glass and lashing against the works of the civilized world. Maybe they just want back what they lost. <em>Instinct</em>: To destroy civilization</p>
 <ul><li>Ambush the unsuspecting</li>
 <li>Launch an amphibious assault</li></ul>
 <p aid:pstyle="MonsterName">Medusa	<span aid:cstyle="Tags">Solitary, Devious, Intelligent, Hoarder</span></p>

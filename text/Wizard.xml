@@ -16,7 +16,7 @@
 <p aid:pstyle="NoIndent">Worn Robes, Stylish Robes, or Strange Robes</p>
 <p aid:pstyle="NoIndent">Pudgy Body, Creepy Body, or Thin Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">You start with 4+Constitution HP.</p>
+<p aid:pstyle="NoIndent">Your maximum HP is 4+Constitution.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d4</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
@@ -35,11 +35,11 @@
 <h3 aid:pstyle="BasicMoveName">Cast a Spell (Int)</h3>
 <p aid:pstyle="NoIndent">When you <strong>release a spell you've prepared</strong>, roll+Int. ✴On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. ✴On a 7-9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
-<li>The spell disturbs the fabric of reality as it is cast—take -1 ongoing to Cast a Spell until the next time you Prepare Spells.</li>
-<li>After it is cast, the spell is forgotten. You cannot cast the spell again until you Prepare Spells.</li></ul>
-<p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to Cast a Spell.</p>
+<li>The spell disturbs the fabric of reality as it is cast—take -1 ongoing to cast a spell until the next time you Prepare Spells.</li>
+<li>After it is cast, the spell is forgotten. You cannot cast the spell again until you prepare spells.</li></ul>
+<p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.</p>
 <h3 aid:pstyle="BasicMoveName">Spell Defense</h3>
-<p aid:pstyle="NoIndent">When you <strong>craft an ongoing spell into a makeshift shield of arcane energy to deflect an attack</strong>, the spell is ended and you subtract the spell's level from the damage done to you.</p>
+<p aid:pstyle="NoIndent">You may end any ongoing spell immediately and use the energy of its dissipation to deflect an oncoming attack. The spell ends and you subtract its level from the damage done to you.</p>
 <h3 aid:pstyle="BasicMoveName">Ritual</h3>
 <p aid:pstyle="NoIndent">When you <strong>draw on a place of power to create a magical effect</strong>, tell the GM what you're trying to achieve. Ritual effects are always possible, but the GM will give you one to four of the following conditions:</p>
 <ul><li>It's going to take days/weeks/months</li>
@@ -58,7 +58,7 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Use magic to cause terror and fear.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is equal to your Strength. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 7+Str. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
 <p aid:pstyle="NoIndent">Choose your weapon:</p>
@@ -77,11 +77,11 @@
 <h3 aid:pstyle="MoveName">Prodigy</h3>
 <p aid:pstyle="NoIndent">Choose a spell. You prepare that spell as if it were one level lower.</p>
 <h3 aid:pstyle="MoveName">Empowered Magic</h3>
-<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may choose one of these as well:</p>
+<p aid:pstyle="NoIndent">When you cast a spell, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may choose one of these as well:</p>
 <ul><li>The spell's effects are maximized</li>
 <li>The spell's targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Fount of Knowledge</h3>
-<p aid:pstyle="NoIndent">When you <strong>Spout Lore about something no one else has any clue about</strong>, take +1.</p>
+<p aid:pstyle="NoIndent">When you <strong>spout lore about something no one else has any clue about</strong>, take +1.</p>
 <h3 aid:pstyle="MoveName">Know-It-All</h3>
 <p aid:pstyle="NoIndent">When <strong>another player's character comes to you for advice and you tell them what you think is best</strong>, they get +1 forward when following your advice and you mark experience if they do.</p>
 <h3 aid:pstyle="MoveName">Expanded Spellbook</h3>
@@ -89,7 +89,7 @@
 <h3 aid:pstyle="MoveName">Enchanter</h3>
 <p aid:pstyle="NoIndent">When you have time and safety with a magic item you may ask the GM what it does, the GM will answer you truthfully.</p>
 <h3 aid:pstyle="MoveName">Logical</h3>
-<p aid:pstyle="NoIndent">When you <strong>use strict deduction to analyze your surroundings</strong>, you can Discern Realities with INT instead of WIS.</p>
+<p aid:pstyle="NoIndent">When you <strong>use strict deduction to analyze your surroundings</strong>, you can discern realities with INT instead of WIS.</p>
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
@@ -99,10 +99,10 @@
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Master</h3>
 <p aid:pstyle="Requirement">Requires: Prodigy</p>
-<p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for Prodigy. You prepare that spell as if it were one level lower.</p>
+<p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for prodigy. You prepare that spell as if it were one level lower.</p>
 <h3 aid:pstyle="MoveName">Greater Empowered Magic</h3>
 <p aid:pstyle="Requirement">Replaces: Empowered Magic</p>
-<p aid:pstyle="NoIndent">When you Cast a Spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
+<p aid:pstyle="NoIndent">When you cast a spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Enchanter's Soul</h3>
@@ -118,7 +118,7 @@
 <p aid:pstyle="Requirement">Requires: Counterspell</p>
 <p aid:pstyle="NoIndent">When an ally within sight of you is affected by an arcane spell, you can counter it as if it affected you. If the spell affects multiple allies you must counter for each ally separately.</p>
 <h3 aid:pstyle="MoveName">Ethereal Tether</h3>
-<p aid:pstyle="NoIndent">When you have time with a willing or helpless subject you can craft an ethereal tether with them. You perceive what they perceive and can Discern Realities about someone tethered to you or their surroundings no matter the distance. Someone willingly tethered to you can communicate with you over the tether as if you were in the room with them.</p>
+<p aid:pstyle="NoIndent">When you have time with a willing or helpless subject you can craft an ethereal tether with them. You perceive what they perceive and can discern realities about someone tethered to you or their surroundings no matter the distance. Someone willingly tethered to you can communicate with you over the tether as if you were in the room with them.</p>
 <h3 aid:pstyle="MoveName">Mystical Puppet Strings</h3>
 <p aid:pstyle="NoIndent">When you <strong>use magic to control a person's actions</strong> they have no memory of what you had them do and bear you no ill will.</p>
 <h3 aid:pstyle="MoveName">Spell Augmentation</h3>

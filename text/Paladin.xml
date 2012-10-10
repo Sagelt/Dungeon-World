@@ -14,7 +14,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">Worn Holy Symbol or Fancy Holy Symbol</p>
 <p aid:pstyle="NoIndent">Fit Body, Bulky Body, or Thin Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">You start with 10+Constitution HP.</p>
+<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are human, so you get this move.</p>
@@ -24,7 +24,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h3 aid:pstyle="BasicMoveName">Lay on Hands (Cha)</h3>
 <p aid:pstyle="NoIndent">When you <strong>touch someone, skin to skin, and pray for their well-being </strong>, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
-<p aid:pstyle="NoIndent">You ignore the <em>clumsy</em> tag on armor you wear.</p>
+<p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">I Am the Law</h3>
 <p aid:pstyle="NoIndent">When you <strong>give an NPC an order based on your divine authority</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
 <ul><li>Do what you say</li>
@@ -57,7 +57,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h3 aid:pstyle="MoveName">Good</h3>
 <p aid:pstyle="NoIndent">Endanger yourself to protect someone weaker than you.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Strength. You start with dungeon rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some mark of faith, describe it (0 weight). Choose your weapon:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 12+Str. You start with dungeon rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some mark of faith, describe it (0 weight). Choose your weapon:</p>
 <ul><li aid:pstyle="Option">Halberd (Reach, +1 damage, two-handed, 2 weight)</li>
 <li aid:pstyle="Option">Long sword (Close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
@@ -72,23 +72,23 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Divine Favor</h3>
-<p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the Commune and Cast a Spell Cleric moves. When you select this move, treat yourself as a Cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective Cleric level by 1.</p>
+<p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.</p>
 <h3 aid:pstyle="MoveName">Bloody Aegis</h3>
 <p aid:pstyle="NoIndent">When you take damage you can grit your teeth and accept the blow. If you do you take no damage but instead suffer a debility of your choice. If you already have all six debilities you can't use this move.</p>
 <h3 aid:pstyle="MoveName">Smite</h3>
-<p aid:pstyle="NoIndent">While on a Quest you deal +1d4 damage.</p>
+<p aid:pstyle="NoIndent">While on a quest you deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Exterminatus</h3>
-<p aid:pstyle="NoIndent">When you <strong>speak aloud your promise to defeat an enemy</strong>, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy, or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself. </p>
+<p aid:pstyle="NoIndent">When you <strong>speak aloud your promise to defeat an enemy</strong>, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.</p>
 <h3 aid:pstyle="MoveName">Charge!</h3>
 <p aid:pstyle="NoIndent">When you <strong>lead the charge into combat</strong>, those you lead take +1 forward.</p>
 <h3 aid:pstyle="MoveName">Staunch Defender</h3>
-<p aid:pstyle="NoIndent">When you Defend you always get +1 hold, even on a 6-.</p>
+<p aid:pstyle="NoIndent">When you defend you always get +1 hold, even on a 6-.</p>
 <h3 aid:pstyle="MoveName">Setup Strike</h3>
-<p aid:pstyle="NoIndent">When you Hack and Slash, choose an ally. Their next attack against your target does +1d4 damage.</p>
+<p aid:pstyle="NoIndent">When you hack and slash, choose an ally. Their next attack against your target does +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Holy Protection</h3>
-<p aid:pstyle="NoIndent">You get +1 armor while on a Quest.</p>
+<p aid:pstyle="NoIndent">You get +1 armor while on a quest.</p>
 <h3 aid:pstyle="MoveName">Voice of Authority</h3>
-<p aid:pstyle="NoIndent">Take +1 to Order Hirelings.</p>
+<p aid:pstyle="NoIndent">Take +1 to order hirelings.</p>
 <h3 aid:pstyle="MoveName">Hospitaller</h3>
 <p aid:pstyle="NoIndent">When you heal an ally, you heal +1d8 damage.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
@@ -97,26 +97,26 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">When you <strong>see divine magic as it happens</strong>, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.</p>
 <h3 aid:pstyle="MoveName">Holy Smite</h3>
 <p aid:pstyle="Requirement">Replaces: Smite</p>
-<p aid:pstyle="NoIndent">While on a Quest you deal +1d8 damage.</p>
+<p aid:pstyle="NoIndent">While on a quest you deal +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Ever Onward</h3>
 <p aid:pstyle="Requirement">Replaces: Charge!</p>
 <p aid:pstyle="NoIndent">When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.</p>
 <h3 aid:pstyle="MoveName">Impervious Defender</h3>
 <p aid:pstyle="Requirement">Replaces: Staunch Defender</p>
-<p aid:pstyle="NoIndent">When you Defend you always get +1 hold,even on a 6-. When you get a 12+ to Defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
+<p aid:pstyle="NoIndent">When you defend you always get +1 hold,even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
 <h3 aid:pstyle="MoveName">Tandem Strike</h3>
 <p aid:pstyle="Requirement">Replaces: Setup Strike</p>
-<p aid:pstyle="NoIndent">When you Hack and Slash, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.</p>
+<p aid:pstyle="NoIndent">When you hack and slash, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.</p>
 <h3 aid:pstyle="MoveName">Divine Protection</h3>
 <p aid:pstyle="Requirement">Replaces: Holy Protection</p>
-<p aid:pstyle="NoIndent">You get +2 armor while on a Quest.</p>
+<p aid:pstyle="NoIndent">You get +2 armor while on a quest.</p>
 <h3 aid:pstyle="MoveName">Divine Authority</h3>
 <p aid:pstyle="Requirement">Replaces: Voice of Authority</p>
-<p aid:pstyle="NoIndent">Take +1 to Order Hirelings. When you roll a 12+ the hireling transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.</p>
+<p aid:pstyle="NoIndent">Take +1 to order hirelings. When you roll a 12+ the hireling transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.</p>
 <h3 aid:pstyle="MoveName">Perfect Hospitaller</h3>
 <p aid:pstyle="Requirement">Replaces: Hospitaller</p>
 <p aid:pstyle="NoIndent">When you heal an ally, you heal +2d8 damage.</p>
 <h3 aid:pstyle="MoveName">Indomitable</h3>
 <p aid:pstyle="NoIndent">When you suffer a debility (even through Bloody Aegis) take +1 forward against whatever caused it.</p>
 <h3 aid:pstyle="MoveName">Perfect Knight</h3>
-<p aid:pstyle="NoIndent">When you Quest you choose three boons instead of two.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you quest you choose three boons instead of two.</p></div></Body></Root>
