@@ -32,18 +32,18 @@
 <p aid:pstyle="NoIndent">When you <strong>pick locks or pockets or disable traps</strong>, roll+DEX. ✴On a 10+, you do it, no problem. ✴On a 7–9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.</p>
 <h3 aid:pstyle="BasicMoveName">Backstab</h3>
 <p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy with a melee weapon</strong>, you can choose to deal your damage or roll+DEX. ✴On a 10+ choose two. ✴On a 7–9 choose one.</p>
-<ul><li>You don't get into melee with them</li>
+<ul><li>You don’t get into melee with them</li>
 <li>You deal your damage+1d6</li>
 <li>You create an advantage, +1 forward to you or an ally acting on it</li>
 <li>Reduce their armor by 1 until they repair it</li></ul>
 <h3 aid:pstyle="BasicMoveName">Flexible Morals</h3>
 <p aid:pstyle="NoIndent">When someone tries to detect your alignment you can tell them any alignment you like.</p>
 <h3 aid:pstyle="BasicMoveName">Poisoner</h3>
-<p aid:pstyle="NoIndent">You've mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.</p>
+<p aid:pstyle="NoIndent">You’ve mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.</p>
 <ul><li>Oil of Tagit (Applied): The target falls into a light sleep</li>
 <li>Bloodweed (Touch): The target deals -1d4 damage ongoing until cured</li>
 <li>Goldenroot (Applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
-<li>Serpent's Tears (Touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div></div>
+<li>Serpent’s Tears (Touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
@@ -77,17 +77,17 @@
 <h3 aid:pstyle="MoveName">Wealth and Taste</h3>
 <p aid:pstyle="NoIndent">When you <strong>make a show of flashing around your most valuable possession</strong>, choose someone present. They will do anything they can to obtain your item or one like it.</p>
 <h3 aid:pstyle="MoveName">Shoot First</h3>
-<p aid:pstyle="NoIndent">You're never caught by surprise. When an enemy would get the drop on you, you get to act first instead.</p>
+<p aid:pstyle="NoIndent">You’re never caught by surprise. When an enemy would get the drop on you, you get to act first instead.</p>
 <h3 aid:pstyle="MoveName">Poison Master</h3>
-<p aid:pstyle="NoIndent">After you've used a poison once it's no longer dangerous for you to use.</p>
+<p aid:pstyle="NoIndent">After you’ve used a poison once it’s no longer dangerous for you to use.</p>
 <h3 aid:pstyle="MoveName">Envenom</h3>
-<p aid:pstyle="NoIndent">You can apply even complex poisons with a pinprick. When you apply a poison that's not dangerous for you to use to your weapon it's touch instead of applied.</p>
+<p aid:pstyle="NoIndent">You can apply even complex poisons with a pinprick. When you apply a poison that’s not dangerous for you to use to your weapon it’s touch instead of applied.</p>
 <h3 aid:pstyle="MoveName">Brewer</h3>
-<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any one poison you've used before.</p>
+<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any one poison you’ve used before.</p>
 <h3 aid:pstyle="MoveName">Underdog</h3>
-<p aid:pstyle="NoIndent">When you're outnumbered, you have +1 armor.</p>
+<p aid:pstyle="NoIndent">When you’re outnumbered, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
-<p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
+<p aid:pstyle="NoIndent">When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you’ll have to settle for something close or it comes with strings attached, your call.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Dirty Fighter</h3>
 <p aid:pstyle="Requirement">Replaces: Cheap Shot</p>
@@ -97,25 +97,25 @@
 <p aid:pstyle="NoIndent">When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</p>
 <h3 aid:pstyle="MoveName">Alchemist</h3>
 <p aid:pstyle="Requirement">Replaces: Brewer</p>
-<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you've used before. Alternately you can describe the effects of a poison you'd like to create. The GM will tell you can create it, but with one or more caveats:</p>
+<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you’ve used before. Alternately you can describe the effects of a poison you’d like to create. The GM will tell you can create it, but with one or more caveats:</p>
 <ul><li>It will only work under specific circumstances</li>
 <li>The best you can manage is a weaker version</li>
-<li>It'll take a while to take effect</li>
-<li>It'll have obvious side effects</li></ul>
+<li>It’ll take a while to take effect</li>
+<li>It’ll have obvious side effects</li></ul>
 <h3 aid:pstyle="MoveName">Serious Underdog</h3>
 <p aid:pstyle="Requirement">Replaces: Underdog</p>
-<p aid:pstyle="NoIndent">You have +1 armor. When you're outnumbered, you have +2 armor instead.</p>
+<p aid:pstyle="NoIndent">You have +1 armor. When you’re outnumbered, you have +2 armor instead.</p>
 <h3 aid:pstyle="MoveName">Evasion</h3>
 <p aid:pstyle="NoIndent">When you defy danger on a 12+, you transcend the danger. You not only do what you set out to, but the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
 <h3 aid:pstyle="MoveName">Strong Arm, True Aim</h3>
 <p aid:pstyle="NoIndent">You can throw any melee weapon, using it to volley. A thrown melee weapon is gone, you can never choose to reduce ammo on a 7–9.</p>
 <h3 aid:pstyle="MoveName">Escape Route</h3>
-<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
+<p aid:pstyle="NoIndent">When you’re in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you’re gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
 <h3 aid:pstyle="MoveName">Disguise</h3>
-<p aid:pstyle="NoIndent">When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.</p>
+<p aid:pstyle="NoIndent">When you have time and materials you can create a disguise that will fool anyone into thinking you’re another creature of about the same size and shape. Your actions can give you away but your appearance won’t.</p>
 <h3 aid:pstyle="MoveName">Heist</h3>
 <p aid:pstyle="NoIndent">When you take time to make a plan to steal something, name the thing you want to steal and ask the GM these questions. When acting on the answers you and your allies take +1 forward.</p>
-<ul><li>Who will notice it's missing?</li>
-<li>What's its most powerful defense?</li>
+<ul><li>Who will notice it’s missing?</li>
+<li>What’s its most powerful defense?</li>
 <li>Who will come after it?</li>
 <li>Who else wants it?</li></ul></div></Body></Root>

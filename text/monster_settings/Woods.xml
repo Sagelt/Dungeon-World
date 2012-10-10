@@ -12,7 +12,7 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Illusion</p>
 <p aid:pstyle="MonsterDescription">Now you see it, now you don’t. Hounds once owned by a sorcerer lord and imbued with a kind of illusory cloak, they escaped into the woods around his lair and began to breed with wolves and wild dogs of the forest. You can spot them, if you’re lucky, by the glittering silver of their coats and their strange, ululating howls. They have a remarkable talent for being not quite where they appear to be and use it to take down prey much stronger than themselves. If you find yourself facing a pack of blink dogs you might well close your eyes and fight. You’ll have an easier time when not betrayed by your natural sight. By such sorceries are the natural places of the world polluted with unnatural things. <em>Instinct</em>: To hunt</p>
-<ul><li>Give the appearance of being somewhere they're not</li>
+<ul><li>Give the appearance of being somewhere they’re not</li>
 <li>Summon the pack</li>
 <li>Move with amazing speed</li></ul>
 <p aid:pstyle="MonsterName">Centaur	<span aid:cstyle="Tags">Horde, Large, Organized, Intelligent</span></p>
@@ -100,7 +100,7 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Fey Magic</p>
 <p aid:pstyle="MonsterDescription">I’d classify them elementals, except that “being annoying” isn’t an element. <em>Instinct</em>: To play tricks</p>
-<ul><li>Play a trick to expose someone's true nature</li>
+<ul><li>Play a trick to expose someone’s true nature</li>
 <li>Confuse their senses</li>
 <li>Craft an illusion</li></ul>
 <p aid:pstyle="MonsterName">Treant	<span aid:cstyle="Tags">Group, Huge, Intelligent, Gibbous</span></p>
@@ -121,7 +121,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+2 damage, 1 piercing)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Weak to silver</p>
-<p aid:pstyle="MonsterDescription">"Beautiful, isn’t it? The moon, I mean. She’s watching us, you know? Her pretty silver eyes watch us while we sleep. Mad, too—like all the most beautiful ones. If she were a woman, I’d bend my knee and make her my wife on the spot. No, I didn’t ask you here to speak about her, though. The chains? For your safety, not mine. I’m cursed, you see. You must have suspected. The sorcerer-kings called it “lycanthropy” in their day—passed on by a bite to make more of our kind. No, I could find no cure. Please, don’t be scared. You have the arrows I gave you? Silver, yes. Ah, you begin to understand. Don’t cry, sister. You must do this for me. I cannot bear more blood on my hands. You must end this. For me." <em>Instinct</em>: To shed the appearance of civilization</p>
+<p aid:pstyle="MonsterDescription">“Beautiful, isn’t it? The moon, I mean. She’s watching us, you know? Her pretty silver eyes watch us while we sleep. Mad, too—like all the most beautiful ones. If she were a woman, I’d bend my knee and make her my wife on the spot. No, I didn’t ask you here to speak about her, though. The chains? For your safety, not mine. I’m cursed, you see. You must have suspected. The sorcerer-kings called it “lycanthropy” in their day—passed on by a bite to make more of our kind. No, I could find no cure. Please, don’t be scared. You have the arrows I gave you? Silver, yes. Ah, you begin to understand. Don’t cry, sister. You must do this for me. I cannot bear more blood on my hands. You must end this. For me.” <em>Instinct</em>: To shed the appearance of civilization</p>
 <ul><li>Transform to pass unnoticed as beast or man</li>
 <li>Strike from within</li>
 <li>Hunt like man and beast</li></ul>

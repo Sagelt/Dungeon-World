@@ -2,7 +2,23 @@
 # -*- coding: latin-1 -*-
 
 import re
-files = ['monster_settings/Swamp.xml']
+files = ['Advanced_Delving.xml', 'Monsters.xml',
+'Bard.xml', 'Moves.xml',
+'Character_Creation.xml', 'Moves_Discussion.xml',
+'Class_Moves_Discussion.xml', 'Paladin.xml',
+'Cleric.xml', 'Playing_the_Game.xml',
+'Cleric_Spells.xml', 'Ranger.xml',
+'Druid.xml', 'The_World.xml',
+'Equipment.xml', 'Thief.xml',
+'Example.xml', 'Wizard.xml',
+'Fighter.xml', 'Wizard_Spells.xml',
+'First_Session.xml', 'Fronts.xml', 'GM.xml', 'Introduction.xml',
+'appendices/Conversion.xml', 'appendices/NPCs.xml', 'appendices/Teaching.xml', 'appendices/Thanks.xml',
+'monster_settings/Caverns.xml','monster_settings/Experiments.xml',
+'monster_settings/Hordes.xml','monster_settings/Swamp.xml','monster_settings/Woods.xml',
+'monster_settings/Depths.xml','monster_settings/Folk.xml','monster_settings/Planes.xml',
+'monster_settings/Undead.xml'
+]
 
 for filename in files:
 	output = []
@@ -36,7 +52,7 @@ for filename in files:
 	file.close()
 	
 	outfile = open(filename, 'w')
-	outfile.write(print ''.join(output))
+	outfile.write(''.join(output))
 	outfile.close()
 
 	print ''.join(output)

@@ -28,7 +28,7 @@
 <h3 aid:pstyle="MoveName">Halfling</h3>
 <p aid:pstyle="NoIndent">When you defy danger and <strong>use your small size to your advantage</strong>, take +1.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else's).</p></div>
+<p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else’s).</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates</h3>
 <p aid:pstyle="NoIndent">When you <strong>use pure strength to destroy an inanimate obstacle</strong>, roll+Str. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.</p>
@@ -120,7 +120,7 @@
 <p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Evil Eye</h3>
 <p aid:pstyle="Requirement">Requires: Seeing Red</p>
-<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.</p>
+<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.</p>
 <h3 aid:pstyle="MoveName">Taste of Blood</h3>
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
@@ -130,9 +130,9 @@
 <h3 aid:pstyle="MoveName">Steel Hide</h3>
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
-<h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
-<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
+<h3 aid:pstyle="MoveName">Through Death’s Eyes</h3>
+<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. ✴On a 6- you see your own death and consequently take a -1 throughout the battle.</p>
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
-<p aid:pstyle="NoIndent">When you look over an enemy's weaponry, ask the GM how much damage they do.</p>
+<p aid:pstyle="NoIndent">When you look over an enemy’s weaponry, ask the GM how much damage they do.</p>
 <h3 aid:pstyle="MoveName">Superior Warrior</h3>
 <p aid:pstyle="NoIndent">When you hack and slash on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.</p></div></Body></Root>

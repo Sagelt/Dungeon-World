@@ -33,10 +33,10 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Moderate Wounds</span>	Level 3</p>
 <p aid:pstyle="NoIndent">You staunch bleeding and set bones through magic. Heal an ally you touch of 2d8 damage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Darkness</span>	Level 3	<em>Ongoing</em></p>
-<p aid:pstyle="NoIndent">Choose an area you can see: it's filled with supernatural darkness and shadow. While this spell is ongoing you take -1 to cast a spell.</p>
+<p aid:pstyle="NoIndent">Choose an area you can see: it’s filled with supernatural darkness and shadow. While this spell is ongoing you take -1 to cast a spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Resurrection</span>	Level 3</p>
 <p aid:pstyle="NoIndent">Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. Resurrection is always possible, but the GM will give you one or more (possibly all) of these conditions to fulfill:</p>
-<ul><li>It's going to take days/weeks/months</li>
+<ul><li>It’s going to take days/weeks/months</li>
 <li>You must get help from ____</li>
 <li>It will require a lot of money</li>
 <li>You must sacrifice ____ to do it</li></ul>
@@ -72,7 +72,7 @@
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Storm of Vengeance</span>	Level 9</p>
 <p aid:pstyle="NoIndent">Your deity brings the unnatural weather of your choice to pass. Rain of blood or acid, clouds of souls, wind that can carry away buildings, or any other weather you can imagine: ask and it shall come.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Repair</span>	Level 9</p>
-<p aid:pstyle="NoIndent">Choose one event in the target's past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.</p>
+<p aid:pstyle="NoIndent">Choose one event in the target’s past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Divine Presence</span>	Level 9	<em>Ongoing</em></p>
 <p aid:pstyle="NoIndent">Every creature must ask your leave to enter your presence, and you must give permission aloud for them to enter. Any creature without your leave takes an extra 1d10 damage whenever they take damage in your presence. While this spell is ongoing you take -1 to cast a spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Consume Unlife</span>	Level 9</p>

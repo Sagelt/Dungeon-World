@@ -9,7 +9,7 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Endless enthusiasm</p>
 <p aid:pstyle="MonsterDescription">“Scum of the earth, they are. A troupe of armored men and women come sauntering into town, brandishing what, for all intents and purposes, is enough magical and mundane power to level the whole place. Bringing with them bags and bags of loot, still dripping blood from whatever poor sod they had to kill to get it. An economical fiasco waiting to happen, if you ask me. The whole system becomes completely uprooted. Dangerous, unpredictable murder-hobos. Oh, wait, you’re an adventurer? I take it all back.” <em>Instinct</em>: To adventure or die trying</p>
-<ul><li>Go on a fool's errand</li>
+<ul><li>Go on a fool’s errand</li>
 <li>Act impulsively</li>
 <li>Share tales of past exploits</li></ul>
 <p aid:pstyle="MonsterName">Bandit	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
@@ -87,7 +87,7 @@
 <ul><li>March into battle</li>
 <li>Fight as one</li></ul>
 <p aid:pstyle="MonsterName">Spy	</p>
-<p aid:pstyle="MonsterDescription">Beloved of kings but never truly trusted. Mysterious, secretive and alluring, the life of a spy is, if you ask a commoner, full of romance and intrigue. They’re a knife in the dark and a pair of watchful eyes. A spy can be your best friend, your lover or that old man you see in the market every day. One never knows. Hells, maybe you’re a spy—they say there’s magic that can turn folks' minds without them ever knowing it. How can we trust you? <em>Instinct</em>: To infiltrate</p>
+<p aid:pstyle="MonsterDescription">Beloved of kings but never truly trusted. Mysterious, secretive and alluring, the life of a spy is, if you ask a commoner, full of romance and intrigue. They’re a knife in the dark and a pair of watchful eyes. A spy can be your best friend, your lover or that old man you see in the market every day. One never knows. Hells, maybe you’re a spy—they say there’s magic that can turn folks’ minds without them ever knowing it. How can we trust you? <em>Instinct</em>: To infiltrate</p>
 <ul><li>Report the truth</li>
 <li>Double cross</li></ul>
 <p aid:pstyle="MonsterName">Tinkerer	</p>

@@ -38,11 +38,11 @@ Show the world who is lord.</p></div>
 <div id="DivineGuidance"><h3 aid:pstyle="BasicMoveName">Divine Guidance</h3>
 <p aid:pstyle="NoIndent">When you <strong>petition your deity according to the precept of your religion</strong>, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.</p></div>
 <div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
-<p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft call on your deity for protection</strong>, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, intelligent undead are momentarily dazed and mindless undead flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They're clever like that.</p></div>
+<p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft call on your deity for protection</strong>, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, intelligent undead are momentarily dazed and mindless undead flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet communion with your deity</strong>, you:</p>
 <ul><li>Lose any spells already granted to you.</li>
-<li>Are granted new spells of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level.</li>
+<li>Are granted new spells of your choice whose total levels don’t exceed your own level+1, and none of which is a higher level than your own level.</li>
 <li>Prepare all of your rotes, which never count against your limit.</li></ul></div>
 <div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast a Spell</h3>
 <p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your deity</strong>, roll+Wis. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:</p>

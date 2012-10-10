@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Equipment</h1>
-<Body><p aid:pstyle="NoIndent">The musty tombs and forgotten treasure troves of the world are filled with useful items. The Fighter can find a sharp new sword or the Thief might stumble across a deadly poison. Most items are mundane—not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The Fighter's signature weapon is never mundane.</p>
+<Body><p aid:pstyle="NoIndent">The musty tombs and forgotten treasure troves of the world are filled with useful items. The Fighter can find a sharp new sword or the Thief might stumble across a deadly poison. Most items are mundane—not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The Fighter’s signature weapon is never mundane.</p>
 <p>Each piece of equipment will have a number of tags. These will tell you something about how the equipment affects the character using it (like +Armor) or suggest something about the way it is used (like the Range tags). Like everything else in Dungeon World, these guide the fiction you’re creating in play. If a weapon is awkward, it might mean that you’re more likely to drop it when you fail that Hack and Slash roll.</p>
 <p>By no means is this an exhaustive list—feel free to create your own tags.</p>
 <h3>General Equipment Tags</h3>
 <p>These are general tags that can apply to just about any piece of gear. You’ll see them on armor, weapons or general adventuring tools.</p>
-<p><em>Applied</em>: It's only useful when carefully applied to a person or to something they eat or drink.</p>
-<p><em>Awkward</em>: It's unwieldy and tough to use. </p>
-<p><em>+Bonus</em>: It modifies your effectiveness in a specified situation. It might be "+1 forward to Spout Lore" or "-1 ongoing to Hack and Slash."</p>
-<p><em>n coins</em>: How much it costs to buy, normally. If the cost includes "-Charisma" a little negotiation subtracts the haggler's Charisma score (not modifier) from the price.</p>
-<p><em>Dangerous</em>: It's easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
-<p><em>Ration</em>: It's edible, more or less.</p>
-<p><em>Requires</em>: It's only useful to certain people. If you don't meet the requirements it works poorly, if at all.</p>
+<p><em>Applied</em>: It’s only useful when carefully applied to a person or to something they eat or drink.</p>
+<p><em>Awkward</em>: It’s unwieldy and tough to use. </p>
+<p><em>+Bonus</em>: It modifies your effectiveness in a specified situation. It might be “+1 forward to Spout Lore” or “-1 ongoing to Hack and Slash.”</p>
+<p><em>n coins</em>: How much it costs to buy, normally. If the cost includes “-Charisma” a little negotiation subtracts the haggler’s Charisma score (not modifier) from the price.</p>
+<p><em>Dangerous</em>: It’s easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
+<p><em>Ration</em>: It’s edible, more or less.</p>
+<p><em>Requires</em>: It’s only useful to certain people. If you don’t meet the requirements it works poorly, if at all.</p>
 <p><em>Slow</em>: It takes minutes or more to use.</p>
-<p><em>Touch</em>: It's used by touching it to the target's skin.</p>
+<p><em>Touch</em>: It’s used by touching it to the target’s skin.</p>
 <p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
-<p><em>n weight</em>: Count the listed amount against your Load. Something with no listed weight isn't designed to be carried. 100 coins in standard denominations is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
+<p><em>n weight</em>: Count the listed amount against your Load. Something with no listed weight isn’t designed to be carried. 100 coins in standard denominations is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
 <p><em>Worn</em>: To use it, you have to be wearing it.</p>
 <p><em>n Uses</em>: It can only be used <em>n</em> times. </p>
 <h2>Weapons</h2>
-<p aid:pstyle="NoIndent">Weapons don't kill monsters, people do. That's why weapons in Dungeon World don’t have a listed damage. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It's useful because it's small and easy to strike with at close distance. A dagger in the hands of the Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
+<p aid:pstyle="NoIndent">Weapons don’t kill monsters, people do. That’s why weapons in Dungeon World don’t have a listed damage. A weapon is useful primarily for its tags which describe what the weapon is useful for. A dagger is not useful because it does more or less damage than some other blade. It’s useful because it’s small and easy to strike with at close distance. A dagger in the hands of the Wizard is not nearly so dangerous as one in the hands of a skilled Fighter.</p>
 <h3>Weapon Tags</h3>
 <p aid:pstyle="NoIndent">Weapons may have tags that are primarily there to help you describe them (like Rusty or Glowing) but these tags have a specific, mechanical effect.</p>
 <p><em>n Ammo</em>: It counts as ammunition for appropriate ranged weapons. The number indicated does not represent individual arrows or sling stones, but represents what you have left on hand. </p>
 <p><em>Forceful</em>: It can knock someone back a pace, maybe even off their feet. </p>
 <p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add <em>n</em> to it.</p>
-<p><em>Ignores Armor</em>: Don't subtract armor from the damage taken.</p>
+<p><em>Ignores Armor</em>: Don’t subtract armor from the damage taken.</p>
 <p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
-<p><em>n Piercing</em>: It goes right through armor. When you deal damage with <em>n</em> piercing, you subtract <em>n</em> from the enemy's armor for that attack.</p>
+<p><em>n Piercing</em>: It goes right through armor. When you deal damage with <em>n</em> piercing, you subtract <em>n</em> from the enemy’s armor for that attack.</p>
 <p><em>Precise</em>: It rewards careful strikes. You use DEX to Hack and Slash with this weapon, not STR.</p>
 <p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
-<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can't choose to mark off ammo on a 7–9; once you throw it, it's gone until you can recover it. </p>
+<p><em>Thrown</em>: Throw it at someone to hurt them. If you Volley with this weapon, you can’t choose to mark off ammo on a 7–9; once you throw it, it’s gone until you can recover it. </p>
 <p>Weapons have tags to indicate the range at which they are useful. Dungeon World doesn’t inflict penalties or grant bonuses for “optimal range” or the like, but if your weapon says Hand and an enemy is ten yards away, a player would have a hard time justifying using that weapon against him.</p>
-<p><em>Hand</em>: It's useful for attacking something within your reach, no further.</p>
-<p><em>Close</em>: It's useful for attacking something at arm's reach plus a foot or two.</p>
-<p><em>Reach</em>: It's useful for attacking something that's several feet away—maybe as far as ten. </p>
-<p><em>Near</em>: It's useful for attacking if you can see the whites of their eyes. </p>
-<p><em>Far</em>: It's useful for attacking something in shouting distance.</p>
+<p><em>Hand</em>: It’s useful for attacking something within your reach, no further.</p>
+<p><em>Close</em>: It’s useful for attacking something at arm’s reach plus a foot or two.</p>
+<p><em>Reach</em>: It’s useful for attacking something that’s several feet away—maybe as far as ten. </p>
+<p><em>Near</em>: It’s useful for attacking if you can see the whites of their eyes. </p>
+<p><em>Far</em>: It’s useful for attacking something in shouting distance.</p>
 <h3>Weapon List</h3>
 <p>The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for  typical weapons of their type—a specific weapon could have different tags to represent its features.</p>
 <p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 15 coins, 2 weight</span></p>
@@ -62,7 +62,7 @@
 <p aid:pstyle="NoIndent">Armor, like weapons, has tags. Some are purely descriptive but the ones below have some mechanical effect on the player wearing them</p>
 <p><em>n Armor</em>: It protects you from harm and absorbs damage. When you take damage, subtract your armor from the total. If you have more than one item with <em>n Armor</em>, only the highest value counts. </p>
 <p><em>+n Armor</em>: It protects you and stacks with other armor. Add its value to your total armor.</p>
-<p><em>Clumsy</em>: It's tough to move around with. -1 ongoing while using it. This penalty is cumulative.</p>
+<p><em>Clumsy</em>: It’s tough to move around with. -1 ongoing while using it. This penalty is cumulative.</p>
 <h3>Armor List</h3>
 <p aid:pstyle="Item">Leather, Chainmail	<span aid:cstyle="Tags">1 Armor, Worn, 10 coins, 1 weight</span></p>
 <p aid:pstyle="Item">Scale Mail	<span aid:cstyle="Tags">2 Armor, Worn, Clumsy, 50 coins, 3 weight</span></p>
@@ -72,17 +72,17 @@
 <p aid:pstyle="Item">Adventuring Gear	<span aid:cstyle="Tags">5 Uses, 20 coins, 1 weight</span></p>
 <p aid:pstyle="ItemDescription">Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a Use.</p>
 <p aid:pstyle="Item">Bandages	<span aid:cstyle="Tags">3 Uses, Slow, 5 coins, 0 weight</span></p>
-<p aid:pstyle="ItemDescription">When you have a few minutes to bandage someone else's wounds, heal them of 4 damage and expend a use.</p>
+<p aid:pstyle="ItemDescription">When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.</p>
 <p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 Uses, Slow, 10 coins, 1 weight</span></p>
-<p aid:pstyle="ItemDescription">When you carefully treat someone's wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
+<p aid:pstyle="ItemDescription">When you carefully treat someone’s wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
 <p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">50 coins</span></p>
 <p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 10 damage or remove one debility, your choice.</p>
 <p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 coins, 4 weight</span></p>
 <p aid:pstyle="ItemDescription">When you open a keg of dwarven stout and let everyone drink freely, take +1 to your Carouse roll. If you drink a whole keg yourself, you are very, very drunk.</p>
 <p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 Uses, 10 coins, 2 weight</span></p>
-<p aid:pstyle="ItemDescription">When your bag of books contains just the right book for the subject you're Spouting Lore on, consult the book, mark off a use, and take +1 to your roll.</p>
+<p aid:pstyle="ItemDescription">When your bag of books contains just the right book for the subject you’re Spouting Lore on, consult the book, mark off a use, and take +1 to your roll.</p>
 <p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">10 coins</span></p>
-<p aid:pstyle="ItemDescription">When you drink antitoxin, you're cured of one poison affecting you.</p>
+<p aid:pstyle="ItemDescription">When you drink antitoxin, you’re cured of one poison affecting you.</p>
 <p aid:pstyle="Item">Dungeon Rations	<span aid:cstyle="Tags">Ration, 5 Uses, 3 coins, 1 weight</span></p>
 <p aid:pstyle="ItemDescription">Not tasty, but not bad either.</p>
 <p aid:pstyle="Item">Personal Feast	<span aid:cstyle="Tags">Ration, 1 Use, 10 coins, 1 weight</span></p>
@@ -100,24 +100,24 @@
 <p aid:pstyle="ItemDescription">Until cured, whenever the afflicted rolls damage, they roll an additional d4 and subtract that result from their normal damage.</p>
 <p aid:pstyle="Item">Goldenroot	<span aid:cstyle="Tags">Dangerous, Applied, 20 coins, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">The target treats the next creature they see as a trusted ally, until proved otherwise.</p>
-<p aid:pstyle="Item">Serpent's Tears	<span aid:cstyle="Tags">Dangerous, Touch, 10 coins, 0 weight</span></p>
+<p aid:pstyle="Item">Serpent’s Tears	<span aid:cstyle="Tags">Dangerous, Touch, 10 coins, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">Anyone dealing damage against the target rolls twice and takes the better result.</p>
 <h2>Services</h2>
-<p aid:pstyle="Item">A week's stay at a peasant inn	<span aid:cstyle="Tags">14-Charisma coins</span></p>
-<p aid:pstyle="Item">A week's stay at a civilized inn	<span aid:cstyle="Tags">30-Charisma coins</span></p>
-<p aid:pstyle="Item">A week's stay at the fanciest inn in town	<span aid:cstyle="Tags">43-Charisma coins</span></p>
-<p aid:pstyle="Item">A week's unskilled mundane labor	<span aid:cstyle="Tags">10 coins</span></p>
-<p aid:pstyle="Item">A month's pay for enlistment in an army	<span aid:cstyle="Tags">30 coins</span></p>
+<p aid:pstyle="Item">A week’s stay at a peasant inn	<span aid:cstyle="Tags">14-Charisma coins</span></p>
+<p aid:pstyle="Item">A week’s stay at a civilized inn	<span aid:cstyle="Tags">30-Charisma coins</span></p>
+<p aid:pstyle="Item">A week’s stay at the fanciest inn in town	<span aid:cstyle="Tags">43-Charisma coins</span></p>
+<p aid:pstyle="Item">A week’s unskilled mundane labor	<span aid:cstyle="Tags">10 coins</span></p>
+<p aid:pstyle="Item">A month’s pay for enlistment in an army	<span aid:cstyle="Tags">30 coins</span></p>
 <p aid:pstyle="Item">A custom item from a blacksmith	<span aid:cstyle="Tags">Base Item + 50 coins</span></p>
-<p aid:pstyle="Item">A night's "companionship"	<span aid:cstyle="Tags">20-Charisma coins</span></p>
+<p aid:pstyle="Item">A night’s “companionship”	<span aid:cstyle="Tags">20-Charisma coins</span></p>
 <p aid:pstyle="Item">An evening of song and dance	<span aid:cstyle="Tags">18-Charisma coins</span></p>
 <p aid:pstyle="Item">Escort for a day along a bandit-infested road	<span aid:cstyle="Tags">20 coins</span></p>
 <p aid:pstyle="Item">Escort for a day along a monster-infested road	<span aid:cstyle="Tags">54 coins</span></p>
 <p aid:pstyle="Item">A run-of-the-mill killing	<span aid:cstyle="Tags">5 coins</span></p>
 <p aid:pstyle="Item">An assassination	<span aid:cstyle="Tags">120 coins</span></p>
 <p aid:pstyle="Item">Healing from a Chirurgeon	<span aid:cstyle="Tags">5 coins</span></p>
-<p aid:pstyle="Item">A month's prayers for the departed	<span aid:cstyle="Tags">1 coin</span></p>
-<p aid:pstyle="Item">Repairs to a mundane item	<span aid:cstyle="Tags">25% of the item's cost</span></p>
+<p aid:pstyle="Item">A month’s prayers for the departed	<span aid:cstyle="Tags">1 coin</span></p>
+<p aid:pstyle="Item">Repairs to a mundane item	<span aid:cstyle="Tags">25% of the item’s cost</span></p>
 <h2>Meals</h2>
 <p aid:pstyle="Item">A hearty meal for one	<span aid:cstyle="Tags">1 coin</span></p>
 <p aid:pstyle="Item">A poor meal for a family	<span aid:cstyle="Tags">1 coin</span></p>
@@ -142,13 +142,13 @@
 <p aid:pstyle="Item">A keep	<span aid:cstyle="Tags">75,000 coins</span></p>
 <p aid:pstyle="Item">A castle	<span aid:cstyle="Tags">250,000 coins</span></p>
 <p aid:pstyle="Item">A grand castle	<span aid:cstyle="Tags">1,000,000 coins</span></p>
-<p aid:pstyle="Item">A month's upkeep	<span aid:cstyle="Tags">1% of the cost</span></p>
+<p aid:pstyle="Item">A month’s upkeep	<span aid:cstyle="Tags">1% of the cost</span></p>
 <h2>Bribes</h2>
 <p aid:pstyle="Item">A peasant dowry	<span aid:cstyle="Tags">20-Charisma coins</span></p>
-<p aid:pstyle="Item">"Protection" for a small business	<span aid:cstyle="Tags">100-Charisma coins</span></p>
+<p aid:pstyle="Item">“Protection” for a small business	<span aid:cstyle="Tags">100-Charisma coins</span></p>
 <p aid:pstyle="Item">A government bribe	<span aid:cstyle="Tags">50-Charisma coins</span></p>
 <p aid:pstyle="Item">A compelling bribe	<span aid:cstyle="Tags">80-Charisma coins</span></p>
-<p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">500-Charisma coins</span></p>
+<p aid:pstyle="Item">An offer you can’t refuse	<span aid:cstyle="Tags">500-Charisma coins</span></p>
 <h2>Gifts and Finery</h2>
 <p aid:pstyle="Item">A peasant gift	<span aid:cstyle="Tags">1 coin</span></p>
 <p aid:pstyle="Item">A fine gift	<span aid:cstyle="Tags">55 coins</span></p>
@@ -158,14 +158,14 @@
 <p aid:pstyle="Item">A fine tapestry	<span aid:cstyle="Tags">350+ coins</span></p>
 <p aid:pstyle="Item">A crown fit for a king	<span aid:cstyle="Tags">5,000 coins</span></p>
 <h2>Hoards</h2>
-<p aid:pstyle="Item">A goblin's stash	<span aid:cstyle="Tags">2 coins</span></p>
-<p aid:pstyle="Item">A lizardman's trinkets	<span aid:cstyle="Tags">5 coins</span></p>
+<p aid:pstyle="Item">A goblin’s stash	<span aid:cstyle="Tags">2 coins</span></p>
+<p aid:pstyle="Item">A lizardman’s trinkets	<span aid:cstyle="Tags">5 coins</span></p>
 <p aid:pstyle="Item">A “priceless” sword	<span aid:cstyle="Tags">80 coins</span></p>
-<p aid:pstyle="Item">An orc warchief's tribute	<span aid:cstyle="Tags">250 coins</span></p>
-<p aid:pstyle="Item">A dragon's mound of coins and gems	<span aid:cstyle="Tags">130,000 coins</span></p>
+<p aid:pstyle="Item">An orc warchief’s tribute	<span aid:cstyle="Tags">250 coins</span></p>
+<p aid:pstyle="Item">A dragon’s mound of coins and gems	<span aid:cstyle="Tags">130,000 coins</span></p>
 <h1>Magic Items</h1>
 <p aid:pstyle="NoIndent">There are stranger things in the world than swords and leather. Magic items are the non-mundane items that have intrinsic power.</p>
-<p>Magic items are for you to make for your game. Players can make magic items through the Wizard's ritual and similar moves. The GM can introduce magic items in the spoils of battle or the rewards for jobs and quests. This list provides some ideas, but magic items are ultimately for you to decide.</p>
+<p>Magic items are for you to make for your game. Players can make magic items through the Wizard’s ritual and similar moves. The GM can introduce magic items in the spoils of battle or the rewards for jobs and quests. This list provides some ideas, but magic items are ultimately for you to decide.</p>
 <p>When making your own magic items keep in mind that these items are <em>magical</em>. Simple modifiers, like+1 damage, are the realm of the mundane—magic items should provide more interesting bonuses.</p>
 <p aid:pstyle="MagicItem">Argo-Thaan, Holy Avenger	<span aid:cstyle="Tags">Close, 2 weight</span></p>
 <p aid:pstyle="NoIndent">There are many swords in this world, but there is only one Argo-thaan. It is a blade of gold, silver and light, revered as a holy relic by all orders and religions for whom Good rings true. Its touch is a blessing and to many, the sight of it brings tears of joy.</p>
@@ -179,25 +179,25 @@
 <p aid:pstyle="NoIndent">A nail or spike, twisted and forever cold, said to have been pried from the Gates of Death himself. When hammered into a corpse, it disappears and ensures that corpse will never be risen again—no magic short of that of Death himself can reignite the flame of life (natural or otherwise) in the body.</p>
 <p aid:pstyle="MagicItem">Bag of Holding	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">A bag of holding is larger on the inside than the outside, it can contain an infinite number of items, and its weight never increases. When you try to retrieve an item from a bag of holding, roll+WIS.</p>
-<p aid:pstyle="NoIndent">On a 10+, it's right there.</p>	
+<p aid:pstyle="NoIndent">On a 10+, it’s right there.</p>	
 <p aid:pstyle="NoIndent">On a 7-9, choose one:</p>
 <ul><li>You get the exact item, but it takes a while</li>
-<li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
+<li>You get a similar item of the GM’s choice, but it only takes a moment</li></ul>
 <p aid:pstyle="NoIndent">No matter how many items it contains, a bag of holding is always 0 weight.</p>
 <p aid:pstyle="MagicItem">The Burning Wheel	<span aid:cstyle="Tags">2 weight</span></p>
 <p aid:pstyle="NoIndent">An ancient wooden wheel, as might appear on a war-wagon, banded with steel. On a glance, it appears to be nothing special—many spokes are shattered and the thing seems mundane. Under the scrutiny of magic or the eyes of an expert, its true nature is revealed: the Burning Wheel is a gift from the God of Fire and burns with his authority.</p>
-<p>When you hold The Burning Wheel and speak a god's name, roll+CON: on a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7–9, the GM chooses which stat to reduce.</p>
+<p>When you hold The Burning Wheel and speak a god’s name, roll+CON: on a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 11, a +0). On a 7–9, the GM chooses which stat to reduce.</p>
 <p>Once used, the Burning Wheel ignites and burns with brilliant light. It does not confer any protection from those flames, nor does it provide any bonus to swimming.</p>
-<p aid:pstyle="MagicItem">Captain Bligh's Cornucopia	<span aid:cstyle="Tags">1 weight</span></p>
+<p aid:pstyle="MagicItem">Captain Bligh’s Cornucopia	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">A brass naval horn, curled and ornate, carved with symbols of the gods of Plenty. When blown, in addition to sound, the horn spills forth food. Enough to feed a meal to everyone who hears its sound.</p>
 <p aid:pstyle="MagicItem">The Carcosan Spire	<span aid:cstyle="Tags">Reach, Thrown, 3 weight</span></p>
 <p aid:pstyle="NoIndent">None know from whence this spear of twisted white coral comes. Those who bear it too long find their minds full of alien dreams and begin to hear the strange thoughts of the Others. None are impervious. Used against any “natural” target (men, goblins, owlbears and the like) the Spire acts as a mere mortal spear. Its true purpose is to do harm to those things whose strange natures protect them against mundane weapons. Used thus, the Spire can wound foes otherwise invulnerable to harm. The wielder will recognize these twisted foes on sight—the Spire knows its own.</p>
 <p aid:pstyle="MagicItem">Cloak of Silent Stars	<span aid:cstyle="Tags">1 weight</span></p>
-<p aid:pstyle="NoIndent">A cape of rich black velvet outside and sparkling with tiny points of light within, this cloak bends fate, time and reality around it to protect the wearer, who may Defy Danger with whatever stat they like. To do this, the wearer invokes the cloak’s magic and their player describes how the cloak helps "break the rules." They can deflect a fireball with CHA by convincing it they deserve to live or elude a fall by applying the mighty logic of their INT to prove the fall won’t hurt. The cloak makes it so. It can be used once for each stat before losing its magic.</p>
+<p aid:pstyle="NoIndent">A cape of rich black velvet outside and sparkling with tiny points of light within, this cloak bends fate, time and reality around it to protect the wearer, who may Defy Danger with whatever stat they like. To do this, the wearer invokes the cloak’s magic and their player describes how the cloak helps “break the rules.” They can deflect a fireball with CHA by convincing it they deserve to live or elude a fall by applying the mighty logic of their INT to prove the fall won’t hurt. The cloak makes it so. It can be used once for each stat before losing its magic.</p>
 <p aid:pstyle="MagicItem">Coin of Remembering	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">What appears, at a glance, to be a simple copper coin is, in truth, an enchanted coin. Its bearer can, at any time, redeem it to know immediately one fact that has been forgotten. The coin vanishes thereafter. It does not have to be a thing forgotten by the bearer, but it cannot be “known”. Interpretation of this stipulation is left to the gods. If the coin is unsuccessful, it will still paint an image in the mind’s eye of someone or something that does remember what was sought.</p>
 <p aid:pstyle="MagicItem">Common Scroll	<span aid:cstyle="Tags">1 Use, 0 weight</span></p>
-<p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class's spell list for you to be able to cast it. When you cast a spell from a scroll, the spell has effect, simple as that.</p>
+<p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class’s spell list for you to be able to cast it. When you cast a spell from a scroll, the spell has effect, simple as that.</p>
 <p aid:pstyle="MagicItem">Devilsbane Oil	<span aid:cstyle="Tags">1 Use, 0 weight</span></p>
 <p aid:pstyle="NoIndent">A holy oil, created in limited supply by a mute sect of mountain monks whose order protected humanity from the powers of the Demon Pits in ancient epochs. Only a few jars remain. When applied to any weapon and used to strike a denizen of any outer plane, the oil undoes the magic that binds that creature. In some cases, this will return it to its home. In others, it merely undoes any magic controlling it. The oil stays on the weapon for a few hours before it dries and flakes away.</p>
 <p>If applied to the edges of a doorway or drawn in a circle, the oil will repel creatures whose home is any of the outer planes. They cannot pass across it. The oil lasts for one full day before it soaks in or evaporates.</p>
@@ -231,7 +231,7 @@
 <p aid:pstyle="NoIndent">A funny metal rod with a button on it. Press the button and the rod just sticks. It freezes in place—in midair, standing up or lying down. It can’t be moved. Pull it, push it, try as hard as you like, the rod stays. Maybe it can be destroyed, maybe it can’t. Push the button again and it’s free—take it along with you. Might be useful to have such a stubborn thing along. </p>
 <p aid:pstyle="MagicItem">Infinite Book	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">This book contains an infinite number of pages in a finite space. With no limit to the pages, everything that ever was, is, or will be is contained somewhere in the book. Luckily the index is great.</p>
-<p>When you Spout Lore while consulting the book you gain an extra clause: On a 12+, the GM will give a solution to a problem or situation you're in.</p>
+<p>When you Spout Lore while consulting the book you gain an extra clause: On a 12+, the GM will give a solution to a problem or situation you’re in.</p>
 <p aid:pstyle="MagicItem">Inspectacles	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">Rough-hewn glass in wooden frames. Dinged up and barely held together, they somehow allow the wearer to see much more than their naked eyes might. When you Discern Realities wearing these gifted lenses, you get to bend the rules a little. On a roll of 10+, ask any three questions you like. They don’t have to be on the list. As long as sight could give you answers, the GM will tell you what you want to know.</p>
 <p aid:pstyle="MagicItem">The Ku’meh Maneuver and Other Stratagems	<span aid:cstyle="Tags">1 weight</span></p>
@@ -245,9 +245,9 @@
 <p aid:pstyle="NoIndent">What mixed-up dummy made this? Shields are meant to repel metal, not draw it in! Emblazoned with a lion rampant, the Lodestone Shield has the power to pull blades and arrows to it. When you Defend against enemies using metal weapons you can spend one hold, per target, to disarm them. Also, sometimes you’ll find a handful of loose change stuck to it.</p>
 <p aid:pstyle="MagicItem">Map of the Last Patrol	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">An ancient order of brave rangers once patrolled the land, protecting villages and warning kings and queens of encroaching danger. They’re long gone, now, but their legacy remains. This map, when marked with the blood of a group of people, will always show their location—so long as they remain within the bounds of the map. </p>
-<p aid:pstyle="MagicItem">Ned's Head	<span aid:cstyle="Tags">1 weight</span></p>
+<p aid:pstyle="MagicItem">Ned’s Head	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">An old skull, missing its jaw and very much worse-for-wear. The skull remembers the folly of its former owner—a man with more honor than sense. Once per night, the owner of the skull can ask “Who has it in for me?” and the skull will give up one name in a sad, lonely voice. If the owner of the skull is ever killed, it disappears surreptitiously. No one knows where it might turn up next.</p>
-<p aid:pstyle="MagicItem">Nightsider's Key	<span aid:cstyle="Tags">0 weight</span></p>
+<p aid:pstyle="MagicItem">Nightsider’s Key	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">This key unlocks any door for you, provided you don’t belong where you intends to go. So long as you do nothing that would alert another to your presence (remaining unheard, unseen and unnoticed) and takes nothing more than your memories out with you, the key’s magic will prevent your intrusion from ever being discovered. It’s like you was never there at all.</p>
 <p aid:pstyle="MagicItem">Sacred Herbs	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost wizard-monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+WIS:</p>
@@ -263,7 +263,7 @@
 <p aid:pstyle="NoIndent">On a 10+, you arrive exactly where you’d intended.</p>
 <p aid:pstyle="NoIndent">On a 7–9, the GM chooses a safe location nearby.</p>
 <p aid:pstyle="NoIndent">On a miss, you end up someplace. Maybe it’s nearby? It’s definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
-<p aid:pstyle="MagicItem">Timunn's Armor	<span aid:cstyle="Tags">1 Armor, 1 weight</span></p>
+<p aid:pstyle="MagicItem">Timunn’s Armor	<span aid:cstyle="Tags">1 Armor, 1 weight</span></p>
 <p aid:pstyle="NoIndent">A stealthy suit of armor, it appears as many things to many people and blends in with appropriate apparel. The wearer always seems the height of fashion to any who gaze upon him.</p>
 <p aid:pstyle="MagicItem">Titus’ Truthful Tallow	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">A candle of ivory- and copper-colored tallow with a wick of spun silver. When lit, none upon whom its light falls is able to tell a lie. They may keep silent or dissemble but when asked a question directly, they can speak naught but truth.</p>

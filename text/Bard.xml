@@ -30,7 +30,7 @@
 <li>+1d4 forward to damage</li>
 <li>Their mind is shaken clear of one enchantment</li>
 <li>The next time someone successfully assists the target with aid, they get +2 instead of +1</li></ul>
-<p aid:pstyle="NoIndent">Then roll+Cha. ✴On a 10+, the ally gets the selected effect. ✴On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM's choice.</p>
+<p aid:pstyle="NoIndent">Then roll+Cha. ✴On a 10+, the ally gets the selected effect. ✴On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM’s choice.</p>
 <h3 aid:pstyle="BasicMoveName">Bardic Lore</h3>
 <p aid:pstyle="NoIndent">Choose an area of expertise:</p>
 <ul><li>Spells and Magicks</li>
@@ -49,7 +49,7 @@
 <li>What are you really feeling right now?</li>
 <li>What do you most desire?</li></ul>
 <h3 aid:pstyle="BasicMoveName">A Port in the Storm</h3>
-<p aid:pstyle="NoIndent">When you <strong>return to a civilized settlement you've visited before</strong>, tell the GM when you were last here. They'll tell you how it's changed since then.</p></div></div>
+<p aid:pstyle="NoIndent">When you <strong>return to a civilized settlement you’ve visited before</strong>, tell the GM when you were last here. They’ll tell you how it’s changed since then.</p></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
@@ -60,7 +60,7 @@
 <p aid:pstyle="NoIndent">Spur others to significant and unplanned decisive action.</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You have dungeon rations (5 uses, 1 weight). Choose one instrument:</p>
-<ul><li aid:pstyle="Option">Your father's mandolin, repaired</li>
+<ul><li aid:pstyle="Option">Your father’s mandolin, repaired</li>
 <li aid:pstyle="Option">A fine lute, a gift from a noble</li>
 <li aid:pstyle="Option">The pipes with which you courted your first love</li>
 <li aid:pstyle="Option">A stolen horn</li>
@@ -94,12 +94,12 @@
 <h3 aid:pstyle="MoveName">It Goes To Eleven</h3>
 <p aid:pstyle="NoIndent">When you <strong>unleash a crazed performance</strong> (a righteous lute solo, mighty brass blast, confusing interpretive dance) choose a target who can hear you and roll+Cha. ✴On a 10+ the target flails in confusion dealing its damage to a random creature nearby. ✴On a 7–9 it still damages a random creature nearby, but then takes +1d4 damage ongoing as the music invigorates it.</p>
 <h3 aid:pstyle="MoveName">Metal Hurlant</h3>
-<p aid:pstyle="NoIndent">When you <strong>shout with great force or play a shattering note</strong> choose a target and roll+Con. ✴On a 10+ the target takes 1d10 damage and is deafened for a few minutes. ✴On a 7–9 you still damage your target, but it's out of control: the GM will choose an additional target nearby.</p>
+<p aid:pstyle="NoIndent">When you <strong>shout with great force or play a shattering note</strong> choose a target and roll+Con. ✴On a 10+ the target takes 1d10 damage and is deafened for a few minutes. ✴On a 7–9 you still damage your target, but it’s out of control: the GM will choose an additional target nearby.</p>
 <h3 aid:pstyle="MoveName">A Little Help From My Friends</h3>
 <p aid:pstyle="NoIndent">When you <strong>successfully aid someone</strong> you take +1 forward as well.</p>
 <h3 aid:pstyle="MoveName">Eldritch Tones</h3>
 <p aid:pstyle="NoIndent">Your arcane art is strong, allowing you to choose two effects instead of one.</p>
-<h3 aid:pstyle="MoveName">Duelist's Parry</h3>
+<h3 aid:pstyle="MoveName">Duelist’s Parry</h3>
 <p aid:pstyle="NoIndent">When you hack and slash, you take +1 armor forward.</p>
 <h3 aid:pstyle="MoveName">Bamboozle</h3>
 <p aid:pstyle="NoIndent">When you <strong>parley with someone</strong>, on a 7+ you also take +1 forward with them.</p>
@@ -115,18 +115,18 @@
 <p aid:pstyle="Requirement">Replaces: Vicious Cacophony</p>
 <p aid:pstyle="NoIndent">When you <strong>grant bonus damage with arcane art</strong>, you grant an extra +2d4 damage.</p>
 <h3 aid:pstyle="MoveName">Unforgettable Face</h3>
-<p aid:pstyle="NoIndent">When you <strong>meet someone you've met before</strong> (your call) after some time apart you take +1 forward against them.</p>
+<p aid:pstyle="NoIndent">When you <strong>meet someone you’ve met before</strong> (your call) after some time apart you take +1 forward against them.</p>
 <h3 aid:pstyle="MoveName">Reputation</h3>
-<p aid:pstyle="NoIndent">When you <strong>first meet someone who's heard songs about you</strong>, roll+Cha. ✴On a 10+, tell the GM two things they've heard about you. ✴On a 7-9, tell the GM one thing they've heard, and the GM tells you one thing.</p>
+<p aid:pstyle="NoIndent">When you <strong>first meet someone who’s heard songs about you</strong>, roll+Cha. ✴On a 10+, tell the GM two things they’ve heard about you. ✴On a 7-9, tell the GM one thing they’ve heard, and the GM tells you one thing.</p>
 <h3 aid:pstyle="MoveName">Eldritch Chord</h3>
 <p aid:pstyle="Requirement">Replaces: Eldritch Tones</p>
 <p aid:pstyle="NoIndent">When you use arcane art, you choose two effects. You also get to choose one of those effects to double.</p>
 <h3 aid:pstyle="MoveName">An Ear For Magic</h3>
 <p aid:pstyle="NoIndent">When you <strong>hear an enemy cast a spell</strong> the GM will tell you the name of the spell and its effects. Take +1 forward when acting on the answers.</p>
 <h3 aid:pstyle="MoveName">Devious</h3>
-<p aid:pstyle="NoIndent">When you use charming and open you may also ask "How are you vulnerable to me?" Your subject may not ask this question of you.</p>
-<h3 aid:pstyle="MoveName">Duelist's Block</h3>
-<p aid:pstyle="Requirement">Replaces: Duelist's Parry</p>
+<p aid:pstyle="NoIndent">When you use charming and open you may also ask “How are you vulnerable to me?” Your subject may not ask this question of you.</p>
+<h3 aid:pstyle="MoveName">Duelist’s Block</h3>
+<p aid:pstyle="Requirement">Replaces: Duelist’s Parry</p>
 <p aid:pstyle="NoIndent">When you hack and slash, you take +2 armor forward.</p>
 <h3 aid:pstyle="MoveName">Con</h3>
 <p aid:pstyle="Requirement">Replaces: Bamboozle</p>
