@@ -2,6 +2,7 @@
 # -*- coding: latin-1 -*-
 import re
 import sys
+import os
 from optparse import OptionParser
 
 # Setup options
@@ -35,28 +36,29 @@ replacements.append( (re.compile(r'  '), " ") )
 
 
 for filename in args:
-	infile = open(filename, "r")
-	output = []
-	for line in infile:
-		fixedline = line
-		for replacement in replacements:
-			fixedline = replacement[0].sub(replacement[1], fixedline)
-		index = 0
-		while index < len(fixedline):
-			if(ord(fixedline[index]) == 226 and ord(fixedline[index+1]) == 128 and ord(fixedline[index+2]) == 169):
-				output.append("\n")
-				index += 3
-			else:
-				output.append(fixedline[index])
-				index += 1
-	infile.close()
-	
-	outfile = None
-	if options.safe:
-		# This is a really ugly way to do this, and it isn't absolutely safe (file could 
-		# already exist), but it works for now.
-		outfile = open(".out.".join(filename.split(".")), "w")
-	else:
-		outfile = open(filename, "w")
-	
-	outfile.write("".join(output))
+    with open(filename, "r") as infile:
+        output = []
+        for line in infile:
+            fixedline = line
+            for replacement in replacements:
+                fixedline = replacement[0].sub(replacement[1], fixedline)
+            
+            index = 0
+            while index < len(fixedline)-2:
+                if fixedline[index:index+3] == "\xE2\x80\xA9":
+                    output.append("\n")
+                    index += 3
+                else:
+                    output.append(fixedline[index])
+                    index += 1
+        
+        outfileName = os.path.splitext(filename)[0]
+        if options.safe:
+            # This is a really ugly way to do this, and it isn't absolutely safe (file could 
+            # already exist), but it works for now.
+            outfileName += ".out"
+        outfileName += os.path.splitext(filename)[1]
+        
+        with open(outfileName, "w") as outfile:
+            outfile.write("".join(output))
+    
