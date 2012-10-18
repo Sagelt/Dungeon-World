@@ -69,7 +69,7 @@
 <p aid:pstyle="NoIndent">Triggers are often fictional actions undertaken by the player characters but they can also be part of character creation or trigger at the beginning or end of a session. Note that a trigger never deals with precise units of time. Don’t write a move that begins “When you start a round adjacent to a dragon.” There’s no rounds (and adjacent is maybe not the best phrasing, as it sounds removed from the fiction of <em>standing next to a damned fire-breathing dragon</em>). Prepare Spells isn’t “When you spend one hour studying your spellbook” for good reason. Time in Dungeon World is a bit fluid, like in a movie where pacing depends on the circumstances. Don’t rely on concrete units either around the table (rounds) or in the fiction (seconds, minutes, days).</p>
 <p>Here are some broad types of triggers:</p>
 <ul><li><strong>When a character takes action</strong>. Examples: Discern Realities, Fascinate (Bard), Command (Ranger).</li>
-<li><strong>When a character takes action under specific circumstances</strong>. Examples: Hack and Slash, Gladiator (Fighter), Backstab (Thief).</li>
+<li><strong>When a character takes action under specific circumstances</strong>. Examples: Hack and Slash, Bend Bars, Lift Gates (Fighter), Backstab (Thief).</li>
 <li><strong>When circumstances dictate, no character action</strong>. Examples: Order Hirelings, End of Session.</li>
 <li><strong>When a character uses a thing</strong>. Examples: Magic items, Heirloom (Fighter).</li>
 <li><strong>From now on</strong>. Examples: Serenity (Cleric), Poisoner (Thief).</li></ul>
@@ -79,15 +79,15 @@
 <ul><li><strong>Roll</strong>. Examples: Defy Danger, Cast a Spell (Wizard), Called Shot (Ranger).</li>
 <li><strong>Substitute stats</strong>. Examples: Dwarf (Fighter).</li>
 <li><strong>Trigger another move</strong>. Examples: Envenom (Thief).</li>
-<li><strong>Give a bonus or penalty, forward or ongoing.</strong> Examples: Quarry (Ranger), Beacon of Good (Paladin).</li>
+<li><strong>Give a bonus or penalty, forward or ongoing.</strong> Examples: Command (Ranger), Charge! (Paladin).</li>
 <li><strong>Deal or heal damage</strong>. Examples: Volley, Backstab (Thief), Arcane Art (Bard).</li>
 <li><strong>Choose options</strong>. Examples: Spout Lore, Discern Realities, Ritual (Wizard).</li>
 <li><strong>Hold &amp; Spend</strong>. Examples: Dominate (Wizard spell), Trap Expert (Thief).</li>
 <li><strong>Ask &amp; Answer</strong>. Examples: Charming and Open (Bard), Spout Lore.</li>
-<li><strong>Change circumstances</strong>. Examples: Ascetic Freedom (Cleric), Sins of the Flesh (Paladin).</li>
+<li><strong>Change circumstances</strong>. Examples: Quest (Paladin), Weather Weaver (Druid).</li>
 <li><strong>Mark experience</strong>. Examples: End of Session.</li>
 <li><strong>Call for more information</strong>. Examples: Parley, Ritual (Wizard).</li>
-<li><strong>Add options</strong>. Examples: Survivalist (Ranger).</li></ul>
+<li><strong>Add options</strong>. Examples: Familiar Prey (Ranger).</li></ul>
 <h2>Changing the Basics</h2>
 <p aid:pstyle="NoIndent">Moves can also change the basic structure of the game. Consider this one, to avoid the use of damage dice:</p>
 <p aid:pstyle="MoveOneLine">When you would deal damage, instead of rolling the dice, substitute each dice with the listed number. d4 becomes 2, d6 becomes 3, d8 becomes 4, d10 becomes 5, d12 becomes 6.</p>
@@ -115,7 +115,7 @@
 <p aid:pstyle="NoIndent">Here the move now has only the effects that could clearly follow from a single attack. Any action that couldn’t reasonably lead to a counterattack isn’t Hack and Slash, so now the trigger matches the effects. Unfortunately double damage was a bit much, so we changed it to this:</p>
 <p aid:pstyle="MoveOneLine">When you attack an enemy in melee, roll+Str. On a 7–9, you deal your damage to the enemy and take their damage. On a 10+ you deal your damage to the enemy. You can choose to also take the enemy’s damage to deal +2 damage.</p>
 <p aid:pstyle="NoIndent">+2 damage is a clear advantage, but not a game breaker. The only problem here is that it reduced the effects of an attack to taking damage. Monsters do so much more than just take away your HP; monsters hurl you about the room and destroy the ground you stand on, why can’t they do that in response?</p>
-<p aid:pstyle="MoveOneLine">When you attack an enemy in melee, roll+Str. On a 10+ you deal your damage to the enemy. You can choose to let the enemy make an attack to deal +2 damage. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
+<p aid:pstyle="MoveOneLine">When you attack an enemy in melee, roll+Str. On a 10+ you deal your damage to the enemy. You can choose to let the enemy make an attack to deal +1d6 damage. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
 <p aid:pstyle="NoIndent">This version (the final one) allows a monster to “attack” not just deal damage. That opens up a whole host of interesting monster moves to be used.</p>
 <h2>The GM</h2>
 <p aid:pstyle="NoIndent">Changing the GM’s side of the rules is an entirely different beast from writing custom player moves. Writing GM moves is the easy part. Since a GM move is just a statement of something that fictionally happens, feel free to write new ones as you please. Most of the time you’ll find they’re just specific cases of one of the moves already established, but occasionally you’ll come across something new. Just keep in mind the spectrum of hard to soft moves, your principles, and your agenda, and you’ll be fine.</p>
