@@ -43,8 +43,8 @@
 <div id="SpiritTongue"><h3 aid:pstyle="BasicMoveName">Spirit Tongue</h3>
 <p aid:pstyle="NoIndent">The grunts, barks, chirps, and calls of the creatures of the wild are as language to you. You can understand any animal native to your land or akin to one whose essence you have studied.</p></div>
 <div id="Shapeshifter"><h3 aid:pstyle="BasicMoveName">Shapeshifter</h3>
-<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a 6- hold 1 in addition to whatever the GM says.</p>
-<p>You may take on the physical form of any species whose essence you have studied or who lives in your land: you and your possessions meld into a perfect copy of the species’ form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to natural form. At any time, you may spend all your hold and revert to your natural form.</p></div>
+<p aid:pstyle="NoIndent">When you call upon the spirits to change your shape, roll+Wis. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a miss hold 1 in addition to whatever the GM says.</p>
+<p>You may take on the physical form of any species whose essence you have studied or who lives in your land: you and your possessions meld into a perfect copy of the species’ form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to your natural form. At any time, you may spend all your hold and revert to your natural form.</p></div>
 <div id="StudiedEssence"><h3 aid:pstyle="BasicMoveName">Studied Essence</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend time in contemplation of an animal spirit</strong>, you may add its species to those you can assume using shapeshifting.</p></div></div></div>
 <h2>Alignment</h2>
@@ -61,12 +61,12 @@
 <li aid:pstyle="Option">Wooden shield (+1 armor, 1 weight)</li></ul>
 Choose your armament:
 <ul><li aid:pstyle="Option">Shillelagh (close, 2 weight)</li>
-<li aid:pstyle="Option">Staff (close, 2-handed, 1 weight)</li>
+<li aid:pstyle="Option">Staff (close, two-handed, 1 weight)</li>
 <li aid:pstyle="Option">Spear (close, Thrown, Near, 1 weight)</li></ul>
 Choose one:
 <ul><li aid:pstyle="Option">Adventuring Gear (1 weight)</li>
 <li aid:pstyle="Option">Poultices and herbs (2 uses, 1 weight)</li>
-<li aid:pstyle="Option">Halfling pipeleaf (1 weight)</li>
+<li aid:pstyle="Option">Halfling pipeleaf (0 weight)</li>
 <li aid:pstyle="Option">3 Antitoxin (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
@@ -91,7 +91,7 @@ Choose one:
 <h3 aid:pstyle="MoveName">Thing-Talker</h3>
 <p aid:pstyle="NoIndent">You see the spirits in the sand, the sea and the stone. You may now apply your spirit tongue, shapeshifting and studied essence to inanimate natural objects (plants and rocks) or creatures made thereof, as well as animals. Thing-talker forms can be exact copies or can be mobile vaguely humanoid-shaped entities.</p>
 <h3 aid:pstyle="MoveName">Formcrafter</h3>
-<p aid:pstyle="NoIndent">When you shapeshiftchoose a stat: you take +1 ongoing to rolls using that stat while in shifted. The GM will choose a stat, too: you take -1 ongoing to rolls using that stat while shifted.</p>
+<p aid:pstyle="NoIndent">When you shapeshift choose a stat: you take +1 ongoing to rolls using that stat while shifted. The GM will choose a stat, too: you take -1 ongoing to rolls using that stat while shifted.</p>
 <h3 aid:pstyle="MoveName">Elemental Mastery</h3>
 <p aid:pstyle="NoIndent">When you <strong>call on the primal spirits of fire, water, earth or air to perform a task for you</strong> roll+Wis. ✴On a 10+ choose two. ✴On a 7–9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.</p>
 <ul><li>The effect you desire comes to pass</li>

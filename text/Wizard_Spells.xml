@@ -33,7 +33,7 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Mirror Image</span>	Level 3	<em>Illusion</em></p>
 <p aid:pstyle="NoIndent">You create an illusory image of yourself. When you are attacked, roll a d6. On a 4, 5, or 6 the attack hits the illusion instead, the image then dissipates and the spell ends.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Sleep</span>	Level 3	<em>Enchantment</em></p>
-<p aid:pstyle="NoIndent">1d4 enemies you can see of the GM’s choice fall asleep. Only creatures capable of sleeping are effected. They awake as normal: loud noises, jolts, pain.</p></div>
+<p aid:pstyle="NoIndent">1d4 enemies you can see of the GM’s choice fall asleep. Only creatures capable of sleeping are affected. They awake as normal: loud noises, jolts, pain.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cage</span>	Level 5	<em>Evocation Ongoing</em></p>
 <p aid:pstyle="NoIndent">The target is held in a cage of magical force. Nothing can get in or out of the cage. The cage remains until you cast another spell or dismiss it. While the spell is ongoing, the caged creature can hear your thoughts and you cannot leave sight of the cage.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Contact Other Plane</span>	Level 5	<em>Divination</em></p>
@@ -46,9 +46,9 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Summon Monster</span>	Level 5	<em>Summoning Ongoing</em></p>
 <p aid:pstyle="NoIndent">A monster appears and aids you as best it can. Treat it as your character, but with access to only the basic moves. It has +1 modifier for all stats and 1 HP. The monster also gets your choice of 1d6 of these traits: </p>
 <ul><li>It has +2 instead of +1 to one stat</li>
-<li>It’s is not reckless</li>
+<li>It’s not reckless</li>
 <li>It does 1d8 damage</li>
-<li>It’s bond to your plane is strong, +2 HP for each level you have</li>
+<li>Its bond to your plane is strong: +2 HP for each level you have</li>
 <li>It has some useful adaptation</li></ul>
 <p aid:pstyle="NoIndent">The GM will tell you the type of monster you get based on the traits you select. The creature remains on this plane until it dies or you dismiss it. While the spell is ongoing you take -1 to cast a spell.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Dominate</span>	Level 7	<em>Enchantment Ongoing</em></p>

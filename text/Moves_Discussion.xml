@@ -9,7 +9,7 @@
 <h2 aid:pstyle="BasicMoveName">Hack and Slash</h2>
 <p aid:pstyle="MoveOneLine">When you <Strong>attack an enemy in melee</Strong>, roll+Str. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
 <p aid:pstyle="NoIndent">Hack and slash is for attacking a prepared enemy plain and simple. If the enemy isn’t prepared for your attack—if they don’t know you’re there or they’re restrained and helpless—then that’s not hack and slash. You just deal your damage or murder them outright, depending on the situation. Nasty stuff.</p>
-<p>The enemy’s counterattack can be any GM move made directly with that creature. A goblin might just attack you back, or they might jam a poisoned needle Into your veins. Life’s tough, isn’t it?</p>
+<p>The enemy’s counterattack can be any GM move made directly with that creature. A goblin might just attack you back, or they might jam a poisoned needle into your veins. Life’s tough, isn’t it?</p>
 <p>Note that an “attack” is some action that a player undertakes that has a chance of causing physical harm to someone else. Attacking a dragon with inch-thick metal scales full of magical energy using a typical sword is like swinging a meat cleaver at a tank: it just isn’t going to cause any harm, so hack and slash doesn’t apply. Note that circumstances can change that: if you’re in a position to stab the dragon on its soft underbelly (good luck with getting there) it could hurt, so it’s an attack.</p>
 <p>If the action that triggers the move could reasonably hurt multiple targets roll once and apply damage to each target (they each get their armor).</p>
 <p>Some attacks may have additional effects depending on the triggering action, the circumstances, or the weapons involved. An attack could also knock someone down, restrain them, or leave a big bloody splatter.</p>
@@ -17,11 +17,11 @@
 <p aid:pstyle="ExampleDialogue">Jarl: I’ve had enough of this! I wallop the closest goblin with my hammer.</p>
 <p aid:pstyle="ExampleDialogue">GM: Okay, then. This is definitely combat, you’re using hack and slash. Roll+Str.</p>
 <p aid:pstyle="ExampleDialogue">Jarl: I got an 11. It says here that I have a choice. Fear is for the weak, let those goblins come!</p>
-<p aid:pstyle="ExampleDialogueLastLine">GM: You smash your hammer Into the nearest goblin and are rewarded by the satisfying sound of the crunching of his bones. That and a knife wound as the goblin counterattacks. He deals 4 damage to you. What do you do?</p>
+<p aid:pstyle="ExampleDialogueLastLine">GM: You smash your hammer into the nearest goblin and are rewarded by the satisfying sound of the crunching of his bones. That and a knife wound as the goblin counterattacks. He deals 4 damage to you. What do you do?</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Cadeus, from the shadows, you’ve got the drop on those orc warriors.</p>
 <p aid:pstyle="ExampleDialogue">Cadeus: I leap out and bring my sword down in a sweeping arc! Like this! Yeeeah!</p>
 <p aid:pstyle="ExampleDialogue">GM: Well, they weren’t expecting that, they’re caught totally off guard and you slice into one. Roll damage.</p>
-<p aid:pstyle="ExampleDialogue">Cadeus: I deal six damage.</p>
+<p aid:pstyle="ExampleDialogue">Cadeus: I deal 6 damage.</p>
 <p aid:pstyle="ExampleDialogueLastLine">GM:	The orc collapses in a bloody heap! The second orc freezes and then he’s grinning at you with that horrible tusked mouth, raising his signal horn from his belt! What do you do?</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Bartleby, you’ve got Finbar the Magnificent, mightiest duelist in the land, completely disarmed and at sword point.</p>
 <p aid:pstyle="ExampleDialogue">Bartleby: I won’t let you betray me again, Finbar! I run him through.</p>
@@ -39,8 +39,8 @@
 <p aid:pstyle="ExampleDialogueFirstLine">Aranwe: So, I’m stuck down here on the floor of the ritualarium and that orc eyegouger is chanting his ritual up on the pedestal? Since Thelian has the rest of the rabble busy, I’ll aim my bow and take a shot at the chanting orc.</p>
 <p aid:pstyle="ExampleDialogue">GM: An excellent choice—sounds like volley to me.</p>
 <p aid:pstyle="ExampleDialogue">Aranwe: I got an 8, damn. Well, I’m low on arrows and even lower on HP. I better take what I can get. I roll my damage, then subtract the results of a d6, right? I got a 3. Is that enough to distract him, at least?</p>
-<p aid:pstyle="ExampleDialogueLastLine">GM: Sure! The arrow digs into the eyegouger’s leg and he roars in pain, Interrupting the ritual temporarily. Unfortunately, it looks like interruption might just be worse—a terrible rumbling echoes from the pit under the pedestal and the masonry of the room begins to crumble. What do you do?</p>
-<p aid:pstyle="ExampleDialogueFirstLine">Halek: Kobolds and an ogre? Man, what’s going on here? Well, if they’re coming to get me, I might as well let my arrows say hello. I take a shot at mob. I rolled an 8.</p>
+<p aid:pstyle="ExampleDialogueLastLine">GM: Sure! The arrow digs into the eyegouger’s leg and he roars in pain, interrupting the ritual temporarily. Unfortunately, it looks like interruption might just be worse—a terrible rumbling echoes from the pit under the pedestal and the masonry of the room begins to crumble. What do you do?</p>
+<p aid:pstyle="ExampleDialogueFirstLine">Halek: Kobolds and an ogre? Man, what’s going on here? Well, if they’re coming to get me, I might as well let my arrows say hello. I take a shot at the mob. I rolled an 8.</p>
 <p aid:pstyle="ExampleDialogue">GM: Well, what’ll it be? Danger? Ammo?</p>
 <p aid:pstyle="ExampleDialogue">Halek: I’ll take the danger.</p>
 <p aid:pstyle="ExampleDialogue">GM: Well, the kobolds swarm you and you manage to hit one as they approach—he falls down but as the rest approach, you realize you’ve lost track of the Ogre. He smashes you with his club and you take 12 damage!</p>
@@ -53,14 +53,14 @@
 <li aid:pstyle="li">…by enduring, +Con</li>
 <li aid:pstyle="li">…with quick thinking, +Int</li>
 <li aid:pstyle="li">…through mental fortitude, +Wis</li>
-<li aid:pstyle="li">…using Charm and social grace, +Cha</li></ul>
+<li aid:pstyle="li">…using charm and social grace, +Cha</li></ul>
 <p aid:pstyle="MoveOneLine">✴On a 10+, you do what you set out to, the threat doesn’t come to bear. ✴On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.</p>
 <p aid:pstyle="NoIndent">You defy danger when you do something in the face of impending peril. This may seem like a catch-all. It is! Defy danger is for those times when it seems like you clearly should be rolling but no other move applies.</p>
 <p>Defy danger also applies when you make another move despite danger not covered by that move. For example, hack and slash assumes that’s you’re trading blows in battle—you don’t need to defy danger because of the monster you’re fighting unless there’s some specific danger that wouldn’t be part of your normal attack. On the other hand, if you’re trying to hack and slash while spikes shoot from hidden traps in the walls, those spikes are a whole different danger.</p>
 <p>Danger, here, is anything that requires resilience, concentration, or poise. This move will usually be called for by the GM. She’ll tell you what the danger is as you make the move. Something like “You’ll have to defy danger first. The danger is the steep and icy floor you’re running across. If you can keep your footing, you can make it to the door before the necromancer’s magic gets you.”</p>
 <p>Which stat applies depends on what action you take and your action has to trigger the move. That means you can’t defy danger from a steep and icy floor with a charming smile just so you can use Cha, since charmingly smiling at the icy floor does nothing to it. On the other hand, making a huge leap over the ice would be Str, placing your feet carefully would be Dex, and so on. Make the move to get the results.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Emory, as you climb up the side of the ravine you spy a cultist on a ledge nearby who evokes a frost spell and covers the side of the cliff with ice! If you want to keep climbing, you need to defy danger or you’ll fall.</p>
-<p aid:pstyle="ExampleDialogue">Emory: No way, I am too tough. I grit my teeth and dig my nails Into the wall, climbing one hand at a time. I’m using Con, okay? I got an 8, though…</p>
+<p aid:pstyle="ExampleDialogue">Emory: No way, I am too tough. I grit my teeth and dig my nails into the wall, climbing one hand at a time. I’m using Con, okay? I got an 8, though…</p>
 <p aid:pstyle="ExampleDialogue">GM: Hmm, well, I think the only way you can gain any traction, tough guy, is if you use your dagger to pull yourself up the last few feet. It’s going to be lodged in there until you have some time to pull it loose and there’s an angry spellcaster nearby.</p>
 <p aid:pstyle="ExampleDialogueLastLine">Emory: I can always get a new dagger when I get home. Time to finish this climb and that cultist.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: The athach is swinging his burly third arm down at you, knobby fingers gripping a broken branch. What are you doing, Valeria?</p>
@@ -107,11 +107,11 @@
 <p aid:pstyle="ExampleDialogueFirstLine">Fenfaril: The floor was illusory? Damn those gnomes. Damn them straight to wherever gnomes go when they’re dead.</p>
 <p aid:pstyle="ExampleDialogue">GM: Heh, yep. You’re in a murky pit, and there’s a shadowy humanoid shape, mottled and eyeless, moving towards you, mumbling.</p>
 <p aid:pstyle="ExampleDialogue">Fenfaril: Mumbling shape, huh? What is that thing? Is it going to attack me? I’m sure I’ve read about them somewhere before, maybe at school?</p>
-<p aid:pstyle="ExampleDialogue">GM: Could be. Spout Lore!</p>
+<p aid:pstyle="ExampleDialogue">GM: Could be. Spout lore!</p>
 <p aid:pstyle="ExampleDialogue">Fenfaril: Bestow your knowledge upon me, brain. I rolled an 8.</p>
 <p aid:pstyle="ExampleDialogue">GM: Well, of course you know of these things—the name escapes you but you definitely remember a drawing of a creature like this. It was in a hallway, standing guard over something. You know there’s a trick to get it to let you pass but you can’t quite remember. Why not?</p>
 <p aid:pstyle="ExampleDialogueLastLine">Fenfaril: Obviously I was hungover that day. I was a terrible student. A trick, you say? Hmm…</p>
-<p aid:pstyle="ExampleDialogueFirstLine">Vitus: I got a 10 on my Spout Lore about this gilded skull.</p>
+<p aid:pstyle="ExampleDialogueFirstLine">Vitus: I got a 10 on my spout lore about this gilded skull.</p>
 <p aid:pstyle="ExampleDialogue">GM: You’re pretty sure you recognize the metalwork of Dis, the living city.</p>
 <p aid:pstyle="ExampleDialogue">Vitus: …and? I did get a 10!</p>
 <p aid:pstyle="ExampleDialogue">GM: Right, of course. Well, you recognize a few glyphs specifically. They’re efreeti, marks of a fire spell, but they’re different, a kind of transmutation magic. I bet if you cast a spell into the skull, it’ll turn it into a fire spell.</p>
@@ -141,16 +141,16 @@
 <h2 aid:pstyle="BasicMoveName">Parley</h2>
 <p aid:pstyle="MoveOneLine">When you <Strong>have leverage on a GM Character and manipulate them</Strong>, roll+Cha. Leverage is something they need or want. ✴On a 10+, they do what you ask if you first promise what they ask of you. ✴On a 7–9, they will do what you ask, but need some concrete assurance of your promise, right now.</p>
 <p aid:pstyle="NoIndent">Parley covers a lot of ground including old standbys like intimidation and diplomacy. You know you’re using parley when you’re trying to get someone to do something for you by holding a promise or threat over them. Your leverage can be nasty or nice, the tone doesn’t matter.</p>
-<p>Merely asking someone politely isn’t parleying. That’s just talking. You say “Can I have that magic sword?” and the Sir Telric says “Hell no, this is my blade, my father forged it and my mother enchanted it” and that’s that. To parley, you have to have leverage. Leverage is anything that could lure the target of your parley to do something for you. Maybe it’s something they want or something they don’t want you to do. Like a sack of gold. Or punching them in the face. What counts as leverage depends on the people involved and the request being made. Threaten a lone goblin with death and you have leverage. Threaten a goblin backed up by his gang with death and he might think he’s better off in a fight.</p>
+<p>Merely asking someone politely isn’t parleying. That’s just talking. You say “Can I have that magic sword?” and Sir Telric says “Hell no, this is my blade, my father forged it and my mother enchanted it” and that’s that. To parley, you have to have leverage. Leverage is anything that could lure the target of your parley to do something for you. Maybe it’s something they want or something they don’t want you to do. Like a sack of gold. Or punching them in the face. What counts as leverage depends on the people involved and the request being made. Threaten a lone goblin with death and you have leverage. Threaten a goblin backed up by his gang with death and he might think he’s better off in a fight.</p>
 <p>On a 7+ they ask you for something related to whatever leverage you have. If your leverage is that you’re standing before them sharpening your knife and insinuating about how much you’d like to shank them with it they might ask you to let them go. If your leverage is your position in court above them they might ask for a favor.</p>
 <p>Whatever they ask for, on a 10+, you just have to promise it clearly and unambiguously. On a 7–9, that’s not enough: you also have to give them some assurance, right now, before they do what you want. If you promise that you’ll ensure their safety from the wolves if they do what you want and you roll a 7–9 they won’t do their part until you bring a fresh wolf pelt to prove you can do it, for example. It’s worth noting that you don’t actually have to keep your promise. Whether you’ll follow up or not, well, that’s up to you. Of course breaking promises leads to problems. People don’t take kindly to oath-breakers and aren’t likely to deal with them in the future.</p>
-<p>In some cases when you state what you want you may include a possible promise for the creature to make, as in “flee and I’ll let you live.” It’s up to the target of the Parley if that’s the promise they want or if they have something else in mind. They can say “yes, let me live and I’ll go” (with assurances, if you rolled a 7–9) or “promise me you won’t follow me.”</p>
+<p>In some cases when you state what you want you may include a possible promise for the creature to make, as in “flee and I’ll let you live.” It’s up to the target of the parley if that’s the promise they want or if they have something else in mind. They can say “yes, let me live and I’ll go” (with assurances, if you rolled a 7–9) or “promise me you won’t follow me.”</p>
 <p aid:pstyle="ExampleDialogueFirstLine">Leena: “Lord Hywn, I need you to vouch for me or the Queen will never grant me an audience.”</p>
 <p aid:pstyle="ExampleDialogue">GM: He’s not really convinced—it could be a big hit to his reputation if you embarrass him. “Why should I help you, Leena?”</p>
 <p aid:pstyle="ExampleDialogue">Leena: Oh, while I talk to him, I absentmindedly play with the signet ring from that assassin we killed. The one he hired to off the prince. I make sure he sees it.</p>
 <p aid:pstyle="ExampleDialogue">GM: Oh boy, okay. Roll parley.</p>
 <p aid:pstyle="ExampleDialogue">Leena: An 8.</p>
-<p aid:pstyle="ExampleDialogue">GM: “Enough being coy!” he looks at you cold and angry “You and I both know you murdered my hired man. Give me the ring, swear to silence, and I’ll do as you ask.”</p>
+<p aid:pstyle="ExampleDialogue">GM: “Enough being coy!” he looks at you cold and angry. “You and I both know you murdered my hired man. Give me the ring, swear to silence, and I’ll do as you ask.”</p>
 <p aid:pstyle="ExampleDialogueLastLine">Leena: I toss it to him. We can always dig up more dirt on this scumbag later.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">Pendrell: This is the place where One Eye plays cards, right? Okay, I walk up to the guard. “Hey there fellows, care to, you know, open the door and let me in?” and I’m being all suave and cool so they’ll do it. Parley is roll+Cha right?</p>
 <p aid:pstyle="ExampleDialogue">GM: Not so fast, slick. All you’ve done is say what you want. The big smelly one on the right steps in front of you and says “Sorry sir, private game,” all bored-sounding. It’s like he hates his job and wishes he were someplace else. If you want to parley, you’re going to need some leverage. Maybe a bribe?</p>
@@ -172,7 +172,7 @@
 <p>There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He’s escaped with something that, by rights, isn’t his anymore. Death is powerless to stop this, but he remembers this slight. On a 7–9, the GM should offer a real choice with significant consequence. Think about the behaviors of the character and the things you’ve learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say “Death takes you across the threshold, into his bleak kingdom.” and move on. However, sometimes Death comes slowly. You might say “you have a week to live” or “you can feel the cold hand of death on you…” and leave it at that, for now. The player may want to give in and accept death at this point—that’s okay. Let them create a new character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should always lead to change.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Sparrow, as the knife blade disappears into your guts, the world fades away and you stand before the Black Gates of Death. Among the throngs of suffering souls, you spot Lord Hwyn, that sickly cur. It looks like all his ill deals caught up with him at last. He spots you across the bleak gulf and you feel the chill of his hunger in your very soul. Take your Last Breath.</p>
 <p aid:pstyle="ExampleDialogue">Sparrow: Heavy. I got a 9.</p>
-<p aid:pstyle="ExampleDialogue">GM: Death appears to you, wisps of black cloth dancing around his shadowy form. A pale hand touches your face. You hear his voice in your mind. “Come to me so soon, pretty Sparrow? You follow a river of souls, sent here by your blade. I do so love you for them. I’ll return you to the world, but you must make me a promise. In shadow you dwell, so shadow you shall become. Shun the light of day forever or find a quick trip back to my company. What do you say, little thief?</p>
+<p aid:pstyle="ExampleDialogue">GM: Death appears to you, wisps of black cloth dancing around his shadowy form. A pale hand touches your face. You hear his voice in your mind. “Come to me so soon, pretty Sparrow? You follow a river of souls, sent here by your blade. I do so love you for them. I’ll return you to the world, but you must make me a promise. In shadow you dwell, so shadow you shall become. Shun the light of day forever or find a quick trip back to my company. What do you say, little thief?”</p>
 <p aid:pstyle="ExampleDialogue">Sparrow: (gulp)</p>
 <h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
 <p aid:pstyle="NoIndent">When you <Strong>make a move while carrying weight</Strong> you may be encumbered. If your weight carried is:</p>
@@ -180,11 +180,11 @@
 <li aid:pstyle="li">Less than or equal to your Load+2, you take -1 ongoing until you lighten your burden</li>
 <li aid:pstyle="Lastli">Greater than your Load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
 <p aid:pstyle="NoIndent">A PC’s Load stat is determined by their class and Str. Being able to haul more is a clear benefit when trying to carry treasure out of a dungeon or just making sure you can bring along what you need.</p>
-<p>This move only applies to things a person could walk around with and still act. Carrying a boulder on your back is not encumbrance—you can’t really act or move much with it. It effects what moves you can make appropriately in the fiction.</p>
+<p>This move only applies to things a person could walk around with and still act. Carrying a boulder on your back is not encumbrance—you can’t really act or move much with it. It affects what moves you can make appropriately in the fiction.</p>
 <h2 aid:pstyle="BasicMoveName">Make Camp</h2>
-<p aid:pstyle="MoveOneLine">When you <strong>settle in to rest</strong> Consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
+<p aid:pstyle="MoveOneLine">When you <strong>settle in to rest</strong> consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
 <p aid:pstyle="NoIndent">You usually make camp so that you can do other things, like prepare spells or commune with your god. Or, you know, sleep soundly at night. Whenever you stop to catch your breath for more than an hour or so, you’ve probably made camp.</p>
-<p>Staying a night in an inn or house is making camp, too. Regain your hit poInts as usual, but only mark off a ration if you’re eating from the food you carry, not paying for a meal or receiving hospitality.</p>
+<p>Staying a night in an inn or house is making camp, too. Regain your hit points as usual, but only mark off a ration if you’re eating from the food you carry, not paying for a meal or receiving hospitality.</p>
 <h2 aid:pstyle="BasicMoveName">Take Watch</h2>
 <p aid:pstyle="MoveOneLine">When <Strong>you’re on watch and something approaches the camp</Strong> roll+Wis. ✴On a 10+, you’re able to wake the camp and prepare a response, everyone in the camp takes +1 forward. ✴On a 7–9, you react just a moment too late; your companions in camp are awake but haven’t had time to prepare. They have weapons and armor but little else. ✴On a miss, whatever lurks outside the campfire’s light has the drop on you.</p>
 <h2 aid:pstyle="BasicMoveName">Undertake a Perilous Journey</h2>
@@ -193,7 +193,7 @@
 <ul><li aid:pstyle="li">the quartermaster reduces the number of rations required by one</li>
 <li aid:pstyle="li">the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much)</li>
 <li aid:pstyle="li">the scout will spot any trouble quick enough to let you get the drop on it</li></ul>
-<p aid:pstyle="MoveOneLine">✴On a 7–9, each role performs their job as expected: the normal number of rations are Consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.</p>
+<p aid:pstyle="MoveOneLine">✴On a 7–9, each role performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.</p>
 <p aid:pstyle="NoIndent">You can’t assign more than one job to a Character. If you don’t have enough party members, or choose not to assign a job, treat that job as if it had been assigned and the responsible player had rolled a 6.</p>
 <p>Distances in Dungeon World are measured in rations. A ration is the amount of supplies used up in a day. Journeys take more rations when they are long or when travel is slow.</p>
 <p>A perilous journey is the whole way between two locations. You don’t roll for one day’s journey and then make camp only to roll for the next day’s journey, too. Make one roll for the entire trip.</p>
@@ -203,7 +203,7 @@
 <ul><li aid:pstyle="li">Subtract your current level+7 from your XP.</li>
 <li aid:pstyle="li">Increase your level by 1.</li>
 <li aid:pstyle="li">Choose a new advanced move from your class.</li>
-<li aid:pstyle="li">If you are the Wizard, you also get to add a new spell to your spellbook.</li>
+<li aid:pstyle="li">If you are the wizard, you also get to add a new spell to your spellbook.</li>
 <li aid:pstyle="Lastli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</li></ul>
 <h2 aid:pstyle="BasicMoveName">End of Session</h2>
 <p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</p>
@@ -213,7 +213,7 @@
 <li aid:pstyle="li">Did we loot a memorable treasure?</li></ul>
 <p aid:pstyle="MoveOneLine">For each “yes” answer everyone marks XP.</p>
 <h2 aid:pstyle="BasicMoveName">Carouse</h2>
-<p aid:pstyle="NoIndent">When you <Strong>return triumphant and throw a big party</Strong>, spend 100 coin and roll +1 for every extra 100 coin spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a miss, you still choose one, but things get really out of hand (the GM will say how).</p>
+<p aid:pstyle="NoIndent">When you <Strong>return triumphant and throw a big party</Strong>, spend 100 coins and roll +1 for every extra 100 coins spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a miss, you still choose one, but things get really out of hand (the GM will say how).</p>
 <ul><li aid:pstyle="li">You befriend a useful NPC.</li>
 <li aid:pstyle="li">You hear rumors of an opportunity.</li>
 <li aid:pstyle="li">You gain useful information.</li>

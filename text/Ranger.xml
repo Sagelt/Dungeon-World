@@ -2,7 +2,7 @@
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Ranger</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">These city-born folk you travel with. Have they heard the call of the wolf? Felt the winds howl in the bleak deserts of the East? Have they hunted their prey with the bow and the knife like you? Hell no. That’s why they need you.</p>
-<p>Guide. Hunter. Creature of the wilds. You are these things and more. Your time in the wilderness may have been solitary until now, but the call of some greater thing—call it fate if you like, has cast your lot with these folk. Brave, they may be. Powerful and strong, too. You know the secrets of the spaces-between, though.</p>
+<p>Guide. Hunter. Creature of the wilds. You are these things and more. Your time in the wilderness may have been solitary until now, but the call of some greater thing—call it fate if you like—has cast your lot with these folk. Brave, they may be. Powerful and strong, too. You know the secrets of the spaces-between, though.</p>
 <p>Without you, they’d be lost. Blaze a trail through the blood and dark, strider.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe</p> 
@@ -53,7 +53,7 @@
 <li>…and you take damage, add its armor to your armor</li>
 <li>…and you discern realities, add its cunning to your roll</li>
 <li>…and you parley, add its cunning to your roll</li>
-<li>…and someone interferes with you, add its instinct to your roll</li></ul></div></div>
+<li>…and someone interferes with you, add its instinct to their roll</li></ul></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
@@ -63,7 +63,7 @@
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Help an animal or spirit of the wild.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 11+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), and a bundle or arrows (3 ammo, 1 weight). Choose your armament:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 11+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), and a bundle of arrows (3 ammo, 1 weight). Choose your armament:</p>
 <ul><li aid:pstyle="Option">Hunter’s bow (near, far, 1 weight) and short sword (close, 1 weight)</li>
 <li aid:pstyle="Option">Hunter’s bow (near, far, 1 weight) and spear (reach, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
@@ -76,7 +76,7 @@
 <p>_______________ has no respect for nature, so I have no respect for them.</p>
 <p>_______________ does not understand life in the wild, so I will teach them.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">Take this move only if it is your first advancement</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">You may take this move only if it is your first advancement.</p>
 <h3 aid:pstyle="MoveName">Half-Elven</h3>
 <p aid:pstyle="NoIndent">Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the elf starting move if you took the human one at character creation or vice versa.</p>
 <p aid:pstyle="Instructions">When you gain a level from 2-5, choose from these moves.</p>
@@ -97,7 +97,7 @@
 <h3 aid:pstyle="MoveName">God Amidst the Wastes</h3>
 <p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.</p>
 <h3 aid:pstyle="MoveName">Follow Me</h3>
-<p aid:pstyle="NoIndent">When you undertake a perilous Journey you can take two roles. You make a separate roll for each.</p>
+<p aid:pstyle="NoIndent">When you undertake a perilous journey you can take two roles. You make a separate roll for each.</p>
 <h3 aid:pstyle="MoveName">A Safe Place</h3>
 <p aid:pstyle="NoIndent">When you <strong>set the watch for the night</strong>, everyone takes +1 to take watch.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>

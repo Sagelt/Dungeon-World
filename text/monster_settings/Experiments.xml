@@ -16,7 +16,7 @@
 <li>Run them over</li>
 <li>Poison them</li></ul>
 <p aid:pstyle="MonsterName">Derro	<span aid:cstyle="Tags">Horde, Devious, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Pickaxe (2d6·w damage)	3 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Pickaxe (w[2d6] damage)	3 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
 <p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the Derro, are the mistakes of a long-forgotten dwarven alchemist. The Derro don’t forget, though. Twisted and hateful, the Derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
@@ -30,7 +30,7 @@
 <ul><li>Eat away at something</li>
 <li>Draw sustenance</li></ul>
 <p aid:pstyle="MonsterName">Ethereal Filcher	<span aid:cstyle="Tags">Solitary, Devious, Planar</span></p>
-<p aid:pstyle="MonsterStats">Stolen dagger (2d8·w damage)	12 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Stolen dagger (w[2d8] damage)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
 <p aid:pstyle="MonsterDescription">Things go missing. A sock, a silver spoon, your dead mother’s bones. We blame the maid, or bad luck, or just a moment of stupid forgetfulness and we move on. We never get to see the real cause of these problems. The spidery thing with human hands and eyes as blue as the deep Ethereal plane from whence the creature comes. We never see the nest it makes of astral silver webbing and stolen objects arranged in some mad pattern. We never watch it assemble its collection of halfling finger-bones, stolen from the hands of the sleeping. We’re lucky, that way. <em>Instinct</em>: To steal</p>

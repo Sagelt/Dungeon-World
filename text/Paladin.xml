@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Paladin</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">Hell awaits. An eternity of torment in fire or ice or whatever best suits the sins of the damned throngs of Dungeon World. All that stands between the pits of that grim torture and salvation is you. Holy man, armored war machine, templar of the Good and the Light, right? The Cleric may say his prayers at night to the gods, dwelling in their heavens. The Fighter may wield his sharp sword in the name of “good” but you know. Only you.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Hell awaits. An eternity of torment in fire or ice or whatever best suits the sins of the damned throngs of Dungeon World. All that stands between the pits of that grim torture and salvation is you. Holy man, armored war machine, templar of the Good and the Light, right? The cleric may say his prayers at night to the gods, dwelling in their heavens. The fighter may wield his sharp sword in the name of “good” but you know. Only you.</p>
 <p>Eyes, hands, and sweet killing blow of the gods, you are. Yours is the gift of righteousness and virtue. Of justice. Vision, too. A purity of intent that your companions do not have.
-So guide these fools, Paladin. Take up your holy cause and bring salvation to the wastrel world.</p> 
+So guide these fools, paladin. Take up your holy cause and bring salvation to the wastrel world.</p> 
 <p>Vae victis, right?</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent">Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius</p></div>
@@ -34,7 +34,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <h3 aid:pstyle="BasicMoveName">Quest</h3>
 <p aid:pstyle="NoIndent">When you <strong>dedicate yourself to a mission through prayer and ritual cleansing</strong>, state what you set out to do:</p>
 <ul><li>Slay _______, a great blight on the land</li>
-<li>Defend _______ from the inequities that beset them</li>
+<li>Defend _______ from the iniquities that beset them</li>
 <li>Discover the truth of _______</li></ul>
 <p aid:pstyle="NoIndent">Then choose up to two boons:</p>
 <ul><li>An unwavering sense of direction to _______.</li>
@@ -103,7 +103,7 @@ So guide these fools, Paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.</p>
 <h3 aid:pstyle="MoveName">Impervious Defender</h3>
 <p aid:pstyle="Requirement">Replaces: Staunch Defender</p>
-<p aid:pstyle="NoIndent">When you defend you always get +1 hold,even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
+<p aid:pstyle="NoIndent">When you defend you always get +1 hold, even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
 <h3 aid:pstyle="MoveName">Tandem Strike</h3>
 <p aid:pstyle="Requirement">Replaces: Setup Strike</p>
 <p aid:pstyle="NoIndent">When you hack and slash, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.</p>

@@ -2,7 +2,7 @@
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Thief</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p>
-<p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you’re done all this delving you’ll toast their hero’s graves.</p>
+<p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you’re done with all this delving you’ll toast their hero’s graves.</p>
 <p>From your castle. Full of gold. You rogue.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Halfling</em>: Felix, Rook, Mouse, Sketch, Trixie, Robin, Omar, Brynn, Bug</p>
@@ -40,10 +40,10 @@
 <p aid:pstyle="NoIndent">When someone tries to detect your alignment you can tell them any alignment you like.</p>
 <h3 aid:pstyle="BasicMoveName">Poisoner</h3>
 <p aid:pstyle="NoIndent">You’ve mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.</p>
-<ul><li>Oil of Tagit (Applied): The target falls into a light sleep</li>
-<li>Bloodweed (Touch): The target deals -1d4 damage ongoing until cured</li>
-<li>Goldenroot (Applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
-<li>Serpent’s Tears (Touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div></div>
+<ul><li>Oil of Tagit (applied): The target falls into a light sleep</li>
+<li>Bloodweed (touch): The target deals -1d4 damage ongoing until cured</li>
+<li>Goldenroot (applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
+<li>Serpent’s Tears (touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
@@ -53,7 +53,7 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Shift danger or blame from yourself to someone else.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You start with one dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coin. Choose your arms:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You start with one dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coins. Choose your arms:</p>
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight) and short sword (Close, 1 weight)</li>
 <li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>

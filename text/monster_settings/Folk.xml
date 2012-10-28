@@ -19,7 +19,7 @@
 <ul><li>Steal something</li>
 <li>Demand tribute</li></ul>
 <p aid:pstyle="MonsterName">Bandit King	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Trusty knife (2d10·b damage)	12 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Trusty knife (b[2d10] damage)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">Better to rule in hell than serve in heaven. <em>Instinct</em>: To lead</p>
 <ul><li>Make a demand</li>
@@ -36,7 +36,7 @@
 <ul><li>Uphold the law</li>
 <li>Make a profit</li></ul>
 <p aid:pstyle="MonsterName">Halfling Thief	<span aid:cstyle="Tags">Solitary, Small, Intelligent, Stealthy, Devious</span></p>
-<p aid:pstyle="MonsterStats">Dagger (2d8·w damage)	12 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Dagger (w[2d8] damage)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">It would be foolish, now, to draw conclusions about folks just because they happen to be good at one thing or another. Then again, a spade’s a spade, isn’t it. Or maybe just the goodly, soft-and-sweet type of Halfling have the mind to stay in their grassy-hill homes and aren’t the type you find in the slums and taverns of the mannish world. Perhaps they’re there to cut your purse for calling them “halfling” in the first place. Not all take so kindly to the title. Or they’re playing a game, pretending to be a child in need of alms—and your arrogant eyes can’t even see the difference until too late. Well, it matters little. They’re gone with your coin before you even realize you deserved it. <em>Instinct</em>: To live a life of stolen luxury</p>
 <ul><li>Steal</li>
@@ -53,11 +53,11 @@
 <p aid:pstyle="MonsterName">Hunter	<span aid:cstyle="Tags">Group, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Ragged bow (d6 damage)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
-<p aid:pstyle="MonsterDescription">The wilds are home to more than just beasts of horn and scale. There are men and women out there, too—those who smell blood on the wind and stalk the plains in the skins of their prey. Whether with a trusty longbow bought on a rare trip into the city or with a knife of bone and sinew, these folk have more in common with the things they track and make their meals than with their own kind. Solemn, somber and quiet, they find a sort of peace in the wild. <em>Instinct</em>: To survive</p>
+<p aid:pstyle="MonsterDescription">The wilds are home to more than just beasts of horn and scale. There are men and women out there, too—those who smell blood on the wind and stalk the plains in the skins of their prey. Whether with a trusty longbow bought on a rare trip into the city or with a knife of bone and sinew, these folk have more in common with the things they track and eat than with their own kind. Solemn, somber and quiet, they find a sort of peace in the wild. <em>Instinct</em>: To survive</p>
 <ul><li>Bring back news from the wilds</li>
 <li>Slay a beast</li></ul>
 <p aid:pstyle="MonsterName">Knight	<span aid:cstyle="Tags">Solitary, Intelligent, Organized, Cautious</span></p>
-<p aid:pstyle="MonsterStats">Sword (2d10·b damage)	12 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Sword (b[2d10] damage)	12 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">What youngster doesn’t cling to the rail at the mighty joust, blinded by the sun on their glittering armor, wishing they could be the one adorned in steel and riding to please the King and Queen? What peasant youth with naught but a loaf of bread and a lame sow doesn’t wish to trade it all in for the lance and the bright pennant? A knight is many things—a holy warrior, a sworn sword, a villain sometimes, too, but a knight cannot help but be a symbol to all who see her. A knight means something. <em>Instinct</em>: To live by a code</p>
 <ul><li>Make a moral stand</li>

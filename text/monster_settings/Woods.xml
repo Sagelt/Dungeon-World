@@ -27,7 +27,7 @@
 <p aid:pstyle="MonsterStats">Warping touch (d10 damage ignores armor)	23 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Ooze, Fragments of other planes embedded in it</p>
-<p aid:pstyle="MonsterDescription">The barrier between Dungeon World and the elemental planes is not, as you might hope, a wall of stone. It’s much more porousPlaces where the civil races do not often tread can sometimes, how to put this, spring a leak. Like a dam come just a little loose. Bits and pieces of the chaos spill out. Sometimes, they’ll congeal like an egg on a pan—that’s where we get the material for many of the Guild’s magical trinkets. Useful, right? Sometimes, though, it squirms and squishes around a bit and stays that way, warping all it touches into some other, strange form. Chaos begets chaos, and it grows. <em>Instinct</em>: To change</p>
+<p aid:pstyle="MonsterDescription">The barrier between Dungeon World and the elemental planes is not, as you might hope, a wall of stone. It’s much more porous. Places where the civil races do not often tread can sometimes, how to put this, spring a leak. Like a dam come just a little loose. Bits and pieces of the chaos spill out. Sometimes, they’ll congeal like an egg on a pan—that’s where we get the material for many of the Guild’s magical trinkets. Useful, right? Sometimes, though, it squirms and squishes around a bit and stays that way, warping all it touches into some other, strange form. Chaos begets chaos, and it grows. <em>Instinct</em>: To change</p>
 <ul><li>Cause a change in appearance or substance</li>
 <li>Briefly bridge the planes</li></ul>
 <p aid:pstyle="MonsterName">Cockatrice	<span aid:cstyle="Tags">Group, Small, Hoarder</span></p>
@@ -45,7 +45,7 @@
 <li>Merge into a tree</li>
 <li>Turn nature against them</li></ul>
 <p aid:pstyle="MonsterName">Eagle Lord	<span aid:cstyle="Tags">Group, Large, Organized, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Talons (2d8·b+1 damage, 1 piercing)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Talons (b[2d8]+1 damage, 1 piercing)	10 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Mighty wings</p>
 <p aid:pstyle="MonsterDescription">Some the size of horses. Bigger, even—the kings and queens of the eagles. Their cry pierces the mountain sky and woe to those who fall under the shadow of their mighty wings. The ancient wizards forged a pact with them in the primordial days. Men would take the plains and valleys and leave the mountaintops to the eagle lords. These sacred pacts should be honored, lest they set their talons into you. Lucky are the elves, for the makers of their treaties yet live and when danger comes to elvish lands, the eagle lords often serve as spies and mounts for the them. Long-lived and proud, some might be willing to trade their ancient secrets for the right price, too. <em>Instinct</em>: To rule the heights</p>
@@ -53,7 +53,7 @@
 <li>Pull someone into the air</li>
 <li>Call on ancient oaths</li></ul>
 <p aid:pstyle="MonsterName">Elvish Warrior	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Sword (2d6·b damage)	3 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Sword (b[2d6] damage)	3 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Sharp sense</p>
 <p aid:pstyle="MonsterDescription">”As with all things they undertake, the elves approach war as an art. I saw them fight, once. The Battle of Astrid’s Veil. Yes, I am that old, boy, now hush. A warrior-maiden, she was clad in plate that shone like the winter sky. White hair streaming and a pennant of ocean blue tied to her spear. She seemed to glide between the trees the way an angel might, striking out and bathing her blade in blood that steamed in the cold air. I never felt so small before. I trained with the master-at-arms of Battlemoore, you know. I’ve held a sword longer than you’ve been alive, boy, and in that one moment I knew that my skill meant nothing. Thank the gods the elves were with us then. A more beautiful and terrible thing I have never seen.” <em>Instinct</em>: To seek perfection</p>
@@ -64,7 +64,7 @@
 <p aid:pstyle="MonsterStats">Arcane fire (d10 damage ignores armor)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Sharp senses</p>
-<p aid:pstyle="MonsterDescription">True Elvish magic isn’t like the spells of men. Mannish wizardry is all rotes and formulas. They cheat to find the arcane secrets that resound all around them. They are deaf to the arcane symphony that sings in the woods. Elvish magic is fine ear to hear it and the voice with which to sing. To harmonize with what is already resounding. Men bind the forces of magic to their will; Elves simply pluck the strings and hum along. The High Arcanists, in a way, have become more and less than any elf. The beat of their blood is the throbbing of all magic in this world. <em>Instinct</em>: To unleash power</p>
+<p aid:pstyle="MonsterDescription">True Elvish magic isn’t like the spells of men. Mannish wizardry is all rotes and formulas. They cheat to find the arcane secrets that resound all around them. They are deaf to the arcane symphony that sings in the woods. Elvish magic requires a fine ear to hear that symphony and the voice with which to sing. To harmonize with what is already resounding. Men bind the forces of magic to their will; Elves simply pluck the strings and hum along. The High Arcanists, in a way, have become more and less than any elf. The beat of their blood is the throbbing of all magic in this world. <em>Instinct</em>: To unleash power</p>
 <ul><li>Work the magic that nature demands</li>
 <li>Cast forth the elements</li></ul>
 <p aid:pstyle="MonsterName">Griffin	<span aid:cstyle="Tags">Group, Large, Organized</span></p>
@@ -75,13 +75,6 @@
 <ul><li>Judge someone’s worthiness</li>
 <li>Carry an ally aloft</li>
 <li>Strike from above</li></ul>
-<p aid:pstyle="MonsterName">Ogre	<span aid:cstyle="Tags">Group, Large, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Club (d8+5 damage)	10 HP	1 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
-<p aid:pstyle="MonsterDescription">A tale, then. Somewhere in the not-so-long history of the mannish race there was a divide. In days when men were merely dwellers-in-the-mud with no magic to call their own, they split in two: one camp left their caves and the dark forests and built the first city to honor the gods. The others, a wild and savage lot, retreated into darkness. They grew, there. In the deep woods a grim loathing for their softer kin gave them strength. They found dark gods of their own, there in the woods and hills. Ages passed and they bred tall and strong and full of hate. We have forged steel and they match it with their savagery. We may have forgotten our common roots, but somewhere, deep down, the ogres remember. <em>Instinct</em>: To return the world to darker days</p>
-<ul><li>Destroy something</li>
-<li> Fly into a rage</li>
-<li> Take something by force</li></ul>
 <p aid:pstyle="MonsterName">Hill Giant	<span aid:cstyle="Tags">Group, Huge, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Thrown rocks (d8+3 damage)	10 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Near, Far, Forceful</span></p>
@@ -89,14 +82,29 @@
 <ul><li>Throw something</li>
 <li>Do something stupid</li>
 <li>Shake the earth</li></ul>
+<p aid:pstyle="MonsterName">Ogre	<span aid:cstyle="Tags">Group, Large, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Club (d8+5 damage)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterDescription">A tale, then. Somewhere in the not-so-long history of the mannish race there was a divide. In days when men were merely dwellers-in-the-mud with no magic to call their own, they split in two: one camp left their caves and the dark forests and built the first city to honor the gods. The others, a wild and savage lot, retreated into darkness. They grew, there. In the deep woods a grim loathing for their softer kin gave them strength. They found dark gods of their own, there in the woods and hills. Ages passed and they bred tall and strong and full of hate. We have forged steel and they match it with their savagery. We may have forgotten our common roots, but somewhere, deep down, the ogres remember. <em>Instinct</em>: To return the world to darker days</p>
+<ul><li>Destroy something</li>
+<li> Fly into a rage</li>
+<li> Take something by force</li></ul>
 <p aid:pstyle="MonsterName">Razor Boar	<span aid:cstyle="Tags">Solitary</span></p>
 <p aid:pstyle="MonsterStats">Tusks (d10 damage, 3 piercing)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
 <p aid:pstyle="MonsterDescription">The tusks of the razor boar shred metal plate like so much tissue. Voracious, savage and unstoppable, they tower over their mundane kin. To kill one? A greater trophy of bravery and skill is hard to name, though I hear a razor boar killed the Drunkard King in a single thrust. You think you’re a better hunter than he? <em>Instinct</em>: To shred</p>
 <ul><li>Rip them apart</li>
 <li>Rend armor and weapons</li></ul>
+<p aid:pstyle="MonsterName">Satyr	<span aid:cstyle="Tags">Group, Devious, Magical, Hoarder</span></p>
+<p aid:pstyle="MonsterStats">Charge (w[2d8] damage)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Enchantment</p>
+<p aid:pstyle="MonsterDescription">One of only a very few creatures to be found in the old woods that don’t outright want to maim, kill, or eat us. They dwell in glades pierced by the sun, and dance on their funny goat-legs to enchanting music played on pipes made of bone and silver. They smile easily and, so long as you please them with jokes and sport, will treat our kind with friendliness. They’ve a mean streak, though, so if you cross them, make haste elsewhere; very few things hold a grudge like the stubborn satyr. <em>Instinct</em>: To enjoy</p>
+<ul><li>Pull others into revelry through magic</li>
+<li>Force gifts upon them</li>
+<li>Play jokes with illusions and tricks</li></ul>
 <p aid:pstyle="MonsterName">Sprite	<span aid:cstyle="Tags">Horde, Tiny, Stealthy, Magical, Devious, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Dagger (2d4·w damage)	3 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Dagger (w[2d4] damage)	3 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Fey Magic</p>
 <p aid:pstyle="MonsterDescription">I’d classify them elementals, except that “being annoying” isn’t an element. <em>Instinct</em>: To play tricks</p>
@@ -131,12 +139,4 @@
 <p aid:pstyle="MonsterDescription">As horses are to the civil races, so go the worg to the goblins. Mounts, fierce in battle, ridden by only the bravest and most dangerous, are found and bred in the forest primeval to serve the goblins in their wars on men. The only safe worg is a pup, separated from its mother. If you can find one of these, or make orphans of a litter with a sharp sword, you’ve got what could become a loyal protector or hunting hound in time. Train it well, mind you, for the worg are smart and never quite free of their primal urges. <em>Instinct</em>: To serve</p>
 <ul><li>Carry a rider into battle</li>
 <li>Give its rider an advantage</li></ul>
-<p aid:pstyle="MonsterName">Satyr	<span aid:cstyle="Tags">Group, Devious, Magical, Hoarder</span></p>
-<p aid:pstyle="MonsterStats">Charge (2d8·w damage)	10 HP	1 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Enchantment</p>
-<p aid:pstyle="MonsterDescription">One of only a very few creatures to be found in the old woods that don’t outright want to maim, kill, or eat us. They dwell in glades pierced by the sun, and dance on their funny goat-legs to enchanting music played on pipes made of bone and silver. They smile easily and, so long as you please them with jokes and sport, will treat our kind with friendliness. They’ve a mean streak, though, so if you cross them, make haste elsewhere; very few things hold a grudge like the stubborn satyr. <em>Instinct</em>: To enjoy</p>
-<ul><li>Pull others into revelry through magic</li>
-<li>Force gifts upon them</li>
-<li>Play jokes with illusions and tricks</li></ul>
 </Body></Root>

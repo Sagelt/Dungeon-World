@@ -93,7 +93,7 @@
 <h3 aid:pstyle="MoveName">Arcane Ward</h3>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +2 armor.</p>
 <h3 aid:pstyle="MoveName">Counterspell</h3>
-<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>, stake one of your prepared spells of equal or higher level on the defense and roll+Int. ✴On a 10+, the spell is countered and has no effect on you. ✴On a 7-9, the spell is countered and you forget the spell you staked. Your counterspell protects only you; if the countered spell has other targets they get its effects.</p>
+<p aid:pstyle="NoIndent">When you <strong>attempt to counter an arcane spell that will otherwise affect you</strong>, stake one of your prepared spells on the defense and roll+Int. ✴On a 10+, the spell is countered and has no effect on you. ✴On a 7-9, the spell is countered and you forget the spell you staked. Your counterspell protects only you; if the countered spell has other targets they get its effects.</p>
 <h3 aid:pstyle="MoveName">Quick Study</h3>
 <p aid:pstyle="NoIndent">When you <strong>see the effects of an arcane spell</strong>, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
@@ -110,7 +110,7 @@
 <p aid:pstyle="NoIndent">When you have time and safety with a magic item in a place of power you can empower that item so that the next time you use it its effects are amplified, the GM will tell you exactly how.</p>
 <h3 aid:pstyle="MoveName">Highly Logical</h3>
 <p aid:pstyle="Requirement">Replaces: Logical</p>
-<p aid:pstyle="NoIndent">When you <strong>use strict deduction to analyze your surroundings</strong>, you can Discern Realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.</p>
+<p aid:pstyle="NoIndent">When you <strong>use strict deduction to analyze your surroundings</strong>, you can discern realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.</p>
 <h3 aid:pstyle="MoveName">Arcane Armor</h3>
 <p aid:pstyle="Requirement">Replaces: Arcane Ward</p>
 <p aid:pstyle="NoIndent">As long as you have at least one prepared spell of first level or higher, you have +4 armor.</p>

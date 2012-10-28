@@ -3,7 +3,7 @@
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Bard</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">The poems say an adventurer’s life is all open roads and the glory of coin and combat. The tales told in every farmhand-filled inn have to have some ring of truth to them, don’t they? The songs to inspire peasantry and royals alike—to soothe the savage beast or drive men to a frenzy—have to come from somewhere.</p>
-<p>Enter the Bard. You, with your smooth tongue and quick wit. You teller-of-tales and singer-of-songs. It takes a mere minstrel to retell a thing but a true Bard to live it. Strap on your boots, noble orator. Sharpen that hidden dagger and take up the call. Someone’s got to be there, fighting shoulder-to-shoulder with the goons and the thugs and the soon-to-be-heroes. Who better than you to write the tale of your own heroism?</p>
+<p>Enter the bard. You, with your smooth tongue and quick wit. You teller-of-tales and singer-of-songs. It takes a mere minstrel to retell a thing but a true bard to live it. Strap on your boots, noble orator. Sharpen that hidden dagger and take up the call. Someone’s got to be there, fighting shoulder-to-shoulder with the goons and the thugs and the soon-to-be-heroes. Who better than you to write the tale of your own heroism?</p>
 <p>Nobody. Get going.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Astrafel, Daelwyn, Feliana, Damarra, Sistranalle, Pendrell, Melliandre, Dagoliir</p> 
@@ -75,8 +75,8 @@
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li>Adventuring Gear (1 weight)</li>
 <li>Bandages (0 weight)</li>
-<li>Halfling pipeleaf (1 weight)</li>
-<li>3 coin</li></ul></div>
+<li>Halfling pipeleaf (0 weight)</li>
+<li>3 coins</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>This is not my first adventure with _______________.</p>

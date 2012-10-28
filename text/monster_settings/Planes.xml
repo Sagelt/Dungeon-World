@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Planar Powers</h1>
 <Body><p aid:pstyle="MonsterName">Angel	<span aid:cstyle="Tags">Solitary, Terrifying, Divine, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Sword of Flames (2d10·b+4 damage, ignores armor)	18 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Sword of Flames (b[2d10]+4 damage, ignores armor)	18 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
 <p aid:pstyle="MonsterDescription">“So was it written that the heavens opened up to Avra’hal and did an angel from the clouds emerge to speak unto her and so did it appear to her as her firstborn daughter—beautiful, of ebon skin and golden eyes—and did Avra’hal weep to see it. ‘Be not afraid,’ it commanded her. ‘Go to the villages I have shown you in your dreams and unto them show the word I have written on your soul.’ Avra’hal wept and wept and did agree to do this and did take up her sword and tome and did into the villages go, a great thirst for blood on her lips for the word the angel wrote upon the soul of Avra’hal was ‘kill’.” <em>Instinct</em>: To share divine will</p>
@@ -27,7 +27,7 @@
 <p aid:pstyle="MonsterDescription">The planes are not as literal as our world. Clothed in the elemental chaos are places of stranger stuff than air and water. Here, rivers of time crash upon shores of crystal fear. Bleak storms of nightmare roil and churn in a laughter-bright sky. Sometimes, the spirits of these places can be lured into our world, though they are infinitely more unpredictable and strange than mere fire or earth might be. Easier to make mistakes, too—one might try calling up a wealth elemental and be surprised to find a murder elemental instead. <em>Instinct</em>: To perfect its concept</p>
 <ul><li>Demonstrate its concept in its purest form</li></ul>
 <p aid:pstyle="MonsterName">Corrupter	<span aid:cstyle="Tags">Solitary, Devious, Planar, Hoarder</span></p>
-<p aid:pstyle="MonsterStats">Secret dagger (2d8·w damage)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Secret dagger (w[2d8] damage)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">“Surely, my good man, you must know why I am here. Must know who I am. You said the words. You spilled the blood and followed the instructions almost to the letter. Your pronunciation was a bit off but that’s to be expected. I’ve come to give you what you’ve always wanted, friend. Glory, love, money? Paltry things when you’ve the vaults of hell to plumb. Don’t look so shocked, you knew what this was. You have but one thing we desire. Promise it to us, and the world shall be yours for the taking. Trust me.” <em>Instinct</em>: To bargain</p>
 <ul><li>Offer a deal with horrible consequences</li>
@@ -63,9 +63,9 @@
 <li>Enforce a law of nature or man</li>
 <li>Give a glimpse of destiny</li></ul>
 <p aid:pstyle="MonsterName">Larvae	<span aid:cstyle="Tags">Horde, Devious, Planar, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Slime (2d4·w damage)	10 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Slime (w[2d4] damage)	10 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">Those who have seen visions of the Planes Below, and survived with their sanity intact, speak of masses of these writhing wretches. Maggots with the face of men and women, crying out for salvation in a nest of flames. Sometimes, they can be goaded out through a rip in the planar caul and emerge, wriggling and in torment, into our world. Once here, they spread misery and sickness during their mayfly lives before expiring into a slurry of gore. All in all, an enticement to do good deeds in life. <em>Instinct</em>: To suffer</p>
+<p aid:pstyle="MonsterDescription">Those who have seen visions of the Planes Below, and survived with their sanity intact, speak of masses of these writhing wretches. Maggots with the faces of men and women, crying out for salvation in a nest of flames. Sometimes, they can be goaded out through a rip in the planar caul and emerge, wriggling and in torment, into our world. Once here, they spread misery and sickness during their mayfly lives before expiring into a slurry of gore. All in all, an enticement to do good deeds in life. <em>Instinct</em>: To suffer</p>
 <ul><li>Fill them with despair</li>
 <li>Beg for mercy</li>
 <li>Draw evil attention</li></ul>

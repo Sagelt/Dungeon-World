@@ -42,7 +42,7 @@
 <li>You must sacrifice ____ to do it</li></ul>
 <p aid:pstyle="NoIndent">The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.</p> 
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Hold Person</span>	Level 3</p>
-<p aid:pstyle="NoIndent">Choose a creature you can see. Until you cast a spell or leave their presence they cannot act except to speak. This effect ends immediately if the target takes damage from any source.</p></div>
+<p aid:pstyle="NoIndent">Choose a person you can see. Until you cast a spell or leave their presence they cannot act except to speak. This effect ends immediately if the target takes damage from any source.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Revelation</span>	Level 5</p>
 <p aid:pstyle="NoIndent">Your deity answers your prayers with a moment of perfect understanding. The GM will shed light on the current situation. When acting on the information, you take +1 forward.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cure Critical Wounds</span>	Level 5</p>
@@ -78,4 +78,4 @@
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Consume Unlife</span>	Level 9</p>
 <p aid:pstyle="NoIndent">The mindless undead creature you touch is destroyed and you steal its death energy to heal yourself or the next ally you touch. The amount of damage healed is equal to the HP that the creature had remaining before you destroyed it.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Plague</span>	Level 9	<em>Ongoing</em></p>
-<p aid:pstyle="NoIndent">Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to Cast a Spell.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to cast a spell.</p></div></Body></Root>
