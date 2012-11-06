@@ -19,7 +19,7 @@
 <p aid:pstyle="MonsterStats">Pickaxe (w[2d6] damage)	3 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
-<p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the Derro, are the mistakes of a long-forgotten dwarven alchemist. The Derro don’t forget, though. Twisted and hateful, the Derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
+<p aid:pstyle="MonsterDescription">It’s typical to think that all the malignant arcane monsters made in this world are birthed by wizards, sorcerers, and their ilk. That the colleges and towers of Dungeon World are womb to every bleak experiment. There are mistakes made in the depths of the earth, too. These ones, the derro, are the mistakes of a long-forgotten dwarven alchemist. The derro don’t forget, though. Twisted and hateful, the derro can be spotted by their swollen skulls, brain-matter grown too large. They do not speak except in thoughts to one another and plot in the silent dark to extract sweetest revenge—that of the created on the creator. <em>Instinct</em>: To replace dwarves</p>
 <ul><li>Fill a mind with foreign thoughts</li>
 <li>Take control of a beast’s mind</li></ul>
 <p aid:pstyle="MonsterName">Digester	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
@@ -56,7 +56,7 @@
 <p aid:pstyle="MonsterStats">Metal fists (d8+5 damage)	10 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Metal</p>
-<p aid:pstyle="MonsterDescription">A staple of the enchanter’s art. Every golemist and mechano-thaumaturge in the kingdoms knows this. Iron is a misnomer, though. These guardians are crafted of any metal, really:steel, copper, or even gold, in some small cases. As much an art as a science, the crafting of a fine golem is as respected in the Kingdoms as a bridge newly built or a castle erected in the mountains. Unceasing watchdog, stalwart defender, the iron golem lives to serve, following its orders eternally. Any enchanter worth his salt can craft one, if he can afford the materials. If not… <em>Instinct</em>: To serve</p>
+<p aid:pstyle="MonsterDescription">A staple of the enchanter’s art. Every golemist and mechano-thaumaturge in the kingdoms knows this. Iron is a misnomer, though. These guardians are crafted of any metal, really: steel, copper, or even gold, in some small cases. As much an art as a science, the crafting of a fine golem is as respected in the Kingdoms as a bridge newly built or a castle erected in the mountains. Unceasing watchdog, stalwart defender, the iron golem lives to serve, following its orders eternally. Any enchanter worth his salt can craft one, if he can afford the materials. If not… <em>Instinct</em>: To serve</p>
 <ul><li>Follow orders implacably</li>
 <li>Use a special tool or adaptation, built-in</li></ul>
 <p aid:pstyle="MonsterName">Flesh Golem	<span aid:cstyle="Tags">Horde</span></p>
@@ -70,7 +70,7 @@
 <p aid:pstyle="MonsterStats">Giant tentacles (d10+5 damage)	20 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic</p>
-<p aid:pstyle="MonsterDescription">”A cephalo-what? No, boy. Not “a kraken” but “the kraken”. I don’t know what nonsense they taught you at that school you say you’re from, but here, we know to respect the Hungerer. Right, that’s what we call it, The Hungerer in the Deep to be more proper. Ain’t no god, though we’ve got those, too. It’s a squid! A mighty squid with tentacles thicker ‘round than a barrel and eyes the size of the full moon. Smart, too, the Hungerer. Knows just when to strike—when you’re all too drunk or too tired or run out of clean water, that’s when he gets you. No, I ain’t ever seen him. I’m alive, aren’t I?” <em>Instinct</em>: To rule the ocean</p>
+<p aid:pstyle="MonsterDescription">”A cephalo-what? No, boy. Not “a kraken” but “the kraken.” I don’t know what nonsense they taught you at that school you say you’re from, but here, we know to respect the Hungerer. Right, that’s what we call it, The Hungerer in the Deep to be more proper. Ain’t no god, though we’ve got those, too. It’s a squid! A mighty squid with tentacles thicker ‘round than a barrel and eyes the size of the full moon. Smart, too, the Hungerer. Knows just when to strike—when you’re all too drunk or too tired or run out of clean water, that’s when he gets you. No, I ain’t ever seen him. I’m alive, aren’t I?” <em>Instinct</em>: To rule the ocean</p>
 <ul><li>Drag a person or ship to a watery grave</li>
 <li>Wrap them in tentacles</li></ul>
 <p aid:pstyle="MonsterName">Manticore	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
@@ -103,7 +103,7 @@
 <p aid:pstyle="MonsterStats">Maw (d10 damage)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">Dwarf-made elemental garbage muncher. Shaped like a trash bin with a radius of arms to feed excess rock and stone into its gaping maw. They eat stone and excrete light and heat. Perfect for operating a mine or digging out a quarry. Once one gets lost in the sewers below a city, though, or in the foundation of a castle? You’re in deep trouble. They’ll eat and eat until you’ve got nothing left but to collapse the place down on it and move somewhere else. Ask Burrin, Son of Fjornnvald, exile from his clan. I bet he could tell you a story about a Xorn. <em>Instinct</em>: To eat</p>
+<p aid:pstyle="MonsterDescription">Dwarf-made elemental garbage muncher. Shaped like a trash bin with a radius of arms to feed excess rock and stone into its gaping maw. They eat stone and excrete light and heat. Perfect for operating a mine or digging out a quarry. Once one gets lost in the sewers below a city, though, or in the foundation of a castle? You’re in deep trouble. They’ll eat and eat until you’ve got nothing left but to collapse the place down on it and move somewhere else. Ask Burrin, Son of Fjornnvald, exile from his clan. I bet he could tell you a story about a xorn. <em>Instinct</em>: To eat</p>
 <ul><li>Consume stone</li>
 <li>Give off a burst of light and heat</li></ul>
 </Body></Root>

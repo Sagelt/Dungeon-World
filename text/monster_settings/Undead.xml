@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Slam (d10+3 damage)	20 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Many limbs, heads, and so on</p>
-<p aid:pstyle="MonsterDescription">Corpses sewn unto corpses make up the bulk of these shambling masses of dark magic. Most undead are crafted to be controlled—made to serve some purpose like building a tower or serving as guardians. Not so the abomination. The last aspect of the ritual used to grant fire to their hellish limbs invokes a hatred so severe that the abomination knows but one task: to tear and rend at the very thing it cannot have—life. Many students of the black arts learn to their mortal dismay the most important fact about these hulks. An abomination knows no master. <em>Instinct</em>: To end life</p>
+<p aid:pstyle="MonsterDescription">Corpses sewn onto corpses make up the bulk of these shambling masses of dark magic. Most undead are crafted to be controlled—made to serve some purpose like building a tower or serving as guardians. Not so the abomination. The last aspect of the ritual used to grant fire to their hellish limbs invokes a hatred so severe that the abomination knows but one task: to tear and rend at the very thing it cannot have—life. Many students of the black arts learn to their mortal dismay the most important fact about these hulks; an abomination knows no master. <em>Instinct</em>: To end life</p>
 <ul><li>Tear flesh apart</li>
 <li>Spill forth putrid guts</li></ul>
 <p aid:pstyle="MonsterName">Banshee	<span aid:cstyle="Tags">Solitary, Magical, Intelligent</span></p>
@@ -106,7 +106,7 @@
 <p aid:pstyle="MonsterStats">Supernatural force (d8+5 damage, 1 piercing)	10 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Changing form, ancient mind</p>
-<p aid:pstyle="MonsterDescription">We fear them, because they call to us. So much like us, or how we hope to be: beautiful, passionate, and powerful. They are drawn to us for what they cannot be: warm, kind, and alive. These tormented souls can only hope, at most, to pass their dreadful curse along. Every time they feed they run the risk of passing along their torture to another and in each one lives the twisted seed of its creator. Vampires beget vampires. Suffering begets suffering. Do not be drawn in by their seduction or you may be given their gift—a crown of shadows and the chains eternal undying grief. <em>Instinct</em>: To manipulate</p>
+<p aid:pstyle="MonsterDescription">We fear them, because they call to us. So much like us, or how we hope to be: beautiful, passionate, and powerful. They are drawn to us for what they cannot be: warm, kind, and alive. These tormented souls can only hope, at most, to pass their dreadful curse along. Every time they feed they run the risk of passing along their torture to another and in each one lives the twisted seed of its creator. Vampires beget vampires. Suffering begets suffering. Do not be drawn in by their seduction or you may be given their gift—a crown of shadows and the chains of eternal undying grief. <em>Instinct</em>: To manipulate</p>
 <ul><li>Charm someone</li>
 <li>Feed on their blood</li>
 <li>Retreat to plan again</li></ul>

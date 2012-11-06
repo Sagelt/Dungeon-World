@@ -16,7 +16,7 @@
 <ul><li>Set a disaster in motion</li>
 <li>Breathe forth the elements</li>
 <li>Act with perfect foresight</li></ul>
-<p aid:pstyle="MonsterName">Chaos Spawn	<span aid:cstyle="Tags">Solitary, Gibbous</span></p>
+<p aid:pstyle="MonsterName">Chaos Spawn	<span aid:cstyle="Tags">Solitary, Amorphous</span></p>
 <p aid:pstyle="MonsterStats">Chaotic touch (d10 damage)	19 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Chaos form</p>
@@ -67,7 +67,7 @@
 <p aid:pstyle="MonsterName">Magmin	<span aid:cstyle="Tags">Horde, Intelligent, Organized, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Flaming hammer (d6+2 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Firey blood</p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Fiery blood</p>
 <p aid:pstyle="MonsterDescription">Dwarf-shaped and industrious, the magmin are among the deepest-dwellers of Dungeon World. Found in cities of brass and obsidian built nearest the molten core of the planet, the magmin live a life devoted to craft—especially that of fire and magical items related to it. Surly and strange, they do not often deign to speak to petitioners who appear at their gates, even those who have somehow found a way to survive the hellish heat. Even so, they respect little more than a finely made item and to learn to forge from a magmin craftsman means unlocking secrets unknown to surface blacksmiths. Like so much else, visiting the magmin is a game of risk and reward. <em>Instinct</em>: To craft</p>
 <ul><li>Offer a trade or deal</li>
 <li>Strike with fire or magic</li>
@@ -76,7 +76,7 @@
 <p aid:pstyle="MonsterStats">Axe (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Unerring sense of direction</p>
-<p aid:pstyle="MonsterDescription">”Head of a man, body of a bull. No, wait, I’ve got that backwards. It’s the bull’s head and the man’s body. Hooves sometimes? Is that right? I remember the old king said something about a maze? Blast! You know I can’t think under this kind of pressure. What was that? Oh gods, I think it’s coming…” <em>Instinct</em>: To contain</p>
+<p aid:pstyle="MonsterDescription">“Head of a man, body of a bull. No, wait, I’ve got that backwards. It’s the bull’s head and the man’s body. Hooves sometimes? Is that right? I remember the old king said something about a maze? Blast! You know I can’t think under this kind of pressure. What was that? Oh gods, I think it’s coming…” <em>Instinct</em>: To contain</p>
 <ul><li>Confuse them</li>
 <li>Make them lost</li></ul>
 <p aid:pstyle="MonsterName">Naga	<span aid:cstyle="Tags">Solitary, Intelligent, Organized, Hoarder, Magical</span></p>

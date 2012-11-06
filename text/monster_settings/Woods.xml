@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Gnarled Woods</h1>
-<Body><p aid:pstyle="MonsterName">Assassin Vine	<span aid:cstyle="Tags">Solitary, Stealthy, Gibbous</span></p>
+<Body><p aid:pstyle="MonsterName">Assassin Vine	<span aid:cstyle="Tags">Solitary, Stealthy, Amorphous</span></p>
 <p aid:pstyle="MonsterStats">Thorns (d10 damage, 1 piercing)	15 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Plant</p>
@@ -11,7 +11,7 @@
 <p aid:pstyle="MonsterStats">Bite (d8 damage)		6 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Illusion</p>
-<p aid:pstyle="MonsterDescription">Now you see it, now you don’t. Hounds once owned by a sorcerer lord and imbued with a kind of illusory cloak, they escaped into the woods around his lair and began to breed with wolves and wild dogs of the forest. You can spot them, if you’re lucky, by the glittering silver of their coats and their strange, ululating howls. They have a remarkable talent for being not quite where they appear to be and use it to take down prey much stronger than themselves. If you find yourself facing a pack of blink dogs you might well close your eyes and fight. You’ll have an easier time when not betrayed by your natural sight. By such sorceries are the natural places of the world polluted with unnatural things. <em>Instinct</em>: To hunt</p>
+<p aid:pstyle="MonsterDescription">Now you see it, now you don’t. Hounds once owned by a sorcerer lord and imbued with a kind of illusory cloak, they escaped into the woods around his lair and began to breed with wolves and wild dogs of the forest. You can spot them, if you’re lucky, by the glittering silver of their coats and their strange, ululating howls. They have a remarkable talent for being not quite where they appear to be and use it to take down prey much stronger than themselves. If you find yourself facing a pack of blink dogs you might as well close your eyes and fight. You’ll have an easier time when not betrayed by your natural sight. By such sorceries are the natural places of the world polluted with unnatural things. <em>Instinct</em>: To hunt</p>
 <ul><li>Give the appearance of being somewhere they’re not</li>
 <li>Summon the pack</li>
 <li>Move with amazing speed</li></ul>
@@ -23,7 +23,7 @@
 <ul><li>Overrun them</li>
 <li>Fire a perfect bullseye</li>
 <li>Move with unrelenting speed</li></ul>
-<p aid:pstyle="MonsterName">Chaos Ooze	<span aid:cstyle="Tags">Solitary, Planar, Terrifying, Gibbous</span></p>
+<p aid:pstyle="MonsterName">Chaos Ooze	<span aid:cstyle="Tags">Solitary, Planar, Terrifying, Amorphous</span></p>
 <p aid:pstyle="MonsterStats">Warping touch (d10 damage ignores armor)	23 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Ooze, Fragments of other planes embedded in it</p>
@@ -34,7 +34,7 @@
 <p aid:pstyle="MonsterStats">Beak (d8 damage)	6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Stone touch</p>
-<p aid:pstyle="MonsterDescription">”I ain’t ever seen such a thing, sir. Rodrick thought it a chicken, maybe. Poor Rodrick. I figured it to be a lizard of a sort, though he was right—it had a beak and gray feathers like a chicken. Right, well, see, we found it in the woods, in a nest at the foot of a tree while we were out with the sow. Looking for mushrooms, sir. I told Rodrick we were—yes, sir, right sir, the bird—see, it was glaring at Rodrick and he tried to scare it off with a stick to steal the eggs but the thing pecked his hand. Quick it was, too. I tried to get him away but he just got slower and slower and…yes, as you see him now, sir. All frozen up like when we left the dog out overnight in winter two years back. Poor, stupid Rodrick. Weren’t no bird nor lizard, were it, sir?”<em>Instinct</em>: To defend the nest</p>
+<p aid:pstyle="MonsterDescription">“I ain’t ever seen such a thing, sir. Rodrick thought it a chicken, maybe. Poor Rodrick. I figured it to be a lizard of a sort, though he was right—it had a beak and gray feathers like a chicken. Right, well, see, we found it in the woods, in a nest at the foot of a tree while we were out with the sow. Looking for mushrooms, sir. I told Rodrick we were—yes, sir, right sir, the bird—see, it was glaring at Rodrick and he tried to scare it off with a stick to steal the eggs but the thing pecked his hand. Quick it was, too. I tried to get him away but he just got slower and slower and…yes, as you see him now, sir. All frozen up like when we left the dog out overnight in winter two years back. Poor, stupid Rodrick. Weren’t no bird nor lizard, were it, sir?”<em>Instinct</em>: To defend the nest</p>
 <ul><li>Start a slow transformation to stone</li></ul>
 <p aid:pstyle="MonsterName">Dryad	<span aid:cstyle="Tags">Solitary, Magical, Intelligent, Devious, </span></p>
 <p aid:pstyle="MonsterStats">Crushing vines (w[2d8]damage)	12 HP	2 Armor</p>
@@ -48,7 +48,7 @@
 <p aid:pstyle="MonsterStats">Talons (b[2d8]+1 damage, 1 piercing)	10 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Mighty wings</p>
-<p aid:pstyle="MonsterDescription">Some the size of horses. Bigger, even—the kings and queens of the eagles. Their cry pierces the mountain sky and woe to those who fall under the shadow of their mighty wings. The ancient wizards forged a pact with them in the primordial days. Men would take the plains and valleys and leave the mountaintops to the eagle lords. These sacred pacts should be honored, lest they set their talons into you. Lucky are the elves, for the makers of their treaties yet live and when danger comes to elvish lands, the eagle lords often serve as spies and mounts for the them. Long-lived and proud, some might be willing to trade their ancient secrets for the right price, too. <em>Instinct</em>: To rule the heights</p>
+<p aid:pstyle="MonsterDescription">Some the size of horses. Bigger, even—the kings and queens of the eagles. Their cry pierces the mountain sky and woe to those who fall under the shadow of their mighty wings. The ancient wizards forged a pact with them in the primordial days. Men would take the plains and valleys and leave the mountaintops to the eagle lords. These sacred pacts should be honored, lest they set their talons into you. Lucky are the elves, for the makers of their treaties yet live and when danger comes to elvish lands, the eagle lords often serve as spies and mounts for them. Long-lived and proud, some might be willing to trade their ancient secrets for the right price, too. <em>Instinct</em>: To rule the heights</p>
 <ul><li>Attack from the sky</li>
 <li>Pull someone into the air</li>
 <li>Call on ancient oaths</li></ul>
@@ -64,7 +64,7 @@
 <p aid:pstyle="MonsterStats">Arcane fire (d10 damage ignores armor)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Sharp senses</p>
-<p aid:pstyle="MonsterDescription">True Elvish magic isn’t like the spells of men. Mannish wizardry is all rotes and formulas. They cheat to find the arcane secrets that resound all around them. They are deaf to the arcane symphony that sings in the woods. Elvish magic requires a fine ear to hear that symphony and the voice with which to sing. To harmonize with what is already resounding. Men bind the forces of magic to their will; Elves simply pluck the strings and hum along. The High Arcanists, in a way, have become more and less than any elf. The beat of their blood is the throbbing of all magic in this world. <em>Instinct</em>: To unleash power</p>
+<p aid:pstyle="MonsterDescription">True elvish magic isn’t like the spells of men. Mannish wizardry is all rotes and formulas. They cheat to find the arcane secrets that resound all around them. They are deaf to the arcane symphony that sings in the woods. Elvish magic requires a fine ear to hear that symphony and the voice with which to sing. To harmonize with what is already resounding. Men bind the forces of magic to their will; Elves simply pluck the strings and hum along. The High Arcanists, in a way, have become more and less than any elf. The beat of their blood is the throbbing of all magic in this world. <em>Instinct</em>: To unleash power</p>
 <ul><li>Work the magic that nature demands</li>
 <li>Cast forth the elements</li></ul>
 <p aid:pstyle="MonsterName">Griffin	<span aid:cstyle="Tags">Group, Large, Organized</span></p>
@@ -111,7 +111,7 @@
 <ul><li>Play a trick to expose someone’s true nature</li>
 <li>Confuse their senses</li>
 <li>Craft an illusion</li></ul>
-<p aid:pstyle="MonsterName">Treant	<span aid:cstyle="Tags">Group, Huge, Intelligent, Gibbous</span></p>
+<p aid:pstyle="MonsterName">Treant	<span aid:cstyle="Tags">Group, Huge, Intelligent, Amorphous</span></p>
 <p aid:pstyle="MonsterStats">Walloping branches (d8+5 damage)	21 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wooden</p>

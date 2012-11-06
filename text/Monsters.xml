@@ -3,19 +3,19 @@
 <h1>Monsters</h1>
 <Body><p aid:pstyle="NoIndent">Great heroes need horrendous antagonists. This section is about how to create and play as those antagonists—from the lowly goblin warrior to the hellish demon.</p>
 <h2>Using Monsters</h2>
-<p aid:pstyle="NoIndent">A monster is any living (or undead) thing that stands in the players’ way.</p>
+<p aid:pstyle="NoIndent">A monster is any living (or undead) thing that stands in the characters’ way.</p>
 <p>How you use these monsters follows directly from your agenda and principles. Stay true to your principles, use your moves and pursue your agenda—you can’t go wrong. </p>
 <p>Your first agenda is to <em>portray a fantastic world</em>. The way you describe the monsters and adversaries the characters face can be a tool to help you fulfill that agenda. Describing those creatures and people in vivid detail will bring them to life. You’ll eventually need some stats for those monsters, too—the rules in this chapter are here to help you create those stats quickly and easily.</p>
 <p>The player characters are the heroes. Monsters exist to illustrate what a dangerous awful place Dungeon World can be—how it will remain if the heroes don’t step in. You shouldn’t be rooting for the monsters to win, but they may challenge, and even sometimes defeat, the heroes. If you feel like your monsters are being beaten too quickly, don’t worry. Let the players revel in their victory, there’s always more monsters.</p>
 <p>The principle of <em>think dangerous</em> sums up that philosophy—think of every monster like an arrow fired at the characters. The monsters are ammunition of the danger you’re presenting. Some may be smarter, faster, or more dangerous than others but until a monster warrants a name, a personality, or some other special consideration, it’s an arrow. Take aim and shoot. Don’t worry if you miss.</p>
-<p>A monster stops being mere ammunition when something in the world puts the spotlight on it. This might be a spout lore roll that leads your description in an interesting direction or the result of your asking questions and building on the players’ answers. Maybe the players were overwhelmed in battle and had to run away, giving them a new-found fear and respect for the beast they fought. When these things happen, feel free to give the monster a name and consider creating a danger to represent it.</p>
+<p>A monster stops being mere ammunition when something in the world puts the spotlight on it. This might be a spout lore roll that leads your description in an interesting direction or the result of your asking questions and building on the players’ answers. Maybe the characters were overwhelmed in battle and had to run away, giving them a new-found fear and respect for the beast they fought. When these things happen, feel free to give the monster a name and consider creating a danger to represent it.</p>
 <p>One thing that your agenda and principles don’t say anything about is setting up a fair fight. Heroes are often outnumbered or faced with ridiculous odds—sometimes they have to retreat and make a new plan. Sometimes they suffer loss. When adding a monster to a front, placing them in a dungeon, or making them up on the fly your first responsibility is to the fiction (<em>portray a fantastic world</em>) and to give the characters a real threat (<em>make the characters heroes</em>), not to make a balanced fight. Dungeon World isn’t about balancing encounter levels or counting experience points; it’s about adventure and death-defying feats!</p>
 <h2>Elements of a Monster</h2>
 <p aid:pstyle="NoIndent">Every monster has <strong>moves</strong> that describe its behavior and abilities. Just like the normal GM moves, they’re things that you do when there’s a lull in the action or when the players give you a golden opportunity. As with other GM moves they can be hard or soft depending on the circumstances and the move: a move that’s irreversible and immediate is hard, a move that’s impending or easy to counter is soft.</p>
 <p>Each monster has an <strong>instinct</strong> that describe its goals at a high level. Some monsters live for conquest, or treasure, or simply for blood. The monster’s instinct is the guide to how to use it in the fiction.</p>
 <p>The monster’s <strong>description</strong> is where all its other features come from. The description is how you know what the monster really is, the other elements just reflect the description.</p>
 <p><strong>Damage</strong> is a measure of how much pain the monster can inflict at once. Just like player damage it’s a die to roll, maybe with some modifiers. A monster deals its damage to another monster or a player whenever it causes them physical harm.</p>
-<p>Each monster has <strong>tags</strong> that describe how it deals damage, including the range(s) of its attacks. When trying to attack something out of its range (to close or too far) the monster’s out of luck, no damage. Any tag that can go on a weapon (like messy or slow) can also go on a monster.</p>
+<p>Each monster has <strong>tags</strong> that describe how it deals damage, including the range(s) of its attacks. When trying to attack something out of its range (too close or too far) the monster’s out of luck, no damage. Any tag that can go on a weapon (like messy or slow) can also go on a monster.</p>
 <p>There are special tags that apply only to monsters. These tags, listed below, describe the key attributes of the monster—qualities that describe how big they are and how, if at all, they organize themselves.</p>
 <p>A monster’s <strong>HP</strong> is a measure of how much damage it can take before it dies. Just like players, when a monster takes damage it subtracts that amount from its HP. At 0 HP it’s dead, no last breath.</p>
 <p>Some monsters are lucky enough to enjoy <strong>armor</strong>. It’s just like player armor: when a monster with armor takes damage it subtracts its armor from the damage done.</p>
@@ -56,50 +56,50 @@
 <h4>What does it want that causes problems for others?</h4>
 <p aid:pstyle="NoIndent">This is its instinct. Write it as an intended action.</p>
 <h4>How does it usually hunt or fight?</h4>
-<ul><li>In large groups: Horde, d6 damage, 3 HP</li>
-<li>In small groups, about 2–5: Group, d8 damage, 6 HP</li>
-<li>All by its lonesome: Solitary, d10 damage, 12 HP</li></ul>
+<ul><li>In large groups: horde, d6 damage, 3 HP</li>
+<li>In small groups, about 2–5: group, d8 damage, 6 HP</li>
+<li>All by its lonesome: solitary, d10 damage, 12 HP</li></ul>
 <h4>How big is it?</h4>
-<ul><li>Smaller than a house cat: Tiny, Hand, -2 damage</li>
-<li>Halfling-esque: Small, Close</li>
-<li>About human size: Close</li>
-<li>As big as a cart: Large, Close, Reach, +4 HP, +1 damage</li>
-<li>Much larger than a cart: Huge, Reach, +8 HP, +3 damage</li></ul>
+<ul><li>Smaller than a house cat: tiny, hand, -2 damage</li>
+<li>Halfling-esque: small, close</li>
+<li>About human size: close</li>
+<li>As big as a cart: large, close, reach, +4 HP, +1 damage</li>
+<li>Much larger than a cart: huge, reach, +8 HP, +3 damage</li></ul>
 <h4>What is its most important defense?</h4>
 <ul><li>Cloth or flesh: 0 armor</li>
 <li>Leathers or thick hide: 1 armor</li>
 <li>Mail or scales: 2 armor</li>
 <li>Plate or bone: 3 armor</li>
-<li>Permanent magical protection: 4 armor, Magical</li></ul>
+<li>Permanent magical protection: 4 armor, magical</li></ul>
 <h4>What is it known for? (Choose all that apply)</h4>
 <ul><li>Unrelenting strength: +2 damage, forceful</li>
 <li>Skill in offense: roll damage twice and take the better roll</li>
 <li>Skill in defense: +1 armor</li>
 <li>Deft strikes: +1 piercing</li>
 <li>Uncanny endurance: +4 HP</li>
-<li>Deceit and trickery: Stealthy, write a move about dirty tricks</li>
+<li>Deceit and trickery: stealthy, write a move about dirty tricks</li>
 <li>A useful adaptation like being amphibious or having wings: Add a special quality for the adaptation</li>
-<li>The favor of the gods: Divine, +2 damage or +2 HP or both (your call)</li>
-<li>Spells and magic: Magical, write a move about its spells</li></ul>
+<li>The favor of the gods: divine, +2 damage or +2 HP or both (your call)</li>
+<li>Spells and magic: magical, write a move about its spells</li></ul>
 <h4>What is its most common form of attack?</h4>
 <p aid:pstyle="NoIndent">Note it along with the creature’s damage. Common answers include: a type of weapon, claws, a specific spell. Then answer these questions about it:</p>
 <ul><li>Its armaments are vicious and obvious: +2 damage</li>
-<li>It lets the monster keep others at bay: Reach</li>
-<li>Its armaments are small and weak: Reduce its damage die size by one</li>
-<li>Its armaments can slice or pierce metal: Messy, +1 Piercing or +3 Piercing if it can just tear metal apart</li>
-<li>Armor doesn’t help with the damage it deals (due to magic, size, etc.): Ignores Armor</li>
-<li>It usually attacks at range (with arrows, spells, or other projectiles): Near or Far or both (your call)</li></ul>
+<li>It lets the monster keep others at bay: reach</li>
+<li>Its armaments are small and weak: reduce its damage die size by one</li>
+<li>Its armaments can slice or pierce metal: messy, +1 piercing or +3 piercing if it can just tear metal apart</li>
+<li>Armor doesn’t help with the damage it deals (due to magic, size, etc.): ignores armor</li>
+<li>It usually attacks at range (with arrows, spells, or other projectiles): near or far or both (your call)</li></ul>
 <h4>Which of these describe it? (Choose all that apply)</h4>
-<ul><li>It isn’t dangerous because of the wounds it inflicts, but for other reasons: Devious, reduce its damage die size by one, write a move about why it’s dangerous</li>
-<li>It organizes into larger groups that it can call on for support: Organized, write a move about calling on others for help</li>
-<li>It’s as smart as a human or thereabouts: Intelligent</li>
-<li>It actively defends itself with a shield or similar: Cautious, +1 Armor</li>
-<li>It collects trinkets that humans would consider valuable (gold, gems, secrets): Hoarder</li>
-<li>It’s from beyond this world: Planar, write a move about using its otherworldly knowledge and power</li>
+<ul><li>It isn’t dangerous because of the wounds it inflicts, but for other reasons: devious, reduce its damage die size by one, write a move about why it’s dangerous</li>
+<li>It organizes into larger groups that it can call on for support: organized, write a move about calling on others for help</li>
+<li>It’s as smart as a human or thereabouts: intelligent</li>
+<li>It actively defends itself with a shield or similar: cautious, +1 Armor</li>
+<li>It collects trinkets that humans would consider valuable (gold, gems, secrets): hoarder</li>
+<li>It’s from beyond this world: planar, write a move about using its otherworldly knowledge and power</li>
 <li>It’s kept alive by something beyond simple biology: +4 HP</li>
-<li>It was made by someone: Construct, give it a special quality or two about its construction or purpose</li>
-<li>Its appearance is disturbing, terrible, or horrible: Terrifying, write a special quality about why it’s so horrendous</li>
-<li>It doesn’t have organs or discernible anatomy: Amorphous, +1 Armor, +3 HP</li></ul>
+<li>It was made by someone: construct, give it a special quality or two about its construction or purpose</li>
+<li>Its appearance is disturbing, terrible, or horrible: terrifying, write a special quality about why it’s so horrendous</li>
+<li>It doesn’t have organs or discernible anatomy: amorphous, +1 Armor, +3 HP</li></ul>
 <h2>Treasure</h2>
 <p aid:pstyle="NoIndent">Monsters, much like adventurers, collect shiny useful things. When the players search the belongings of a monster (be they on their person or tucked away somewhere) describe them honestly.</p>
 <p aid:pstyle="NoIndent">If the monster has accumulated some wealth you can roll that randomly. Start with the monster’s damage die, modified if the monster is:</p>
@@ -130,7 +130,7 @@
 <li aid:pstyle="NumberedList">Something relating to one of the characters and roll again</li>
 <li aid:pstyle="NumberedList">A hoard: 1d10×1000 coins and 1d10×10 gems worth 2d6×100 each</li></ol>
 <h2>Monster Settings</h2>
-<p aid:pstyle="NoIndent">The monsters in this book are presented in <em>monster settings</em>. A monster setting is a type of location and the monsters you might find there. It’s a way of grouping monsters by where they fit in the world. A monster setting tells you what kind of monsters might inhabit an area while your Fronts tell you what monsters are working together or have ongoing plots.</p>
+<p aid:pstyle="NoIndent">The monsters in this book are presented in <em>monster settings</em>. A monster setting is a type of location and the monsters you might find there. It’s a way of grouping monsters by where they fit in the world. A monster setting tells you what kind of monsters might inhabit an area while your fronts tell you what monsters are working together or have ongoing plots.</p>
 <p>When creating your own monster settings, they can be more specific. You could create a monster setting for the Great Western Steppes or the Domains of the Horse Lords.</p>
 <p>Consult a monster setting to populate a front or when you want a threat that is only tangentially related to one of your fronts. For example, if the heroes are battling against the dungeon front, the cult of Khul-ka-ra, by exploring the ancient ruins that the cult has made its home then you might use monsters from the Legions of the Undead as a related threat—not truly part of the front but still a block in the heroes’ path.</p>
 <p>The monster stat blocks within the settings describe HP, damage, and all the other aspects of the monster. These monsters were created with the same process listed above, and the reasons for their stats are just as important as the stats themselves. Looking at the reasoning behind the stats will allow you to present the monsters honestly, answering questions that arise in Dungeon World like “can a warband of gnolls sack an entire village?”</p>
@@ -143,7 +143,7 @@
 <h3>The Dark Woods</h3>
 <p aid:pstyle="NoIndent">It would not be a lie to say that there are trees that stand in the deepest groves of Dungeon World that have stood since before man or elf walked amidst their roots. It would be true, too, to say that these ancient trees have long lost the green leaves of spring. In the strands of the dark woods one finds, if one looks in the right place, sylvan monsters old and powerful. Here live the race of savage centaurs and the fey soul-stealing creatures of yore. Under the shadow of the ancient trees, wolf-men howl for blood. Hurry along the old forest road and light no fire for food or warmth for it’s said that flames offend the woods themselves. You wouldn’t want that, would you?</p>
 <h3>Ravenous Hordes</h3>
-<p aid:pstyle="NoIndent">“I’ve bested an orc in single combat” they crow. “I’ve fought a gnoll and lived to the tell the tale.” Which is no small feat and yet, you know the truth of these boasts. Like vermin, spotting but one of these creatures speaks to a greater doom on the horizon. No orc travels alone. No slavering gnoll moves without his pack. You know that soon, the wardrums will sound and the walls will be besieged by the full fury of the warchief and his tusked berserkers. These are the monsters that will bring civilization, screaming and weeping, to its knees. Unless you can stop them. Best of luck.</p>
+<p aid:pstyle="NoIndent">“I’ve bested an orc in single combat,” they crow. “I’ve fought a gnoll and lived to the tell the tale.” Which is no small feat and yet, you know the truth of these boasts. Like vermin, spotting but one of these creatures speaks to a greater doom on the horizon. No orc travels alone. No slavering gnoll moves without his pack. You know that soon, the wardrums will sound and the walls will be besieged by the full fury of the warchief and his tusked berserkers. These are the monsters that will bring civilization, screaming and weeping, to its knees. Unless you can stop them. Best of luck.</p>
 <h3>Twisted Experiments</h3>
 <p aid:pstyle="NoIndent">For some who learn the arcane arts it’s not merely enough to be able to live for a thousand years or throw lightning bolts that can fry a man. Some aren’t quite satisfied with the power to speak to the dead or draw the angels down from heaven. Hubris calls on those cloaked-and-hooded “scientists” to make a strange and unholy life of their own. No mortal children, these. These are the brood of a mind gone foul with strange magic. In this setting you will find such nightmares as the chimera, dripping poison. Here, too, are the protector golems and mutant apes. All sorts of bad ideas await you in the fallen towers of the mad magicians of Dungeon World.</p>
 <h3>The Lower Depths</h3>

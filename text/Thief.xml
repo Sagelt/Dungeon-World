@@ -2,7 +2,7 @@
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Thief</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.</p>
-<p>Sure, they give you shit for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you’re done with all this delving you’ll toast their hero’s graves.</p>
+<p>Sure, they give you lip for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you’re done with all this delving you’ll toast their hero’s graves.</p>
 <p>From your castle. Full of gold. You rogue.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Halfling</em>: Felix, Rook, Mouse, Sketch, Trixie, Robin, Omar, Brynn, Bug</p>
@@ -53,12 +53,12 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Shift danger or blame from yourself to someone else.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You start with one dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coins. Choose your arms:</p>
-<ul><li aid:pstyle="Option">Dagger (Hand, 1 weight) and short sword (Close, 1 weight)</li>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 9+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coins. Choose your arms:</p>
+<ul><li aid:pstyle="Option">Dagger (hand, 1 weight) and short sword (close, 1 weight)</li>
 <li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
-<ul><li aid:pstyle="Option">3 throwing daggers (Thrown, Near, 0 weight)</li>
-<li aid:pstyle="Option">Ragged Bow (Near, 2 weight) and bundle of arrows (3 ammo, 1 weight)</li></ul>
+<ul><li aid:pstyle="Option">3 throwing daggers (thrown, near, 0 weight)</li>
+<li aid:pstyle="Option">Ragged Bow (near, 2 weight) and bundle of arrows (3 ammo, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Healing potion</li></ul></div>
@@ -83,7 +83,7 @@
 <h3 aid:pstyle="MoveName">Envenom</h3>
 <p aid:pstyle="NoIndent">You can apply even complex poisons with a pinprick. When you apply a poison that’s not dangerous for you to use to your weapon it’s touch instead of applied.</p>
 <h3 aid:pstyle="MoveName">Brewer</h3>
-<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any one poison you’ve used before.</p>
+<p aid:pstyle="NoIndent">When you have time to gather materials and a safe place to brew you can create three doses of any one poison you’ve used before.</p>
 <h3 aid:pstyle="MoveName">Underdog</h3>
 <p aid:pstyle="NoIndent">When you’re outnumbered, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
@@ -97,7 +97,7 @@
 <p aid:pstyle="NoIndent">When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</p>
 <h3 aid:pstyle="MoveName">Alchemist</h3>
 <p aid:pstyle="Requirement">Replaces: Brewer</p>
-<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you’ve used before. Alternately you can describe the effects of a poison you’d like to create. The GM will tell you can create it, but with one or more caveats:</p>
+<p aid:pstyle="NoIndent">When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you’ve used before. Alternately you can describe the effects of a poison you’d like to create. The GM will tell you that you can create it, but with one or more caveats:</p>
 <ul><li>It will only work under specific circumstances</li>
 <li>The best you can manage is a weaker version</li>
 <li>It’ll take a while to take effect</li>
@@ -108,7 +108,7 @@
 <h3 aid:pstyle="MoveName">Evasion</h3>
 <p aid:pstyle="NoIndent">When you defy danger on a 12+, you transcend the danger. You not only do what you set out to, but the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
 <h3 aid:pstyle="MoveName">Strong Arm, True Aim</h3>
-<p aid:pstyle="NoIndent">You can throw any melee weapon, using it to volley. A thrown melee weapon is gone, you can never choose to reduce ammo on a 7–9.</p>
+<p aid:pstyle="NoIndent">You can throw any melee weapon, using it to volley. A thrown melee weapon is gone; you can never choose to reduce ammo on a 7–9.</p>
 <h3 aid:pstyle="MoveName">Escape Route</h3>
 <p aid:pstyle="NoIndent">When you’re in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you’re gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
 <h3 aid:pstyle="MoveName">Disguise</h3>

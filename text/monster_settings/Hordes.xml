@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d6 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid</p>
-<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows its place in the great hive. The formian is some strange intersection of men and ants. (Though there are winged tribes that look like ants out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
+<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows its place in the great hive. The formian is some strange intersection of men and ants. (Though there are winged tribes that look like wasps out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
 <ul><li>Raise the alarm</li>
 <li>Create value for the hive</li>
 <li>Assimilate</li></ul>
@@ -42,7 +42,7 @@
 <p aid:pstyle="MonsterStats">Ceremonial dagger (d10+2 damage)	18 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Scent</p>
-<p aid:pstyle="MonsterDescription">Oh, an emissary! How nice. I suspect you didn’t know the gnolls had ambassadors, did you? Yes, even these mangy hyenas have to make nice sometimes. No, no, not with us. Nor the dwarves, neither. No, the Emissary is the one, among his packmates, who trucks directly with their dripping demon lord. Frightening? Too right. Every hound has a master with his hand on the chain. This gnoll hears his master’s voice. Hears it and obeys. <em>Instinct</em>: To share divine insight</p>
+<p aid:pstyle="MonsterDescription">Oh, an emissary! How nice. I suspect you didn’t know the gnolls had ambassadors, did you? Yes, even these mangy hyenas have to make nice sometimes. No, no, not with us. Nor the dwarves, neither. No, the emissary is the one, among his packmates, who trucks directly with their dripping demon lord. Frightening? Too right. Every hound has a master with his hand on the chain. This gnoll hears his master’s voice. Hears it and obeys. <em>Instinct</em>: To share divine insight</p>
 <ul><li>Pass on demonic influence</li>
 <li>Drive the pack into a fervor</li></ul>
 <p aid:pstyle="MonsterName">Gnoll Alpha	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
@@ -62,7 +62,7 @@
 <p aid:pstyle="MonsterStats">Cleaver (d10+5 damage)	20 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Mutations</p>
-<p aid:pstyle="MonsterDescription">Stained in the unholy ritual of Anointing By The Night’s Blood, some warriors of the horde rise to a kind of twisted knighthood. They trade their sanity for this honor, stepping halfway into a world of swirling madness. This makes Berserkers the greatest of their tribe, though as time passes, the chaos spreads. The rare Berserker that lives more than a few years becomes horrible and twisted, growing horns or an extra arm with which to grasp the iron cleavers they favor in battle. <em>Instinct</em>: To rage</p>
+<p aid:pstyle="MonsterDescription">Stained in the unholy ritual of Anointing By The Night’s Blood, some warriors of the horde rise to a kind of twisted knighthood. They trade their sanity for this honor, stepping halfway into a world of swirling madness. This makes berserkers the greatest of their tribe, though as time passes, the chaos spreads. The rare berserker that lives more than a few years becomes horrible and twisted, growing horns or an extra arm with which to grasp the iron cleavers they favor in battle. <em>Instinct</em>: To rage</p>
 <ul><li>Fly into a frenzy</li>
 <li>Unleash chaos</li></ul>
 <p aid:pstyle="MonsterName">Orc Breaker	<span aid:cstyle="Tags">Solitary, Large</span></p>

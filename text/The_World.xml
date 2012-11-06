@@ -27,7 +27,7 @@
 <p>When you have the time you’ll use the rules below to create the steading. The first steading is usually a village, but you can use a town if the first adventure was closely tied to humans (for example, if the players fought a human cult). Create it using the rules below.</p>
 <p>Once you’ve created the first steading you can add other places referenced in its tags (the oath, trade, and enmity tags in particular) or anywhere else that’s been referred to in play. Don’t add too much in the first session, leave blanks and places to explore.</p>
 <p>As play progresses the characters will discover new locales and places of interest either directly, by stumbling upon them in the wild, or indirectly, by hearing about them in rumors or tales. Add new steadings, dungeons, and other locations to the map as they’re discovered or heard about. Villages are often near a useful resource. Towns are often found at the point where several villages meet to trade. Keeps watch over important locations. Cities rely on the trade and support of smaller steads. Dungeons can be found anywhere and in many forms.</p>
-<p>Whenever you add a new steading use the rules to decide its tags. Consider adding a distinctive feature somewhere nearby. Maybe a forest, some old standing stones, an abandoned castle, or whatever else catches your fancy or makes sense. A map of only steadings and ruins with nothing in-between is dull, don’t neglect the other features of the world.</p>
+<p>Whenever you add a new steading use the rules to decide its tags. Consider adding a distinctive feature somewhere nearby. Maybe a forest, some old standing stones, an abandoned castle, or whatever else catches your fancy or makes sense. A map of only steadings and ruins with nothing in between is dull; don’t neglect the other features of the world.</p>
 <h3>Steading Tags</h3>
 <h4>Prosperity</h4>
 <p><em>Dirt</em>: Nothing for sale, nobody has more than they need (and they’re lucky if they have that). Unskilled labor is cheap.</p>
@@ -36,7 +36,7 @@
 <p><em>Wealthy</em>: Any mundane item can be found for sale. Most kinds of skilled laborers are available, but demand is high for their time.</p>
 <p><em>Rich</em>: Mundane items and more, if you know where to find them. Specialist labor available, but at high prices.</p>
 <h4>Population</h4>
-<p><em>Exodus</em>: The Steading has lost its population and is on the verge of collapse.</p>
+<p><em>Exodus</em>: The steading has lost its population and is on the verge of collapse.</p>
 <p><em>Shrinking</em>: The population is less than it once was. Buildings stand empty.</p>
 <p><em>Steady</em>: The population is in line with the current size of the steading. Some slow growth.</p>
 <p><em>Growing</em>: More people than there are buildings.</p>
@@ -48,28 +48,28 @@
 <p><em>Guard</em>: There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the steading.</p>
 <p><em>Garrison</em>: There are armed defenders at all times with a total pool of 100–300 (or equivalent). There are multiple armed patrols at all times.</p>
 <p><em>Battalion</em>: As many as 1,000 armed defenders (or equivalent). The steading has manned maintained defenses as well.</p>
-<p><em>Legion</em>: The Steading is defended by thousands of armed soldiers (or equivalent). The Steading’s defenses are intimidating.</p>
+<p><em>Legion</em>: The steading is defended by thousands of armed soldiers (or equivalent). The steading’s defenses are intimidating.</p>
 <h4>Other Tags</h4>
-<p><em>Safe</em>: Outside trouble doesn’t come here until the players bring it. Idyllic and often hidden. If the Steading would lose or degrade another beneficial tag get rid of Safe instead.</p>
+<p><em>Safe</em>: Outside trouble doesn’t come here until the players bring it. Idyllic and often hidden, if the steading would lose or degrade another beneficial tag get rid of safe instead.</p>
 <p><em>Religion</em>: The listed deity is revered here.</p>
 <p><em>Exotic</em>: There are goods and services available here that aren’t available anywhere else nearby. List them.</p>
 <p><em>Resource</em>: The steading has easy access to the listed resource (e.g., a spice, a type of ore, fish, grapes). That resource is significantly cheaper.</p>
-<p><em>Need</em>: The Steading has an acute or ongoing need for the listed resource. That resource sells for considerably more.</p>
-<p><em>Oath</em>: The Steading has sworn oaths to the listed Steadings. These oaths are generally of fealty or support, but may be more specific.</p>
-<p><em>Trade</em>: The Steading regularly trades with the listed Steadings.</p>
-<p><em>Market</em>: Everyone comes here to trade. On any given day the available items may be far beyond their prosperity. +1 to Supply.</p>
+<p><em>Need</em>: The steading has an acute or ongoing need for the listed resource. That resource sells for considerably more.</p>
+<p><em>Oath</em>: The steading has sworn oaths to the listed Steadings. These oaths are generally of fealty or support, but may be more specific.</p>
+<p><em>Trade</em>: The steading regularly trades with the listed Steadings.</p>
+<p><em>Market</em>: Everyone comes here to trade. On any given day the available items may be far beyond their prosperity. +1 to supply.</p>
 <p><em>Enmity</em>: The steading holds a grudge against the listed steadings.</p>
-<p><em>History</em>: Something important once happened here, choose one and detail or make up your own: Battle, Miracle, Myth, Romance, Tragedy.</p>
-<p><em>Arcane</em>: Someone in town can cast arcane spells for a price. This tends to draw more arcane casters, +1 to Recruit when you put out word you’re looking for an adept.</p>
+<p><em>History</em>: Something important once happened here, choose one and detail or make up your own: battle, miracle, myth, romance, tragedy.</p>
+<p><em>Arcane</em>: Someone in town can cast arcane spells for a price. This tends to draw more arcane casters, +1 to recruit when you put out word you’re looking for an adept.</p>
 <p><em>Divine</em>: There is a major religious presence, maybe a cathedral or monastery. They can heal and maybe even raise the dead for a donation or resolution of a quest. Take +1 to recruit priests here.</p>
 <p><em>Guild</em>: The listed type of guild has a major presence (and usually a fair amount of influence). If the guild is closely associated with a type of hireling, +1 to recruit that type of hireling.</p>
 <p><em>Personage</em>: There’s a notable person who makes their home here. Give them a name and a short note on why they’re notable.</p>
-<p><em>Dwarven</em>: The Steading is significantly or entirely dwarves. Dwarven goods are more common and less expensive than they typically are.</p>
-<p><em>Elven</em>: The Steading is significantly or entirely elves. Elven goods are more common and less expensive than they typically are.</p>
-<p><em>Craft</em>: The Steading is known for excellence in the listed craft. Items of their chosen craft are more readily available here or of higher quality than found elsewhere. </p>
+<p><em>Dwarven</em>: The steading is significantly or entirely dwarves. Dwarven goods are more common and less expensive than they typically are.</p>
+<p><em>Elven</em>: The steading is significantly or entirely elves. Elven goods are more common and less expensive than they typically are.</p>
+<p><em>Craft</em>: The steading is known for excellence in the listed craft. Items of their chosen craft are more readily available here or of higher quality than found elsewhere. </p>
 <p><em>Lawless</em>: Crime is rampant; authority is weak.</p>
-<p><em>Blight</em>: The Steading has a recurring problem, usually a type of monster.</p>
-<p><em>Power</em>: The Steading holds sway of some type. Typically Political, Divine, or Arcane.</p>
+<p><em>Blight</em>: The steading has a recurring problem, usually a type of monster.</p>
+<p><em>Power</em>: The steading holds sway of some type. Typically political, divine, or arcane.</p>
 <h3>Steading Names</h3>
 <p aid:pstyle="NoIndent">Graybark, Nook’s Crossing, Tanner’s Ford, Goldenfield, Barrowbridge, Rum River, Brindenburg, Shambles, Covaner, Enfield, Crystal Falls, Castle Daunting, Nulty’s Harbor, Castonshire, Cornwood, Irongate, Mayhill, Pigton, Crosses, Battlemoore, Torsea, Curland, Snowcalm, Seawall, Varlosh, Terminum, Avonia, Bucksburg, Settledown, Goblinjaw, Hammerford, Pit, The Gray Fast, Ennet Bend, Harrison’s Hold, Fortress Andwynne, Blackstone</p>
 <h2>Making a Village</h2>
@@ -157,10 +157,10 @@
 <h4>Aid</h4>
 <p aid:pstyle="NoIndent">When <strong>a steading has oaths to a steading under attack</strong> that steading may take -defenses to give the steading under attack +defenses.</p>
 <h4>Embattled</h4>
-<p aid:pstyle="NoIndent">When <strong>a steading is surrounded by enemy forces</strong> it suffers loses. If it fights back with force it gets -defenses. If its new defenses are watch or less it also gets -prosperity. If it instead tries to wait out the attack it gets -population. If its new population is Shrinking or less it loses a tag of your choice. If the steading’s defenses outclass the attacker’s (your call if it’s not clear, or make it part of an adventure front) the steading is no longer surrounded.</p>
+<p aid:pstyle="NoIndent">When <strong>a steading is surrounded by enemy forces</strong> it suffers losses. If it fights back with force it gets -defenses. If its new defenses are watch or less it also gets -prosperity. If it instead tries to wait out the attack it gets -population. If its new population is shrinking or less it loses a tag of your choice. If the steading’s defenses outclass the attacker’s (your call if it’s not clear, or make it part of an adventure front) the steading is no longer surrounded.</p>
 <h4>Opportunity</h4>
 <p aid:pstyle="NoIndent">When <strong>a steading has enmity against a weaker steading</strong> they may attack. Subtract the distance (in rations) between the steadings from the steading with enmity’s defenses. If the result is greater than the other steading’s defenses +defense for each step of size difference (village to town, town to keep, keep to city) they definitely attack. Otherwise it’s your call: has anything happened recently to stoke their anger? The forces of the attacker embattle the defender, while they maintain the attack they’re -defenses.</p>
 <h4>Clash</h4>
-<p aid:pstyle="NoIndent">When <strong>two steadings both attack each other</strong> their forces meet somewhere between them and fight. If they’re evenly matched they both get -defenses and their troops return home. If one has the advantage they take -defenses while the other takes -2 Defenses.</p>
+<p aid:pstyle="NoIndent">When <strong>two steadings both attack each other</strong> their forces meet somewhere between them and fight. If they’re evenly matched they both get -defenses and their troops return home. If one has the advantage they take -defenses while the other takes -2 defenses.</p>
 <h3>Other Updates</h3>
 <p aid:pstyle="NoIndent">The conditions above detail the most basic of interactions between steadings, of course the presence of your fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players’ actions and your fronts’ effects on the world.</p></Body></Root>

@@ -66,7 +66,7 @@
 <li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Healing potion</li>
-<li aid:pstyle="Option">Three antitoxin</li></ul></div>
+<li aid:pstyle="Option">3 antitoxins</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>
@@ -102,7 +102,7 @@
 <p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for prodigy. You prepare that spell as if it were one level lower.</p>
 <h3 aid:pstyle="MoveName">Greater Empowered Magic</h3>
 <p aid:pstyle="Requirement">Replaces: Empowered Magic</p>
-<p aid:pstyle="NoIndent">When you cast a spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
+<p aid:pstyle="NoIndent">When you cast a spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free:</p>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Enchanter’s Soul</h3>

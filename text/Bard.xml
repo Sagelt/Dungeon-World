@@ -24,7 +24,7 @@
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">When you first enter a civilized settlement someone who respects the custom of hospitality to minstrels will take you in as their guest.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
-<h3 aid:pstyle="BasicMoveName">Arcane Art (Cha)</h3>
+<h3 aid:pstyle="BasicMoveName">Arcane Art</h3>
 <p aid:pstyle="NoIndent">When you<strong> weave a performance into a basic spell</strong>, choose an ally and an effect:</p>
 <ul><li>Heal 1d8 damage</li>
 <li>+1d4 forward to damage</li>
@@ -40,7 +40,7 @@
 <li>The Planar Spheres</li>
 <li>Legends of Heroes Past</li>
 <li>Gods and Their Servants</li></ul>
-<p aid:pstyle="NoIndent">When you <strong>first encounter an important creature, location, or item (your call) covered by your bardic lore</strong> you can ask the GM any one question about it, the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.</p>
+<p aid:pstyle="NoIndent">When you <strong>first encounter an important creature, location, or item (your call) covered by your bardic lore</strong> you can ask the GM any one question about it; the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.</p>
 <h3 aid:pstyle="BasicMoveName">Charming and Open</h3>
 <p aid:pstyle="NoIndent">When you <strong>speak frankly with someone</strong>, you can ask their player a question from the list below. They must answer it truthfully, then they may ask you a question from the list (which you must answer truthfully).</p>
 <ul><li>Whom do you serve?</li>
@@ -73,7 +73,7 @@
 <ul><li aid:pstyle="Option">Dueling rapier (close, precise, 2 weight)</li>
 <li aid:pstyle="Option">Worn bow (near, 2 weight), bundle of arrows (3 ammo, 1 weight), and short sword (close, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li>Adventuring Gear (1 weight)</li>
+<ul><li>Adventuring gear (1 weight)</li>
 <li>Bandages (0 weight)</li>
 <li>Halfling pipeleaf (0 weight)</li>
 <li>3 coins</li></ul></div>
@@ -92,7 +92,7 @@
 <h3 aid:pstyle="MoveName">Vicious Cacophony</h3>
 <p aid:pstyle="NoIndent">When you <strong>grant bonus damage with arcane art</strong>, you grant an extra +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">It Goes To Eleven</h3>
-<p aid:pstyle="NoIndent">When you <strong>unleash a crazed performance</strong> (a righteous lute solo, mighty brass blast, confusing interpretive dance) choose a target who can hear you and roll+Cha. ✴On a 10+ the target flails in confusion dealing its damage to a random creature nearby. ✴On a 7–9 it still damages a random creature nearby, but then takes +1d4 damage ongoing as the music invigorates it.</p>
+<p aid:pstyle="NoIndent">When you <strong>unleash a crazed performance</strong> (a righteous lute solo or mighty brass blast, maybe) choose a target who can hear you and roll+Cha. ✴On a 10+ the target attacks their nearest ally in range. ✴On a 7–9 they attack their nearest ally, but you also draw their attention and ire.</p>
 <h3 aid:pstyle="MoveName">Metal Hurlant</h3>
 <p aid:pstyle="NoIndent">When you <strong>shout with great force or play a shattering note</strong> choose a target and roll+Con. ✴On a 10+ the target takes 1d10 damage and is deafened for a few minutes. ✴On a 7–9 you still damage your target, but it’s out of control: the GM will choose an additional target nearby.</p>
 <h3 aid:pstyle="MoveName">A Little Help From My Friends</h3>

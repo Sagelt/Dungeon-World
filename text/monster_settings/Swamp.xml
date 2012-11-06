@@ -14,7 +14,7 @@
 <p aid:pstyle="MonsterDescription">“Few have seen a basilisk and lived to tell the tale. Get it? Seen a basilisk? Little bit of basilisk humor there. Sorry, I know you’re looking for something helpful, sirs. Serious stuff, I understand. The basilisk, even without its ability to turn your flesh to stone with a gaze, is a dangerous creature. A bit like a frog, bulbous eyes and six muscled legs built for leaping. A bit like an alligator, with snapping jaws and sawing teeth. Covered in stony scales and very hard to kill. Best avoided, if possible.” <em>Instinct</em>: To create new statuary</p>
 <ul><li>Turn flesh to stone with a gaze</li>
 <li>Retreat into a maze of stone</li></ul>
-<p aid:pstyle="MonsterName">Black Pudding	<span aid:cstyle="Tags">Solitary, Gibbous</span></p>
+<p aid:pstyle="MonsterName">Black Pudding	<span aid:cstyle="Tags">Solitary, Amorphous</span></p>
 <p aid:pstyle="MonsterStats">Corrosive touch (d10 damage, ignores armor)	15 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amorphous</p>
@@ -25,7 +25,7 @@
 <p aid:pstyle="MonsterStats">Light ray (d8 damage, ignores armor)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Halo</p>
-<p aid:pstyle="MonsterDescription">As if in direct defiance of the decay and filth of the world, the gods granted us the Coutal. As if to say, “there is beauty, even in this grim place.” A serpent in flight on jeweled wings, these beautiful creatures glow with a soft light, as the sun does through stained glass. Bright, wise, and calm, a Coutal often knows many things and sees many more. You might be able to make a trade with it in exchange for some favor. They seek to cleanse and to purge and to make of this dark world a better one. Shame we have so few. The gods are cruel. <em>Instinct</em>: To cleanse</p>
+<p aid:pstyle="MonsterDescription">As if in direct defiance of the decay and filth of the world, the gods granted us the coutal. As if to say, “there is beauty, even in this grim place.” A serpent in flight on jeweled wings, these beautiful creatures glow with a soft light, as the sun does through stained glass. Bright, wise, and calm, a coutal often knows many things and sees many more. You might be able to make a trade with it in exchange for some favor. They seek to cleanse and to purge and to make of this dark world a better one. Shame we have so few. The gods are cruel. <em>Instinct</em>: To cleanse</p>
 <ul><li>Pass judgment on a person or place</li>
 <li>Summon divine forces to cleanse</li>
 <li>Offer information in exchange for service</li></ul>
@@ -132,7 +132,7 @@
 <p aid:pstyle="MonsterStats">Lash (d10+1 damage)	23 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Swamp form</p>
-<p aid:pstyle="MonsterDescription">Some elementals are conjured up in sacred circles etched in chalk. Most, in fact. There’s a sort of science to it. Others, though, aren’t so orderly—they don’t fall under the carefully controlled assignments of fire , air, water, or earth. Some are a natural confluence of vine and mire and fungus. They do not think the way a man might think. They cannot be understood as one might understand an elf. They simply are. Spirits of the swamp. Shamblers in the mud. <em>Instinct</em>: To preserve and create swamps</p>
+<p aid:pstyle="MonsterDescription">Some elementals are conjured up in sacred circles etched in chalk. Most, in fact. There’s a sort of science to it. Others, though, aren’t so orderly—they don’t fall under the carefully controlled assignments of fire, air, water, or earth. Some are a natural confluence of vine and mire and fungus. They do not think the way a man might think. They cannot be understood as one might understand an elf. They simply are. Spirits of the swamp. Shamblers in the mud. <em>Instinct</em>: To preserve and create swamps</p>
 <ul><li>Call on the swamp itself for aid</li>
 <li>Meld into the swamp</li>
 <li>Reassemble into a new form</li></ul>

@@ -40,22 +40,22 @@
 <p><em>Far</em>: It’s useful for attacking something in shouting distance.</p>
 <h3>Weapon List</h3>
 <p>The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for  typical weapons of their type—a specific weapon could have different tags to represent its features.</p>
-<p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">Near, 15 coins, 2 weight</span></p>
-<p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">Near, Far, 60 coins, 2 weight</span></p>
-<p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">Near, Far, 100 coins, 1 weight</span></p>
-<p aid:pstyle="Item">Crossbow	<span aid:cstyle="Tags">Near, +1 damage, Reload, 35 coins, 3 weight</span></p>
+<p aid:pstyle="Item">Ragged Bow	<span aid:cstyle="Tags">near, 15 coins, 2 weight</span></p>
+<p aid:pstyle="Item">Fine Bow	<span aid:cstyle="Tags">near, far, 60 coins, 2 weight</span></p>
+<p aid:pstyle="Item">Hunter’s Bow	<span aid:cstyle="Tags">near, far, 100 coins, 1 weight</span></p>
+<p aid:pstyle="Item">Crossbow	<span aid:cstyle="Tags">near, +1 damage, reload, 35 coins, 3 weight</span></p>
 <p aid:pstyle="Item">Bundle of Arrows	<span aid:cstyle="Tags">3 ammo, 1 coin, 1 weight</span></p>
 <p aid:pstyle="Item">Elven Arrows	<span aid:cstyle="Tags">4 ammo, 20 coins, 1 weight</span></p>
-<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">Close, 1 coin, 2 weight</span></p>
-<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">Close, Two-handed, 1 coin, 1 weight</span></p>
-<p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">Hand, 2 coins, 1 weight</span></p>
-<p aid:pstyle="Item">Throwing Dagger	<span aid:cstyle="Tags">Thrown, Near, 1 coin, 0 weight</span></p>
-<p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">Close, 8 coins, 1 weight</span></p>
-<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">Reach, Thrown, Near, 5 coins, 1 weight</span></p>
-<p aid:pstyle="Item">Long Sword, Battle Axe, Flail	<span aid:cstyle="Tags">Close, +1 damage, 15 coins, 2 weight</span></p>
-<p aid:pstyle="Item">Halberd	<span aid:cstyle="Tags">Reach, +1 damage, Two-handed, 9 coins, 2 weight</span></p>
-<p aid:pstyle="Item">Rapier	<span aid:cstyle="Tags">Close, precise, 25 coins, 1 weight</span></p>
-<p aid:pstyle="Item">Dueling Rapier	<span aid:cstyle="Tags">Close, 1 piercing, precise, 50 coins, 2 weight</span></p>
+<p aid:pstyle="Item">Club, Shillelagh	<span aid:cstyle="Tags">close, 1 coin, 2 weight</span></p>
+<p aid:pstyle="Item">Staff	<span aid:cstyle="Tags">close, two-handed, 1 coin, 1 weight</span></p>
+<p aid:pstyle="Item">Dagger, Shiv, Knife	<span aid:cstyle="Tags">hand, 2 coins, 1 weight</span></p>
+<p aid:pstyle="Item">Throwing Dagger	<span aid:cstyle="Tags">thrown, near, 1 coin, 0 weight</span></p>
+<p aid:pstyle="Item">Short Sword, Axe, Warhammer, Mace	<span aid:cstyle="Tags">close, 8 coins, 1 weight</span></p>
+<p aid:pstyle="Item">Spear	<span aid:cstyle="Tags">reach, thrown, near, 5 coins, 1 weight</span></p>
+<p aid:pstyle="Item">Long Sword, Battle Axe, Flail	<span aid:cstyle="Tags">close, +1 damage, 15 coins, 2 weight</span></p>
+<p aid:pstyle="Item">Halberd	<span aid:cstyle="Tags">reach, +1 damage, two-handed, 9 coins, 2 weight</span></p>
+<p aid:pstyle="Item">Rapier	<span aid:cstyle="Tags">close, precise, 25 coins, 1 weight</span></p>
+<p aid:pstyle="Item">Dueling Rapier	<span aid:cstyle="Tags">close, 1 piercing, precise, 50 coins, 2 weight</span></p>
 <h2>Armor</h2>
 <p aid:pstyle="NoIndent">Armor is heavy, difficult to wear and is damned uncomfortable. Some classes are better trained to ignore these drawbacks, but anyone can strap on a suit of armor and enjoy the benefits it grants.</p>
 <h3>Armor Tags</h3>
@@ -70,7 +70,7 @@
 <p aid:pstyle="Item">Shield	<span aid:cstyle="Tags">+1 armor, 15 coins, 2 weight</span></p>
 <h2>Dungeon Gear</h2>
 <p aid:pstyle="Item">Adventuring Gear	<span aid:cstyle="Tags">5 uses, 20 coins, 1 weight</span></p>
-<p aid:pstyle="ItemDescription">Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a Use.</p>
+<p aid:pstyle="ItemDescription">Adventuring gear is a collection of useful mundane items such as chalk, poles, spikes, ropes, etc. When you rummage through your adventuring gear for some useful mundane item, you find what you need and mark off a use.</p>
 <p aid:pstyle="Item">Bandages	<span aid:cstyle="Tags">3 uses, slow, 5 coins, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.</p>
 <p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 uses, slow, 10 coins, 1 weight</span></p>
@@ -193,13 +193,13 @@
 <p aid:pstyle="MagicItem">Cloak of Silent Stars	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">A cape of rich black velvet outside and sparkling with tiny points of light within, this cloak bends fate, time and reality around it to protect the wearer, who may defy danger with whatever stat they like. To do this, the wearer invokes the cloak’s magic and their player describes how the cloak helps “break the rules.” They can deflect a fireball with CHA by convincing it they deserve to live or elude a fall by applying the mighty logic of their INT to prove the fall won’t hurt. The cloak makes it so. It can be used once for each stat before losing its magic.</p>
 <p aid:pstyle="MagicItem">Coin of Remembering	<span aid:cstyle="Tags">0 weight</span></p>
-<p aid:pstyle="NoIndent">What appears, at a glance, to be a simple copper coin is, in truth, an enchanted coin. Its bearer can, at any time, redeem it to know immediately one fact that has been forgotten. The coin vanishes thereafter. It does not have to be a thing forgotten by the bearer, but it cannot be “known”. Interpretation of this stipulation is left to the gods. If the coin is unsuccessful, it will still paint an image in the mind’s eye of someone or something that does remember what was sought.</p>
-<p aid:pstyle="MagicItem">Common Scroll	<span aid:cstyle="Tags">1 Use, 0 weight</span></p>
-<p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class’s spell list for you to be able to cast it. When you cast a spell from a scroll, the spell has effect, simple as that.</p>
-<p aid:pstyle="MagicItem">Devilsbane Oil	<span aid:cstyle="Tags">1 Use, 0 weight</span></p>
+<p aid:pstyle="NoIndent">What appears, at a glance, to be a simple copper coin is, in truth, an enchanted coin. Its bearer can, at any time, redeem it to know immediately one fact that has been forgotten. The coin vanishes thereafter. It does not have to be a thing forgotten by the bearer, but it cannot be “known.” Interpretation of this stipulation is left to the gods. If the coin is unsuccessful, it will still paint an image in the mind’s eye of someone or something that does remember what was sought.</p>
+<p aid:pstyle="MagicItem">Common Scroll	<span aid:cstyle="Tags">1 use, 0 weight</span></p>
+<p aid:pstyle="NoIndent">A common scroll has a spell inscribed on it. The spell must be castable by you or on your class’s spell list for you to be able to cast it. When you cast a spell from a scroll, the spell takes effect, simple as that.</p>
+<p aid:pstyle="MagicItem">Devilsbane Oil	<span aid:cstyle="Tags">1 use, 0 weight</span></p>
 <p aid:pstyle="NoIndent">A holy oil, created in limited supply by a mute sect of mountain monks whose order protected humanity from the powers of the Demon Pits in ancient epochs. Only a few jars remain. When applied to any weapon and used to strike a denizen of any outer plane, the oil undoes the magic that binds that creature. In some cases, this will return it to its home. In others, it merely undoes any magic controlling it. The oil stays on the weapon for a few hours before it dries and flakes away.</p>
 <p>If applied to the edges of a doorway or drawn in a circle, the oil will repel creatures whose home is any of the outer planes. They cannot pass across it. The oil lasts for one full day before it soaks in or evaporates.</p>
-<p aid:pstyle="MagicItem">Earworm Wax	<span aid:cstyle="Tags">1 Use, 0 weight</span></p>
+<p aid:pstyle="MagicItem">Earworm Wax	<span aid:cstyle="Tags">1 use, 0 weight</span></p>
 <p aid:pstyle="NoIndent">A yellowish candle. Seems never to burn out and the light it casts is strange and weak. Its wax is always cool, too. Drip the wax into the ear of a target and gain 3 hold. Spend that hold and ask your target a question. They find themselves telling you the whole truth, despite themselves. The consequences, after the fact? Those are up to you to deal with.</p>
 <p aid:pstyle="MagicItem">The Echo	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">A seemingly empty bottle. Once unstoppered, the whispers of another plane resound once and fall silent. In the silence, the bearer learns in his soul the coming of one great danger and how he can avoid it. At any point after you use the Echo, you can ignore the results of any single die roll—yours or another player’s—and roll again. Once opened, the Echo is released and gone forever.</p>
@@ -244,7 +244,7 @@
 <p aid:pstyle="MagicItem">Tears of Annalise	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed by two different people, they bind the swallowers together—when either feels strong emotions (particularly sadness, loss, fear or desire) the other feels it, as well. The effects last until one spills the blood of the other.</p>
 <p aid:pstyle="MagicItem">Teleportation Room	<span aid:cstyle="Tags">Slow</span></p>
-<p aid:pstyle="NoIndent">James Ninefingers, eccentric genius mage, created these room-sized magical apparati. A stone room etched with runes and scribblings, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+INT. ✴On a 10+, you arrive exactly where you’d intended. ✴On a 7–9, the GM chooses a safe location nearby. ✴On a miss, you end up someplace. Maybe it’s nearby? It’s definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
+<p aid:pstyle="NoIndent">James Ninefingers, eccentric genius mage, created these room-sized magical apparati. A stone chamber etched with runes and scribblings, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+INT. ✴On a 10+, you arrive exactly where you’d intended. ✴On a 7–9, the GM chooses a safe location nearby. ✴On a miss, you end up someplace. Maybe it’s nearby? It’s definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
 <p aid:pstyle="MagicItem">Timunn’s Armor	<span aid:cstyle="Tags">1 armor, 1 weight</span></p>
 <p aid:pstyle="NoIndent">A stealthy suit of armor, it appears as many things to many people and blends in with appropriate apparel. The wearer always seems the height of fashion to any who gaze upon him.</p>
 <p aid:pstyle="MagicItem">Titus’ Truthful Tallow	<span aid:cstyle="Tags">0 weight</span></p>

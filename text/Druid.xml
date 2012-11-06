@@ -18,9 +18,9 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">The sap of the elder trees flows within you. In additions to any other attunements, the Great Forest is always considered your land.</p>
+<p aid:pstyle="NoIndent">The sap of the elder trees flows within you. In addition to any other attunements, the Great Forest is always considered your land.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">As your people learned to bind animals to field and farm, so to are you bound to them. You may always take the shape of any domesticated animal, in addition to your normal options.</p>
+<p aid:pstyle="NoIndent">As your people learned to bind animals to field and farm, so too are you bound to them. You may always take the shape of any domesticated animal, in addition to your normal options.</p>
 <h3 aid:pstyle="MoveName">Halfling</h3>
 <p aid:pstyle="NoIndent">You sing the healing songs of spring and brook. When you make camp, you and your allies heal +1d6.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
@@ -37,7 +37,7 @@
 <li aid:pstyle="Option">The Towering Mountains</li>
 <li aid:pstyle="Option">The Frozen North</li>
 <li aid:pstyle="Option">The Blasted Wasteland</li></ul>
-<p aid:pstyle="NoIndent">Chose a tell—a physical attribute that marks you as born of the soil—that reflects the spirit of your land. It may be an animal feature like antlers or leopard’s spots or something more general, hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take.</p></div>
+<p aid:pstyle="NoIndent">Chose a tell—a physical attribute that marks you as born of the soil—that reflects the spirit of your land. It may be an animal feature like antlers or leopard’s spots or something more general: hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take.</p></div>
 <div id="ByNatureSustained"><h3 aid:pstyle="BasicMoveName">By Nature Sustained</h3>
 <p aid:pstyle="NoIndent">You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.</p></div>
 <div id="SpiritTongue"><h3 aid:pstyle="BasicMoveName">Spirit Tongue</h3>
@@ -52,9 +52,9 @@
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
 <p aid:pstyle="NoIndent">Destroy a symbol of civilization.</p>
 <h3 aid:pstyle="MoveName">Good</h3>
-<p aid:pstyle="NoIndent">Help something or someone grow</p>
+<p aid:pstyle="NoIndent">Help something or someone grow.</p>
 <h3 aid:pstyle="MoveName">Neutral</h3>
-<p aid:pstyle="NoIndent">Eliminate an unnatural menace</p></div>
+<p aid:pstyle="NoIndent">Eliminate an unnatural menace.</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Str. You carry some token of your land, describe it. Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Hide armor (1 armor, 1 weight)</li>
@@ -62,12 +62,12 @@
 Choose your armament:
 <ul><li aid:pstyle="Option">Shillelagh (close, 2 weight)</li>
 <li aid:pstyle="Option">Staff (close, two-handed, 1 weight)</li>
-<li aid:pstyle="Option">Spear (close, Thrown, Near, 1 weight)</li></ul>
+<li aid:pstyle="Option">Spear (close, thrown, near, 1 weight)</li></ul>
 Choose one:
-<ul><li aid:pstyle="Option">Adventuring Gear (1 weight)</li>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Poultices and herbs (2 uses, 1 weight)</li>
 <li aid:pstyle="Option">Halfling pipeleaf (0 weight)</li>
-<li aid:pstyle="Option">3 Antitoxin (0 weight)</li></ul></div>
+<li aid:pstyle="Option">3 antitoxin (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>____________________ smells more like prey than a hunter.</p>
@@ -108,7 +108,7 @@ Choose one:
 <p aid:pstyle="Requirement">Replaces: Red of Tooth and Claw</p>
 <p aid:pstyle="NoIndent">When you <strong>are in an appropriate animal form</strong> (something dangerous) increase your damage to d10.</p>
 <h3 aid:pstyle="MoveName">The Druid Sleep</h3>
-<p aid:pstyle="NoIndent">When you take this move, the next opportunity that you have safety and time to spend in an appropriate location, you may attune yourself to a new land. This effect occurs only once and the GM will tell you how long it will take and what cost you must pay. From there on, you are considered to be born of the soil in both lands.</p>
+<p aid:pstyle="NoIndent">When you take this move, the next opportunity that you have safety and time to spend in an appropriate location, you may attune yourself to a new land. This effect occurs only once and the GM will tell you how long it will take and what cost you must pay. From then on, you are considered to be born of the soil in both lands.</p>
 <h3 aid:pstyle="MoveName">World-Talker</h3>
 <p aid:pstyle="Requirement">Requires: Thing-Talker</p>
 <p aid:pstyle="NoIndent">You see the patterns that make up the fabric of the world. You may now apply your spirit tongue, shapeshifter and studied essence moves to pure elements—fire, water, air and earth.</p>

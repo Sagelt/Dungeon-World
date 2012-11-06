@@ -12,9 +12,9 @@
 <p aid:pstyle="NoIndent">Name the spirit you wish to contact (or leave it to the GM). You pull that creature through the planes, just close enough to speak to you. It is bound to answer any one question you ask to the best of its ability.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Detect Magic</span>	Level 1	<em>Divination</em></p>
 <p aid:pstyle="NoIndent">One of your senses is briefly attuned to magic. The GM will tell you what here is magical.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Telepathy</span>	Level 1	<em>Divination</em></p>
-<p aid:pstyle="NoIndent">You form a telepathic bond with a single person you touch, enabling you to speak to that person through your thoughts. You can only have one telepathic bond at a time.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Charm Person</span>	Level 1	<em>Enchantment</em></p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Telepathy</span>	Level 1	<em>Divination Ongoing</em></p>
+<p aid:pstyle="NoIndent">You form a telepathic bond with a single person you touch, enabling you to converse with that person through your thoughts. You can only have one telepathic bond at a time.</p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Charm Person</span>	Level 1	<em>Enchantment Ongoing</em></p>
 <p aid:pstyle="NoIndent">The person (not beast or monster) you touch while casting this spell counts you as a friend until they take damage or you prove otherwise.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Invisibility</span>	Level 1	<em>Illusion Ongoing</em></p>
 <p aid:pstyle="NoIndent">Touch an ally: nobody can see them. They’re invisible! The spell persists until the target attacks or you dismiss the effect. While the spell is ongoing you can’t cast a spell.</p>
@@ -44,7 +44,7 @@
 <li>The creature’s mind will be altered as well</li>
 <li>The form has an unintended benefit or weakness</li></ul>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Summon Monster</span>	Level 5	<em>Summoning Ongoing</em></p>
-<p aid:pstyle="NoIndent">A monster appears and aids you as best it can. Treat it as your character, but with access to only the basic moves. It has +1 modifier for all stats and 1 HP. The monster also gets your choice of 1d6 of these traits: </p>
+<p aid:pstyle="NoIndent">A monster appears and aids you as best it can. Treat it as your character, but with access to only the basic moves. It has +1 modifier for all stats, 1 HP, and uses your damage dice. The monster also gets your choice of 1d6 of these traits: </p>
 <ul><li>It has +2 instead of +1 to one stat</li>
 <li>It’s not reckless</li>
 <li>It does 1d8 damage</li>
@@ -64,15 +64,15 @@
 <p aid:pstyle="NoIndent">The shadows you target with this spell become a portal for you and your allies. Name a location, describing it with a number of words up to your level. Stepping through the portal deposits you and any allies present when you cast the spell at the location you described. The portal may only be used once by each ally.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Contingency</span>	Level 7	<em>Evocation</em></p>
 <p aid:pstyle="NoIndent">Choose a 5th level or lower spell you know. Describe a trigger condition using a number of words equal to your level. The chosen spell is held until you choose to unleash it or the trigger condition is met, whichever happens first. You don’t have to roll for the held spell, it just takes effect. You may only have a single contingent spell held at a time; if you cast Contingency while you have a held spell, the new held spell replaces the old one.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cloudkill</span>	Level 7	<em>Summoning</em></p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Cloudkill</span>	Level 7	<em>Summoning Ongoing</em></p>
 <p aid:pstyle="NoIndent">A cloud of fog drifts into this realm from beyond the Black Gates of Death, filling the immediate area. Whenever a creature in the area takes damage it takes an additional, separate 1d6 damage which ignores armor. This spell persists so long as you can see the affected area, or until you dismiss it.</p></div>
 <div><p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Antipathy</span>	Level 9	<em>Enchantment Ongoing</em></p>
-<p aid:pstyle="NoIndent">Choose a target and describe a type of creature or an alignment. Creatures of the specified type or alignment cannot come within sight of the target. If a creature of the specified type does find itself within site of the target, it immediately flees. This effect continues until you leave the target’s presence or you dismiss the spell. While the spell is ongoing you take -1 to cast a spell.</p>
+<p aid:pstyle="NoIndent">Choose a target and describe a type of creature or an alignment. Creatures of the specified type or alignment cannot come within sight of the target. If a creature of the specified type does find itself within sight of the target, it immediately flees. This effect continues until you leave the target’s presence or you dismiss the spell. While the spell is ongoing you take -1 to cast a spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Alert</span>	Level 9	<em>Divination</em></p>
 <p aid:pstyle="NoIndent">Describe an event. The GM will tell you when that event occurs, no matter where you are or how far away the event is. If you choose, you can view the location of the event as though you were there in person. You can only have one Alert active at a time.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Soul Gem</span>	Level 9</p>
 <p aid:pstyle="NoIndent">You trap the soul of a dying creature within a gem. The trapped creature is aware of its imprisonment but can still be manipulated through spells, parley, and other effects. All moves against the trapped creature are at +1. You can free the soul at any time but it can never be recaptured once freed.</p>
-<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Shelter</span>	Level 9	<em>Evocation</em></p>
+<p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Shelter</span>	Level 9	<em>Evocation Ongoing</em></p>
 <p aid:pstyle="NoIndent">You create a structure out of pure magical power. It can be as large as a castle or as small as a hut, but is impervious to all non-magical damage. The structure endures until you leave it or you end the spell.</p>
 <p aid:pstyle="SpellName"><span aid:cstyle="SpellName">Perfect Summons</span>	Level 9	<em>Summoning</em></p>
 <p aid:pstyle="NoIndent">You teleport a creature to your presence. Name a creature or give a short description of a type of creature. If you named a creature, that creature appears before you. If you described a type of creature, a creature of that type appears before you.</p></div></Body></Root>

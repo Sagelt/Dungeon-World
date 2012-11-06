@@ -38,7 +38,7 @@ Show the world who is lord.</p></div>
 <div id="DivineGuidance"><h3 aid:pstyle="BasicMoveName">Divine Guidance</h3>
 <p aid:pstyle="NoIndent">When you <strong>petition your deity according to the precept of your religion</strong>, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.</p></div>
 <div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
-<p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft call on your deity for protection</strong>, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, intelligent undead are momentarily dazed and mindless undead flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.</p></div>
+<p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft and call on your deity for protection</strong>, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet communion with your deity</strong>, you:</p>
 <ul><li>Lose any spells already granted to you.</li>
@@ -65,7 +65,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
 <ul><li aid:pstyle="Option">Warhammer (close, 1 weight)</li>
 <li aid:pstyle="Option">Mace (close, 1 weight)</li>
-<li aid:pstyle="Option">Staff (close, Two-handed, 1 weight) and bandages (0 weight)</li></ul>
+<li aid:pstyle="Option">Staff (close, two-handed, 1 weight) and bandages (0 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight) and dungeon rations (5 uses, 1 weight)</li>
 <li aid:pstyle="Option">Healing potion (1 weight)</li></ul></div>
@@ -106,7 +106,7 @@ Show the world who is lord.</p></div>
 <p aid:pstyle="Requirement">Requires: Chosen One</p>
 <p aid:pstyle="NoIndent">Choose one spell in addition to the one you picked for chosen one. You are granted that spell as if it was one level lower.</p>
 <h3 aid:pstyle="MoveName">Apotheosis</h3>
-<p aid:pstyle="NoIndent">The next time you<strong>spend time in prayer as appropriate to your god</strong> after taking this move, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc.). When you emerge from prayer, you permanently gain that physical feature.</p>
+<p aid:pstyle="NoIndent">The first time you <strong>spend time in prayer as appropriate to your god</strong> after taking this move, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc.). When you emerge from prayer, you permanently gain that physical feature.</p>
 <h3 aid:pstyle="MoveName">Reaper</h3>
 <p aid:pstyle="NoIndent">When you <strong>take time after a conflict to dedicate your victory to your deity and deal with the dead</strong>, take +1 forward.</p>
 <h3 aid:pstyle="MoveName">Providence</h3>

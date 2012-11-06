@@ -58,8 +58,8 @@ So guide these fools, paladin. Take up your holy cause and bring salvation to th
 <p aid:pstyle="NoIndent">Endanger yourself to protect someone weaker than you.</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 12+Str. You start with dungeon rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some mark of faith, describe it (0 weight). Choose your weapon:</p>
-<ul><li aid:pstyle="Option">Halberd (Reach, +1 damage, two-handed, 2 weight)</li>
-<li aid:pstyle="Option">Long sword (Close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
+<ul><li aid:pstyle="Option">Halberd (reach, +1 damage, two-handed, 2 weight)</li>
+<li aid:pstyle="Option">Long sword (close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Dungeon rations (1 weight) and healing potion</li></ul></div>
