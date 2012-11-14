@@ -65,8 +65,8 @@
 <ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
 <li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">Healing potion</li>
-<li aid:pstyle="Option">3 antitoxins</li></ul></div>
+<ul><li aid:pstyle="Option">Healing potion (0 weight)</li>
+<li aid:pstyle="Option">3 antitoxins (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>

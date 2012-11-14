@@ -121,7 +121,7 @@
 <li>Hurl a poisoned spear</li>
 <li>Frenzy at the sight of blood</li></ul>
 <p aid:pstyle="MonsterName">Sauropod	<span aid:cstyle="Tags">Group, Huge, Cautious</span></p>
-<p aid:pstyle="MonsterStats">Trample (d8+5 damage)	18 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Trample (d10+5 damage)	18 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Armor plated body</p>
 <p aid:pstyle="MonsterDescription">Great lumbering beasts, they live in places long since forgotten by the thinking races of the world. Gentle if unprovoked, but mighty if their ire is raised, they trample smaller creatures with the care we might give to crushing an ant beneath our boots. If you see one, drift by and gaze in awe, but do not wake the giant. <em>Instinct</em>: To endure</p>

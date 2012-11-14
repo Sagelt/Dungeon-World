@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Lower Depths</h1>
 <Body><p aid:pstyle="MonsterName">Aboleth	<span aid:cstyle="Tags">Group, Huge, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Tentacle (d8+3 damage)	18 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Tentacle (d10+3 damage)	18 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Telepathy</p>
 <p aid:pstyle="MonsterDescription">Deep below the surface of the world, in freshwater seas untouched by the sun, dwell the aboleth. Fish the size of whales, with strange growths of gelatinous feelers used to probe the lightless shores. They’re served by slaves: blind albino victims of any race unfortunate enough to stumble on them, drained of thought and life by the powers of the aboleth’s alien mind. In the depths they plot against each other, fishy cultists building and digging upward towards the surface until someday, they’ll breach it. For now, they sleep and dream and guide their pallid minions to do their bidding. <em>Instinct</em>: To command</p>
@@ -9,7 +9,7 @@
 <li>Turn minions on them</li>
 <li>Put a plan in motion</li></ul>
 <p aid:pstyle="MonsterName">Apocalypse Dragon	<span aid:cstyle="Tags">Solitary, Huge, Magical, Divine</span></p>
-<p aid:pstyle="MonsterStats">Bite (b[2d10]+9 damage, 4 piercing)	26 HP	5 Armor</p>
+<p aid:pstyle="MonsterStats">Bite (b[2d12]+9 damage, 4 piercing)	26 HP	5 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Inch-thick metal hide, Supernatural knowledge, Wings</p>
 <p aid:pstyle="MonsterDescription">The end of all things shall be a burning—of tree and earth and of the air itself. It shall come upon the plains and mountains not from beyond this world but from within it. Birthed from the womb of deepest earth shall come the Dragon that Will End the World. In its passing all will become ash and bile and the Dungeon World a dying thing will drift through planar space devoid of life. They say to worship the Apocalypse Dragon is to invite madness. They say to love it is to know oblivion. The awakening is coming. <em>Instinct</em>: To end the world</p>

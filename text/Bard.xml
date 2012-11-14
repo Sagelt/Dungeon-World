@@ -59,7 +59,7 @@
 <h3 aid:pstyle="MoveName">Chaotic</h3>
 <p aid:pstyle="NoIndent">Spur others to significant and unplanned decisive action.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You have dungeon rations (5 uses, 1 weight). Choose one instrument:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 9+Str. You have dungeon rations (5 uses, 1 weight). Choose one instrument, all are 0 weight for you:</p>
 <ul><li aid:pstyle="Option">Your father’s mandolin, repaired</li>
 <li aid:pstyle="Option">A fine lute, a gift from a noble</li>
 <li aid:pstyle="Option">The pipes with which you courted your first love</li>
@@ -68,7 +68,7 @@
 <li aid:pstyle="Option">A songbook in a forgotten tongue</li></ul>
 <p aid:pstyle="NoIndent">Choose your clothing:</p>
 <ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
-<li aid:pstyle="Option">Ostentatious clothes</li></ul>
+<li aid:pstyle="Option">Ostentatious clothes (0 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
 <ul><li aid:pstyle="Option">Dueling rapier (close, precise, 2 weight)</li>
 <li aid:pstyle="Option">Worn bow (near, 2 weight), bundle of arrows (3 ammo, 1 weight), and short sword (close, 1 weight)</li></ul>

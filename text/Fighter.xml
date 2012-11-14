@@ -79,9 +79,9 @@
 <ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Scale armor (2 armor, 3 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose two:</p>
-<ul><li aid:pstyle="Option">2 Healing potions (2 weight)</li>
+<ul><li aid:pstyle="Option">2 Healing potions (0 weight)</li>
 <li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li>
-<li aid:pstyle="Option">Antitoxin, dungeon rations (1 weight), and poultices and herbs (1 weight)</li>
+<li aid:pstyle="Option">Antitoxin (0 weight), dungeon rations (1 weight), and poultices and herbs (1 weight)</li>
 <li aid:pstyle="Option">22 coins</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>

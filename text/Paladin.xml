@@ -62,7 +62,7 @@ So guide these fools, paladin. Take up your holy cause and bring salvation to th
 <li aid:pstyle="Option">Long sword (close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
-<li aid:pstyle="Option">Dungeon rations (1 weight) and healing potion</li></ul></div>
+<li aid:pstyle="Option">Dungeon rations (1 weight) and healing potion (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________’s misguided behavior endangers their very soul!</p>

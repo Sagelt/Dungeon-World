@@ -112,7 +112,7 @@
 <li>Confuse their senses</li>
 <li>Craft an illusion</li></ul>
 <p aid:pstyle="MonsterName">Treant	<span aid:cstyle="Tags">Group, Huge, Intelligent, Amorphous</span></p>
-<p aid:pstyle="MonsterStats">Walloping branches (d8+5 damage)	21 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Walloping branches (d10+5 damage)	21 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wooden</p>
 <p aid:pstyle="MonsterDescription">Old and tall and thick of bark</p>
