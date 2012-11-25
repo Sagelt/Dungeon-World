@@ -64,8 +64,8 @@
 <h4>Stun Damage</h4>
 <p aid:pstyle="NoIndent">Stun damage is non-lethal damage. A PC who takes stun damage is defying danger to do anything at all, the danger being “you’re stunned.” This lasts as long as makes sense in the fiction—you’re stunned until you can get a chance to clear your head or fix whatever stunned you. A GM character that takes stun damage doesn’t count it against their HP but will act accordingly, staggering around for a few seconds, fumbling blindly, etc.</p>
 <h4>Adding and Subtracting Damage</h4>
-<p aid:pstyle="NoIndent">When a move tells you to add damage, you add that damage to the roll on the dice. If it tells you to add some dice (like “+1d4 damage”) you roll that extra dice and add its result to the total.</p>
-<p>The same goes for subtracting damage: you subtract the number from the total rolled. If you subtract a dice (like “-1d6 damage”) you subtract the rolled amount from the original total. Damage never goes negative—0 damage is the minimum.</p>
+<p aid:pstyle="NoIndent">When a move tells you to add damage, you add that damage to the roll on the dice. If it tells you to add some dice (like “+1d4 damage”) you roll that and add its result to the total.</p>
+<p>The same goes for subtracting damage: you subtract the number from the total rolled. If you subtract dice (like “-1d6 damage”) you subtract the rolled amount from the original total. Damage never goes negative—0 damage is the minimum.</p>
 <h4>Best and Worst</h4>
 <p aid:pstyle="NoIndent">Some monsters and moves have you roll damage multiple times and take the best or worst result. In this case roll as normal but only apply the best (or worst) result.</p>
 <p>If a monster rolls its d6 damage twice and takes the best result it’s written b[2d6]. The b[] means “best.” Likewise, w[] means worst, so w[3d10] means “roll a d10 for damage three times and use the worst result.”</p>
