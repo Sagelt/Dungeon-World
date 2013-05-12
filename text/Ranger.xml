@@ -24,11 +24,11 @@
 <p aid:pstyle="NoIndent">When you make camp in a dungeon or city, you don’t need to consume a ration.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Hunt and Track (Wis)</h3>
-<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+WIS. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
+<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+Wis. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
 <ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
 <li>Determine what caused the trail to end</li></ul>
 <h3 aid:pstyle="BasicMoveName">Called Shot</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+Dex.</p>
 <ul><li>Head ✴10+: As 7–9, plus your damage ✴7-9: They do nothing but stand and drool for a few moments.</li>
 <li>Arms ✴10+: As 7-9, plus your damage ✴7-9: They drop anything they’re holding.</li>
 <li>Legs ✴10+: As 7-9, plus your damage ✴7-9: They’re hobbled and slow moving.</li></ul>
@@ -83,7 +83,7 @@
 <h3 aid:pstyle="MoveName">Wild Empathy</h3>
 <p aid:pstyle="NoIndent">You can speak with and understand animals.</p>
 <h3 aid:pstyle="MoveName">Familiar Prey</h3>
-<p aid:pstyle="NoIndent">When you spout lore about a monster you use WIS instead of INT.</p>
+<p aid:pstyle="NoIndent">When you spout lore about a monster you use Wis instead of Int.</p>
 <h3 aid:pstyle="MoveName">Viper’s Strike</h3>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
@@ -106,7 +106,7 @@
 <p aid:pstyle="NoIndent">You can speak with and understand any non-magical, non-planar creature.</p>
 <h3 aid:pstyle="MoveName">Hunter’s Prey</h3>
 <p aid:pstyle="Requirement">Replaces: Familiar Prey</p>
-<p aid:pstyle="NoIndent">When you spout lore about a monster you use WIS instead of INT. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
+<p aid:pstyle="NoIndent">When you spout lore about a monster you use Wis instead of Int. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
 <h3 aid:pstyle="MoveName">Viper’s Fangs</h3>
 <p aid:pstyle="Requirement">Replaces: Viper’s Strike</p>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>

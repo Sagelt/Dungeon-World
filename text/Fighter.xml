@@ -22,7 +22,7 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
-<p aid:pstyle="NoIndent">When you <strong>share a drink with someone</strong>, you may parley with them using CON instead of CHA.</p>
+<p aid:pstyle="NoIndent">When you <strong>share a drink with someone</strong>, you may parley with them using Con instead of Cha.</p>
 <h3 aid:pstyle="MoveName">Elf</h3>
 <p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the precise tag.</p>
 <h3 aid:pstyle="MoveName">Halfling</h3>
@@ -94,7 +94,7 @@
 <h3 aid:pstyle="MoveName">Merciless</h3>
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Heirloom</h3>
-<p aid:pstyle="NoIndent">When you <strong>consult the spirits that reside within your signature weapon</strong>, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. ✴On a 10+, the GM will give you good detail. ✴On a 7-9, the GM will give you an impression.</p>
+<p aid:pstyle="NoIndent">When you <strong>consult the spirits that reside within your signature weapon</strong>, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+Cha. ✴On a 10+, the GM will give you good detail. ✴On a 7-9, the GM will give you an impression.</p>
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
 <p aid:pstyle="NoIndent">When you <strong>make your armor take the brunt of damage dealt to you</strong>, the damage is negated but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Improved Weapon</h3>
@@ -102,7 +102,7 @@
 <h3 aid:pstyle="MoveName">Seeing Red</h3>
 <p aid:pstyle="NoIndent">When you discern realities during combat, you take +1.</p>
 <h3 aid:pstyle="MoveName">Interrogator</h3>
-<p aid:pstyle="NoIndent">When you <strong>parley using threats of impending violence as leverage</strong>, you may use STR instead of CHA.</p>
+<p aid:pstyle="NoIndent">When you <strong>parley using threats of impending violence as leverage</strong>, you may use Str instead of Cha.</p>
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
 <p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
@@ -120,7 +120,7 @@
 <p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Evil Eye</h3>
 <p aid:pstyle="Requirement">Requires: Seeing Red</p>
-<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.</p>
+<p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+Cha. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.</p>
 <h3 aid:pstyle="MoveName">Taste of Blood</h3>
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
@@ -131,7 +131,7 @@
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
 <h3 aid:pstyle="MoveName">Through Death’s Eyes</h3>
-<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. ✴On a 6- you see your own death and consequently take -1 ongoing throughout the battle.</p>
+<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+Wis. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. ✴On a 6- you see your own death and consequently take -1 ongoing throughout the battle.</p>
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy’s weaponry, ask the GM how much damage they do.</p>
 <h3 aid:pstyle="MoveName">Superior Warrior</h3>
