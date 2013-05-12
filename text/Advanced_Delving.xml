@@ -17,7 +17,7 @@
 <p>Moves made by monsters against the players aren’t player moves at all. They’re monster moves, simple statements of what the monster does. Trying to make every monster move into a player move will seriously hamper your creativity.</p>
 <h3>World Moves</h3>
 <p aid:pstyle="NoIndent">Your Dungeon World is full of fantastic things, right? You’re likely to find that some of those fantastic things deserve or demand custom moves to reflect exactly what they do. Consider this one from Chris Bennet:</p>
-<p aid:pstyle="MoveFirstLine">When you <strong>open a sewer hatch</strong>, roll+STR: ✴On a 10+, choose 2. ✴On a 7–9 choose 1.</p>
+<p aid:pstyle="MoveFirstLine">When you <strong>open a sewer hatch</strong>, roll+Str: ✴On a 10+, choose 2. ✴On a 7–9 choose 1.</p>
 <ul><li aid:pstyle="li">You avoid being covered in feces and rotting animal entrails from the sewers above.</li>
 <li aid:pstyle="li">You avoid having a gelatinous cube land on you.</li>
 <li aid:pstyle="Lastli">You find a secret back entrance to where the merchant’s daughter is being held.</li></ul>
@@ -26,7 +26,7 @@
 <p>The other strength of moves like this is they call out something as important. By making the trigger “when you open a sewer hatch” instead of “when you act despite an imminent threat” the move calls out that these sewers are always dangerous.</p>
 <h3>Class Moves</h3>
 <p aid:pstyle="NoIndent">Each class has enough moves to take it through tenth level but that doesn’t mean you can’t add more. Adding moves to a class can demonstrate your idea of Dungeon World. Take this one, for example:</p>
-<p aid:pstyle="MoveOneLine">When you <strong>claim a room for your deity</strong>, mark every entrance and roll+WIS: ✴On a 10+, the room is peacebonded: no one can take action to cause physical harm within it. ✴On a 7–9, the room is peacebonded, but the show of divine power draws attention. You can dismiss the peacebond as you see fit.</p>
+<p aid:pstyle="MoveOneLine">When you <strong>claim a room for your deity</strong>, mark every entrance and roll+Wis: ✴On a 10+, the room is peacebonded: no one can take action to cause physical harm within it. ✴On a 7–9, the room is peacebonded, but the show of divine power draws attention. You can dismiss the peacebond as you see fit.</p>
 <p aid:pstyle="NoIndent">This move presents a slightly different side of Dungeon World, one that can demand peace (something that usually doesn’t come easily to PCs). This may not be right for every Dungeon World game, but it’s a great way to show how your Dungeon World looks, reflected in the characters.</p>
 <p>When adding a move, look carefully at what class it belongs to. Avoid giving a class moves that infringe on another class’s areas of expertise. If the thief can cast spells just as well as the wizard the wizard is likely to feel marginalized. This is why the multiclass moves act as one level lower, so that each class’s niche is somewhat protected.</p>
 <p>Be careful with any move that provides the same benefit as an existing move even if the trigger is different. Moves that add to damage, in particular, should be avoided for the most part unless carefully crafted with interesting triggers. The same is true of moves that add to armor. The classes at present have damage and armor increases that reflect the overall danger of Dungeon World. Giving them more can negate potential threats.</p>

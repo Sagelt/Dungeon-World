@@ -16,8 +16,8 @@
 <p>Everyone at the table should listen for when moves apply. If it’s ever unclear if a move has been triggered, everyone should work together to clarify what’s happening. Ask questions of everyone involved until everyone sees the situation the same way and then roll the dice, or don’t, as the situation requires.</p>
 <p>The GM’s monsters, NPCs, and other assorted beasties also have moves, but they work differently.</p>
 <h3>Moves and Dice</h3>
-<p aid:pstyle="NoIndent">Most moves include the phrase “roll+x” where “x” is one of your character’s ability modifiers (CON for example). Unless the move tells you otherwise, that “roll” always means that you roll two six-sided dice and add their results to the value of the modifier. Some moves will have you add some other value to your roll instead of an ability modifier.</p>
-<p aid:pstyle="Example">I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.</p>
+<p aid:pstyle="NoIndent">Most moves include the phrase “roll+x” where “x” is one of your character’s ability modifiers (Con for example). Unless the move tells you otherwise, that “roll” always means that you roll two six-sided dice and add their results to the value of the modifier. Some moves will have you add some other value to your roll instead of an ability modifier.</p>
+<p aid:pstyle="Example">I’m making a move that asks me to roll+Str and my Str modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.</p>
 <p aid:pstyle="NoIndent">The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7–9 is still a success but it comes with compromises or cost. A 6 or lower is trouble, but you also get to mark XP.</p>
 <p>Each move will tell you what happens on a 10+ and a 7–9. Most moves won’t say what happens on a 6-, that’s up to the GM but you also always mark XP.</p>
 <p>Damage rolls work a little differently. They use different dice depending on who or what is dealing damage.</p>
@@ -86,11 +86,11 @@
 <p>GM, when you tell the players what needs to be done to bring their comrade back, don’t feel like it has to derail the flow of the current game. Weave it in to what you know of the world. This is a great opportunity to change focus or introduce an element you’ve been waiting to show off. Don’t feel, either, that it has to be some great and epic quest. If the character died at the end of a goblin pike, maybe all it takes is an awkward walk home and a few thousand gold pieces donated to a local temple. Think about the ramifications of such a charitable act and how it might affect the world. Remember: Death never forgets a soul stolen from his realm.</p>
 <h3>Debilities</h3>
 <p aid:pstyle="NoIndent">Losing HP is a general thing, it’s getting tired, bruised, cut, and so on. Some wounds are deeper though. These are debilities.</p>
-<p><strong>Weak (STR):</strong> You can’t exert much force. Maybe it’s just fatigue and injury, or maybe your strength was drained by magic.</p>
-<p><strong>Shaky (DEX):</strong> You’re unsteady on your feet and you’ve got a shake in your hands.</p>
-<p><strong>Sick (CON):</strong> Something just isn’t right inside. Maybe you’ve got a disease or a wasting illness. Maybe you just drank too much ale last night and it’s coming back to haunt you.</p>
-<p><strong>Stunned (INT):</strong> That last knock to the head shook something loose. Brain not work so good.</p>
-<p><strong>Confused (WIS):</strong> Ears ringing. Vision blurred. You’re more than a little out of it.</p>
+<p><strong>Weak (Str):</strong> You can’t exert much force. Maybe it’s just fatigue and injury, or maybe your strength was drained by magic.</p>
+<p><strong>Shaky (Dex):</strong> You’re unsteady on your feet and you’ve got a shake in your hands.</p>
+<p><strong>Sick (Con):</strong> Something just isn’t right inside. Maybe you’ve got a disease or a wasting illness. Maybe you just drank too much ale last night and it’s coming back to haunt you.</p>
+<p><strong>Stunned (Int):</strong> That last knock to the head shook something loose. Brain not work so good.</p>
+<p><strong>Confused (Wis):</strong> Ears ringing. Vision blurred. You’re more than a little out of it.</p>
 <p><strong>Scarred (CHA):</strong> It may not be permanent, but for now you don’t look so good.</p>
 <p>Not every attack inflicts a debility—they’re most often associated with magic, poison, or stranger things like a vampire sucking your blood. Each debility is tied to an ability and gives you -1 to that ability’s modifier. The ability’s score is unaffected so you don’t have to worry about changing your maximum HP when you’re sick.</p>
 <p>You can only have each debility once. If you’re already Sick and something makes you Sick you just ignore it.</p>
