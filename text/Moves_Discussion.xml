@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Moves Discussion</h1>
+<h1>Basic Moves</h1>
 <Story><p aid:pstyle="NoIndent">This chapter contains the moves that are available to all characters. These moves fall into two categories: basic and special.</p>
 <p>Basic moves are the bread and butter of the adventurer’s life. They cover situations likely to come up in fights, tense negotiations, and dangerous areas.</p>
 <p>Special moves come up a little more rarely. They cover things like gaining a level, taking a long journey, or returning to town between adventures.</p>
@@ -176,10 +176,10 @@
 <p aid:pstyle="ExampleDialogue">Sparrow: (gulp)</p>
 <h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
 <p aid:pstyle="NoIndent">When you <Strong>make a move while carrying weight</Strong> you may be encumbered. If your weight carried is:</p>
-<ul><li aid:pstyle="li">Equal to or less than your Load, you suffer no penalty</li>
-<li aid:pstyle="li">Less than or equal to your Load+2, you take -1 ongoing until you lighten your burden</li>
-<li aid:pstyle="Lastli">Greater than your Load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
-<p aid:pstyle="NoIndent">A PC’s Load stat is determined by their class and Str. Being able to haul more is a clear benefit when trying to carry treasure out of a dungeon or just making sure you can bring along what you need.</p>
+<ul><li aid:pstyle="li">Equal to or less than your load, you suffer no penalty</li>
+<li aid:pstyle="li">Less than or equal to your load+2, you take -1 ongoing until you lighten your burden</li>
+<li aid:pstyle="Lastli">Greater than your load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
+<p aid:pstyle="NoIndent">A PC’s load stat is determined by their class and Str. Being able to haul more is a clear benefit when trying to carry treasure out of a dungeon or just making sure you can bring along what you need.</p>
 <p>This move only applies to things a person could walk around with and still act. Carrying a boulder on your back is not encumbrance—you can’t really act or move much with it. It affects what moves you can make appropriately in the fiction.</p>
 <h2 aid:pstyle="BasicMoveName">Make Camp</h2>
 <p aid:pstyle="MoveOneLine">When you <strong>settle in to rest</strong> consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
@@ -197,13 +197,6 @@
 <p>Distances in Dungeon World are measured in rations. A ration is the amount of supplies used up in a day. Journeys take more rations when they are long or when travel is slow.</p>
 <p>A perilous journey is the whole way between two locations. You don’t roll for one day’s journey and then make camp only to roll for the next day’s journey, too. Make one roll for the entire trip.</p>
 <p>This move only applies when you know where you’re going. Setting off to explore is not a perilous journey. It’s wandering around looking for cool things to discover. Use up rations as you camp and the GM will give you details about the world as you discover them.</p>
-<h2 aid:pstyle="BasicMoveName">Level Up</h2>
-<p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level+7</strong>, you can reflect on your experiences and hone your skills.</p>
-<ul><li aid:pstyle="li">Subtract your current level+7 from your XP.</li>
-<li aid:pstyle="li">Increase your level by 1.</li>
-<li aid:pstyle="li">Choose a new advanced move from your class.</li>
-<li aid:pstyle="li">If you are the wizard, you also get to add a new spell to your spellbook.</li>
-<li aid:pstyle="Lastli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</li></ul>
 <h2 aid:pstyle="BasicMoveName">End of Session</h2>
 <p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</p>
 <p>Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:</p>
@@ -211,6 +204,13 @@
 <li aid:pstyle="li">Did we overcome a notable monster or enemy?</li>
 <li aid:pstyle="li">Did we loot a memorable treasure?</li></ul>
 <p aid:pstyle="MoveOneLine">For each “yes” answer everyone marks XP.</p>
+<h2 aid:pstyle="BasicMoveName">Level Up</h2>
+<p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level+7</strong>, you can reflect on your experiences and hone your skills.</p>
+<ul><li aid:pstyle="li">Subtract your current level+7 from your XP.</li>
+<li aid:pstyle="li">Increase your level by 1.</li>
+<li aid:pstyle="li">Choose a new advanced move from your class.</li>
+<li aid:pstyle="li">If you are the wizard, you also get to add a new spell to your spellbook.</li>
+<li aid:pstyle="Lastli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</li></ul>
 <h2 aid:pstyle="BasicMoveName">Carouse</h2>
 <p aid:pstyle="NoIndent">When you <Strong>return triumphant and throw a big party</Strong>, spend 100 coins and roll +1 for every extra 100 coins spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a miss, you still choose one, but things get really out of hand (the GM will say how).</p>
 <ul><li aid:pstyle="li">You befriend a useful NPC.</li>

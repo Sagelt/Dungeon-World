@@ -56,7 +56,7 @@
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Eliminate an unnatural menace.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 6+Str. You carry some token of your land, describe it. Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 6+Str. You carry some token of your land, describe it. Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Hide armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Wooden shield (+1 armor, 1 weight)</li></ul>
 Choose your armament:
@@ -102,7 +102,7 @@ Choose one:
 <p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Embracing No Form</h3>
 <p aid:pstyle="NoIndent">When you shapeshift, roll 1d4 and add that total to your hold.</p>
-<h3 aid:pstyle="MoveName">Doppleganger’s Dance</h3>
+<h3 aid:pstyle="MoveName">Doppelgänger’s Dance</h3>
 <p aid:pstyle="NoIndent">You are able to study the essence of specific individuals to take their exact form, including men, elves, or the like. Suppressing your tell is possible, but if you do, take -1 ongoing until you return to your own form.</p>
 <h3 aid:pstyle="MoveName">Blood and Thunder</h3>
 <p aid:pstyle="Requirement">Replaces: Red of Tooth and Claw</p>
