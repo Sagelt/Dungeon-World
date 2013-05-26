@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="dungeon-world-chapter.xsl"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story><h1>Dungeon World</h1>
-<div id="Introduction"><p aid:pstyle="NoIndent">Dungeon World is a world of fantastic adventure. A world of magic, gods and demons, of good and evil, law and chaos. Brave heroes venture into the most dangerous corners of the land in search of gold and glory.</p>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><Story><h1>Introduction</h1>
+<div id="Introduction">
+<h2>Dungeon World</h2>
+<p aid:pstyle="NoIndent">Dungeon World is a world of fantastic adventure. A world of magic, gods and demons, of good and evil, law and chaos. Brave heroes venture into the most dangerous corners of the land in search of gold and glory.</p>
 <p>Adventurers take many shapes in Dungeon World. The races of elves, men, dwarves, and halflings all have their heroes. Some are near-invincible beasts of battle encased in iron armor. Others are more mysterious, conjuring up and wielding the mighty forces of magic. Treasure and glory are sought by a holy cleric, a tricky thief, a mighty paladin, and more.</p>
 <p>It isn’t all easy heroics and noble bravery, though. Every time the ranger guides his friends through the ancient woods there are a hundred things waiting to bite his head off. Slavering hordes of goblin troops, maybe. Or is this the Cursed Wood, where dwells the Gray Witch? Or the throngs of hateful dead, looking to drag a meaty corpse back to their lair? Scary, sure, but there’s treasure, too. More gold and jewels and magic lost to man have fallen between the cracks in the world than you can imagine. Who better to retrieve it than a band of stalwart heroes? </p>
 <p>You and your friends <em>are</em> those heroes. You go where others can’t or won’t. There are monstrous things lurking in the world. Are you ready to face them?</p>

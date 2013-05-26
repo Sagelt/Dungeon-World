@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Wizard</h1>
+<h1>The Wizard</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">Dungeon World has rules. Not the laws of men or the rule of some petty tyrant. Bigger, better rules. You drop something—it falls. You can’t make something out of nothing. The dead stay dead, right?</p>
 <p>Oh, the things we tell ourselves to feel better about the long, dark nights.</p>
 <p>You’ve spent so very long poring over those tomes of yours. The experiments that nearly drove you mad and all the botched summonings that endangered your very soul. For what? For power. What else is there? Not just the power of King or Country but the power to boil a man’s blood in his veins. To call on the thunder of the sky and the churn of the roiling earth. To shrug off the rules the world holds so dear.</p>
@@ -58,12 +58,12 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Use magic to cause terror and fear.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 7+Str. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 7+Str. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
 <p aid:pstyle="NoIndent">Choose your weapon:</p>
-<ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
-<li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
+<ul><li aid:pstyle="Option">Dagger (hand, 1 weight)</li>
+<li aid:pstyle="Option">Staff (close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Healing potion (0 weight)</li>
 <li aid:pstyle="Option">3 antitoxins (0 weight)</li></ul></div>
