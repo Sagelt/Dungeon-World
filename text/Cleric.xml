@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Cleric</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">The lands of Dungeon World are a gods-forsaken mess. They’re lousy with the walking dead, beasts of all sorts, and the vast unnatural spaces between safe and temple-blessed civilizations. It is a godless world out there. That’s why it needs you.</p>
-<p>Bringing the glory of your god to the heathens isn’t just in your nature—it’s your calling. It falls to you to proselytize with sword and mace and spell. To cleave deep into the witless heart of the wilds and plant the seed of divinity there. Some say that it is best to keep god close to your heart. You know that’s rubbish. God lives at the edge of a blade.
-Show the world who is lord.</p></div>
+<p>Bringing the glory of your god to the heathens isn’t just in your nature—it’s your calling. It falls to you to proselytize with sword and mace and spell. To cleave deep into the witless heart of the wilds and plant the seed of divinity there. Some say that it is best to keep god close to your heart. You know that’s rubbish. God lives at the edge of a blade.</p>
+<p>Show the world who is lord.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Dwarf</em>: Durga, Aelfar, Gerda, Rurgosh, Bjorn, Drummond, Helga, Siggrun, Freya</p>
 <p aid:pstyle="NoIndent"><em>Human</em>: Wesley, Brinton, Jon, Sara, Hawthorn, Elise, Clarke, Lenore, Piotr, Dahlia, Carmine</p></div>
@@ -59,7 +59,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Harm another to prove the superiority of your church or god.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (0 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (0 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
