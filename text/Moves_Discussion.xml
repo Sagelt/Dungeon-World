@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Moves Discussion</h1>
+<h1>Basic Moves</h1>
 <Story><p aid:pstyle="NoIndent">This chapter contains the moves that are available to all characters. These moves fall into two categories: basic and special.</p>
 <p>Basic moves are the bread and butter of the adventurer’s life. They cover situations likely to come up in fights, tense negotiations, and dangerous areas.</p>
 <p>Special moves come up a little more rarely. They cover things like gaining a level, taking a long journey, or returning to town between adventures.</p>
@@ -69,7 +69,7 @@
 <p aid:pstyle="ExampleDialogue">Valeria: Pfft, he’s no match for Valeria the Red! I leap aside like a leaf in the wind, then I start hacking and slashing.</p>
 <p aid:pstyle="ExampleDialogueLastLine">GM: Defy danger with your Dex, please and thank you.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">Octavia: I’ve had enough of this ogre, I’m going to drop my shield and swing my hammer in both hands. Hack and slash, right?</p>
-<p aid:pstyle="ExampleDialogue">GM: You drop your shield? That’s a bad idea–now you have to defy danger because the Ogre is going to bash you.</p>
+<p aid:pstyle="ExampleDialogue">GM: You drop your shield? That’s a bad idea–now you have to defy danger because the ogre is going to bash you.</p>
 <p aid:pstyle="ExampleDialogue">Octavia: Are you sure? Isn’t that what hack and slash is? Trading blows and stuff?</p>
 <p aid:pstyle="ExampleDialogue">GM: Yes, duh, of course. I need another cup of coffee–hack and slash it is, make your move!</p>
 <h2 aid:pstyle="BasicMoveName">Defend</h2>
@@ -167,19 +167,19 @@
 <h1>Special Moves</h1>
 <p aid:pstyle="NoIndent">Special moves are moves that come up less often or in more specific situations. They’re still the basis of what characters do in Dungeon World—particularly what they do between dungeon crawls and high-flying adventures.</p>
 <h2 aid:pstyle="BasicMoveName">Last Breath</h2>
-<p aid:pstyle="MoveOneLine">When <Strong>you’re dying</Strong> you catch a glimpse of what lies beyond the Black Gates of Death’s Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn’t care how tough or cool you are). ✴On a 10+, you’ve cheated death—you’re in a bad spot but you’re still alive. ✴On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. ✴On 6-, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.</p>
+<p aid:pstyle="MoveOneLine">When <Strong>you’re dying</Strong> you catch a glimpse of what lies beyond the Black Gates of Death’s Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn’t care how tough or cool you are). ✴On a 10+, you’ve cheated Death—you’re in a bad spot but you’re still alive. ✴On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. ✴On 6-, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.</p>
 <p aid:pstyle="NoIndent">The Last Breath is that moment standing between life and death. Time stands still as Death appears to claim the living for his own. Even those who do not pass beyond the Black Gates catch a glimpse of the other side and what might await them—friends and enemies past, rewards or punishment for acts in life or other, stranger vistas. All are changed in some way by this moment—even those who escape.</p>
-<p>There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He’s escaped with something that, by rights, isn’t his anymore. Death is powerless to stop this, but he remembers this slight. On a 7–9, the GM should offer a real choice with significant consequence. Think about the behaviors of the character and the things you’ve learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say “Death takes you across the threshold, into his bleak kingdom.” and move on. However, sometimes Death comes slowly. You might say “you have a week to live” or “you can feel the cold hand of death on you…” and leave it at that, for now. The player may want to give in and accept death at this point—that’s okay. Let them create a new character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should always lead to change.</p>
+<p>There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He’s escaped with something that, by rights, isn’t his anymore. Death is powerless to stop this, but he remembers this slight. On a 7–9, the GM should offer a real choice with significant consequence. Think about the behaviors of the character and the things you’ve learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say “Death takes you across the threshold, into his bleak kingdom.” and move on. However, sometimes Death comes slowly. You might say “you have a week to live” or “you can feel the cold hand of Death on you…” and leave it at that, for now. The player may want to give in and accept death at this point—that’s okay. Let them create a new character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should always lead to change.</p>
 <p aid:pstyle="ExampleDialogueFirstLine">GM: Sparrow, as the knife blade disappears into your guts, the world fades away and you stand before the Black Gates of Death. Among the throngs of suffering souls, you spot Lord Hwyn, that sickly cur. It looks like all his ill deals caught up with him at last. He spots you across the bleak gulf and you feel the chill of his hunger in your very soul. Take your Last Breath.</p>
 <p aid:pstyle="ExampleDialogue">Sparrow: Heavy. I got a 9.</p>
 <p aid:pstyle="ExampleDialogue">GM: Death appears to you, wisps of black cloth dancing around his shadowy form. A pale hand touches your face. You hear his voice in your mind. “Come to me so soon, pretty Sparrow? You follow a river of souls, sent here by your blade. I do so love you for them. I’ll return you to the world, but you must make me a promise. In shadow you dwell, so shadow you shall become. Shun the light of day forever or find a quick trip back to my company. What do you say, little thief?”</p>
 <p aid:pstyle="ExampleDialogue">Sparrow: (gulp)</p>
 <h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
 <p aid:pstyle="NoIndent">When you <Strong>make a move while carrying weight</Strong> you may be encumbered. If your weight carried is:</p>
-<ul><li aid:pstyle="li">Equal to or less than your Load, you suffer no penalty</li>
-<li aid:pstyle="li">Less than or equal to your Load+2, you take -1 ongoing until you lighten your burden</li>
-<li aid:pstyle="Lastli">Greater than your Load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
-<p aid:pstyle="NoIndent">A PC’s Load stat is determined by their class and Str. Being able to haul more is a clear benefit when trying to carry treasure out of a dungeon or just making sure you can bring along what you need.</p>
+<ul><li aid:pstyle="li">Equal to or less than your load, you suffer no penalty</li>
+<li aid:pstyle="li">Less than or equal to your load+2, you take -1 ongoing until you lighten your burden</li>
+<li aid:pstyle="Lastli">Greater than your load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail</li></ul>
+<p aid:pstyle="NoIndent">A PC’s load stat is determined by their class and Str. Being able to haul more is a clear benefit when trying to carry treasure out of a dungeon or just making sure you can bring along what you need.</p>
 <p>This move only applies to things a person could walk around with and still act. Carrying a boulder on your back is not encumbrance—you can’t really act or move much with it. It affects what moves you can make appropriately in the fiction.</p>
 <h2 aid:pstyle="BasicMoveName">Make Camp</h2>
 <p aid:pstyle="MoveOneLine">When you <strong>settle in to rest</strong> consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.</p>
@@ -197,13 +197,6 @@
 <p>Distances in Dungeon World are measured in rations. A ration is the amount of supplies used up in a day. Journeys take more rations when they are long or when travel is slow.</p>
 <p>A perilous journey is the whole way between two locations. You don’t roll for one day’s journey and then make camp only to roll for the next day’s journey, too. Make one roll for the entire trip.</p>
 <p>This move only applies when you know where you’re going. Setting off to explore is not a perilous journey. It’s wandering around looking for cool things to discover. Use up rations as you camp and the GM will give you details about the world as you discover them.</p>
-<h2 aid:pstyle="BasicMoveName">Level Up</h2>
-<p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level+7</strong>, you can reflect on your experiences and hone your skills.</p>
-<ul><li aid:pstyle="li">Subtract your current level+7 from your XP.</li>
-<li aid:pstyle="li">Increase your level by 1.</li>
-<li aid:pstyle="li">Choose a new advanced move from your class.</li>
-<li aid:pstyle="li">If you are the wizard, you also get to add a new spell to your spellbook.</li>
-<li aid:pstyle="Lastli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</li></ul>
 <h2 aid:pstyle="BasicMoveName">End of Session</h2>
 <p aid:pstyle="NoIndent">When you <strong>reach the end of a session</strong>, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.</p>
 <p>Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:</p>
@@ -211,6 +204,13 @@
 <li aid:pstyle="li">Did we overcome a notable monster or enemy?</li>
 <li aid:pstyle="li">Did we loot a memorable treasure?</li></ul>
 <p aid:pstyle="MoveOneLine">For each “yes” answer everyone marks XP.</p>
+<h2 aid:pstyle="BasicMoveName">Level Up</h2>
+<p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level+7</strong>, you can reflect on your experiences and hone your skills.</p>
+<ul><li aid:pstyle="li">Subtract your current level+7 from your XP.</li>
+<li aid:pstyle="li">Increase your level by 1.</li>
+<li aid:pstyle="li">Choose a new advanced move from your class.</li>
+<li aid:pstyle="li">If you are the wizard, you also get to add a new spell to your spellbook.</li>
+<li aid:pstyle="Lastli">Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.</li></ul>
 <h2 aid:pstyle="BasicMoveName">Carouse</h2>
 <p aid:pstyle="NoIndent">When you <Strong>return triumphant and throw a big party</Strong>, spend 100 coins and roll +1 for every extra 100 coins spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a miss, you still choose one, but things get really out of hand (the GM will say how).</p>
 <ul><li aid:pstyle="li">You befriend a useful NPC.</li>

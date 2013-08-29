@@ -15,7 +15,7 @@
 <p><em>Slow</em>: It takes minutes or more to use.</p>
 <p><em>Touch</em>: It’s used by touching it to the target’s skin.</p>
 <p><em>Two-handed</em>: It takes two hands to use it effectively.</p>
-<p><em>n weight</em>: Count the listed amount against your Load. Something with no listed weight isn’t designed to be carried. 100 coins in standard denominations is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
+<p><em>n weight</em>: Count the listed amount against your load. Something with no listed weight isn’t designed to be carried. 100 coins in standard denominations is 1 weight. The same value in gems or fine art may be lighter or heavier.</p>
 <p><em>Worn</em>: To use it, you have to be wearing it.</p>
 <p><em>n Uses</em>: It can only be used <em>n</em> times. </p>
 <h2>Weapons</h2>
@@ -75,13 +75,13 @@
 <p aid:pstyle="ItemDescription">When you have a few minutes to bandage someone else’s wounds, heal them of 4 damage and expend a use.</p>
 <p aid:pstyle="Item">Poultices and Herbs	<span aid:cstyle="Tags">2 uses, slow, 10 coins, 1 weight</span></p>
 <p aid:pstyle="ItemDescription">When you carefully treat someone’s wounds with poultices and herbs, heal them of 7 damage and expend a use.</p>
-<p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">50 coins</span></p>
+<p aid:pstyle="Item">Healing Potion	<span aid:cstyle="Tags">50 coins, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">When you drink an entire healing potion, heal yourself of 10 damage or remove one debility, your choice.</p>
 <p aid:pstyle="Item">Keg of Dwarven Stout	<span aid:cstyle="Tags">10 coins, 4 weight</span></p>
 <p aid:pstyle="ItemDescription">When you open a keg of dwarven stout and let everyone drink freely, take +1 to your Carouse roll. If you drink a whole keg yourself, you are very, very drunk.</p>
 <p aid:pstyle="Item">Bag of Books	<span aid:cstyle="Tags">5 uses, 10 coins, 2 weight</span></p>
 <p aid:pstyle="ItemDescription">When your bag of books contains just the right book for the subject you’re spouting lore on, consult the book, mark off a use, and take +1 to your roll.</p>
-<p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">10 coins</span></p>
+<p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">10 coins, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">When you drink antitoxin, you’re cured of one poison affecting you.</p>
 <p aid:pstyle="Item">Dungeon Rations	<span aid:cstyle="Tags">Ration, 5 uses, 3 coins, 1 weight</span></p>
 <p aid:pstyle="ItemDescription">Not tasty, but not bad either.</p>

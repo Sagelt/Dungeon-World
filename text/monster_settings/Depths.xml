@@ -52,7 +52,7 @@
 <li>Rally the deep elves</li>
 <li>Pass on divine knowledge</li></ul>
 <p aid:pstyle="MonsterName">Dragon	<span aid:cstyle="Tags">Solitary, Huge, Terrifying, Cautious, Hoarder</span></p>
-<p aid:pstyle="MonsterStats">Bite (b[2d10]+5 damage, 4 piercing)	16 HP	5 Armor</p>
+<p aid:pstyle="MonsterStats">Bite (b[2d12]+5 damage, 4 piercing)	16 HP	5 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Elemental blood, Wings</p>
 <p aid:pstyle="MonsterDescription">They are the greatest and most terrible things this world will ever have to offer. <em>Instinct</em>: To rule</p>
