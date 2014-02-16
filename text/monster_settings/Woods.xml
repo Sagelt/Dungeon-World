@@ -24,7 +24,7 @@
 <li>Fire a perfect bullseye</li>
 <li>Move with unrelenting speed</li></ul>
 <p aid:pstyle="MonsterName">Chaos Ooze	<span aid:cstyle="Tags">Solitary, Planar, Terrifying, Amorphous</span></p>
-<p aid:pstyle="MonsterStats">Warping touch (d10 damage ignores armor)	23 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Warping touch (d10 damage, ignores armor)	23 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Ooze, Fragments of other planes embedded in it</p>
 <p aid:pstyle="MonsterDescription">The barrier between Dungeon World and the elemental planes is not, as you might hope, a wall of stone. It’s much more porous. Places where the civil races do not often tread can sometimes, how to put this, spring a leak. Like a dam come just a little loose. Bits and pieces of the chaos spill out. Sometimes, they’ll congeal like an egg on a pan—that’s where we get the material for many of the Guild’s magical trinkets. Useful, right? Sometimes, though, it squirms and squishes around a bit and stays that way, warping all it touches into some other, strange form. Chaos begets chaos, and it grows. <em>Instinct</em>: To change</p>
@@ -61,7 +61,7 @@
 <li>Set ancient plans in motion</li>
 <li>Use the woods to advantage</li></ul>
 <p aid:pstyle="MonsterName">Elvish High Arcanist	<span aid:cstyle="Tags">Solitary, Magical, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Arcane fire (d10 damage ignores armor)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Arcane fire (d10 damage, ignores armor)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Sharp senses</p>
 <p aid:pstyle="MonsterDescription">True elvish magic isn’t like the spells of men. Mannish wizardry is all rotes and formulas. They cheat to find the arcane secrets that resound all around them. They are deaf to the arcane symphony that sings in the woods. Elvish magic requires a fine ear to hear that symphony and the voice with which to sing. To harmonize with what is already resounding. Men bind the forces of magic to their will; Elves simply pluck the strings and hum along. The High Arcanists, in a way, have become more and less than any elf. The beat of their blood is the throbbing of all magic in this world. <em>Instinct</em>: To unleash power</p>

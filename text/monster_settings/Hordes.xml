@@ -66,13 +66,13 @@
 <ul><li>Fly into a frenzy</li>
 <li>Unleash chaos</li></ul>
 <p aid:pstyle="MonsterName">Orc Breaker	<span aid:cstyle="Tags">Solitary, Large</span></p>
-<p aid:pstyle="MonsterStats">Hammer (d10+3 damage ignores armor)	16 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Hammer (d10+3 damage, ignores armor)	16 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterDescription">“Before you set out across the hordeland, brave sir, hark a moment to the tale of Sir Regnus. Regnus was like you, sir—a paladin of the Order, all a-shine in his plated armor and with a shield as tall as a man. Proud he was of it, too—Mirrorshield, he called himself. Tale goes that he’d set his eyes on rescuing some lost priest, a kidnap from the abbey on the borders. Regnus came across some orcs in his travels, a dozen or so, and thought, as one might, that they’d be no match. Battle was joined and all was well until one of them orcs emerged from the fray with a hammer bigger than any man ought to be able to wield. Built more like an ogre or a troll, they say it was, and with a single swing, it crushed Regnus to the ground, shield and all. It were no ordinary orc, they say. It were a breaker. They can’t make plate of their own, see, so maybe it’s jealousy drives these burly things to crush and shatter the way they do. Effective tactic, though. Careful out there.” <em>Instinct</em>: To smash</p>
 <ul><li>Destroy armor or protection</li>
 <li>Lay low the mighty</li></ul>
 <p aid:pstyle="MonsterName">Orc One-Eye	<span aid:cstyle="Tags">Group, Divine, Magical, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Inflict Wounds (d8+2 damage ignores armor)	6 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Inflict Wounds (d8+2 damage, ignores armor)	6 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> One eye</p>
 <p aid:pstyle="MonsterDescription">In the name of He of Riven Sight and by the First Sacrifice of Elf-Flesh do we invoke the Old Powers. By the Second Sacrifice, I make my claim to what is mine—the dark magic of Night. In His image, I walk the path to Gor-sha-thak, the Iron Gallows! I call to the runes! I call to the clouded sky! Take this mortal organ, eat of the flesh of our enemy and give me what is mine! <em>Instinct</em>: To hate</p>
@@ -80,7 +80,7 @@
 <li>Take an eye</li>
 <li>Make a sacrifice and grow in power</li></ul>
 <p aid:pstyle="MonsterName">Orc Shaman	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Elemental blast (d10 damage ignores armor)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Elemental blast (d10 damage, ignores armor)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Elemental power</p>
 <p aid:pstyle="MonsterDescription">The orcs are as old a race as any. They cast bones in the dirt and called to the gods in the trees and stone as the elves built their first cities. They have waged wars, conquered kingdoms, and fallen into corruption in the aeons it took for men to crawl from their caves and dwarves to first see the light of the sun. Fitting, then, that the old ways still hold. They summon the powers of the world to work, to fight and to protect their people, as they have since the first nights. <em>Instinct</em>: To strengthen orc-kind</p>

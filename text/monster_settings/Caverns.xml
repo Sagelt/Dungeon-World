@@ -9,7 +9,7 @@
 <li>Burst from the earth</li>
 <li>Spray forth acid, eating away at metal and flesh</li></ul>
 <p aid:pstyle="MonsterName">Cave Rat	<span aid:cstyle="Tags">Horde, Small</span></p>
-<p aid:pstyle="MonsterStats">Gnaw (d6 damage 1 piercing)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Gnaw (d6 damage, 1 piercing)	7 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
 <p aid:pstyle="MonsterDescription">Who hasn’t seen a rat before? It’s like that, but nasty and big and not afraid of you anymore. Maybe this one was a cousin to that one you caught in a trap or the one you killed with a knife in that filthy tavern in Darrow. Maybe he’s looking for a little ratty revenge. <em>Instinct</em>: To devour</p>
 <ul><li>Swarm</li>
@@ -22,7 +22,7 @@
 <ul><li>Hold someone, wringing the breath from them</li>
 <li>Fling a held creature</li></ul>
 <p aid:pstyle="MonsterName">Cloaker	<span aid:cstyle="Tags">Solitary, Stealthy</span></p>
-<p aid:pstyle="MonsterStats">Constrict (d10 damage ignores armor)	12 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Constrict (d10 damage, ignores armor)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Looks like a cloak</p>
 <p aid:pstyle="MonsterDescription">Don’t put on that cloak, Gareth. Don’t. You don’t know where it’s been. I tell you, it’s no good. See! It moved! I’m not mad, Gareth, it moved! Don’t do it! No! GARETH! <em>Instinct</em>: To engulf</p>
@@ -41,7 +41,7 @@
 <ul><li>Turn the ground into a weapon</li>
 <li>Meld into stone</li></ul>
 <p aid:pstyle="MonsterName">Fire Beetle	<span aid:cstyle="Tags">Horde, Small</span></p>
-<p aid:pstyle="MonsterStats">Flames (d6 damage ignores armor)	3 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats">Flames (d6 damage, ignores armor)	3 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Full of flames</p>
 <p aid:pstyle="MonsterDescription"><em>Scarabaeus pyractomena</em>! What a delightful creature—see how its carapace glitters in the light of our torches? Not too close now, they’re temperamental, you see. The fire in their belly isn’t just metaphorical, no. Watch as I goad the beast. Aha! A spout of flame! Unexpected, isn’t it? One of these creatures alone, if it comes up from below, can be a hellish nuisance to a farmstead or village. A whole swarm? There’s a reason they call it a conflagration of fire beetles. <em>Instinct</em>: To enflame</p>
@@ -57,7 +57,7 @@
 <li>Take to the air</li>
 <li>Blend into stonework</li></ul>
 <p aid:pstyle="MonsterName">Gelatinous Cube	<span aid:cstyle="Tags">Solitary, Large, Stealthy, Amorphous</span></p>
-<p aid:pstyle="MonsterStats">Engulf (d10+1 damage ignores armor)	20 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Engulf (d10+1 damage, ignores armor)	20 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Hand</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Transparent</p>
 <p aid:pstyle="MonsterDescription">How many adventurers’ last thoughts were “strange, this tunnel seems cleaner than most?” Too many, and all because of this transparent menace. A great acidic blob that expands to fill a small chamber or corridor and then slides, ever so slowly along, eating everything in its path. It cannot eat stone or metal and will often have them floating in its jelly mass. Blech. <em>Instinct</em>: To clean</p>
@@ -71,7 +71,7 @@
 <li>Call more goblins</li>
 <li>Retreat and return with (many) more</li></ul>
 <p aid:pstyle="MonsterName">Goblin Orkaster	<span aid:cstyle="Tags">Solitary, Small, Magical, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Acid orb (d10+1 damage ignores armor)	12 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Acid orb (d10+1 damage, ignores armor)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterDescription">Oh lord, who taught them magic? <em>Instinct</em>: To tap power beyond their stature</p>
 <ul><li>Unleash a poorly understood spell</li>
