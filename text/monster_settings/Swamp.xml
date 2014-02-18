@@ -21,7 +21,7 @@
 <p aid:pstyle="MonsterDescription">How do you kill a pile of goo? A great, squishy pile of goo that also happens to want to dissolve you and slurp you up? That is a good question to which I have no answer. Do let us know when you find out. <em>Instinct</em>: To dissolve</p>
 <ul><li>Eat away metal, flesh, or wood</li>
 <li>Ooze into a troubling place: food, armor, stomach</li></ul>
-<p aid:pstyle="MonsterName">Coutal	<span aid:cstyle="Tags">Solitary, Intelligent Devious</span></p>
+<p aid:pstyle="MonsterName">Coutal	<span aid:cstyle="Tags">Solitary, Intelligent, Devious</span></p>
 <p aid:pstyle="MonsterStats">Light ray (d8 damage, ignores armor)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings, Halo</p>
