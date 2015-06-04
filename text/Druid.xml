@@ -113,6 +113,7 @@ Choose one:
 <p aid:pstyle="Requirement">Requires: Thing-Talker</p>
 <p aid:pstyle="NoIndent">You see the patterns that make up the fabric of the world. You may now apply your spirit tongue, shapeshifter and studied essence moves to pure elements—fire, water, air and earth.</p>
 <h3 aid:pstyle="MoveName">Stalker’s Sister</h3>
+<p aid:pstyle="Requirement">Requires: Hunter’s Brother</p>
 <p aid:pstyle="NoIndent">Choose one move from the ranger class list.</p>
 <h3 aid:pstyle="MoveName">Formshaper</h3>
 <p aid:pstyle="Requirement">Requires: Formcrafter</p>
