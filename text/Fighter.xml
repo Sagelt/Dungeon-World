@@ -125,7 +125,7 @@
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
 <p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
-<p aid:pstyle="Requirement">Required: Multiclass Dabbler</p>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
 <h3 aid:pstyle="MoveName">Steel Hide</h3>
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
