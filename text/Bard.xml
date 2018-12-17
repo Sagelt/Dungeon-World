@@ -25,7 +25,7 @@
 <p aid:pstyle="NoIndent">When you first enter a civilized settlement someone who respects the custom of hospitality to minstrels will take you in as their guest.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Arcane Art</h3>
-<p aid:pstyle="NoIndent">When you<strong> weave a performance into a basic spell</strong>, choose an ally and an effect:</p>
+<p aid:pstyle="NoIndent">When you <strong>weave a performance into a basic spell</strong>, choose an ally and an effect:</p>
 <ul><li>Heal 1d8 damage</li>
 <li>+1d4 forward to damage</li>
 <li>Their mind is shaken clear of one enchantment</li>
@@ -106,6 +106,7 @@
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Healing Chorus</h3>
@@ -132,4 +133,5 @@
 <p aid:pstyle="Requirement">Replaces: Bamboozle</p>
 <p aid:pstyle="NoIndent">When you <strong>parley with someone</strong>, on a 7+ you also take +1 forward with them and get to ask their player one question which they must answer truthfully.</p>
 <h3 aid:pstyle="MoveName">Multiclass Master</h3>
+<p aid:pstyle="Requirement">Requires: Multiclass Initiate</p>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p></div></Body></Root>
